@@ -1,0 +1,328 @@
+{
+  "labelled": true,
+  "speakers": "auto",
+  "auto_labels": {
+    "method": "pieces",
+    "segments": [
+      [
+        "therapist",
+        "Hi Jack."
+      ],
+      [
+        "therapist",
+        "How's it going?"
+      ],
+      [
+        "child",
+        "Okay."
+      ],
+      [
+        "therapist",
+        "I've got a short story of my own."
+      ],
+      [
+        "therapist",
+        "I tried a new walking route last weekend and ended up at a locked gate, so I had to turn round and go back the way I'd come."
+      ],
+      [
+        "therapist",
+        "Why didn't you climb over it?"
+      ],
+      [
+        "child",
+        "It was rather high and I didn't fancy it."
+      ],
+      [
+        "therapist",
+        "Have you had a change of plan recently?"
+      ],
+      [
+        "child",
+        "The bus didn't come."
+      ],
+      [
+        "therapist",
+        "Which bus were you waiting for?"
+      ],
+      [
+        "child",
+        "The 36."
+      ],
+      [
+        "therapist",
+        "Where were you waiting?"
+      ],
+      [
+        "child",
+        "Outside the leisure centre."
+      ],
+      [
+        "therapist",
+        "Who were you with?"
+      ],
+      [
+        "child",
+        "Nobody."
+      ],
+      [
+        "therapist",
+        "I was going to swimming."
+      ],
+      [
+        "child",
+        "What happened?"
+      ],
+      [
+        "child",
+        "The app said due in three minutes."
+      ],
+      [
+        "child",
+        "Then it said delayed."
+      ],
+      [
+        "child",
+        "Then it disappeared."
+      ],
+      [
+        "therapist",
+        "What did you do then?"
+      ],
+      [
+        "child",
+        "Checked the other stop on the app."
+      ],
+      [
+        "child",
+        "Same thing."
+      ],
+      [
+        "therapist",
+        "How did that affect your plan?"
+      ],
+      [
+        "child",
+        "I couldn't get there for the start."
+      ],
+      [
+        "therapist",
+        "Were you worried about missing swimming?"
+      ],
+      [
+        "child",
+        "Yes."
+      ],
+      [
+        "therapist",
+        "What happened next?"
+      ],
+      [
+        "child",
+        "I rang Dad."
+      ],
+      [
+        "therapist",
+        "He said he'd come and get me."
+      ],
+      [
+        "therapist",
+        "Did he arrive straight away?"
+      ],
+      [
+        "child",
+        "No, he was at the supermarket."
+      ],
+      [
+        "therapist",
+        "How long did you wait?"
+      ],
+      [
+        "child",
+        "Twenty-two minutes."
+      ],
+      [
+        "child",
+        "I checked the time when I got there and when he came."
+      ],
+      [
+        "therapist",
+        "What did you do while you waited?"
+      ],
+      [
+        "child",
+        "Stood under the shelter."
+      ],
+      [
+        "child",
+        "It started raining."
+      ],
+      [
+        "therapist",
+        "That must have been frustrating."
+      ],
+      [
+        "child",
+        "It was."
+      ],
+      [
+        "child",
+        "I hate being late because then everyone's already started and I don't know what they've done."
+      ],
+      [
+        "therapist",
+        "So being late was difficult because you'd miss the start and wouldn't know what the group had done."
+      ],
+      [
+        "child",
+        "Yes."
+      ],
+      [
+        "therapist",
+        "What happened in the end?"
+      ],
+      [
+        "child",
+        "Dad"
+      ],
+      [
+        "child",
+        "picked me up and drove me home."
+      ],
+      [
+        "child",
+        "I didn't go swimming."
+      ],
+      [
+        "therapist",
+        "You were waiting for the 36 outside the leisure centre, the app changed from three minutes to delayed and then disappeared, you rang Dad and waited twenty-two minutes in the rain, and then he drove you home instead of you going swimming."
+      ],
+      [
+        "child",
+        "That's right."
+      ],
+      [
+        "therapist",
+        "Thanks, Jack."
+      ],
+      [
+        "therapist",
+        "We'll finish there."
+      ],
+      [
+        "child",
+        "Fine."
+      ]
+    ],
+    "echoes_relabelled": []
+  },
+  "labelled_transcript": "Therapist. Hi Jack. How's it going? Child. Okay. Therapist. I've got a short story of my own. I tried a new walking route last weekend and ended up at a locked gate, so I had to turn round and go back the way I'd come. Why didn't you climb over it? Child. It was rather high and I didn't fancy it. Therapist. Have you had a change of plan recently? Child. The bus didn't come. Therapist. Which bus were you waiting for? Child. The 36. Therapist. Where were you waiting? Child. Outside the leisure centre. Therapist. Who were you with? Child. Nobody. Therapist. I was going to swimming. Child. What happened? The app said due in three minutes. Then it said delayed. Then it disappeared. Therapist. What did you do then? Child. Checked the other stop on the app. Same thing. Therapist. How did that affect your plan? Child. I couldn't get there for the start. Therapist. Were you worried about missing swimming? Child. Yes. Therapist. What happened next? Child. I rang Dad. Therapist. He said he'd come and get me. Did he arrive straight away? Child. No, he was at the supermarket. Therapist. How long did you wait? Child. Twenty-two minutes. I checked the time when I got there and when he came. Therapist. What did you do while you waited? Child. Stood under the shelter. It started raining. Therapist. That must have been frustrating. Child. It was. I hate being late because then everyone's already started and I don't know what they've done. Therapist. So being late was difficult because you'd miss the start and wouldn't know what the group had done. Child. Yes. Therapist. What happened in the end? Child. Dad picked me up and drove me home. I didn't go swimming. Therapist. You were waiting for the 36 outside the leisure centre, the app changed from three minutes to delayed and then disappeared, you rang Dad and waited twenty-two minutes in the rain, and then he drove you home instead of you going swimming. Child. That's right. Therapist. Thanks, Jack. We'll finish there. Child. Fine.",
+  "facts": {
+    "child_turns": 19,
+    "mean_words_per_turn": 6.2,
+    "sequence_words": [
+      "then"
+    ],
+    "vague_words": [
+      "thing"
+    ],
+    "child_text": [
+      "Okay.",
+      "It was rather high and I didn't fancy it.",
+      "The bus didn't come.",
+      "The 36.",
+      "Outside the leisure centre.",
+      "Nobody.",
+      "What happened? The app said due in three minutes. Then it said delayed. Then it disappeared.",
+      "Checked the other stop on the app. Same thing.",
+      "I couldn't get there for the start.",
+      "Yes.",
+      "I rang Dad.",
+      "No, he was at the supermarket.",
+      "Twenty-two minutes. I checked the time when I got there and when he came.",
+      "Stood under the shelter. It started raining.",
+      "It was. I hate being late because then everyone's already started and I don't know what they've done.",
+      "Yes.",
+      "Dad picked me up and drove me home. I didn't go swimming.",
+      "That's right.",
+      "Fine."
+    ],
+    "feelings": [
+      {
+        "word": "hate",
+        "child_words": "I hate being late because then everyone's already started and I don't know what they've done.",
+        "named": false
+      },
+      {
+        "word": "annoyed",
+        "child_words": "It was. I hate being late because then everyone's already started and I don't know what they've done.",
+        "named": false
+      }
+    ],
+    "reasons": [
+      {
+        "child_words": "It was rather high and I didn't fancy it.",
+        "linked": false,
+        "about_feeling": false
+      },
+      {
+        "child_words": "The bus didn't come.",
+        "linked": false,
+        "about_feeling": false
+      },
+      {
+        "child_words": "I couldn't get there for the start.",
+        "linked": false,
+        "about_feeling": false
+      },
+      {
+        "child_words": "I hate being late because then everyone's already started and I don't know what they've done.",
+        "linked": true,
+        "about_feeling": true
+      }
+    ],
+    "feeling_reasons": [
+      "I hate being late because then everyone's already started and I don't know what they've done."
+    ]
+  },
+  "checked": {
+    "event": "Missing swimming",
+    "who": {
+      "given": false,
+      "child_words": "",
+      "rejected_claim": "Nobody | Nobody."
+    },
+    "where": {
+      "given": true,
+      "child_words": "Outside the leisure centre",
+      "rejected_claim": ""
+    },
+    "what_happened": {
+      "given": true,
+      "child_words": "The app said due in three minutes. Then it said delayed. Then it disappeared. Checked the other stop on the app. Same thing. I couldn't get there for the start. I rang Dad. No, he was at the supermarket. Twenty-two minutes. I checked the time when I got there and when he came. Stood under the shelter. It started raining. It was. I hate being late because then everyone's already started and I don't know what they've done.",
+      "rejected_claim": ""
+    },
+    "ending": {
+      "given": true,
+      "child_words": "Dad picked me up and drove me home. I didn't go swimming.",
+      "rejected_claim": ""
+    }
+  },
+  "written": {
+    "summary": "The child told about missing swimming. The child said the bus didn't come and the app showed the bus was delayed. The child couldn't get there for the start and stood under the shelter when it started raining. The child rang Dad, but he was at the supermarket. The child checked the time and found out twenty-two minutes had passed. Dad picked the child up and drove them home. The child didn't go swimming.",
+    "goals": [
+      "Say who was there.",
+      "Name the feeling with a feeling word.",
+      "Use the exact word instead of vague words like 'stuff' or 'thing'."
+    ],
+    "focus": [
+      "The child will say who was there in the event.",
+      "The child will name the feeling using a feeling word.",
+      "The child will use the exact word instead of vague words like 'stuff' or 'thing'."
+    ],
+    "prompts": [
+      "Who was with you in that?",
+      "How did you feel when it happened?",
+      "What did you do exactly instead of just saying 'stuff'?"
+    ]
+  }
+}

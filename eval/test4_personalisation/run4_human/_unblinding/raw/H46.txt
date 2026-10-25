@@ -1,0 +1,53 @@
+[Human] session H46, condition B, "I don't know" at turn 9
+[Isolation] new process pid 105044; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (4.9s)
+[Supabase] client_profiles error: {'message': 'Cannot coerce the result to a single JSON object', 'code': 'PGRST116', 'hint': None, 'details': 'The result contains 0 rows'}
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: yeah i went bowling today
+[State] Selected event: Went bowling for Mia's birthday
+
+Reachy: That sounds fun! Who did you go bowling with?
+
+[Latency] Turn: 2.70s
+You: Mia and Grace and Jess
+[Question limit] Dropped: 'What about Mia? How was that together time with her?'
+
+Reachy: Oh really?
+
+[Latency] Turn: 2.69s
+You: yes
+[Question limit] Dropped: 'How was it for Mia? Did she enjoy herself?'
+
+Reachy: Did Mia play, or did they just watch?
+
+[Latency] Turn: 2.53s
+You: everyone played
+
+Reachy: Great to hear everyone was playing together! How do you feel about bowling today?
+
+[Latency] Turn: 2.68s
+You: it was fun
+
+Reachy: That's wonderful to hear! Did anyone want to win more than others?
+
+[Latency] Turn: 2.49s
+You: Mia was super competitive
+
+Reachy: How did Mia being competitive make the game?
+
+[Latency] Turn: 2.56s
+You: it made it more fun, because everyone cared more
+
+Reachy: Oh, that makes sense. Did you all have a good time bowling together?
+
+[Latency] Turn: 2.59s
+You: yes
+
+Reachy: Good to hear your day turned out well!
+
+[Latency] Turn: 2.56s
+[Human] Ended by the player before Reachy's goodbye.
+[Human] Session over.

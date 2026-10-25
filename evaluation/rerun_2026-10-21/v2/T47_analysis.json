@@ -1,0 +1,276 @@
+{
+  "labelled": true,
+  "speakers": "auto",
+  "auto_labels": {
+    "sentences": [
+      [
+        "therapist",
+        "Hi Priya."
+      ],
+      [
+        "therapist",
+        "What would you like to tell me about?"
+      ],
+      [
+        "child",
+        "I went to a concert."
+      ],
+      [
+        "therapist",
+        "Oh, brilliant."
+      ],
+      [
+        "therapist",
+        "I've got a story too."
+      ],
+      [
+        "therapist",
+        "I saw a band at a small venue once, and the queue for the cloakroom took longer than I expected."
+      ],
+      [
+        "therapist",
+        "What concert did you go to?"
+      ],
+      [
+        "child",
+        "Olivia Rodrigo."
+      ],
+      [
+        "therapist",
+        "Who did you go with?"
+      ],
+      [
+        "child",
+        "My older sister."
+      ],
+      [
+        "therapist",
+        "Where was the concert?"
+      ],
+      [
+        "child",
+        "The O2 in London."
+      ],
+      [
+        "therapist",
+        "What happened when you arrived?"
+      ],
+      [
+        "child",
+        "We had to queue for security."
+      ],
+      [
+        "child",
+        "They checked our bags and scanned the tickets."
+      ],
+      [
+        "therapist",
+        "What happened once you were inside?"
+      ],
+      [
+        "child",
+        "We bought water."
+      ],
+      [
+        "child",
+        "Then we found our seats."
+      ],
+      [
+        "child",
+        "We were quite high up."
+      ],
+      [
+        "therapist",
+        "What was it like when the music started?"
+      ],
+      [
+        "child",
+        "The bass was so strong I could feel it in my ribs."
+      ],
+      [
+        "child",
+        "Everyone was singing and the lights kept flashing."
+      ],
+      [
+        "therapist",
+        "How did you feel?"
+      ],
+      [
+        "child",
+        "Happy."
+      ],
+      [
+        "child",
+        "I knew nearly all the words."
+      ],
+      [
+        "therapist",
+        "Did you sing along?"
+      ],
+      [
+        "child",
+        "Yes, but not for every song."
+      ],
+      [
+        "child",
+        "I wanted to hear the quieter ones properly."
+      ],
+      [
+        "therapist",
+        "Was there anything that you found difficult?"
+      ],
+      [
+        "child",
+        "The lights in the bit between songs."
+      ],
+      [
+        "child",
+        "They kept going black and then white really fast."
+      ],
+      [
+        "child",
+        "I had to shut my eyes for a minute."
+      ],
+      [
+        "therapist",
+        "That sounds overwhelming."
+      ],
+      [
+        "child",
+        "It wasn't all overwhelming."
+      ],
+      [
+        "child",
+        "I liked most of it."
+      ],
+      [
+        "therapist",
+        "You're right; I made it sound as if the whole concert was difficult."
+      ],
+      [
+        "therapist",
+        "What happened near the end?"
+      ],
+      [
+        "child",
+        "She sang the song with the purple lights."
+      ],
+      [
+        "child",
+        "My sister knew I wanted to hear it live."
+      ],
+      [
+        "therapist",
+        "What happened when the concert finished?"
+      ],
+      [
+        "child",
+        "Everyone went out at once."
+      ],
+      [
+        "child",
+        "We waited inside for a bit, then got the Tube."
+      ],
+      [
+        "therapist",
+        "You went with your sister to see Olivia Rodrigo at the O2, queued for security, found your seats, enjoyed singing along and shut your eyes briefly when the lights changed quickly."
+      ],
+      [
+        "therapist",
+        "After the show, you waited inside before taking the Tube."
+      ],
+      [
+        "child",
+        "Yeah."
+      ],
+      [
+        "therapist",
+        "Thanks, Priya."
+      ],
+      [
+        "therapist",
+        "We'll stop there."
+      ],
+      [
+        "therapist",
+        "Can we listen to music next time?"
+      ],
+      [
+        "therapist",
+        "We can talk about what would be useful next time."
+      ]
+    ],
+    "echoes_relabelled": []
+  },
+  "labelled_transcript": "Therapist. Hi Priya. What would you like to tell me about? Child. I went to a concert. Therapist. Oh, brilliant. I've got a story too. I saw a band at a small venue once, and the queue for the cloakroom took longer than I expected. What concert did you go to? Child. Olivia Rodrigo. Therapist. Who did you go with? Child. My older sister. Therapist. Where was the concert? Child. The O2 in London. Therapist. What happened when you arrived? Child. We had to queue for security. They checked our bags and scanned the tickets. Therapist. What happened once you were inside? Child. We bought water. Then we found our seats. We were quite high up. Therapist. What was it like when the music started? Child. The bass was so strong I could feel it in my ribs. Everyone was singing and the lights kept flashing. Therapist. How did you feel? Child. Happy. I knew nearly all the words. Therapist. Did you sing along? Child. Yes, but not for every song. I wanted to hear the quieter ones properly. Therapist. Was there anything that you found difficult? Child. The lights in the bit between songs. They kept going black and then white really fast. I had to shut my eyes for a minute. Therapist. That sounds overwhelming. Child. It wasn't all overwhelming. I liked most of it. Therapist. You're right; I made it sound as if the whole concert was difficult. What happened near the end? Child. She sang the song with the purple lights. My sister knew I wanted to hear it live. Therapist. What happened when the concert finished? Child. Everyone went out at once. We waited inside for a bit, then got the Tube. Therapist. You went with your sister to see Olivia Rodrigo at the O2, queued for security, found your seats, enjoyed singing along and shut your eyes briefly when the lights changed quickly. After the show, you waited inside before taking the Tube. Child. Yeah. Therapist. Thanks, Priya. We'll stop there. Can we listen to music next time? We can talk about what would be useful next time.",
+  "facts": {
+    "child_turns": 14,
+    "mean_words_per_turn": 10.6,
+    "reasons": [],
+    "sequence_words": [
+      "then"
+    ],
+    "vague_words": [],
+    "feelings": [
+      {
+        "word": "happy",
+        "child_words": "Happy. I knew nearly all the words."
+      }
+    ],
+    "feeling_reasons": [],
+    "child_text": [
+      "I went to a concert.",
+      "Olivia Rodrigo.",
+      "My older sister.",
+      "The O2 in London.",
+      "We had to queue for security. They checked our bags and scanned the tickets.",
+      "We bought water. Then we found our seats. We were quite high up.",
+      "The bass was so strong I could feel it in my ribs. Everyone was singing and the lights kept flashing.",
+      "Happy. I knew nearly all the words.",
+      "Yes, but not for every song. I wanted to hear the quieter ones properly.",
+      "The lights in the bit between songs. They kept going black and then white really fast. I had to shut my eyes for a minute.",
+      "It wasn't all overwhelming. I liked most of it.",
+      "She sang the song with the purple lights. My sister knew I wanted to hear it live.",
+      "Everyone went out at once. We waited inside for a bit, then got the Tube.",
+      "Yeah."
+    ]
+  },
+  "checked": {
+    "event": "Concert experience",
+    "who": {
+      "given": true,
+      "child_words": "Olivia Rodrigo. My older sister.",
+      "rejected_claim": ""
+    },
+    "where": {
+      "given": true,
+      "child_words": "The O2 in London.",
+      "rejected_claim": ""
+    },
+    "what_happened": {
+      "given": true,
+      "child_words": "We had to queue for security. They checked our bags and scanned the tickets. We bought water. Then we found our seats. We were quite high up. The bass was so strong I could feel it in my ribs. Everyone was singing and the lights kept flashing. Happy. I knew nearly all the words. Yes, but not for every song. I wanted to hear the quieter ones properly. The lights in the bit between songs. They kept going black and then white really fast. I had to shut my eyes for a minute. It wasn't all overwhelming. I liked most of it. She sang the song with the purple lights. My sister knew I wanted to hear it live.",
+      "rejected_claim": ""
+    },
+    "ending": {
+      "given": true,
+      "child_words": "Everyone went out at once. We waited inside for a bit, then got the Tube.",
+      "rejected_claim": ""
+    }
+  },
+  "written": {
+    "summary": "The child went to a concert. The child mentioned Olivia Rodrigo. The child talked about their older sister. The child said they went to The O2 in London. They had to queue for security and their bags were checked. They bought water and found their seats high up. The bass was strong and they could feel it in their ribs. Everyone was singing and the lights kept flashing. The child was happy and knew nearly all the words. They wanted to hear the quieter songs properly. The lights between songs went black and then white quickly. The child had to shut their eyes for a minute. They liked most of the concert. The child mentioned a song with purple lights. Their sister knew they wanted to hear it live. Everyone left at once and they waited inside before taking the Tube.",
+    "goals": [
+      "Say why they felt that way.",
+      "Give a reason, using 'because' or 'so'."
+    ],
+    "focus": [
+      "The child will explain their feelings by stating why they felt that way.",
+      "The child will give a reason using 'because' or 'so'."
+    ],
+    "prompts": [
+      "Why did you feel happy about it?",
+      "Did you do it because you liked it or so you could play?"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+Session S56
+
+Lesson focus:
+  - Improve narrative sequencing by clarifying which event happened first.
+  - Enhance specific detail recall for personal actions and emotional responses during games.
+  - Develop understanding of different types of emotions related to sports outcomes (e.g., joy, disappointment).
+
+Profile style checklist:
+  1. No jokes, sarcasm or figures of speech.
+  2. One question at a time.
+  3. Say what is coming next.
+  4. Ask what happened before asking about feelings.
+
+Reachy (greeting, not coded): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: yeah. went bowling
+Reachy [1]: That sounds fun! Who did you go bowling with?
+
+You: Mia
+Reachy [2]: Got it. And where did you go bowling, did someone drive?
+
+You: Mia's mum drove us
+Reachy [3]: Oh, that's good. How did you feel while going there?
+
+You: it felt goo
+Reachy [4]: Did you have a good time playing at the bowling alley?
+
+You: yes
+Reachy [5]: Good to hear! What game or activity did you enjoy most?
+
+You: we had pizza, i really like pizza
+Reachy [6]: Pizza sounds yummy! Did anyone else like it too?
+
+You: yeah everyone liked it, i only got 2 slices
+Reachy [7]: That’s good to hear. How many games did you play at the bowling alley?
+
+You: we had two rounds of bowling
+Reachy [8]: That's great! Thank you for talking about that with me.

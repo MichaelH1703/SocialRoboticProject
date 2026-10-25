@@ -1,0 +1,409 @@
+{
+  "labelled": true,
+  "speakers": "auto",
+  "auto_labels": {
+    "method": "sentences",
+    "segments": [
+      [
+        "therapist",
+        "Morning, Oscar."
+      ],
+      [
+        "therapist",
+        "I heard your class went somewhere special this week."
+      ],
+      [
+        "child",
+        "We went to the museum!"
+      ],
+      [
+        "therapist",
+        "The museum!"
+      ],
+      [
+        "therapist",
+        "Which one was it?"
+      ],
+      [
+        "child",
+        "The big one in the city."
+      ],
+      [
+        "child",
+        "With the, um, the steps outside and the lions."
+      ],
+      [
+        "therapist",
+        "Not real lions."
+      ],
+      [
+        "child",
+        "Stone ones."
+      ],
+      [
+        "child",
+        "Stone lions on the steps."
+      ],
+      [
+        "therapist",
+        "How did you get there?"
+      ],
+      [
+        "child",
+        "On a coach."
+      ],
+      [
+        "child",
+        "It had a toilet in it."
+      ],
+      [
+        "therapist",
+        "A toilet on the coach!"
+      ],
+      [
+        "therapist",
+        "Did you go with your class?"
+      ],
+      [
+        "child",
+        "Yeah."
+      ],
+      [
+        "therapist",
+        "And what did you see when you got there?"
+      ],
+      [
+        "child",
+        "Dinosaurs."
+      ],
+      [
+        "child",
+        "There was the bones of a, a diplo, diplodocus."
+      ],
+      [
+        "child",
+        "It was so long it went all the way across the room."
+      ],
+      [
+        "therapist",
+        "All the way across the room!"
+      ],
+      [
+        "therapist",
+        "That's huge."
+      ],
+      [
+        "child",
+        "And there was a T-rex but not bones, a real one."
+      ],
+      [
+        "child",
+        "Not real real, a robot one."
+      ],
+      [
+        "therapist",
+        "A robot T-rex."
+      ],
+      [
+        "therapist",
+        "What did it do?"
+      ],
+      [
+        "child",
+        "It moved its head like this and it roared."
+      ],
+      [
+        "child",
+        "Rarrr."
+      ],
+      [
+        "therapist",
+        "Wow."
+      ],
+      [
+        "therapist",
+        "What was that like?"
+      ],
+      [
+        "child",
+        "It was a bit scary because it had really big teeth and it moved its head at me."
+      ],
+      [
+        "therapist",
+        "Big teeth, and it moved its head right at you."
+      ],
+      [
+        "child",
+        "I didn't cry though."
+      ],
+      [
+        "therapist",
+        "You didn't cry."
+      ],
+      [
+        "therapist",
+        "What else did you do at the museum?"
+      ],
+      [
+        "child",
+        "We had a sheet and you had to find stuff and tick it."
+      ],
+      [
+        "therapist",
+        "Like a treasure hunt?"
+      ],
+      [
+        "child",
+        "Yeah, like a..."
+      ],
+      [
+        "child",
+        "you had to find a ammonite and a fossil fish and a, um, I forgot the other one."
+      ],
+      [
+        "therapist",
+        "That's okay."
+      ],
+      [
+        "therapist",
+        "Did you find them all?"
+      ],
+      [
+        "child",
+        "I found the ammonite first."
+      ],
+      [
+        "child",
+        "It's like a snail but it's a rock."
+      ],
+      [
+        "child",
+        "A snail that's turned into a rock."
+      ],
+      [
+        "therapist",
+        "You know a lot about fossils!"
+      ],
+      [
+        "therapist",
+        "Do you know what a ammonite is?"
+      ],
+      [
+        "child",
+        "I do, I've seen one at the seaside."
+      ],
+      [
+        "therapist",
+        "What happened after the treasure hunt?"
+      ],
+      [
+        "child",
+        "Lunch."
+      ],
+      [
+        "therapist",
+        "We had it in a room with no windows."
+      ],
+      [
+        "child",
+        "I had a ham sandwich and crisps."
+      ],
+      [
+        "therapist",
+        "A room with no windows!"
+      ],
+      [
+        "therapist",
+        "What was your favourite part of the day?"
+      ],
+      [
+        "child",
+        "The dinosaurs."
+      ],
+      [
+        "child",
+        "I loved the diplodocus."
+      ],
+      [
+        "child",
+        "It was so cool."
+      ],
+      [
+        "therapist",
+        "You loved the diplodocus."
+      ],
+      [
+        "therapist",
+        "I bet you were really excited on the coach on the way there."
+      ],
+      [
+        "therapist",
+        "Have you been to that museum?"
+      ],
+      [
+        "child",
+        "A long time ago."
+      ],
+      [
+        "child",
+        "I remember the stone lions."
+      ],
+      [
+        "therapist",
+        "Let me say back what you told me, and you tell me if I get it right."
+      ],
+      [
+        "therapist",
+        "You went to the big museum in the city with the stone lions on the steps."
+      ],
+      [
+        "therapist",
+        "You went on a coach with a toilet in it."
+      ],
+      [
+        "therapist",
+        "You saw the bones of a diplodocus that went all the way across the room, and a robot T-rex that moved its head and roared."
+      ],
+      [
+        "therapist",
+        "It was a bit scary because it had really big teeth."
+      ],
+      [
+        "therapist",
+        "You did a sheet where you had to find things, and you found the ammonite first."
+      ],
+      [
+        "therapist",
+        "You had lunch in a room with no windows."
+      ],
+      [
+        "therapist",
+        "And you loved the diplodocus."
+      ],
+      [
+        "child",
+        "And it was so cool."
+      ],
+      [
+        "therapist",
+        "And it was so cool."
+      ],
+      [
+        "therapist",
+        "Thank you, Oscar."
+      ],
+      [
+        "therapist",
+        "Can you tell me the whole thing now, from the start?"
+      ],
+      [
+        "child",
+        "We went to the museum on the coach and saw the diplodocus and the T-rex and it roared and I did the sheet."
+      ],
+      [
+        "therapist",
+        "Brilliant, that was really clear."
+      ],
+      [
+        "therapist",
+        "Good job, Oscar."
+      ]
+    ],
+    "echoes_relabelled": [
+      3,
+      24,
+      70
+    ]
+  },
+  "labelled_transcript": "Therapist. Morning, Oscar. I heard your class went somewhere special this week. Child. We went to the museum! Therapist. The museum! Which one was it? Child. The big one in the city. With the, um, the steps outside and the lions. Therapist. Not real lions. Child. Stone ones. Stone lions on the steps. Therapist. How did you get there? Child. On a coach. It had a toilet in it. Therapist. A toilet on the coach! Did you go with your class? Child. Yeah. Therapist. And what did you see when you got there? Child. Dinosaurs. There was the bones of a, a diplo, diplodocus. It was so long it went all the way across the room. Therapist. All the way across the room! That's huge. Child. And there was a T-rex but not bones, a real one. Not real real, a robot one. Therapist. A robot T-rex. What did it do? Child. It moved its head like this and it roared. Rarrr. Therapist. Wow. What was that like? Child. It was a bit scary because it had really big teeth and it moved its head at me. Therapist. Big teeth, and it moved its head right at you. Child. I didn't cry though. Therapist. You didn't cry. What else did you do at the museum? Child. We had a sheet and you had to find stuff and tick it. Therapist. Like a treasure hunt? Child. Yeah, like a... you had to find a ammonite and a fossil fish and a, um, I forgot the other one. Therapist. That's okay. Did you find them all? Child. I found the ammonite first. It's like a snail but it's a rock. A snail that's turned into a rock. Therapist. You know a lot about fossils! Do you know what a ammonite is? Child. I do, I've seen one at the seaside. Therapist. What happened after the treasure hunt? Child. Lunch. Therapist. We had it in a room with no windows. Child. I had a ham sandwich and crisps. Therapist. A room with no windows! What was your favourite part of the day? Child. The dinosaurs. I loved the diplodocus. It was so cool. Therapist. You loved the diplodocus. I bet you were really excited on the coach on the way there. Have you been to that museum? Child. A long time ago. I remember the stone lions. Therapist. Let me say back what you told me, and you tell me if I get it right. You went to the big museum in the city with the stone lions on the steps. You went on a coach with a toilet in it. You saw the bones of a diplodocus that went all the way across the room, and a robot T-rex that moved its head and roared. It was a bit scary because it had really big teeth. You did a sheet where you had to find things, and you found the ammonite first. You had lunch in a room with no windows. And you loved the diplodocus. Child. And it was so cool. Therapist. And it was so cool. Thank you, Oscar. Can you tell me the whole thing now, from the start? Child. We went to the museum on the coach and saw the diplodocus and the T-rex and it roared and I did the sheet. Therapist. Brilliant, that was really clear. Good job, Oscar.",
+  "facts": {
+    "child_turns": 20,
+    "mean_words_per_turn": 11.2,
+    "sequence_words": [
+      "first"
+    ],
+    "vague_words": [
+      "stuff"
+    ],
+    "child_text": [
+      "We went to the museum!",
+      "The big one in the city. With the, um, the steps outside and the lions.",
+      "Stone ones. Stone lions on the steps.",
+      "On a coach. It had a toilet in it.",
+      "Yeah.",
+      "Dinosaurs. There was the bones of a, a diplo, diplodocus. It was so long it went all the way across the room.",
+      "And there was a T-rex but not bones, a real one. Not real real, a robot one.",
+      "It moved its head like this and it roared. Rarrr.",
+      "It was a bit scary because it had really big teeth and it moved its head at me.",
+      "I didn't cry though.",
+      "We had a sheet and you had to find stuff and tick it.",
+      "Yeah, like a... you had to find a ammonite and a fossil fish and a, um, I forgot the other one.",
+      "I found the ammonite first. It's like a snail but it's a rock. A snail that's turned into a rock.",
+      "I do, I've seen one at the seaside.",
+      "Lunch.",
+      "I had a ham sandwich and crisps.",
+      "The dinosaurs. I loved the diplodocus. It was so cool.",
+      "A long time ago. I remember the stone lions.",
+      "And it was so cool.",
+      "We went to the museum on the coach and saw the diplodocus and the T-rex and it roared and I did the sheet."
+    ],
+    "feelings": [
+      {
+        "word": "scary",
+        "child_words": "It was a bit scary because it had really big teeth and it moved its head at me.",
+        "named": true
+      }
+    ],
+    "reasons": [
+      {
+        "child_words": "It was a bit scary because it had really big teeth and it moved its head at me.",
+        "linked": true,
+        "about_feeling": true
+      }
+    ],
+    "feeling_reasons": [
+      "It was a bit scary because it had really big teeth and it moved its head at me."
+    ]
+  },
+  "checked": {
+    "event": "Museum visit",
+    "who": {
+      "given": false,
+      "child_words": "",
+      "rejected_claim": "We went to the museum! | Yeah."
+    },
+    "where": {
+      "given": true,
+      "child_words": "The big one in the city.",
+      "rejected_claim": ""
+    },
+    "what_happened": {
+      "given": true,
+      "child_words": "We went to the museum on the coach and saw the diplodocus and the T-rex and it roared and I did the sheet.",
+      "rejected_claim": ""
+    },
+    "ending": {
+      "given": false,
+      "child_words": "",
+      "rejected_claim": "And it was so cool. | We went to the museum on the coach and saw the diplodocus and the T-rex and it roared and I did the sheet."
+    }
+  },
+  "written": {
+    "summary": "The child told about a museum visit including the big city museum with stone lions on the steps, a coach with a toilet, dinosaur bones of a diplodocus, a robot T-rex that moved and roared, a scavenger sheet with items like an ammonite and a fossil fish, a ham sandwich and crisps, and the enjoyment of the diplodocus and the stone lions.",
+    "goals": [
+      "Say who was there.",
+      "Say how it ended.",
+      "Use the exact word instead of vague words like 'stuff' or 'thing'."
+    ],
+    "focus": [
+      "The child will name the people present in the event.",
+      "The child will describe how the event ended.",
+      "The child will use specific words instead of vague words like 'stuff' or 'thing'."
+    ],
+    "prompts": [
+      "Who was there with you?",
+      "What happened at the end?",
+      "What did you do instead of just 'stuff'?"
+    ]
+  }
+}

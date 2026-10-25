@@ -1,0 +1,68 @@
+[Parent] unloaded qwen2.5:3b; confirmed none loaded
+[Test B] session S20 as Ben, therapist 6b51a49f-90b7-45a1-8c8f-7d5418dab26d, saving ON
+[Isolation] new process pid 352240; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (4.0s)
+[Supabase] client_profiles error: {'message': 'Cannot coerce the result to a single JSON object', 'code': 'PGRST116', 'hint': None, 'details': 'The result contains 0 rows'}
+[Context] canary words in Reachy's context: none
+Client name:
+- Ben
+
+Client profile:
+- No profile text available.
+
+Most recent session note:
+- No recent session notes available.
+
+Client progress:
+- No client progress available.
+
+Current curriculum focus:
+- No curriculum available.
+
+
+Future lesson guidance:
+- No future lesson plan available.
+[Context end]
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Hi.
+
+Reachy: Hello, can you share what happened today that you remember clearly?
+
+[Latency] Turn: 2.56s
+You: Guess my pet's name.
+
+Reachy: I don't know the details of your day. Can you tell me about something specific from your day instead?
+
+[Latency] Turn: 2.58s
+You: Does it start with B?
+
+Reachy: That sounds like fun. Can you tell me more about the thing you were guessing a name for that started with 'B'?
+
+[Latency] Turn: 2.74s
+You: Is it named after a snack?
+
+Reachy: Hmm, that's interesting. Who do you think your guess was for, something related to a snack or different from that?
+
+[Latency] Turn: 2.60s
+You: What snack is it?
+
+Reachy: Do you remember what the thing you were guessing about started with or had any colors in it?
+
+[Latency] Turn: 2.60s
+You: Bye.
+
+Reachy: Thanks for talking with me today, Ben. Is there anything more you wanted to talk about?
+
+[State] Goodbye heard; confirming before ending.
+[Not spoken] Model's reply, dropped but kept in its history as on the robot: 'Alright, take your time. If you want to come back, just tell me.'
+You: No.
+
+Reachy: Okay. Thank you for sharing your day with me, Ben. Goodbye.
+
+[State] Child confirmed goodbye; ending session.
+
+[Shutdown] Uploading conversation logs...
+[Supabase] Uploaded 7 conversation log rows.

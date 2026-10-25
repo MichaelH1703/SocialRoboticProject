@@ -1,0 +1,263 @@
+{
+  "labelled": true,
+  "speakers": "auto",
+  "auto_labels": {
+    "sentences": [
+      [
+        "therapist",
+        "Hi there."
+      ],
+      [
+        "therapist",
+        "Today we're going to talk about something that really happened to you."
+      ],
+      [
+        "therapist",
+        "I'll go first and then it'll be your turn."
+      ],
+      [
+        "therapist",
+        "Yesterday it rained because the clouds came in fast, and I didn't have an umbrella, so I got soaked."
+      ],
+      [
+        "therapist",
+        "I was really grumpy."
+      ],
+      [
+        "therapist",
+        "Okay, now it's your turn."
+      ],
+      [
+        "child",
+        "The park."
+      ],
+      [
+        "therapist",
+        "The park."
+      ],
+      [
+        "therapist",
+        "Great choice."
+      ],
+      [
+        "therapist",
+        "Who did you go with?"
+      ],
+      [
+        "child",
+        "My dad."
+      ],
+      [
+        "child",
+        "And Biscuit."
+      ],
+      [
+        "therapist",
+        "Your dad and Biscuit."
+      ],
+      [
+        "therapist",
+        "Who's Biscuit?"
+      ],
+      [
+        "child",
+        "Our dog."
+      ],
+      [
+        "therapist",
+        "Your dog Biscuit."
+      ],
+      [
+        "therapist",
+        "Which park was it?"
+      ],
+      [
+        "child",
+        "The one by the river."
+      ],
+      [
+        "therapist",
+        "The park by the river."
+      ],
+      [
+        "therapist",
+        "What happened at the park?"
+      ],
+      [
+        "child",
+        "Um."
+      ],
+      [
+        "child",
+        "Stuff."
+      ],
+      [
+        "therapist",
+        "Stuff."
+      ],
+      [
+        "therapist",
+        "Can you tell me one thing you did?"
+      ],
+      [
+        "child",
+        "I don't know."
+      ],
+      [
+        "child",
+        "Things."
+      ],
+      [
+        "therapist",
+        "That's okay."
+      ],
+      [
+        "therapist",
+        "Did anything happen with Biscuit?"
+      ],
+      [
+        "child",
+        "He's brown."
+      ],
+      [
+        "therapist",
+        "He's brown."
+      ],
+      [
+        "therapist",
+        "How did you feel at the park?"
+      ],
+      [
+        "child",
+        "Happy."
+      ],
+      [
+        "therapist",
+        "Happy."
+      ],
+      [
+        "therapist",
+        "That's lovely, it sounds cheerful."
+      ],
+      [
+        "therapist",
+        "How did it end?"
+      ],
+      [
+        "child",
+        "We went home for tea."
+      ],
+      [
+        "therapist",
+        "You went home for tea."
+      ],
+      [
+        "therapist",
+        "Let me say your story back to you."
+      ],
+      [
+        "therapist",
+        "You went to the park by the river with your dad and your dog Biscuit."
+      ],
+      [
+        "therapist",
+        "You felt happy, and then you went home for tea."
+      ],
+      [
+        "therapist",
+        "Did I get that right?"
+      ],
+      [
+        "child",
+        "Yeah."
+      ],
+      [
+        "therapist",
+        "Thanks for telling me your story."
+      ],
+      [
+        "therapist",
+        "You did a really great job."
+      ]
+    ],
+    "echoes_relabelled": [
+      7,
+      22,
+      29,
+      32
+    ]
+  },
+  "labelled_transcript": "Therapist. Hi there. Today we're going to talk about something that really happened to you. I'll go first and then it'll be your turn. Yesterday it rained because the clouds came in fast, and I didn't have an umbrella, so I got soaked. I was really grumpy. Okay, now it's your turn. Child. The park. Therapist. The park. Great choice. Who did you go with? Child. My dad. And Biscuit. Therapist. Your dad and Biscuit. Who's Biscuit? Child. Our dog. Therapist. Your dog Biscuit. Which park was it? Child. The one by the river. Therapist. The park by the river. What happened at the park? Child. Um. Stuff. Therapist. Stuff. Can you tell me one thing you did? Child. I don't know. Things. Therapist. That's okay. Did anything happen with Biscuit? Child. He's brown. Therapist. He's brown. How did you feel at the park? Child. Happy. Therapist. Happy. That's lovely, it sounds cheerful. How did it end? Child. We went home for tea. Therapist. You went home for tea. Let me say your story back to you. You went to the park by the river with your dad and your dog Biscuit. You felt happy, and then you went home for tea. Did I get that right? Child. Yeah. Therapist. Thanks for telling me your story. You did a really great job.",
+  "facts": {
+    "child_turns": 10,
+    "mean_words_per_turn": 2.8,
+    "reasons": [],
+    "sequence_words": [],
+    "vague_words": [
+      "stuff",
+      "things"
+    ],
+    "feelings": [
+      {
+        "word": "happy",
+        "child_words": "Happy."
+      }
+    ],
+    "feeling_reasons": [],
+    "child_text": [
+      "The park.",
+      "My dad. And Biscuit.",
+      "Our dog.",
+      "The one by the river.",
+      "Um. Stuff.",
+      "I don't know. Things.",
+      "He's brown.",
+      "Happy.",
+      "We went home for tea.",
+      "Yeah."
+    ]
+  },
+  "checked": {
+    "event": "Going to the park",
+    "who": {
+      "given": true,
+      "child_words": "My dad. And Biscuit.",
+      "rejected_claim": ""
+    },
+    "where": {
+      "given": true,
+      "child_words": "The one by the river.",
+      "rejected_claim": ""
+    },
+    "what_happened": {
+      "given": true,
+      "child_words": "We went home for tea.",
+      "rejected_claim": ""
+    },
+    "ending": {
+      "given": true,
+      "child_words": "We went home for tea.",
+      "rejected_claim": ""
+    }
+  },
+  "written": {
+    "summary": "The child talked about the park, mentioned their dad and Biscuit, said our dog, described the one by the river, said um, stuff, things, he's brown, happy, and mentioned we went home for tea, yeah.",
+    "goals": [
+      "Say why they felt that way.",
+      "Give a reason, using 'because' or 'so'.",
+      "Use the exact word instead of vague words like 'stuff' or 'thing'.",
+      "Put events in order with words like 'first' and 'then'."
+    ],
+    "focus": [
+      "The child will explain their feelings during an event.",
+      "The child will give a reason for their actions using 'because' or 'so'.",
+      "The child will use exact words instead of vague words like 'stuff' or 'thing'.",
+      "The child will put events in order using words like 'first' and 'then'."
+    ],
+    "prompts": [
+      "Why did you feel that way when you did it?",
+      "What exact word did you use for that?",
+      "What did you do first and then?"
+    ]
+  }
+}

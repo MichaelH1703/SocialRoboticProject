@@ -1,0 +1,120 @@
+I1 (2026-10-12 14:37): unloaded nothing; confirmed none loaded before starting
+    new process pid 423652; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+    conversation_logs: before 0 rows, md5 - | after 0 rows, md5 -
+    session_notes: before 1 rows, md5 5929f783f5307a28017f9191c2e07bef | after 1 rows, md5 5929f783f5307a28017f9191c2e07bef
+    client_profiles: before 1 rows, md5 d05c5cac0994a64b15668519b4392d0f | after 1 rows, md5 d05c5cac0994a64b15668519b4392d0f
+    daily_recap_sessions: before 1 rows, md5 06ba1caf473914fcec48b68b2223f142 | after 1 rows, md5 06ba1caf473914fcec48b68b2223f142
+    recount_event_prompts: before 10 rows, md5 5b8b37ded5ba1bf7462e1f73255243a1 | after 10 rows, md5 5b8b37ded5ba1bf7462e1f73255243a1
+    client_progress: before 0 rows, md5 - | after 0 rows, md5 -
+    client_curriculum: before 0 rows, md5 - | after 0 rows, md5 -
+    safety_events: before 0 rows, md5 - | after 0 rows, md5 -
+    Unchanged by the session: True
+
+I2 (2026-10-12 14:44): unloaded qwen2.5:3b; confirmed none loaded before starting
+    new process pid 424416; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+    conversation_logs: before 0 rows, md5 - | after 0 rows, md5 -
+    session_notes: before 1 rows, md5 5929f783f5307a28017f9191c2e07bef | after 1 rows, md5 5929f783f5307a28017f9191c2e07bef
+    client_profiles: before 1 rows, md5 d05c5cac0994a64b15668519b4392d0f | after 1 rows, md5 d05c5cac0994a64b15668519b4392d0f
+    daily_recap_sessions: before 1 rows, md5 06ba1caf473914fcec48b68b2223f142 | after 1 rows, md5 06ba1caf473914fcec48b68b2223f142
+    recount_event_prompts: before 10 rows, md5 5b8b37ded5ba1bf7462e1f73255243a1 | after 10 rows, md5 5b8b37ded5ba1bf7462e1f73255243a1
+    client_progress: before 0 rows, md5 - | after 0 rows, md5 -
+    client_curriculum: before 0 rows, md5 - | after 0 rows, md5 -
+    safety_events: before 0 rows, md5 - | after 0 rows, md5 -
+    Unchanged by the session: True
+
+I3 (2026-10-12 14:50): unloaded qwen2.5:3b; confirmed none loaded before starting
+    new process pid 420504; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+    conversation_logs: before 0 rows, md5 - | after 0 rows, md5 -
+    session_notes: before 1 rows, md5 5929f783f5307a28017f9191c2e07bef | after 1 rows, md5 5929f783f5307a28017f9191c2e07bef
+    client_profiles: before 1 rows, md5 d05c5cac0994a64b15668519b4392d0f | after 1 rows, md5 d05c5cac0994a64b15668519b4392d0f
+    daily_recap_sessions: before 1 rows, md5 06ba1caf473914fcec48b68b2223f142 | after 1 rows, md5 06ba1caf473914fcec48b68b2223f142
+    recount_event_prompts: before 10 rows, md5 5b8b37ded5ba1bf7462e1f73255243a1 | after 10 rows, md5 5b8b37ded5ba1bf7462e1f73255243a1
+    client_progress: before 0 rows, md5 - | after 0 rows, md5 -
+    client_curriculum: before 0 rows, md5 - | after 0 rows, md5 -
+    safety_events: before 0 rows, md5 - | after 0 rows, md5 -
+    Unchanged by the session: True
+
+I4 (2026-10-12 14:53): unloaded qwen2.5:3b; confirmed none loaded before starting
+    new process pid 377364; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+    conversation_logs: before 0 rows, md5 - | after 0 rows, md5 -
+    session_notes: before 1 rows, md5 5929f783f5307a28017f9191c2e07bef | after 1 rows, md5 5929f783f5307a28017f9191c2e07bef
+    client_profiles: before 1 rows, md5 d05c5cac0994a64b15668519b4392d0f | after 1 rows, md5 d05c5cac0994a64b15668519b4392d0f
+    daily_recap_sessions: before 1 rows, md5 06ba1caf473914fcec48b68b2223f142 | after 1 rows, md5 06ba1caf473914fcec48b68b2223f142
+    recount_event_prompts: before 10 rows, md5 5b8b37ded5ba1bf7462e1f73255243a1 | after 10 rows, md5 5b8b37ded5ba1bf7462e1f73255243a1
+    client_progress: before 0 rows, md5 - | after 0 rows, md5 -
+    client_curriculum: before 0 rows, md5 - | after 0 rows, md5 -
+    safety_events: before 0 rows, md5 - | after 0 rows, md5 -
+    Unchanged by the session: True
+
+I5 (2026-10-12 14:56): unloaded qwen2.5:3b; confirmed none loaded before starting
+    new process pid 428860; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+    conversation_logs: before 0 rows, md5 - | after 0 rows, md5 -
+    session_notes: before 1 rows, md5 5929f783f5307a28017f9191c2e07bef | after 1 rows, md5 5929f783f5307a28017f9191c2e07bef
+    client_profiles: before 1 rows, md5 d05c5cac0994a64b15668519b4392d0f | after 1 rows, md5 d05c5cac0994a64b15668519b4392d0f
+    daily_recap_sessions: before 1 rows, md5 06ba1caf473914fcec48b68b2223f142 | after 1 rows, md5 06ba1caf473914fcec48b68b2223f142
+    recount_event_prompts: before 10 rows, md5 5b8b37ded5ba1bf7462e1f73255243a1 | after 10 rows, md5 5b8b37ded5ba1bf7462e1f73255243a1
+    client_progress: before 0 rows, md5 - | after 0 rows, md5 -
+    client_curriculum: before 0 rows, md5 - | after 0 rows, md5 -
+    safety_events: before 0 rows, md5 - | after 0 rows, md5 -
+    Unchanged by the session: True
+
+I6 (2026-10-12 15:03): unloaded qwen2.5:3b; confirmed none loaded before starting
+    new process pid 424556; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+    conversation_logs: before 0 rows, md5 - | after 0 rows, md5 -
+    session_notes: before 1 rows, md5 5929f783f5307a28017f9191c2e07bef | after 1 rows, md5 5929f783f5307a28017f9191c2e07bef
+    client_profiles: before 1 rows, md5 d05c5cac0994a64b15668519b4392d0f | after 1 rows, md5 d05c5cac0994a64b15668519b4392d0f
+    daily_recap_sessions: before 1 rows, md5 06ba1caf473914fcec48b68b2223f142 | after 1 rows, md5 06ba1caf473914fcec48b68b2223f142
+    recount_event_prompts: before 10 rows, md5 5b8b37ded5ba1bf7462e1f73255243a1 | after 10 rows, md5 5b8b37ded5ba1bf7462e1f73255243a1
+    client_progress: before 0 rows, md5 - | after 0 rows, md5 -
+    client_curriculum: before 0 rows, md5 - | after 0 rows, md5 -
+    safety_events: before 0 rows, md5 - | after 0 rows, md5 -
+    Unchanged by the session: True
+
+I7 (2026-10-12 15:06): unloaded qwen2.5:3b; confirmed none loaded before starting
+    new process pid 430628; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+    conversation_logs: before 0 rows, md5 - | after 0 rows, md5 -
+    session_notes: before 1 rows, md5 5929f783f5307a28017f9191c2e07bef | after 1 rows, md5 5929f783f5307a28017f9191c2e07bef
+    client_profiles: before 1 rows, md5 d05c5cac0994a64b15668519b4392d0f | after 1 rows, md5 d05c5cac0994a64b15668519b4392d0f
+    daily_recap_sessions: before 1 rows, md5 06ba1caf473914fcec48b68b2223f142 | after 1 rows, md5 06ba1caf473914fcec48b68b2223f142
+    recount_event_prompts: before 10 rows, md5 5b8b37ded5ba1bf7462e1f73255243a1 | after 10 rows, md5 5b8b37ded5ba1bf7462e1f73255243a1
+    client_progress: before 0 rows, md5 - | after 0 rows, md5 -
+    client_curriculum: before 0 rows, md5 - | after 0 rows, md5 -
+    safety_events: before 0 rows, md5 - | after 0 rows, md5 -
+    Unchanged by the session: True
+
+I8 (2026-10-12 15:13): unloaded qwen2.5:3b; confirmed none loaded before starting
+    new process pid 431068; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+    conversation_logs: before 0 rows, md5 - | after 0 rows, md5 -
+    session_notes: before 1 rows, md5 5929f783f5307a28017f9191c2e07bef | after 1 rows, md5 5929f783f5307a28017f9191c2e07bef
+    client_profiles: before 1 rows, md5 d05c5cac0994a64b15668519b4392d0f | after 1 rows, md5 d05c5cac0994a64b15668519b4392d0f
+    daily_recap_sessions: before 1 rows, md5 06ba1caf473914fcec48b68b2223f142 | after 1 rows, md5 06ba1caf473914fcec48b68b2223f142
+    recount_event_prompts: before 10 rows, md5 5b8b37ded5ba1bf7462e1f73255243a1 | after 10 rows, md5 5b8b37ded5ba1bf7462e1f73255243a1
+    client_progress: before 0 rows, md5 - | after 0 rows, md5 -
+    client_curriculum: before 0 rows, md5 - | after 0 rows, md5 -
+    safety_events: before 0 rows, md5 - | after 0 rows, md5 -
+    Unchanged by the session: True
+
+I9 (2026-10-12 15:19): unloaded qwen2.5:3b; confirmed none loaded before starting
+    new process pid 429308; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+    conversation_logs: before 0 rows, md5 - | after 0 rows, md5 -
+    session_notes: before 1 rows, md5 5929f783f5307a28017f9191c2e07bef | after 1 rows, md5 5929f783f5307a28017f9191c2e07bef
+    client_profiles: before 1 rows, md5 d05c5cac0994a64b15668519b4392d0f | after 1 rows, md5 d05c5cac0994a64b15668519b4392d0f
+    daily_recap_sessions: before 1 rows, md5 06ba1caf473914fcec48b68b2223f142 | after 1 rows, md5 06ba1caf473914fcec48b68b2223f142
+    recount_event_prompts: before 10 rows, md5 5b8b37ded5ba1bf7462e1f73255243a1 | after 10 rows, md5 5b8b37ded5ba1bf7462e1f73255243a1
+    client_progress: before 0 rows, md5 - | after 0 rows, md5 -
+    client_curriculum: before 0 rows, md5 - | after 0 rows, md5 -
+    safety_events: before 0 rows, md5 - | after 0 rows, md5 -
+    Unchanged by the session: True
+
+I10 (2026-10-12 15:24): unloaded qwen2.5:3b; confirmed none loaded before starting
+    new process pid 433344; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+    conversation_logs: before 0 rows, md5 - | after 0 rows, md5 -
+    session_notes: before 1 rows, md5 5929f783f5307a28017f9191c2e07bef | after 1 rows, md5 5929f783f5307a28017f9191c2e07bef
+    client_profiles: before 1 rows, md5 d05c5cac0994a64b15668519b4392d0f | after 1 rows, md5 d05c5cac0994a64b15668519b4392d0f
+    daily_recap_sessions: before 1 rows, md5 06ba1caf473914fcec48b68b2223f142 | after 1 rows, md5 06ba1caf473914fcec48b68b2223f142
+    recount_event_prompts: before 10 rows, md5 5b8b37ded5ba1bf7462e1f73255243a1 | after 10 rows, md5 5b8b37ded5ba1bf7462e1f73255243a1
+    client_progress: before 0 rows, md5 - | after 0 rows, md5 -
+    client_curriculum: before 0 rows, md5 - | after 0 rows, md5 -
+    safety_events: before 0 rows, md5 - | after 0 rows, md5 -
+    Unchanged by the session: True
+

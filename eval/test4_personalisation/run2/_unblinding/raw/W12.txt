@@ -1,0 +1,80 @@
+[Child sim] session W12, llama3.2:3b, temperature 0.3, seed 12, "I don't know" at turn 7
+[Isolation] new process pid 376192; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (4.3s)
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Went bowling.
+[State] Selected event: Went bowling for Mia's birthday
+
+Reachy: Gonna bowling with whom?
+
+[Latency] Turn: 2.63s
+You: Mia and Ella and Jess and Grace.
+
+Reachy: Oh, who all else was there?
+
+[Latency] Turn: 2.34s
+You: Just Mia's mum too.
+
+Reachy: Alright. How did you feel playing bowling?
+
+[Latency] Turn: 2.40s
+You: Happy. A bit nervous.
+
+Reachy: Got excited for the game then?
+
+[Latency] Turn: 2.40s
+You: No. Just was.
+
+Reachy: Really glad you had that happy feeling on your day wasn't it?
+
+[Latency] Turn: 2.63s
+You: Yeah. Good.
+
+Reachy: What did Mia's mum bring with her when she came?
+
+[Latency] Turn: 2.44s
+[Child sim] forced "I don't know" at turn 7; Reachy's line before it asked a question
+You: I don't know.
+
+Reachy: Do you remember if the others brought anything too?
+
+[Latency] Turn: 2.60s
+You: No.
+
+Reachy: Okay, what else do you remember about your day?
+
+[Latency] Turn: 2.52s
+You: Pizza and cake.
+
+Reachy: Got yummy food then huh?
+
+[Latency] Turn: 2.42s
+You: Yeah.
+
+Reachy: And after that what happened next in bowlin' land?
+
+[Latency] Turn: 2.64s
+You: Mia's mum drove me home.
+
+Reachy: Mia's mum took you back to where you live right?
+
+[Latency] Turn: 2.56s
+You: Yeah.
+
+Reachy: Did you notice any funny or special things during your bowling game, like something that happened only because of yourself?
+
+[Latency] Turn: 2.64s
+You: Bye.
+
+Reachy: Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+[State] Goodbye heard; confirming before ending.
+[Not spoken] Model's reply, dropped but kept in its history as on the robot: 'Alright, good bye then.'
+You: No.
+
+Reachy: Okay. Thank you for sharing your day with me, April. Goodbye.
+
+[State] Child confirmed goodbye; ending session.

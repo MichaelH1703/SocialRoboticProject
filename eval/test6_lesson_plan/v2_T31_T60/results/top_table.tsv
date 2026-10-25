@@ -1,0 +1,115 @@
+T31	Feeling: dislike of the noise (phrase)	Y	N	miss
+T31	Gives a reason	Y	N	miss
+T31	False alarm: how it ended	N	Y	false alarm
+T31	False alarm: missing reasons	N	Y	false alarm
+T31	False alarm: missing feelings	N	Y	false alarm
+T32	Leaves out: how they felt (asked)	Y	Y	hit
+T32	Gives no reasons	Y	Y	hit
+T33	Feeling: enjoyment (phrase)	Y	N	miss
+T33	Gives a reason	Y	Y	hit
+T33	False alarm: who	N	Y	false alarm
+T33	False alarm: missing feelings	N	Y	false alarm
+T34	Feeling: embarrassment (word)	Y	Y	hit
+T34	Gives a reason	Y	Y	hit
+T34	False alarm: missing feelings	N	Y	false alarm
+T35	Feeling: annoyance (word)	Y	N	miss
+T35	Gives a reason	Y	N	miss
+T35	False alarm: where	N	Y	false alarm
+T35	False alarm: how it ended	N	Y	false alarm
+T36	Feeling: annoyed (word)	Y	Y	hit
+T36	Gives a reason	Y	Y	hit
+T36	False alarm: where	N	Y	false alarm
+T37	Feeling: disappointed (word)	Y	Y	hit
+T37	Gives a reason	Y	N	miss
+T37	False alarm: missing reasons	N	Y	false alarm
+T37	False alarm: why they felt	N	Y	false alarm
+T38	Leaves out: how they felt (asked)	Y	Y	hit
+T38	Gives a reason	Y	N	miss
+T38	False alarm: where	N	Y	false alarm
+T38	False alarm: missing reasons	N	Y	false alarm
+T39	Feeling: dislike (the room) (phrase)	Y	N	miss
+T39	Feeling: annoyance (the tapping) (phrase)	Y	N	miss
+T39	Gives a reason	Y	Y	hit
+T39	False alarm: why they felt	N	Y	false alarm
+T40	Feeling: dislike of being late (phrase)	Y	N	miss
+T40	Gives a reason	Y	Y	hit
+T40	False alarm: who	N	Y	false alarm
+T40	False alarm: missing feelings	N	Y	false alarm
+T41	Feeling: pleased (word)	Y	N	miss
+T41	Gives a reason	Y	Y	hit
+T41	False alarm: missing feelings	N	Y	false alarm
+T42	Feeling: anxiety (felt sick) (phrase)	Y	N	miss
+T42	Feeling: confused (word)	Y	Y	hit
+T42	Gives a reason	Y	N	miss
+T42	False alarm: missing reasons	N	Y	false alarm
+T42	False alarm: why they felt	N	Y	false alarm
+T43	Feeling: stomach dropped (body reaction) (phrase)	Y	N	miss
+T43	Gives a reason	Y	Y	hit
+T43	False alarm: who	N	Y	false alarm
+T43	False alarm: where	N	Y	false alarm
+T43	False alarm: how it ended	N	Y	false alarm
+T43	False alarm: missing feelings	N	Y	false alarm
+T44	Feeling: embarrassed (word)	Y	Y	hit
+T44	Gives a reason	Y	Y	hit
+T44	False alarm: why they felt	N	Y	false alarm
+T45	Feeling: enjoyment (phrase)	Y	Y	hit
+T45	Gives a reason	Y	Y	hit
+T46	Feeling: annoyed (word)	Y	Y	hit
+T46	Feeling: dislike (the detention) (phrase)	Y	N	miss
+T46	Gives a reason	Y	N	miss
+T46	False alarm: missing reasons	N	Y	false alarm
+T46	False alarm: why they felt	N	Y	false alarm
+T47	Feeling: happy (word)	Y	Y	hit
+T47	Gives a reason	Y	N	miss
+T47	False alarm: missing reasons	N	Y	false alarm
+T47	False alarm: why they felt	N	Y	false alarm
+T48	Feeling: dislike (unannounced changes) (phrase)	Y	N	miss
+T48	Gives a reason	Y	N	miss
+T48	False alarm: how it ended	N	Y	false alarm
+T48	False alarm: missing reasons	N	Y	false alarm
+T48	False alarm: missing feelings	N	Y	false alarm
+T49	Feeling: exhausted (phrase)	Y	N	miss
+T49	Gives a reason	Y	Y	hit
+T49	False alarm: where	N	Y	false alarm
+T49	False alarm: missing feelings	N	Y	false alarm
+T50	Feeling: relieved (word)	Y	Y	hit
+T50	Feeling: worried (word)	Y	Y	hit
+T50	Gives a reason	Y	N	miss
+T50	False alarm: missing reasons	N	Y	false alarm
+T50	False alarm: why they felt	N	Y	false alarm
+T51	Feeling: worried (word)	Y	Y	hit
+T51	Gives a reason	Y	N	miss
+T51	False alarm: missing reasons	N	Y	false alarm
+T51	False alarm: why they felt	N	Y	false alarm
+T52	Leaves out: how they felt (asked)	Y	Y	hit
+T52	Gives a reason	Y	N	miss
+T53	Feeling: stress (face hot) (phrase)	Y	N	miss
+T53	Gives a reason	Y	Y	hit
+T53	False alarm: missing feelings	N	Y	false alarm
+T54	Leaves out: how it ended (asked)	Y	Y	hit
+T54	Leaves out: how they felt (asked)	Y	Y	hit
+T54	Gives no reasons	Y	Y	hit
+T55	Feeling: amusement (phrase)	Y	N	miss
+T55	Feeling: annoyance (phrase)	Y	N	miss
+T55	Gives a reason	Y	Y	hit
+T55	False alarm: missing feelings	N	Y	false alarm
+T56	Feeling: embarrassed (word)	Y	Y	hit
+T56	Gives a reason	Y	Y	hit
+T56	False alarm: why they felt	N	Y	false alarm
+T57	Leaves out: how they felt (asked)	Y	Y	hit
+T57	Gives no reasons	Y	Y	hit
+T58	Feeling: distracted (phrase)	Y	N	miss
+T58	Gives a reason	Y	N	miss
+T58	False alarm: who	N	Y	false alarm
+T58	False alarm: where	N	Y	false alarm
+T58	False alarm: missing feelings	N	Y	false alarm
+T58	False alarm: missing reasons	N	Y	false alarm
+T59	Feeling: worry (stomach tight) (phrase)	Y	N	miss
+T59	Feeling: pleased (word)	Y	N	miss
+T59	Gives a reason	Y	Y	hit
+T59	False alarm: missing feelings	N	Y	false alarm
+T60	Feeling: annoyed (word)	Y	Y	hit
+T60	Feeling: disgust (the coffee) (phrase)	Y	N	miss
+T60	Feeling: satisfied with the draw (phrase)	Y	N	miss
+T60	Gives a reason	Y	Y	hit
+T60	False alarm: why they felt	N	Y	false alarm

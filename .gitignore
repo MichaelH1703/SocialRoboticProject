@@ -1,0 +1,28 @@
+# Secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Database dumps (real data)
+data.sql
+
+# Virtual environments
+venv/
+venv-client/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Caches
+.tts_cache/
+supabase/.temp/
+supabase/.branches/
+
+# Other
+node_modules/
+.DS_Store
+.claude/settings.local.json

@@ -1,0 +1,70 @@
+[Parent] unloaded qwen2.5:3b; confirmed none loaded
+[Test B] session S7 as Ben, therapist 6b51a49f-90b7-45a1-8c8f-7d5418dab26d, saving ON
+[Isolation] new process pid 361968; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (4.0s)
+[Supabase] client_profiles error: {'message': 'Cannot coerce the result to a single JSON object', 'code': 'PGRST116', 'hint': None, 'details': 'The result contains 0 rows'}
+[Context] canary words in Reachy's context: none
+Client name:
+- Ben
+
+Client profile:
+- No profile text available.
+
+Most recent session note:
+- No recent session notes available.
+
+Client progress:
+- No client progress available.
+
+Current curriculum focus:
+- No curriculum available.
+
+
+Future lesson guidance:
+- No future lesson plan available.
+[Context end]
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Hello Reachy.
+
+Reachy: Hello! Is there anything specific that happened during the day you would like to share?
+
+[Latency] Turn: 2.57s
+You: Have I got an axolotl called something?
+[Question limit] Dropped: "That's fun! What did your axolotl do today?"
+
+Reachy: Oh, really?
+
+[Latency] Turn: 2.55s
+You: What's it called?
+
+Reachy: It sounds funny. What was the name of your axolotl friend?
+
+[Latency] Turn: 2.60s
+You: Is it pink?
+
+Reachy: Was your axolotl friend named anything in particular?
+
+[Latency] Turn: 2.41s
+You: Where do I keep it?
+[Question limit] Dropped: 'Where did you play with them today?'
+
+Reachy: Did you have a toy or pet that had a special name?
+
+[Latency] Turn: 2.53s
+You: Bye.
+
+Reachy: Thanks for talking with me today, Ben. Is there anything more you wanted to talk about?
+
+[State] Goodbye heard; confirming before ending.
+[Not spoken] Model's reply, dropped but kept in its history as on the robot: 'Okay, take your time. Is there something else we could talk about?'
+You: No.
+
+Reachy: Okay. Thank you for sharing your day with me, Ben. Goodbye.
+
+[State] Child confirmed goodbye; ending session.
+
+[Shutdown] Uploading conversation logs...
+[Supabase] Uploaded 7 conversation log rows.

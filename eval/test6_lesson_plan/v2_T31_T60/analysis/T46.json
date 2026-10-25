@@ -1,0 +1,265 @@
+{
+  "labelled": true,
+  "speakers": "auto",
+  "auto_labels": {
+    "sentences": [
+      [
+        "therapist",
+        "Hello, Olivia."
+      ],
+      [
+        "therapist",
+        "What happened this week?"
+      ],
+      [
+        "child",
+        "I got a detention."
+      ],
+      [
+        "therapist",
+        "What was the detention for?"
+      ],
+      [
+        "child",
+        "I handed my homework in late."
+      ],
+      [
+        "therapist",
+        "I've got a story from work."
+      ],
+      [
+        "child",
+        "I once sent an email without the attachment and had to send a second one straight afterwards."
+      ],
+      [
+        "therapist",
+        "What happened with your homework?"
+      ],
+      [
+        "child",
+        "I finished it on Sunday but I forgot to upload it."
+      ],
+      [
+        "therapist",
+        "Where were you when you realised?"
+      ],
+      [
+        "child",
+        "At school."
+      ],
+      [
+        "child",
+        "Miss put it on the board that mine was missing."
+      ],
+      [
+        "therapist",
+        "What did you do?"
+      ],
+      [
+        "child",
+        "I checked my phone."
+      ],
+      [
+        "child",
+        "It was still in my files."
+      ],
+      [
+        "therapist",
+        "What happened next?"
+      ],
+      [
+        "child",
+        "I uploaded it in the corridor before the lesson."
+      ],
+      [
+        "therapist",
+        "Did the teacher see it?"
+      ],
+      [
+        "child",
+        "Yes, but she said it was after the deadline."
+      ],
+      [
+        "therapist",
+        "How did you feel when she said that?"
+      ],
+      [
+        "child",
+        "Annoyed."
+      ],
+      [
+        "child",
+        "I'd done the work."
+      ],
+      [
+        "child",
+        "It was just the upload."
+      ],
+      [
+        "therapist",
+        "You were annoyed because the work was finished but the submission was late."
+      ],
+      [
+        "child",
+        "Yes."
+      ],
+      [
+        "therapist",
+        "What happened about the detention?"
+      ],
+      [
+        "child",
+        "I had to go at lunch on Wednesday."
+      ],
+      [
+        "child",
+        "Room 12."
+      ],
+      [
+        "therapist",
+        "Who was supervising?"
+      ],
+      [
+        "child",
+        "Mr Khan."
+      ],
+      [
+        "child",
+        "There were three other people there."
+      ],
+      [
+        "therapist",
+        "What did you do during the detention?"
+      ],
+      [
+        "child",
+        "We sat in silence and did work."
+      ],
+      [
+        "child",
+        "I finished a geography sheet."
+      ],
+      [
+        "therapist",
+        "What happened when it ended?"
+      ],
+      [
+        "child",
+        "The bell went and we went to afternoon lessons."
+      ],
+      [
+        "therapist",
+        "You completed the homework on Sunday, noticed at school that it hadn't uploaded, submitted it before the lesson, but still got a lunchtime detention on Wednesday."
+      ],
+      [
+        "child",
+        "You finished a geography sheet during the detention."
+      ],
+      [
+        "child",
+        "Yeah."
+      ],
+      [
+        "therapist",
+        "That must have felt unfair."
+      ],
+      [
+        "child",
+        "It was the rule."
+      ],
+      [
+        "child",
+        "I still didn't like it."
+      ],
+      [
+        "therapist",
+        "Thanks for explaining it."
+      ],
+      [
+        "therapist",
+        "We'll finish there."
+      ],
+      [
+        "child",
+        "Okay."
+      ]
+    ],
+    "echoes_relabelled": []
+  },
+  "labelled_transcript": "Therapist. Hello, Olivia. What happened this week? Child. I got a detention. Therapist. What was the detention for? Child. I handed my homework in late. Therapist. I've got a story from work. Child. I once sent an email without the attachment and had to send a second one straight afterwards. Therapist. What happened with your homework? Child. I finished it on Sunday but I forgot to upload it. Therapist. Where were you when you realised? Child. At school. Miss put it on the board that mine was missing. Therapist. What did you do? Child. I checked my phone. It was still in my files. Therapist. What happened next? Child. I uploaded it in the corridor before the lesson. Therapist. Did the teacher see it? Child. Yes, but she said it was after the deadline. Therapist. How did you feel when she said that? Child. Annoyed. I'd done the work. It was just the upload. Therapist. You were annoyed because the work was finished but the submission was late. Child. Yes. Therapist. What happened about the detention? Child. I had to go at lunch on Wednesday. Room 12. Therapist. Who was supervising? Child. Mr Khan. There were three other people there. Therapist. What did you do during the detention? Child. We sat in silence and did work. I finished a geography sheet. Therapist. What happened when it ended? Child. The bell went and we went to afternoon lessons. Therapist. You completed the homework on Sunday, noticed at school that it hadn't uploaded, submitted it before the lesson, but still got a lunchtime detention on Wednesday. Child. You finished a geography sheet during the detention. Yeah. Therapist. That must have felt unfair. Child. It was the rule. I still didn't like it. Therapist. Thanks for explaining it. We'll finish there. Child. Okay.",
+  "facts": {
+    "child_turns": 17,
+    "mean_words_per_turn": 8.6,
+    "reasons": [],
+    "sequence_words": [
+      "after",
+      "afterwards",
+      "before"
+    ],
+    "vague_words": [],
+    "feelings": [
+      {
+        "word": "annoyed",
+        "child_words": "Annoyed. I'd done the work. It was just the upload."
+      }
+    ],
+    "feeling_reasons": [],
+    "child_text": [
+      "I got a detention.",
+      "I handed my homework in late.",
+      "I once sent an email without the attachment and had to send a second one straight afterwards.",
+      "I finished it on Sunday but I forgot to upload it.",
+      "At school. Miss put it on the board that mine was missing.",
+      "I checked my phone. It was still in my files.",
+      "I uploaded it in the corridor before the lesson.",
+      "Yes, but she said it was after the deadline.",
+      "Annoyed. I'd done the work. It was just the upload.",
+      "Yes.",
+      "I had to go at lunch on Wednesday. Room 12.",
+      "Mr Khan. There were three other people there.",
+      "We sat in silence and did work. I finished a geography sheet.",
+      "The bell went and we went to afternoon lessons.",
+      "You finished a geography sheet during the detention. Yeah.",
+      "It was the rule. I still didn't like it.",
+      "Okay."
+    ]
+  },
+  "checked": {
+    "event": "Homework detention",
+    "who": {
+      "given": true,
+      "child_words": "Mr Khan. There were three other people there.",
+      "rejected_claim": ""
+    },
+    "where": {
+      "given": true,
+      "child_words": "I had to go at lunch on Wednesday. Room 12.",
+      "rejected_claim": ""
+    },
+    "what_happened": {
+      "given": true,
+      "child_words": "We sat in silence and did work. I finished a geography sheet.",
+      "rejected_claim": ""
+    },
+    "ending": {
+      "given": true,
+      "child_words": "The bell went and we went to afternoon lessons.",
+      "rejected_claim": ""
+    }
+  },
+  "written": {
+    "summary": "The child told that they got a detention, handed their homework in late, sent an email without an attachment and had to send a second one, finished the work on Sunday but forgot to upload it, Miss put it on the board that it was missing, checked their phone and found it in their files, uploaded it in the corridor before the lesson, but she said it was after the deadline, had to go at lunch on Wednesday to Room 12 with Mr Khan and three other people, sat in silence and did work, finished a geography sheet, the bell went and they went to afternoon lessons, and they finished a geography sheet during the detention.",
+    "goals": [
+      "Say why they felt that way.",
+      "Give a reason, using 'because' or 'so'."
+    ],
+    "focus": [
+      "The child will explain their feelings by stating why they felt that way.",
+      "The child will give a reason using 'because' or 'so'."
+    ],
+    "prompts": [
+      "Why did you feel happy about it?",
+      "Did you do it because you liked it or so you could play?"
+    ]
+  }
+}

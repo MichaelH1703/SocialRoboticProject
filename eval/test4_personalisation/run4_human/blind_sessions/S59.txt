@@ -1,0 +1,50 @@
+Session S59
+
+Lesson focus:
+  - Continue working on increasing language skills, particularly in using descriptive and logical explanations.
+  - Develop emotional vocabulary and the ability to articulate emotions more precisely.
+  - Enhance social reasoning by asking questions that encourage a deeper understanding of others' perspectives and reactions.
+
+Profile style checklist:
+  1. Ask short questions.
+  2. Ask concrete questions.
+  3. When she is stuck, offer a choice of two options ("Was it X or Y?").
+  4. Avoid long or open questions.
+
+Reachy (greeting, not coded): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. went bowling
+Reachy [1]: That sounds fun! Did anyone else go with you?
+
+You: it was Mia's birthday
+Reachy [2]: Oh, that’s right. How did it make you feel going there for her birthday?
+
+You: it was super fun
+Reachy [3]: It sounds like a lot of joy! Was the bowling alley far from your home?
+
+You: i dont know
+Reachy [4]: Do you remember how your mommy or daddy drove to get there?
+
+You: we went there right after school. Mia's mum drove us
+Reachy [5]: That’s good to know. Did you have a ball that you liked playing with better than the others?
+
+You: yeah it was pink
+Reachy [6]: What made the pink ball your favorite?
+
+You: the colour
+Reachy [7]: What fun activities did you do at the bowling alley, if anything?
+
+You: we had cake
+Reachy [8]: That’s a nice treat! Did Mia enjoy their birthday party too?
+
+You: yeah
+Reachy [9]: Great to hear that everyone had a good time. How did it feel when Mia received her birthday present?
+
+You: she was happy
+Reachy [10]: It sounds like Mia and everyone else had a very special day together!
+
+You: bye
+Reachy (scripted, not coded): Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+You: no
+Reachy (scripted, not coded): Okay. Thank you for sharing your day with me, April. Goodbye.

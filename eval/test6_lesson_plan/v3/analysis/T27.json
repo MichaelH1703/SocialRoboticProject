@@ -1,0 +1,325 @@
+{
+  "labelled": true,
+  "speakers": "auto",
+  "auto_labels": {
+    "method": "sentences",
+    "segments": [
+      [
+        "therapist",
+        "Hi Poppy."
+      ],
+      [
+        "therapist",
+        "Guess what I did on Saturday?"
+      ],
+      [
+        "therapist",
+        "I went to a party at my friend's house and there was a big cake shaped like a guitar."
+      ],
+      [
+        "child",
+        "A guitar cake?"
+      ],
+      [
+        "therapist",
+        "Yes!"
+      ],
+      [
+        "therapist",
+        "It even had strings made of liquorice."
+      ],
+      [
+        "therapist",
+        "Did you do anything this week?"
+      ],
+      [
+        "child",
+        "There was the disco."
+      ],
+      [
+        "therapist",
+        "A disco!"
+      ],
+      [
+        "child",
+        "Where was it?"
+      ],
+      [
+        "child",
+        "At school."
+      ],
+      [
+        "child",
+        "In the hall."
+      ],
+      [
+        "child",
+        "There was big lights, the coloured ones."
+      ],
+      [
+        "therapist",
+        "Coloured lights in the hall."
+      ],
+      [
+        "therapist",
+        "Who was there?"
+      ],
+      [
+        "child",
+        "Me and Kayla and Ruby."
+      ],
+      [
+        "child",
+        "And Mr Dean."
+      ],
+      [
+        "child",
+        "He's our teacher."
+      ],
+      [
+        "therapist",
+        "Mr Dean, your teacher."
+      ],
+      [
+        "therapist",
+        "What did you do at the disco?"
+      ],
+      [
+        "child",
+        "I don't know."
+      ],
+      [
+        "therapist",
+        "You don't know."
+      ],
+      [
+        "therapist",
+        "Have a think."
+      ],
+      [
+        "therapist",
+        "What did you and Kayla and Ruby do?"
+      ],
+      [
+        "child",
+        "Um."
+      ],
+      [
+        "child",
+        "I wore my glitter top."
+      ],
+      [
+        "child",
+        "The one with the star."
+      ],
+      [
+        "therapist",
+        "Your glitter top with the star."
+      ],
+      [
+        "child",
+        "Cos it's my best one."
+      ],
+      [
+        "child",
+        "It goes all different colours when you rub it."
+      ],
+      [
+        "child",
+        "Wow."
+      ],
+      [
+        "child",
+        "It changes colour."
+      ],
+      [
+        "therapist",
+        "You must have felt so proud wearing that."
+      ],
+      [
+        "child",
+        "Kayla had one too but hers was a heart."
+      ],
+      [
+        "therapist",
+        "A heart one."
+      ],
+      [
+        "therapist",
+        "What was the disco like?"
+      ],
+      [
+        "child",
+        "It was the best."
+      ],
+      [
+        "child",
+        "The best one ever."
+      ],
+      [
+        "therapist",
+        "The best one ever!"
+      ],
+      [
+        "therapist",
+        "Have you been to a disco?"
+      ],
+      [
+        "child",
+        "A long time ago, when I was at school."
+      ],
+      [
+        "therapist",
+        "What happened at the end?"
+      ],
+      [
+        "child",
+        "My mum picked me up and we got chips on the way home."
+      ],
+      [
+        "therapist",
+        "Chips on the way home."
+      ],
+      [
+        "therapist",
+        "How was it when it finished?"
+      ],
+      [
+        "child",
+        "I was a bit sad when it finished because I wanted it to keep going."
+      ],
+      [
+        "therapist",
+        "You wanted it to keep going."
+      ],
+      [
+        "therapist",
+        "Let me tell you your story back."
+      ],
+      [
+        "therapist",
+        "There was a disco at school, in the hall, with the coloured lights."
+      ],
+      [
+        "therapist",
+        "You were there with Kayla and Ruby and Mr Dean."
+      ],
+      [
+        "therapist",
+        "You wore your glitter top with the star, because it's your best one."
+      ],
+      [
+        "child",
+        "It was the best one ever."
+      ],
+      [
+        "therapist",
+        "At the end, Mum picked you up and you got chips on the way home, and you were a bit sad when it finished because you wanted it to keep going."
+      ],
+      [
+        "therapist",
+        "And Kayla had a heart."
+      ],
+      [
+        "therapist",
+        "And Kayla had a heart on hers."
+      ],
+      [
+        "therapist",
+        "Thank you, Poppy."
+      ]
+    ],
+    "echoes_relabelled": [
+      38
+    ]
+  },
+  "labelled_transcript": "Therapist. Hi Poppy. Guess what I did on Saturday? I went to a party at my friend's house and there was a big cake shaped like a guitar. Child. A guitar cake? Therapist. Yes! It even had strings made of liquorice. Did you do anything this week? Child. There was the disco. Therapist. A disco! Child. Where was it? At school. In the hall. There was big lights, the coloured ones. Therapist. Coloured lights in the hall. Who was there? Child. Me and Kayla and Ruby. And Mr Dean. He's our teacher. Therapist. Mr Dean, your teacher. What did you do at the disco? Child. I don't know. Therapist. You don't know. Have a think. What did you and Kayla and Ruby do? Child. Um. I wore my glitter top. The one with the star. Therapist. Your glitter top with the star. Child. Cos it's my best one. It goes all different colours when you rub it. Wow. It changes colour. Therapist. You must have felt so proud wearing that. Child. Kayla had one too but hers was a heart. Therapist. A heart one. What was the disco like? Child. It was the best. The best one ever. Therapist. The best one ever! Have you been to a disco? Child. A long time ago, when I was at school. Therapist. What happened at the end? Child. My mum picked me up and we got chips on the way home. Therapist. Chips on the way home. How was it when it finished? Child. I was a bit sad when it finished because I wanted it to keep going. Therapist. You wanted it to keep going. Let me tell you your story back. There was a disco at school, in the hall, with the coloured lights. You were there with Kayla and Ruby and Mr Dean. You wore your glitter top with the star, because it's your best one. Child. It was the best one ever. Therapist. At the end, Mum picked you up and you got chips on the way home, and you were a bit sad when it finished because you wanted it to keep going. And Kayla had a heart. And Kayla had a heart on hers. Thank you, Poppy.",
+  "facts": {
+    "child_turns": 13,
+    "mean_words_per_turn": 9.6,
+    "sequence_words": [],
+    "vague_words": [],
+    "child_text": [
+      "A guitar cake?",
+      "There was the disco.",
+      "Where was it? At school. In the hall. There was big lights, the coloured ones.",
+      "Me and Kayla and Ruby. And Mr Dean. He's our teacher.",
+      "I don't know.",
+      "Um. I wore my glitter top. The one with the star.",
+      "Cos it's my best one. It goes all different colours when you rub it. Wow. It changes colour.",
+      "Kayla had one too but hers was a heart.",
+      "It was the best. The best one ever.",
+      "A long time ago, when I was at school.",
+      "My mum picked me up and we got chips on the way home.",
+      "I was a bit sad when it finished because I wanted it to keep going.",
+      "It was the best one ever."
+    ],
+    "feelings": [
+      {
+        "word": "sad",
+        "child_words": "I was a bit sad when it finished because I wanted it to keep going.",
+        "named": true
+      },
+      {
+        "word": "happy",
+        "child_words": "It was the best one ever.",
+        "named": false
+      }
+    ],
+    "reasons": [
+      {
+        "child_words": "Cos it's my best one",
+        "linked": true,
+        "about_feeling": false
+      },
+      {
+        "child_words": "It goes all different colours when you rub it. Wow. It changes colour",
+        "linked": false,
+        "about_feeling": false
+      },
+      {
+        "child_words": "Because I wanted it to keep going",
+        "linked": true,
+        "about_feeling": true
+      }
+    ],
+    "feeling_reasons": [
+      "Because I wanted it to keep going"
+    ]
+  },
+  "checked": {
+    "event": "school disco",
+    "who": {
+      "given": true,
+      "child_words": "Me and Kayla and Ruby. And Mr Dean. He's our teacher.",
+      "rejected_claim": ""
+    },
+    "where": {
+      "given": true,
+      "child_words": "At school. In the hall.",
+      "rejected_claim": ""
+    },
+    "what_happened": {
+      "given": true,
+      "child_words": "I wore my glitter top. The one with the star. Cos it's my best one. It goes all different colours when you rub it. Wow. It changes colour. Kayla had one too but hers was a heart. It was the best. The best one ever.",
+      "rejected_claim": ""
+    },
+    "ending": {
+      "given": true,
+      "child_words": "My mum picked me up and we got chips on the way home. I was a bit sad when it finished because I wanted it to keep going.",
+      "rejected_claim": ""
+    }
+  },
+  "written": {
+    "summary": "The child told about a school disco. They mentioned a guitar cake, big coloured lights in the hall, and wearing a glitter top with a star that changes colour. They also talked about being picked up by their mum and getting chips on the way home.",
+    "goals": [
+      "Put events in order with words like 'first' and 'then'."
+    ],
+    "focus": [
+      "The child will sequence events using 'first' and 'then' to show order."
+    ],
+    "prompts": [
+      "Can you tell me what you did first and then what you did next?"
+    ]
+  }
+}

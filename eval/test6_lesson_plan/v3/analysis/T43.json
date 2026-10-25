@@ -1,0 +1,274 @@
+{
+  "labelled": true,
+  "speakers": "auto",
+  "auto_labels": {
+    "method": "pieces",
+    "segments": [
+      [
+        "therapist",
+        "hi leo"
+      ],
+      [
+        "child",
+        "hi hows things"
+      ],
+      [
+        "therapist",
+        "fine ive got a quick story from yesterday"
+      ],
+      [
+        "therapist",
+        "i put my lunch in the fridge at work and then forgot it was there so i bought another one"
+      ],
+      [
+        "therapist",
+        "thats not very efficient"
+      ],
+      [
+        "child",
+        "no it wasnt."
+      ],
+      [
+        "therapist",
+        "anything happened to you"
+      ],
+      [
+        "child",
+        "the football thing"
+      ],
+      [
+        "therapist",
+        "what football thing"
+      ],
+      [
+        "child",
+        "training"
+      ],
+      [
+        "therapist",
+        "where was it"
+      ],
+      [
+        "child",
+        "sports hall"
+      ],
+      [
+        "therapist",
+        "who was there"
+      ],
+      [
+        "child",
+        "me and coach and the under fifteens"
+      ],
+      [
+        "therapist",
+        "what happened"
+      ],
+      [
+        "child",
+        "we were doing a drill where you pass and move and i went the wrong way"
+      ],
+      [
+        "therapist",
+        "what did the coach say"
+      ],
+      [
+        "child",
+        "he said wrong cone"
+      ],
+      [
+        "therapist",
+        "what did you do then"
+      ],
+      [
+        "child",
+        "went to the other cone"
+      ],
+      [
+        "therapist",
+        "how did you feel"
+      ],
+      [
+        "child",
+        "my stomach dropped"
+      ],
+      [
+        "therapist",
+        "that sounds embarrassing"
+      ],
+      [
+        "child",
+        "no its just my stomach did that"
+      ],
+      [
+        "therapist",
+        "okay i wont label it for you then"
+      ],
+      [
+        "child",
+        "everyone had to reset because i was in the wrong place"
+      ],
+      [
+        "therapist",
+        "what happened after the reset"
+      ],
+      [
+        "child",
+        "i got it right the next time"
+      ],
+      [
+        "therapist",
+        "was that the end of the drill"
+      ],
+      [
+        "child",
+        "no we did it for another ten minutes and then"
+      ],
+      [
+        "therapist",
+        "what coach split us into teams for a match"
+      ],
+      [
+        "child",
+        "did you play in the match"
+      ],
+      [
+        "child",
+        "yes what happened at the end"
+      ],
+      [
+        "child",
+        "we finished and coach said next week we are doing fitness"
+      ],
+      [
+        "therapist",
+        "so you were in the sports hall with the coach and under fifteens"
+      ],
+      [
+        "therapist",
+        "you went to the wrong cone"
+      ],
+      [
+        "therapist",
+        "the group reset"
+      ],
+      [
+        "therapist",
+        "you got it right next time"
+      ],
+      [
+        "therapist",
+        "and then you played a match"
+      ],
+      [
+        "therapist",
+        "before coach told you about next week"
+      ],
+      [
+        "child",
+        "yeah anything else"
+      ],
+      [
+        "child",
+        "no thanks leo can i get"
+      ],
+      [
+        "child",
+        "my bag"
+      ]
+    ],
+    "echoes_relabelled": []
+  },
+  "labelled_transcript": "Therapist. hi leo Child. hi hows things Therapist. fine ive got a quick story from yesterday i put my lunch in the fridge at work and then forgot it was there so i bought another one thats not very efficient Child. no it wasnt. Therapist. anything happened to you Child. the football thing Therapist. what football thing Child. training Therapist. where was it Child. sports hall Therapist. who was there Child. me and coach and the under fifteens Therapist. what happened Child. we were doing a drill where you pass and move and i went the wrong way Therapist. what did the coach say Child. he said wrong cone Therapist. what did you do then Child. went to the other cone Therapist. how did you feel Child. my stomach dropped Therapist. that sounds embarrassing Child. no its just my stomach did that Therapist. okay i wont label it for you then Child. everyone had to reset because i was in the wrong place Therapist. what happened after the reset Child. i got it right the next time Therapist. was that the end of the drill Child. no we did it for another ten minutes and then Therapist. what coach split us into teams for a match Child. did you play in the match yes what happened at the end we finished and coach said next week we are doing fitness Therapist. so you were in the sports hall with the coach and under fifteens you went to the wrong cone the group reset you got it right next time and then you played a match before coach told you about next week Child. yeah anything else no thanks leo can i get my bag",
+  "facts": {
+    "child_turns": 16,
+    "mean_words_per_turn": 7.2,
+    "sequence_words": [
+      "next",
+      "then"
+    ],
+    "vague_words": [
+      "thing",
+      "things"
+    ],
+    "child_text": [
+      "hi hows things",
+      "no it wasnt.",
+      "the football thing",
+      "training",
+      "sports hall",
+      "me and coach and the under fifteens",
+      "we were doing a drill where you pass and move and i went the wrong way",
+      "he said wrong cone",
+      "went to the other cone",
+      "my stomach dropped",
+      "no its just my stomach did that",
+      "everyone had to reset because i was in the wrong place",
+      "i got it right the next time",
+      "no we did it for another ten minutes and then",
+      "did you play in the match yes what happened at the end we finished and coach said next week we are doing fitness",
+      "yeah anything else no thanks leo can i get my bag"
+    ],
+    "feelings": [
+      {
+        "word": "embarrassment",
+        "child_words": "my stomach dropped",
+        "named": false
+      }
+    ],
+    "reasons": [
+      {
+        "child_words": "we were doing a drill where you pass and move and i went the wrong way",
+        "linked": false,
+        "about_feeling": false
+      },
+      {
+        "child_words": "everyone had to reset because i was in the wrong place",
+        "linked": true,
+        "about_feeling": false
+      }
+    ],
+    "feeling_reasons": []
+  },
+  "checked": {
+    "event": "football training",
+    "who": {
+      "given": true,
+      "child_words": "me and coach and the under fifteens",
+      "rejected_claim": ""
+    },
+    "where": {
+      "given": true,
+      "child_words": "sports hall",
+      "rejected_claim": ""
+    },
+    "what_happened": {
+      "given": true,
+      "child_words": "we were doing a drill where you pass and move and i went the wrong way",
+      "rejected_claim": ""
+    },
+    "ending": {
+      "given": true,
+      "child_words": "did you play in the match yes what happened at the end we finished and coach said next week we are doing fitness",
+      "rejected_claim": ""
+    }
+  },
+  "written": {
+    "summary": "The child told about football training at the sports hall with the under fifteens. They mentioned going the wrong way during a drill, being told to go to the other cone, everyone resetting, getting it right next time, doing the drill for another ten minutes, playing in the match, finishing training, and the coach saying they will do fitness next week.",
+    "goals": [
+      "Name the feeling with a feeling word.",
+      "Say why they felt that way.",
+      "Use the exact word instead of vague words like 'stuff' or 'thing'."
+    ],
+    "focus": [
+      "The child will name their feeling using a specific feeling word.",
+      "The child will explain the reason for their feeling.",
+      "The child will use an exact word instead of a vague word like 'stuff' or 'thing'."
+    ],
+    "prompts": [
+      "What feeling did you have when you did it?",
+      "Why did you feel that way when you did it?",
+      "What exact word did you use for the thing you did?"
+    ]
+  }
+}

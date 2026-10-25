@@ -1,0 +1,45 @@
+Session sci-1
+
+Reachy (greeting, not rated): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Science test.
+Reachy (reply 21): That sounds like an interesting event. What happened during the science test?
+
+You: Sat next to Ella. No talking.
+Reachy (reply 22): And how did that make you feel, having no one to talk to during the test?
+
+You: Worried.
+Reachy (reply 23): Feeling worried is understandable. How did the exam go in the end?
+
+You: Finished time.
+Reachy (reply 24): That's good to hear. Did anything else happen that day besides having a science test and sitting next to Ella?
+
+You: Break time. Snack with Ella.
+Reachy (not picked for rating): Snack time with Ella sounds nice. Can you say more about what happened during break?
+
+You: I don't know.
+Reachy (reply 25): It's okay not to have many details right now. Did anything specific happen during your snack?
+
+You: Fine.
+Reachy (reply 26): That’s good to hear. Thank you for sharing those moments with me today.
+
+You: Yeah.
+Reachy (reply 27): Is there anything else from the day you wanted to talk about?
+
+You: The moon question.
+Reachy (reply 28): What was special about asking or answering the moon question?
+
+You: Stuck on it.
+Reachy (not picked for rating): It sounds like that made things a bit tricky. Can you remember what part of the question was stumping you?
+
+You: Can't remember.
+Reachy (reply 29): Sometimes not remembering can be challenging. Is there anything specific about your day that stands out to you now?
+
+You: Test results next week.
+Reachy (reply 30): That's something important coming up. Did the test result bring any thoughts or feelings for you?
+
+You: Bye.
+Reachy (scripted, not rated): Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+You: No.
+Reachy (scripted, not rated): Okay. Thank you for sharing your day with me, April. Goodbye.

@@ -1,0 +1,343 @@
+{
+  "labelled": true,
+  "speakers": "auto",
+  "auto_labels": {
+    "method": "sentences",
+    "segments": [
+      [
+        "therapist",
+        "Hi Aisha."
+      ],
+      [
+        "therapist",
+        "How have things been since I saw you last?"
+      ],
+      [
+        "child",
+        "Fine."
+      ],
+      [
+        "child",
+        "Okay."
+      ],
+      [
+        "therapist",
+        "I've got a little story from my weekend if that's all right."
+      ],
+      [
+        "therapist",
+        "I went to the supermarket on Saturday and the self-checkout kept telling me to put things in the bagging area when they were already there."
+      ],
+      [
+        "therapist",
+        "I moved the things around a bit and eventually got through."
+      ],
+      [
+        "child",
+        "Ours does that."
+      ],
+      [
+        "therapist",
+        "Does it?"
+      ],
+      [
+        "therapist",
+        "What happened for you this week?"
+      ],
+      [
+        "child",
+        "We had a fire alarm."
+      ],
+      [
+        "therapist",
+        "Oh, a fire alarm."
+      ],
+      [
+        "therapist",
+        "Tell me a bit about that."
+      ],
+      [
+        "child",
+        "At school."
+      ],
+      [
+        "therapist",
+        "Right, at school."
+      ],
+      [
+        "therapist",
+        "Was it during a lesson or at break?"
+      ],
+      [
+        "child",
+        "Maths."
+      ],
+      [
+        "therapist",
+        "You were in maths."
+      ],
+      [
+        "therapist",
+        "What happened when it went off?"
+      ],
+      [
+        "child",
+        "It was really loud."
+      ],
+      [
+        "child",
+        "Miss Patel said leave everything and line up."
+      ],
+      [
+        "therapist",
+        "What did you do?"
+      ],
+      [
+        "child",
+        "Put my book down."
+      ],
+      [
+        "child",
+        "Everyone got up at once and the chairs scraped."
+      ],
+      [
+        "therapist",
+        "That sounds like a lot of noise all together."
+      ],
+      [
+        "child",
+        "Yeah."
+      ],
+      [
+        "child",
+        "And the alarm was still going."
+      ],
+      [
+        "therapist",
+        "Where did you go after you left the classroom?"
+      ],
+      [
+        "child",
+        "The playground."
+      ],
+      [
+        "child",
+        "We had to stand by the fence."
+      ],
+      [
+        "therapist",
+        "Did you stay with your class?"
+      ],
+      [
+        "child",
+        "Yes."
+      ],
+      [
+        "therapist",
+        "And how was it for you, being out there?"
+      ],
+      [
+        "child",
+        "My ears felt all buzzy afterwards."
+      ],
+      [
+        "child",
+        "I didn't like it."
+      ],
+      [
+        "therapist",
+        "You didn't like it, and your ears felt buzzy afterwards."
+      ],
+      [
+        "therapist",
+        "Was there anything else that was difficult?"
+      ],
+      [
+        "child",
+        "People were talking over the alarm."
+      ],
+      [
+        "child",
+        "Like, why are you talking?"
+      ],
+      [
+        "therapist",
+        "You can't even hear yourself."
+      ],
+      [
+        "therapist",
+        "That must have been really stressful for you."
+      ],
+      [
+        "child",
+        "I just wanted everyone to be quiet."
+      ],
+      [
+        "therapist",
+        "What happened next?"
+      ],
+      [
+        "child",
+        "We went back in."
+      ],
+      [
+        "therapist",
+        "Was the lesson finished by then?"
+      ],
+      [
+        "child",
+        "No, we had about twenty minutes left."
+      ],
+      [
+        "therapist",
+        "So you went back into maths with twenty minutes of the lesson left."
+      ],
+      [
+        "therapist",
+        "Let's have a look at our story planner."
+      ],
+      [
+        "therapist",
+        "We've got who, where, what happened and how it ended."
+      ],
+      [
+        "therapist",
+        "Is there anything you'd like to add?"
+      ],
+      [
+        "child",
+        "Miss Patel told us to get our books out again."
+      ],
+      [
+        "child",
+        "You put your book down when the alarm went off, lined up with the class, stood by the fence in the playground, and then went back into maths with twenty minutes left."
+      ],
+      [
+        "therapist",
+        "Miss Patel told you to get your books out again."
+      ],
+      [
+        "child",
+        "Yeah."
+      ],
+      [
+        "therapist",
+        "Have I got that right?"
+      ],
+      [
+        "child",
+        "Yes."
+      ],
+      [
+        "therapist",
+        "Thanks, Aisha."
+      ],
+      [
+        "therapist",
+        "We can leave it there for today."
+      ],
+      [
+        "child",
+        "Okay."
+      ]
+    ],
+    "echoes_relabelled": []
+  },
+  "labelled_transcript": "Therapist. Hi Aisha. How have things been since I saw you last? Child. Fine. Okay. Therapist. I've got a little story from my weekend if that's all right. I went to the supermarket on Saturday and the self-checkout kept telling me to put things in the bagging area when they were already there. I moved the things around a bit and eventually got through. Child. Ours does that. Therapist. Does it? What happened for you this week? Child. We had a fire alarm. Therapist. Oh, a fire alarm. Tell me a bit about that. Child. At school. Therapist. Right, at school. Was it during a lesson or at break? Child. Maths. Therapist. You were in maths. What happened when it went off? Child. It was really loud. Miss Patel said leave everything and line up. Therapist. What did you do? Child. Put my book down. Everyone got up at once and the chairs scraped. Therapist. That sounds like a lot of noise all together. Child. Yeah. And the alarm was still going. Therapist. Where did you go after you left the classroom? Child. The playground. We had to stand by the fence. Therapist. Did you stay with your class? Child. Yes. Therapist. And how was it for you, being out there? Child. My ears felt all buzzy afterwards. I didn't like it. Therapist. You didn't like it, and your ears felt buzzy afterwards. Was there anything else that was difficult? Child. People were talking over the alarm. Like, why are you talking? Therapist. You can't even hear yourself. That must have been really stressful for you. Child. I just wanted everyone to be quiet. Therapist. What happened next? Child. We went back in. Therapist. Was the lesson finished by then? Child. No, we had about twenty minutes left. Therapist. So you went back into maths with twenty minutes of the lesson left. Let's have a look at our story planner. We've got who, where, what happened and how it ended. Is there anything you'd like to add? Child. Miss Patel told us to get our books out again. You put your book down when the alarm went off, lined up with the class, stood by the fence in the playground, and then went back into maths with twenty minutes left. Therapist. Miss Patel told you to get your books out again. Child. Yeah. Therapist. Have I got that right? Child. Yes. Therapist. Thanks, Aisha. We can leave it there for today. Child. Okay.",
+  "facts": {
+    "child_turns": 19,
+    "mean_words_per_turn": 7.3,
+    "sequence_words": [
+      "afterwards",
+      "then"
+    ],
+    "vague_words": [],
+    "child_text": [
+      "Fine. Okay.",
+      "Ours does that.",
+      "We had a fire alarm.",
+      "At school.",
+      "Maths.",
+      "It was really loud. Miss Patel said leave everything and line up.",
+      "Put my book down. Everyone got up at once and the chairs scraped.",
+      "Yeah. And the alarm was still going.",
+      "The playground. We had to stand by the fence.",
+      "Yes.",
+      "My ears felt all buzzy afterwards. I didn't like it.",
+      "People were talking over the alarm. Like, why are you talking?",
+      "I just wanted everyone to be quiet.",
+      "We went back in.",
+      "No, we had about twenty minutes left.",
+      "Miss Patel told us to get our books out again. You put your book down when the alarm went off, lined up with the class, stood by the fence in the playground, and then went back into maths with twenty minutes left.",
+      "Yeah.",
+      "Yes.",
+      "Okay."
+    ],
+    "feelings": [
+      {
+        "word": "annoyed",
+        "child_words": "I just wanted everyone to be quiet.",
+        "named": false
+      },
+      {
+        "word": "uncomfortable",
+        "child_words": "My ears felt all buzzy afterwards. I didn't like it.",
+        "named": false
+      }
+    ],
+    "reasons": [
+      {
+        "child_words": "People were talking over the alarm. Like, why are you talking?",
+        "linked": false,
+        "about_feeling": false
+      },
+      {
+        "child_words": "I just wanted everyone to be quiet.",
+        "linked": false,
+        "about_feeling": false
+      }
+    ],
+    "feeling_reasons": []
+  },
+  "checked": {
+    "event": "Fire alarm at school",
+    "who": {
+      "given": true,
+      "child_words": "People were talking over the alarm. Like, why are you talking?",
+      "rejected_claim": ""
+    },
+    "where": {
+      "given": true,
+      "child_words": "At school.",
+      "rejected_claim": ""
+    },
+    "what_happened": {
+      "given": true,
+      "child_words": "It was really loud. Miss Patel said leave everything and line up. Put my book down. Everyone got up at once and the chairs scraped. And the alarm was still going. People were talking over the alarm. Like, why are you talking? I just wanted everyone to be quiet. We went back in.",
+      "rejected_claim": ""
+    },
+    "ending": {
+      "given": true,
+      "child_words": "We went back in. No, we had about twenty minutes left. Miss Patel told us to get our books out again. You put your book down when the alarm went off, lined up with the class, stood by the fence in the playground, and then went back into maths with twenty minutes left.",
+      "rejected_claim": ""
+    }
+  },
+  "written": {
+    "summary": "The child told that there was a fire alarm at school during maths. The alarm was really loud and everyone had to leave everything and line up. They stood by the fence in the playground and then went back into maths with twenty minutes left.",
+    "goals": [
+      "Name the feeling with a feeling word.",
+      "Say why they felt that way.",
+      "Link a reason with 'because' or 'so'."
+    ],
+    "focus": [
+      "The child will name their feeling using a feeling word.",
+      "The child will explain why they felt that way.",
+      "The child will link a reason to their feeling using 'because' or 'so'."
+    ],
+    "prompts": [
+      "What feeling did you have when you did it?",
+      "Why did you feel that way when you did it?",
+      "Did you feel that way because of what you did, or so you could do something else?"
+    ]
+  }
+}

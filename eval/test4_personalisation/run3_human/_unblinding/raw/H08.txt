@@ -1,0 +1,61 @@
+[Human] session H08, condition B, "I don't know" at turn 6
+[Isolation] new process pid 403776; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (3.7s)
+[Supabase] client_profiles error: {'message': 'Cannot coerce the result to a single JSON object', 'code': 'PGRST116', 'hint': None, 'details': 'The result contains 0 rows'}
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Went bowling
+[State] Selected event: Went bowling for Mia's birthday
+
+Reachy: Goes well with a fun birthday! Who was there?
+
+[Latency] Turn: 2.78s
+You: yeah, it was Mia's birthday, i can't remember who else was there
+
+Reachy: That sounds nice! What other details do you remember about that trip to the bowling alley?
+
+[Latency] Turn: 2.79s
+You: we had pizza and cake
+
+Reachy: Pizza and cake sound yummy. Did anyone play games or talk much during your time at the bowling alley?
+
+[Latency] Turn: 2.72s
+You: yeah we talked a bunch
+
+Reachy: That sounds nice talking! How did you feel during that trip to the bowling alley?
+
+[Latency] Turn: 2.62s
+You: happy
+
+Reachy: Happy is good to hear! Do you have any more details about what made you happy?
+
+[Latency] Turn: 2.49s
+You: i dont know
+
+Reachy: It's okay if it's not much. Sometimes big things can start with small moments. How else did the trip feel?
+
+[Latency] Turn: 2.74s
+You: it was a bit nervous when everyone was singing happy birthday, all the other lanes were looking at us
+
+Reachy: Nervous and excited sounds like fun! What happened next after you started bowling?
+
+[Latency] Turn: 2.55s
+You: i came second
+
+Reachy: Coming in second is great! How did that make you feel?
+
+[Latency] Turn: 2.63s
+You: proud
+
+Reachy: Proud! That's wonderful to hear. Do you have any final thoughts about your bowling trip?
+
+[Latency] Turn: 2.55s
+You: no
+
+Reachy: Having a happy day at Mia's birthday party must be really special. Is there anything else you want to talk about today?
+
+[Latency] Turn: 2.82s
+[Human] Ended by the player before Reachy's goodbye.
+[Human] Session over.

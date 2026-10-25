@@ -1,0 +1,29 @@
+Note: this transcript had no speaker labels, so they were added automatically. A few sentences may be credited to the wrong speaker, most often where the therapist repeats the child's words.
+
+1. **Narrative Summary**
+   - The child told that there was a fire drill. Everybody, all the classes and the teachers were there. The child put their hands on their ears because it was really loud. The child thought it was a real fire and was worried. The child said they all lined up and Mrs Khan counted them. Everybody was there. Mrs Khan said it was just practice so they went back in. The child was glad.
+   - The child spoke 9 times, averaging 7 words.
+
+2. **Communication Strengths**
+   - Said who was there: "Everybody. All the classes. And the teachers."
+   - Said what happened: "It was really loud, so I put my hands on my ears. Worried. I thought it was a real fire. We all lined up. Mrs Khan counted us. She said it was just practice. So we went back in. I was glad."
+   - Said how it ended: "She said it was just practice. So we went back in. I was glad."
+   - Gave a reason: "It was really loud, so I put my hands on my ears."
+   - Gave a reason: "She said it was just practice. So we went back in. I was glad."
+   - Named feelings: worried, glad
+
+3. **Communication Gaps**
+   - Did not say where it happened.
+
+4. **Emotional Understanding**
+   - Named "worried": "Worried. I thought it was a real fire."
+   - Named "glad": "She said it was just practice. So we went back in. I was glad."
+   - Explained a feeling: "She said it was just practice. So we went back in. I was glad."
+
+5. **Recommended Future Lesson Focus**
+   - The child will describe where an event happened.
+   - The child will sequence events using 'first' and 'then'.
+
+6. **Suggested Reachy Prompts**
+   - "Where did it happen?"
+   - "Was it first or then?"

@@ -1,0 +1,251 @@
+{
+  "labelled": true,
+  "speakers": "auto",
+  "auto_labels": {
+    "method": "sentences",
+    "segments": [
+      [
+        "therapist",
+        "Hi there."
+      ],
+      [
+        "therapist",
+        "Today we're going to talk about something that really happened to you."
+      ],
+      [
+        "therapist",
+        "I'll go first and then it'll be your turn."
+      ],
+      [
+        "therapist",
+        "Last night I was cooking spaghetti and I spilled the sauce all over the floor."
+      ],
+      [
+        "therapist",
+        "I was really annoyed."
+      ],
+      [
+        "therapist",
+        "Then my dog licked it all up."
+      ],
+      [
+        "therapist",
+        "Okay, now it's your turn."
+      ],
+      [
+        "child",
+        "I made cookies."
+      ],
+      [
+        "therapist",
+        "You made cookies."
+      ],
+      [
+        "child",
+        "Who did you make them with?"
+      ],
+      [
+        "child",
+        "My grandma."
+      ],
+      [
+        "child",
+        "At her house."
+      ],
+      [
+        "therapist",
+        "With your grandma at her house."
+      ],
+      [
+        "therapist",
+        "What happened?"
+      ],
+      [
+        "child",
+        "We got the flour and the butter."
+      ],
+      [
+        "child",
+        "And chocolate chips."
+      ],
+      [
+        "therapist",
+        "Flour, butter and chocolate chips."
+      ],
+      [
+        "child",
+        "Then what?"
+      ],
+      [
+        "child",
+        "I did the mixing because Grandma said I'm good at it."
+      ],
+      [
+        "therapist",
+        "You did the mixing because Grandma said you're good at it."
+      ],
+      [
+        "therapist",
+        "What happened next?"
+      ],
+      [
+        "child",
+        "We put them in the oven."
+      ],
+      [
+        "child",
+        "They were too hot, so we waited."
+      ],
+      [
+        "therapist",
+        "They were too hot, so you waited."
+      ],
+      [
+        "therapist",
+        "How did you feel when you were making them?"
+      ],
+      [
+        "child",
+        "Um."
+      ],
+      [
+        "child",
+        "I don't know."
+      ],
+      [
+        "therapist",
+        "That's okay."
+      ],
+      [
+        "therapist",
+        "Were you happy, or something else?"
+      ],
+      [
+        "child",
+        "We ate one each."
+      ],
+      [
+        "therapist",
+        "You ate one each."
+      ],
+      [
+        "therapist",
+        "How did it end?"
+      ],
+      [
+        "child",
+        "Mum came and got me."
+      ],
+      [
+        "child",
+        "I took some home."
+      ],
+      [
+        "therapist",
+        "Let me say your story back to you."
+      ],
+      [
+        "therapist",
+        "You made cookies with your grandma at her house."
+      ],
+      [
+        "therapist",
+        "You did the mixing because Grandma said you're good at it."
+      ],
+      [
+        "therapist",
+        "They were too hot, so you waited, then you ate one each, and you took some home when Mum came to get you."
+      ],
+      [
+        "therapist",
+        "Did I get that right?"
+      ],
+      [
+        "child",
+        "Yeah."
+      ],
+      [
+        "child",
+        "Six cookies."
+      ],
+      [
+        "therapist",
+        "Thanks for telling me your story."
+      ],
+      [
+        "therapist",
+        "You did a really great job."
+      ]
+    ],
+    "echoes_relabelled": []
+  },
+  "labelled_transcript": "Therapist. Hi there. Today we're going to talk about something that really happened to you. I'll go first and then it'll be your turn. Last night I was cooking spaghetti and I spilled the sauce all over the floor. I was really annoyed. Then my dog licked it all up. Okay, now it's your turn. Child. I made cookies. Therapist. You made cookies. Child. Who did you make them with? My grandma. At her house. Therapist. With your grandma at her house. What happened? Child. We got the flour and the butter. And chocolate chips. Therapist. Flour, butter and chocolate chips. Child. Then what? I did the mixing because Grandma said I'm good at it. Therapist. You did the mixing because Grandma said you're good at it. What happened next? Child. We put them in the oven. They were too hot, so we waited. Therapist. They were too hot, so you waited. How did you feel when you were making them? Child. Um. I don't know. Therapist. That's okay. Were you happy, or something else? Child. We ate one each. Therapist. You ate one each. How did it end? Child. Mum came and got me. I took some home. Therapist. Let me say your story back to you. You made cookies with your grandma at her house. You did the mixing because Grandma said you're good at it. They were too hot, so you waited, then you ate one each, and you took some home when Mum came to get you. Did I get that right? Child. Yeah. Six cookies. Therapist. Thanks for telling me your story. You did a really great job.",
+  "facts": {
+    "child_turns": 9,
+    "mean_words_per_turn": 7.8,
+    "sequence_words": [
+      "then"
+    ],
+    "vague_words": [],
+    "child_text": [
+      "I made cookies.",
+      "Who did you make them with? My grandma. At her house.",
+      "We got the flour and the butter. And chocolate chips.",
+      "Then what? I did the mixing because Grandma said I'm good at it.",
+      "We put them in the oven. They were too hot, so we waited.",
+      "Um. I don't know.",
+      "We ate one each.",
+      "Mum came and got me. I took some home.",
+      "Yeah. Six cookies."
+    ],
+    "feelings": [],
+    "reasons": [
+      {
+        "child_words": "because Grandma said I'm good at it",
+        "linked": true,
+        "about_feeling": false
+      },
+      {
+        "child_words": "so we waited",
+        "linked": true,
+        "about_feeling": false
+      }
+    ],
+    "feeling_reasons": []
+  },
+  "checked": {
+    "event": "Making cookies",
+    "who": {
+      "given": true,
+      "child_words": "Who did you make them with? My grandma. At her house.",
+      "rejected_claim": ""
+    },
+    "where": {
+      "given": true,
+      "child_words": "At her house.",
+      "rejected_claim": ""
+    },
+    "what_happened": {
+      "given": true,
+      "child_words": "We got the flour and the butter. And chocolate chips. We put them in the oven. They were too hot, so we waited. We ate one each. I took some home.",
+      "rejected_claim": ""
+    },
+    "ending": {
+      "given": true,
+      "child_words": "Mum came and got me. I took some home.",
+      "rejected_claim": ""
+    }
+  },
+  "written": {
+    "summary": "The child told that they made cookies with their grandma at her house. They got flour, butter, and chocolate chips. The child did the mixing because Grandma said they were good at it. They put the cookies in the oven, waited because they were too hot, ate one each, and the child took some home. The child said they made six cookies.",
+    "goals": [
+      "Say how they felt."
+    ],
+    "focus": [
+      "The child will say how they felt during an event."
+    ],
+    "prompts": [
+      "How did you feel when it happened?"
+    ]
+  }
+}

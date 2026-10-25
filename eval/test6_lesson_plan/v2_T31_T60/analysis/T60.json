@@ -1,0 +1,359 @@
+{
+  "labelled": true,
+  "speakers": "auto",
+  "auto_labels": {
+    "sentences": [
+      [
+        "therapist",
+        "Hi, Ethan."
+      ],
+      [
+        "therapist",
+        "How's your week been?"
+      ],
+      [
+        "child",
+        "Yeah, alright."
+      ],
+      [
+        "child",
+        "I went to the supermarket after work yesterday and got to the till before realising I'd left my shopping bag at home."
+      ],
+      [
+        "therapist",
+        "Have you had anything happen recently that you'd like to tell me about?"
+      ],
+      [
+        "child",
+        "I went to the football with my uncle."
+      ],
+      [
+        "therapist",
+        "Oh, right."
+      ],
+      [
+        "therapist",
+        "Tell me about that."
+      ],
+      [
+        "child",
+        "It was Saturday."
+      ],
+      [
+        "child",
+        "Kick-off was three o'clock."
+      ],
+      [
+        "therapist",
+        "Which match did you go to?"
+      ],
+      [
+        "child",
+        "Leeds United under-21s."
+      ],
+      [
+        "therapist",
+        "Not the first team."
+      ],
+      [
+        "therapist",
+        "Who went with you?"
+      ],
+      [
+        "child",
+        "My uncle Mark."
+      ],
+      [
+        "therapist",
+        "Where was the match?"
+      ],
+      [
+        "child",
+        "At the training ground, not Elland Road."
+      ],
+      [
+        "therapist",
+        "What happened when you got there?"
+      ],
+      [
+        "child",
+        "We had to park further away because the main bit was full."
+      ],
+      [
+        "child",
+        "There were cones everywhere."
+      ],
+      [
+        "therapist",
+        "What happened once you got inside?"
+      ],
+      [
+        "child",
+        "We stood near the fence."
+      ],
+      [
+        "therapist",
+        "You can stand closer there than at the proper stadium."
+      ],
+      [
+        "child",
+        "I counted the floodlights."
+      ],
+      [
+        "child",
+        "There were eight on the nearest side."
+      ],
+      [
+        "therapist",
+        "What happened during the match?"
+      ],
+      [
+        "child",
+        "Leeds scored first, about twelve minutes in."
+      ],
+      [
+        "child",
+        "Then the other team scored twice."
+      ],
+      [
+        "therapist",
+        "The second one was offside, I think."
+      ],
+      [
+        "therapist",
+        "What did you think when they scored the second goal?"
+      ],
+      [
+        "child",
+        "I was annoyed."
+      ],
+      [
+        "child",
+        "The linesman was right there."
+      ],
+      [
+        "therapist",
+        "You felt annoyed because you thought the decision was wrong?"
+      ],
+      [
+        "child",
+        "I said the linesman was right there."
+      ],
+      [
+        "therapist",
+        "You noticed where he was standing."
+      ],
+      [
+        "therapist",
+        "What happened after that?"
+      ],
+      [
+        "child",
+        "My uncle got a coffee."
+      ],
+      [
+        "child",
+        "I didn't want one because it smelled burnt."
+      ],
+      [
+        "therapist",
+        "Was the smell unpleasant for you?"
+      ],
+      [
+        "child",
+        "Yeah, it was rank."
+      ],
+      [
+        "therapist",
+        "What happened towards the end of the match?"
+      ],
+      [
+        "child",
+        "Leeds got another goal."
+      ],
+      [
+        "child",
+        "It was two-all."
+      ],
+      [
+        "therapist",
+        "How did you feel about the final score?"
+      ],
+      [
+        "child",
+        "Better than losing."
+      ],
+      [
+        "therapist",
+        "What happened when the match was over?"
+      ],
+      [
+        "child",
+        "We went to the car."
+      ],
+      [
+        "therapist",
+        "Did you do anything else after the match?"
+      ],
+      [
+        "child",
+        "We stopped at a petrol station and he got a sandwich."
+      ],
+      [
+        "therapist",
+        "Let me see if I've got the story right."
+      ],
+      [
+        "therapist",
+        "You went to watch Leeds United under-21s with your uncle Mark on Saturday."
+      ],
+      [
+        "therapist",
+        "You parked further away because the main parking area was full, watched the match from near the fence, and thought the second goal shouldn't have counted."
+      ],
+      [
+        "therapist",
+        "Leeds scored again and the match finished two-all."
+      ],
+      [
+        "therapist",
+        "You went back to the car and stopped at a petrol station."
+      ],
+      [
+        "child",
+        "Yeah."
+      ],
+      [
+        "therapist",
+        "The coffee smelled rank as well."
+      ],
+      [
+        "therapist",
+        "The coffee smell really bothered you."
+      ],
+      [
+        "therapist",
+        "Was that the main thing you disliked about the day?"
+      ],
+      [
+        "child",
+        "I don't know."
+      ],
+      [
+        "child",
+        "It was just a football match."
+      ],
+      [
+        "therapist",
+        "Fair enough."
+      ],
+      [
+        "therapist",
+        "We don't have to decide which part mattered most."
+      ],
+      [
+        "therapist",
+        "Is there anything else you want to add?"
+      ],
+      [
+        "child",
+        "No."
+      ],
+      [
+        "therapist",
+        "Thanks for telling me about it, Ethan."
+      ],
+      [
+        "therapist",
+        "We'll stop there for today."
+      ],
+      [
+        "child",
+        "Can I go back to class now?"
+      ]
+    ],
+    "echoes_relabelled": []
+  },
+  "labelled_transcript": "Therapist. Hi, Ethan. How's your week been? Child. Yeah, alright. I went to the supermarket after work yesterday and got to the till before realising I'd left my shopping bag at home. Therapist. Have you had anything happen recently that you'd like to tell me about? Child. I went to the football with my uncle. Therapist. Oh, right. Tell me about that. Child. It was Saturday. Kick-off was three o'clock. Therapist. Which match did you go to? Child. Leeds United under-21s. Therapist. Not the first team. Who went with you? Child. My uncle Mark. Therapist. Where was the match? Child. At the training ground, not Elland Road. Therapist. What happened when you got there? Child. We had to park further away because the main bit was full. There were cones everywhere. Therapist. What happened once you got inside? Child. We stood near the fence. Therapist. You can stand closer there than at the proper stadium. Child. I counted the floodlights. There were eight on the nearest side. Therapist. What happened during the match? Child. Leeds scored first, about twelve minutes in. Then the other team scored twice. Therapist. The second one was offside, I think. What did you think when they scored the second goal? Child. I was annoyed. The linesman was right there. Therapist. You felt annoyed because you thought the decision was wrong? Child. I said the linesman was right there. Therapist. You noticed where he was standing. What happened after that? Child. My uncle got a coffee. I didn't want one because it smelled burnt. Therapist. Was the smell unpleasant for you? Child. Yeah, it was rank. Therapist. What happened towards the end of the match? Child. Leeds got another goal. It was two-all. Therapist. How did you feel about the final score? Child. Better than losing. Therapist. What happened when the match was over? Child. We went to the car. Therapist. Did you do anything else after the match? Child. We stopped at a petrol station and he got a sandwich. Therapist. Let me see if I've got the story right. You went to watch Leeds United under-21s with your uncle Mark on Saturday. You parked further away because the main parking area was full, watched the match from near the fence, and thought the second goal shouldn't have counted. Leeds scored again and the match finished two-all. You went back to the car and stopped at a petrol station. Child. Yeah. Therapist. The coffee smelled rank as well. The coffee smell really bothered you. Was that the main thing you disliked about the day? Child. I don't know. It was just a football match. Therapist. Fair enough. We don't have to decide which part mattered most. Is there anything else you want to add? Child. No. Therapist. Thanks for telling me about it, Ethan. We'll stop there for today. Child. Can I go back to class now?",
+  "facts": {
+    "child_turns": 22,
+    "mean_words_per_turn": 7.9,
+    "reasons": [
+      "We had to park further away because the main bit was full. There were cones everywhere.",
+      "My uncle got a coffee. I didn't want one because it smelled burnt."
+    ],
+    "sequence_words": [
+      "after",
+      "before",
+      "first",
+      "then"
+    ],
+    "vague_words": [],
+    "feelings": [
+      {
+        "word": "annoyed",
+        "child_words": "I was annoyed. The linesman was right there."
+      }
+    ],
+    "feeling_reasons": [],
+    "child_text": [
+      "Yeah, alright. I went to the supermarket after work yesterday and got to the till before realising I'd left my shopping bag at home.",
+      "I went to the football with my uncle.",
+      "It was Saturday. Kick-off was three o'clock.",
+      "Leeds United under-21s.",
+      "My uncle Mark.",
+      "At the training ground, not Elland Road.",
+      "We had to park further away because the main bit was full. There were cones everywhere.",
+      "We stood near the fence.",
+      "I counted the floodlights. There were eight on the nearest side.",
+      "Leeds scored first, about twelve minutes in. Then the other team scored twice.",
+      "I was annoyed. The linesman was right there.",
+      "I said the linesman was right there.",
+      "My uncle got a coffee. I didn't want one because it smelled burnt.",
+      "Yeah, it was rank.",
+      "Leeds got another goal. It was two-all.",
+      "Better than losing.",
+      "We went to the car.",
+      "We stopped at a petrol station and he got a sandwich.",
+      "Yeah.",
+      "I don't know. It was just a football match.",
+      "No.",
+      "Can I go back to class now?"
+    ]
+  },
+  "checked": {
+    "event": "football match",
+    "who": {
+      "given": true,
+      "child_words": "my uncle Mark",
+      "rejected_claim": ""
+    },
+    "where": {
+      "given": true,
+      "child_words": "At the training ground, not Elland Road",
+      "rejected_claim": ""
+    },
+    "what_happened": {
+      "given": true,
+      "child_words": "Leeds scored first, about twelve minutes in. Then the other team scored twice. I was annoyed. The linesman was right there. My uncle got a coffee. I didn't want one because it smelled burnt. Leeds got another goal. It was two-all. We went to the car. We stopped at a petrol station and he got a sandwich.",
+      "rejected_claim": ""
+    },
+    "ending": {
+      "given": true,
+      "child_words": "We went to the car. We stopped at a petrol station and he got a sandwich.",
+      "rejected_claim": ""
+    }
+  },
+  "written": {
+    "summary": "The child told about going to a football match with his uncle Mark on Saturday. The match was between Leeds United under-21s and another team at a training ground. Leeds scored first, then the other team scored twice, and Leeds got another goal making it two-all. The child mentioned the linesman, the floodlights, parking, and stopping at a petrol station for a sandwich.",
+    "goals": [
+      "Say why they felt that way."
+    ],
+    "focus": [
+      "The child will explain their feelings about an event."
+    ],
+    "prompts": [
+      "Why did you feel that way about it?"
+    ]
+  }
+}

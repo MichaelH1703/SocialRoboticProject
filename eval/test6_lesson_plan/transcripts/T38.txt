@@ -1,0 +1,42 @@
+Therapist. hi harry how are you
+Child. fine
+Therapist. anything happened since last time
+Child. yeah dentist
+Therapist. was that a check up or something else
+Child. filling
+Therapist. what happened at the appointment
+Child. mum took me
+Therapist. where was it
+Child. the dentist
+Therapist. right what happened when you went in
+Child. sat in the chair and they put that bib thing on
+Therapist. what happened next
+Child. the light was right in my eyes and it smelled weird
+Therapist. was the smell the worst part or was it the light
+Child. the drill
+Therapist. the drill was the worst part
+Child. yeah it made a really high noise and i could feel it in my jaw
+Therapist. what did you do while they were using it
+Child. held the arms of the chair
+Therapist. did you tell the dentist anything
+Child. i put my hand up
+Therapist. what happened when you put your hand up
+Child. she stopped and said do you need a break
+Therapist. what did you say
+Child. i said yes
+Therapist. was it painful or was the noise difficult
+Child. both
+Therapist. that must have been frightening
+Child. dunno
+Therapist. okay you dont have to know. what happened after the break
+Child. she did the rest
+Therapist. did you have to go back another day
+Child. no finished it then
+Therapist. how did it end when you left
+Child. mum paid and we went home
+Therapist. so your mum took you to the dentist for a filling the light was in your eyes and the drill made a high noise you held the chair and put your hand up the dentist stopped for a break then finished the filling and you went home with mum
+Child. yeah
+Therapist. anything else
+Child. no
+Therapist. thanks harry thats all for today
+Child. can i get my coat

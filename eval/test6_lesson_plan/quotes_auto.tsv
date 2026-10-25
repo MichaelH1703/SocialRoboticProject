@@ -1,0 +1,28 @@
+transcript_id	quote	auto_match	speaker	closest_turn	similarity
+T01	deep end	exact	Child/Therapist	We did jumping in. In the deep end.	1.00
+T01	jumping,	exact	Child/Therapist	We did jumping in. In the deep end.	1.00
+T02	I went on the big slide	check	Child	We went on the big slide. Then pizza.	0.76
+T02	We had pizza.	check	Child	We went on the big slide. Then pizza.	0.47
+T02	Excited	exact	Child/Therapist	Excited. Really excited.	1.00
+T02	I sound like you were thrilled	check	Therapist	You sound like you were thrilled. What happened at the end of the party?	0.58
+T02	You sound like you were thrilled	exact	Therapist	You sound like you were thrilled. What happened at the end of the party?	1.00
+T03	upset	exact	Therapist	You sound really upset. What were you worried about?	1.00
+T03	worried	exact	Child/Therapist	This morning my car wouldn't start, so I had to get the bus. I was worried I'd be late because the bus was slow, but I got here in time.	1.00
+T03	new,	exact	Child/Therapist	It's my new coat.	1.00
+T04	too hot	exact	Child/Therapist	We put them in the oven. They were too hot, so we waited.	1.00
+T04	Grandma said I'm good at it,	exact	Child	I did the mixing because Grandma said I'm good at it.	1.00
+T04	We ate one each	exact	Child	We ate one each.	1.00
+T04	I don't know	exact	Child	Um. I don't know.	1.00
+T04	We ate one each,	exact	Child	We ate one each.	1.00
+T05	they	exact	Child/Therapist	I was in goal. They scored two.	1.00
+T05	the Tigers	exact	Child/Therapist	My team. The Tigers. And another team.	1.00
+T05	Really angry	exact	Child/Therapist	Angry. Really angry.	1.00
+T06	you	exact	Therapist	Hi there. Today we're going to talk about something that really happened to you. I'll go first and then it'll be your turn.	1.00
+T06	and,	exact	Child/Therapist	Hi there. Today we're going to talk about something that really happened to you. I'll go first and then it'll be your turn.	1.00
+T06	then	exact	Child/Therapist	Hi there. Today we're going to talk about something that really happened to you. I'll go first and then it'll be your turn.	1.00
+T06	I like lions	exact	Child	Excited. I like lions.	1.00
+T07	Stuff	exact	Child/Therapist	Um. Stuff.	1.00
+T08	My knee was red,	exact	Child	Um. My knee was red.	1.00
+T08	Um	exact	Child	Um. My knee was red.	1.00
+T08	My knee was red	exact	Child	Um. My knee was red.	1.00
+T08	I got a plaster and went inside	check	Child	I got a plaster. Then I went inside.	0.89

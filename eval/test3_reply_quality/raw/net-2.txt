@@ -1,0 +1,81 @@
+[Child sim] session net-2 (Played netball in PE), llama3.2:3b, temperature 0.3, seed 92
+[Isolation] new process pid 230208; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (3.9s)
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Netball.
+[State] Selected event: Played netball in PE
+
+Reachy: What did you do during netball?
+
+[Latency] Turn: 2.61s
+[Child sim] attempt 1 rejected (too long): 'Played goal defence. Caught the ball a lot. Blocked some shots.'
+You: Played goal defence. Caught ball a lot. Blocked shots.
+[Question limit] Dropped: 'What position were they in?'
+
+Reachy: Did anyone else play on the team with you?
+
+[Latency] Turn: 2.44s
+You: Grace. Jess. Some others.
+
+Reachy: Got to work together and had fun, right?
+
+[Latency] Turn: 2.61s
+You: Mm.
+
+Reachy: What did you enjoy most about your netball time?
+
+[Latency] Turn: 2.43s
+You: Caught ball a lot.
+
+Reachy: How does it feel when you catch the ball during netball, little one?
+
+[Latency] Turn: 2.52s
+You: I don't know.
+
+Reachy: Sometimes it feels like something fun happened when you do those nice catches, hmm?
+
+[Latency] Turn: 2.50s
+You: Yeah.
+
+Reachy: Got to celebrate more with friends for doing well together, didn't it?
+
+[Latency] Turn: 2.66s
+You: No.
+
+Reachy: Was there anything particular that made today stand out or something that surprised anyone, Grace or Jess?
+
+[Latency] Turn: 2.57s
+You: My team lost. Four goals six.
+
+Reachy: Oh, I see. And how did you feel about the result?
+
+[Latency] Turn: 2.53s
+You: Annoyed.
+
+Reachy: It must have been a bit disappointing to not win, huh?
+
+[Latency] Turn: 2.50s
+You: Fine.
+
+Reachy: Got to learn from the game and be ready for next time then, didn't it?
+
+[Latency] Turn: 2.59s
+You: Can't remember.
+
+Reachy: Sometimes we forget little things like that when we're focused on other parts of our day. What else do you recall happening besides catching balls?
+
+[Latency] Turn: 2.73s
+You: Bye.
+
+Reachy: Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+[State] Goodbye heard; confirming before ending.
+[Not spoken] Model's reply, dropped but kept in its history as on the robot: 'Okay, bye for now then. Maybe we can chat more another time if you want to remember something.'
+You: No.
+
+Reachy: Okay. Thank you for sharing your day with me, April. Goodbye.
+
+[State] Child confirmed goodbye; ending session.

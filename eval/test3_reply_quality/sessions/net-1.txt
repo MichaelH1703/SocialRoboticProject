@@ -1,0 +1,45 @@
+Session net-1
+
+Reachy (greeting, not rated): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Netball.
+Reachy (reply 61): Was there anything in particular that happened during the netball practice?
+
+You: Caught a lot of balls. Blocked some shots.
+Reachy (reply 62): Got blocked by someone or did you pass them the ball more often?
+
+You: Blocked them.
+Reachy (reply 63): Who were the other people playing with you in your team?
+
+You: Grace and Jess. Some others too.
+Reachy (reply 64): Good to know who you play with. How did it feel when you blocked shots from opponents?
+
+You: Fine.
+Reachy (reply 65): That's great to hear, Fine how do you mean?
+
+You: I don't know.
+Reachy (reply 66): Sometimes blocking shots can be tough on your legs or hands. Did you want to talk more about it or something else from today?
+
+You: No. Can't remember.
+Reachy (reply 67): Oh, is there anything else that stands out from the day that you might like to share?
+
+You: Lost. Four to six.
+Reachy (reply 68): Do you remember why you lost?
+
+You: Just was.
+Reachy (not picked for rating): You seem a little confused. Can someone or something make it easier for you to remember what happened today?
+
+You: Miss Kelly.
+Reachy (reply 69): Ms Kelly helped remind about the score, did she tell you why you might have lost?
+
+You: No.
+Reachy (not picked for rating): Okay then. Is there anything else from your day that you like to share or feel curious about?
+
+You: Yeah.
+Reachy (reply 70): Go on and what would you like to talk about today?
+
+You: Bye.
+Reachy (scripted, not rated): Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+You: No.
+Reachy (scripted, not rated): Okay. Thank you for sharing your day with me, April. Goodbye.

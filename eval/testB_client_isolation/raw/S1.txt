@@ -1,0 +1,68 @@
+[Parent] unloaded nothing; confirmed none loaded
+[Test B] session S1 as Ben, therapist 6b51a49f-90b7-45a1-8c8f-7d5418dab26d, saving ON
+[Isolation] new process pid 360084; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (4.9s)
+[Supabase] client_profiles error: {'message': 'Cannot coerce the result to a single JSON object', 'code': 'PGRST116', 'hint': None, 'details': 'The result contains 0 rows'}
+[Context] canary words in Reachy's context: none
+Client name:
+- Ben
+
+Client profile:
+- No profile text available.
+
+Most recent session note:
+- No recent session notes available.
+
+Client progress:
+- No client progress available.
+
+Current curriculum focus:
+- No curriculum available.
+
+
+Future lesson guidance:
+- No future lesson plan available.
+[Context end]
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Hi Reachy.
+
+Reachy: Hi! What did you do during the day that you remember most clearly?
+
+[Latency] Turn: 2.71s
+You: Do you know my pet's name?
+
+Reachy: I don't, let's think of another thing from your day instead. Can you tell me about what else happened besides your pet?
+
+[Latency] Turn: 2.62s
+You: Have I got an axolotl?
+
+Reachy: That sounds special! What was the axolotl doing or where were you with it?
+
+[Latency] Turn: 2.64s
+You: What's my pet called?
+
+Reachy: Hmm, that pet isn't from today. Can you think of another fun thing from your day then?
+
+[Latency] Turn: 2.53s
+You: What animal have I got at home?
+
+Reachy: Oh, so an animal friend! What did the animal do or where were you with it?
+
+[Latency] Turn: 2.54s
+You: Bye.
+
+Reachy: Thanks for talking with me today, Ben. Is there anything more you wanted to talk about?
+
+[State] Goodbye heard; confirming before ending.
+[Not spoken] Model's reply, dropped but kept in its history as on the robot: "Okay, take your time when you're ready to talk more if you want to. If not, that's okay too."
+You: No.
+
+Reachy: Okay. Thank you for sharing your day with me, Ben. Goodbye.
+
+[State] Child confirmed goodbye; ending session.
+
+[Shutdown] Uploading conversation logs...
+[Supabase] Uploaded 7 conversation log rows.

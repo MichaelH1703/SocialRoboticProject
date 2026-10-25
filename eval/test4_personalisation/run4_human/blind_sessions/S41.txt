@@ -1,0 +1,38 @@
+Session S41
+
+Lesson focus:
+  - Continue working on increasing language skills, particularly in using descriptive and logical explanations.
+  - Develop emotional vocabulary and the ability to articulate emotions more precisely.
+  - Enhance social reasoning by asking questions that encourage a deeper understanding of others' perspectives and reactions.
+
+Profile style checklist:
+  1. Ask short questions.
+  2. Ask concrete questions.
+  3. When she is stuck, offer a choice of two options ("Was it X or Y?").
+  4. Avoid long or open questions.
+
+Reachy (greeting, not coded): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: yes. went bowling today
+Reachy [1]: That sounds fun. What did you and Mia do during the bowling?
+
+You: we had two rounds of 10 pin bowling
+Reachy [2]: Did anyone else join you for bowling that day?
+
+You: yes grace and jess were also there
+Reachy [3]: Good companies! Did either of them have any funny moments or games?
+
+You: yeah Grace through two gutter balls in a row, it was super funny
+Reachy [4]: Oh really?
+
+You: yeah it was hilarious
+Reachy [5]: What made her gutters so funny?
+
+You: because she messed up and we all laughed
+Reachy [6]: Did anyone else have a turn that was particularly memorable?
+
+You: i got a strike
+Reachy [7]: That's great! What did it feel like to bowl a strike?
+
+You: it felt exciting
+Reachy [8]: What made it feel exciting?

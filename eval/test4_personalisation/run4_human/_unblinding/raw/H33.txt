@@ -1,0 +1,61 @@
+[Human] session H33, condition W-v4, "I don't know" at turn 8
+[Isolation] new process pid 99456; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (5.4s)
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. went bowling
+[State] Selected event: Went bowling for Mia's birthday
+[Question limit] Dropped: 'Who was there with you?'
+
+Reachy: Bowling sounds fun! Can you tell me more about that?
+
+[Latency] Turn: 2.72s
+You: what part
+
+Reachy: Did you bowl with anyone in particular, or was it just you?
+
+[Latency] Turn: 2.72s
+You: Mia was there and Grace and Jess
+
+Reachy: Great. What did you do while bowling with Mia, Grace, and Jess?
+
+[Latency] Turn: 2.51s
+You: we talked
+
+Reachy: What topics did you talk about when you were bowling with Mia, Grace, and Jess?
+
+[Latency] Turn: 2.57s
+You: thats private, id rather not say
+
+Reachy: Understood. Is there something else from your day you'd like to share instead?
+
+[Latency] Turn: 2.69s
+You: after bowling we had pizza nad birthday cake
+
+Reachy: That sounds yummy! What did you all do after bowling at the pizza place and having a birthday cake?
+
+[Latency] Turn: 2.59s
+You: Mia's mum drove me home
+
+Reachy: Did Mia's mom drive you home, or did someone else pick you up?
+
+[Latency] Turn: 2.60s
+You: she drove me
+
+Reachy: And how did that make you feel after bowling for Mia’s birthday?
+
+[Latency] Turn: 2.54s
+You: tired
+
+Reachy: It sounds like you had a fun day but felt tired afterward. Is there anything else you want to share from your day?
+
+[Latency] Turn: 2.74s
+You: nno
+
+Reachy: Okay, it's okay to be done now. You had a great day bowling with friends and celebrating Mia’s birthday. Thank you for sharing.
+
+[Latency] Turn: 2.90s
+[Human] Ended by the player before Reachy's goodbye.
+[Human] Session over.

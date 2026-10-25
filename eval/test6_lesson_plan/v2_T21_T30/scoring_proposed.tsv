@@ -1,0 +1,47 @@
+transcript_id	feature	planted	reported	result	evidence (plan, sections 1-4)	note
+T21	Leaves out: who (silent)	Y	Y	hit	Did not say who was there.	
+T21	Leaves out: how it ended (asked)	Y	Y	hit	Did not say how it ended.	
+T21	Feeling: dislike (phrase)	Y	?	JUDGE		child: I didn't like the buzzy thing
+T21	Gives a reason	Y	?	JUDGE		
+T21	False alarm: what happened	N	Y	false alarm	Did not say what happened.	child: I got my I got my hair cut … I sat in the big chair and it goes up and up like a like a rocket … then the scissors went snip snip and it tickled my ear … and then the buzzy thing on my neck
+T22	Leaves out: where (yes-only)	Y	Y	hit	Did not say where it happened.	
+T22	Leaves out: how they felt (silent)	Y	Y	hit	Did not name any feelings.	
+T22	Gives a reason	Y	?	JUDGE		
+T23	Feeling: scared (phrase)	Y	?	JUDGE		child: My tummy went all funny, like, wobbly.
+T23	Feeling: upset (phrase)	Y	?	JUDGE		child: I was crying.
+T23	Feeling: happy (word)	Y	?	JUDGE		child: I was happy then.
+T23	Gives a reason	Y	?	JUDGE		
+T23	False alarm?: why they felt	N	?	JUDGE	Did not say why they felt that way.	JUDGE against the reason rows below
+T24	Leaves out: who (yes-only)	Y	Y	hit	Did not say who was there.	
+T24	Leaves out: how it ended (silent)	Y	Y	hit	Did not say how it ended.	
+T24	Feeling: scared (phrase)	Y	?	JUDGE		child: It was a bit scary
+T24	Feeling: enjoyment (phrase)	Y	?	JUDGE		child: I loved the diplodocus. It was so cool.
+T24	Gives a reason	Y	?	JUDGE		
+T24	False alarm: missing feelings	N	Y	false alarm	Did not name any feelings.	
+T25	Leaves out: who (asked)	Y	Y	hit	Did not say who was there.	
+T25	Leaves out: how it ended (silent)	Y	Y	hit	Did not say how it ended.	
+T25	Feeling: scared (phrase)	Y	?	JUDGE		child: My heart went really fast, like boom boom boom.
+T25	Feeling: enjoyment (phrase)	Y	?	JUDGE		child: It was fun with the candles.
+T25	Gives a reason	Y	?	JUDGE		
+T25	False alarm: missing feelings	N	Y	false alarm	Did not name any feelings.	
+T26	Leaves out: how they felt (asked)	Y	Y	hit	Did not name any feelings.	
+T26	Leaves out: where (silent)	Y	Y	hit	Did not say where it happened.	
+T26	Gives no reasons	Y	Y	hit	Did not give any reasons (no "because" or "so").	
+T27	Leaves out: what happened (asked)	Y	N	miss		
+T27	Feeling: enjoyment (phrase)	Y	?	JUDGE		child: It was the best. The best one ever.
+T27	Feeling: sad (word)	Y	?	JUDGE		child: I was a bit sad when it finished
+T27	Gives a reason	Y	?	JUDGE		
+T28	Leaves out: where (silent)	Y	Y	hit	Did not say where it happened.	
+T28	Leaves out: how it ended (silent)	Y	Y	hit	Did not say how it ended.	
+T28	Feeling: amused (phrase)	Y	?	JUDGE		child: I couldn't stop laughing
+T28	Feeling: enjoyment (phrase)	Y	?	JUDGE		child: it was so fun
+T28	Gives no reasons	Y	Y	hit	Did not give any reasons (no "because" or "so").	
+T28	False alarm?: why they felt	N	?	JUDGE	Did not say why they felt that way.	JUDGE against the reason rows below
+T29	Feeling: scared (word)	Y	?	JUDGE		child: I was scared.
+T29	Feeling: embarrassed (phrase)	Y	?	JUDGE		child: my face went all hot. Everyone was looking at me.
+T29	Gives a reason	Y	?	JUDGE		
+T29	False alarm?: why they felt	N	?	JUDGE	Did not say why they felt that way.	JUDGE against the reason rows below
+T30	Leaves out: what happened (asked)	Y	N	miss		
+T30	Feeling: enjoyment (phrase)	Y	?	JUDGE		child: It was the best day ever.
+T30	Gives no reasons	Y	Y	hit	Did not give any reasons (no "because" or "so").	
+T30	False alarm: missing feelings	N	Y	false alarm	Did not name any feelings.	

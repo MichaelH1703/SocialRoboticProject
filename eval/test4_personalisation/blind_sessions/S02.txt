@@ -1,0 +1,45 @@
+Session S02
+
+Reachy (greeting, not coded): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Went bowling.
+Reachy [1]: Bowling sounds fun. What did you do there?
+
+You: Got two strikes. Mia won.
+Reachy [2]: That's exciting! So, what happened next at the bowling alley?
+
+You: Had pizza. Then cake.
+Reachy [3]: Great! Did anyone else join in for pizza and cake?
+
+You: Mia's mum took us. And other girls.
+Reachy [4]: Nice. What did you all talk about or do after eating?
+
+You: Sang Happy Birthday.
+Reachy [5]: That was nice to sing! What did Mia say on her birthday?
+
+You: I don't know.
+Reachy [6]: Did she tell you anything special during the cake time?
+
+You: Mia blew out candles.
+Reachy [7]: Got ice cream after that, right?
+
+You: No. Just cake.
+Reachy [8]: Okay, just cake then. What else did you notice at the bowling alley and birthday party?
+
+You: People looked.
+Reachy [9]: What did people look like when you were there?
+
+You: They were looking.
+Reachy [10]: How did that make you feel?
+
+You: Nervous.
+Reachy [11]: It sounds like you felt a little nervous. What made you feel that way?
+
+You: Just was.
+Reachy [12]: You just felt it at the moment, is that right?
+
+You: Bye.
+Reachy (scripted, not coded): Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+You: No.
+Reachy (scripted, not coded): Okay. Thank you for sharing your day with me, April. Goodbye.

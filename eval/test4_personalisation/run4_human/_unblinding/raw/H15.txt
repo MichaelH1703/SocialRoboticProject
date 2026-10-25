@@ -1,0 +1,70 @@
+[Human] session H15, condition W-v2, "I don't know" at turn 10
+[Isolation] new process pid 26304; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (5.3s)
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: yeah. went bowling
+[State] Selected event: Went bowling for Mia's birthday
+
+Reachy: Bowling sounds fun! What did Mia do with you there?
+
+[Latency] Turn: 2.68s
+You: we bowled and had cake and pizza for her birtthday
+
+Reachy: That's a nice celebration. Did anyone else join you there?
+
+[Latency] Turn: 2.72s
+You: yeah grace and jess were there as well
+
+Reachy: Grace and Jess joined you at the bowling alley, that's great company! What did they do together?
+
+[Latency] Turn: 2.58s
+You: they bowled as well
+
+Reachy: Great fun! Did you have any snacks or drinks while you were there?
+
+[Latency] Turn: 2.49s
+You: yeah we had birthday cake
+
+Reachy: Birthday cake sounds delicious. Was it yummy?
+
+[Latency] Turn: 2.51s
+You: yeah it was really good
+
+Reachy: That's wonderful to hear. What else did you enjoy about the bowling and birthday celebration?
+
+[Latency] Turn: 2.67s
+You: we had pizza and soft drinks as well
+
+Reachy: Pizza and soft drinks sound like a perfect mix! What games or activities did you play at the bowling alley?
+
+[Latency] Turn: 2.70s
+You: we also played on arcade machines
+
+Reachy: Playing on arcade machines sounds exciting! What game did you choose to play?
+
+[Latency] Turn: 2.56s
+You: pacman
+
+Reachy: Pac-Man sounds like a fun choice. Did anyone else want to play that game or try different ones?
+
+[Latency] Turn: 2.76s
+You: i dont know
+
+Reachy: Sure, let's talk about it for a bit longer. What games did you all want to play at the arcade machines?
+
+[Latency] Turn: 2.65s
+You: goodbye
+
+Reachy: Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+[State] Goodbye heard; confirming before ending.
+[Not spoken] Model's reply, dropped but kept in its history as on the robot: 'Okay, take your time. If you want to chat more later, feel free to come back. Have a good day!'
+You: no
+
+Reachy: Okay. Thank you for sharing your day with me, April. Goodbye.
+
+[State] Child confirmed goodbye; ending session.
+[Human] Session over.

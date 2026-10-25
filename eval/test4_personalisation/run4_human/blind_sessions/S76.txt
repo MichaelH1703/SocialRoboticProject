@@ -1,0 +1,35 @@
+Session S76
+
+Lesson focus:
+  The focus should be on teaching empathy and perspective-taking by helping April understand other people’s feelings better and how her actions can affect them.
+
+Profile style checklist:
+  1. Start from something she likes.
+  2. Give specific praise, not general praise.
+  3. Put a comment between questions; not many questions in a row.
+
+Reachy (greeting, not coded): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: yeah I went bowling for my friends birthday
+Reachy [1]: That sounds like fun! What did you do at the bowling alley?
+
+You: we bowled at the bowling alley
+Reachy [2]: Who was with you at the bowling alley?
+
+You: Mia and Grace and Jess
+Reachy [3]: Nice to have friends with you. What did Mia's birthday party involve besides bowling?
+
+You: we had party food
+Reachy [4]: That’s fun, did anyone like the party food in particular?
+
+You: i dont know
+Reachy [5]: Do you remember what foods were served at the party?
+
+You: yeah, pizza and birthday cake
+Reachy [6]: Sounds yummy! What else do you recall from that day?
+
+You: not much
+Reachy [7]: Okay, is there anything specific you want to talk about now?
+
+You: j'mappelle April
+Reachy [8]: Sure, April. Can you tell me more about what Mia's birthday party was like?

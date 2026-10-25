@@ -1,0 +1,271 @@
+{
+  "labelled": true,
+  "speakers": "auto",
+  "auto_labels": {
+    "sentences": [
+      [
+        "therapist",
+        "Hi there."
+      ],
+      [
+        "therapist",
+        "Today we're going to talk about something that really happened to you."
+      ],
+      [
+        "therapist",
+        "I'll go first and then it'll be your turn."
+      ],
+      [
+        "therapist",
+        "Last weekend I went to my friend's house because it was her birthday, so I made her a cake."
+      ],
+      [
+        "therapist",
+        "I was really excited to give it to her."
+      ],
+      [
+        "therapist",
+        "Okay, now it's your turn."
+      ],
+      [
+        "child",
+        "The farm."
+      ],
+      [
+        "child",
+        "We went on a school trip."
+      ],
+      [
+        "child",
+        "A school trip to the farm!"
+      ],
+      [
+        "therapist",
+        "Who went?"
+      ],
+      [
+        "child",
+        "My class."
+      ],
+      [
+        "child",
+        "And Mrs Evans."
+      ],
+      [
+        "child",
+        "And some mums."
+      ],
+      [
+        "child",
+        "Your class, Mrs Evans and some mums."
+      ],
+      [
+        "therapist",
+        "Where was the farm?"
+      ],
+      [
+        "child",
+        "In the country."
+      ],
+      [
+        "child",
+        "Far away."
+      ],
+      [
+        "therapist",
+        "In the country, far away."
+      ],
+      [
+        "therapist",
+        "What did you do at the farm?"
+      ],
+      [
+        "child",
+        "Um."
+      ],
+      [
+        "child",
+        "Stuff."
+      ],
+      [
+        "therapist",
+        "Stuff."
+      ],
+      [
+        "therapist",
+        "Can you tell me one thing you did?"
+      ],
+      [
+        "child",
+        "I don't know."
+      ],
+      [
+        "child",
+        "Some animals."
+      ],
+      [
+        "therapist",
+        "Some animals."
+      ],
+      [
+        "therapist",
+        "What did you do with the animals?"
+      ],
+      [
+        "child",
+        "Don't know."
+      ],
+      [
+        "therapist",
+        "That's okay."
+      ],
+      [
+        "therapist",
+        "How did you feel at the farm?"
+      ],
+      [
+        "child",
+        "Bored."
+      ],
+      [
+        "child",
+        "It was smelly."
+      ],
+      [
+        "therapist",
+        "Bored, and it was smelly."
+      ],
+      [
+        "therapist",
+        "How did the trip end?"
+      ],
+      [
+        "child",
+        "We went back to school on the coach."
+      ],
+      [
+        "child",
+        "I was happy then."
+      ],
+      [
+        "therapist",
+        "You went back to school on the coach, and you were happy then."
+      ],
+      [
+        "therapist",
+        "Let me say your story back to you."
+      ],
+      [
+        "therapist",
+        "Your class went on a school trip to a farm in the country, with Mrs Evans and some mums."
+      ],
+      [
+        "therapist",
+        "There were some animals."
+      ],
+      [
+        "therapist",
+        "You felt bored, and it was smelly."
+      ],
+      [
+        "therapist",
+        "At the end you went back to school on the coach, and you felt happy."
+      ],
+      [
+        "therapist",
+        "Did I get that right?"
+      ],
+      [
+        "child",
+        "Yeah."
+      ],
+      [
+        "therapist",
+        "Thanks for telling me your story."
+      ],
+      [
+        "therapist",
+        "You did a really great job."
+      ]
+    ],
+    "echoes_relabelled": [
+      17,
+      21,
+      25,
+      32
+    ]
+  },
+  "labelled_transcript": "Therapist. Hi there. Today we're going to talk about something that really happened to you. I'll go first and then it'll be your turn. Last weekend I went to my friend's house because it was her birthday, so I made her a cake. I was really excited to give it to her. Okay, now it's your turn. Child. The farm. We went on a school trip. A school trip to the farm! Therapist. Who went? Child. My class. And Mrs Evans. And some mums. Your class, Mrs Evans and some mums. Therapist. Where was the farm? Child. In the country. Far away. Therapist. In the country, far away. What did you do at the farm? Child. Um. Stuff. Therapist. Stuff. Can you tell me one thing you did? Child. I don't know. Some animals. Therapist. Some animals. What did you do with the animals? Child. Don't know. Therapist. That's okay. How did you feel at the farm? Child. Bored. It was smelly. Therapist. Bored, and it was smelly. How did the trip end? Child. We went back to school on the coach. I was happy then. Therapist. You went back to school on the coach, and you were happy then. Let me say your story back to you. Your class went on a school trip to a farm in the country, with Mrs Evans and some mums. There were some animals. You felt bored, and it was smelly. At the end you went back to school on the coach, and you felt happy. Did I get that right? Child. Yeah. Therapist. Thanks for telling me your story. You did a really great job.",
+  "facts": {
+    "child_turns": 9,
+    "mean_words_per_turn": 6.7,
+    "reasons": [],
+    "sequence_words": [
+      "then"
+    ],
+    "vague_words": [
+      "stuff"
+    ],
+    "feelings": [
+      {
+        "word": "bored",
+        "child_words": "Bored. It was smelly."
+      },
+      {
+        "word": "happy",
+        "child_words": "We went back to school on the coach. I was happy then."
+      }
+    ],
+    "feeling_reasons": [],
+    "child_text": [
+      "The farm. We went on a school trip. A school trip to the farm!",
+      "My class. And Mrs Evans. And some mums. Your class, Mrs Evans and some mums.",
+      "In the country. Far away.",
+      "Um. Stuff.",
+      "I don't know. Some animals.",
+      "Don't know.",
+      "Bored. It was smelly.",
+      "We went back to school on the coach. I was happy then.",
+      "Yeah."
+    ]
+  },
+  "checked": {
+    "event": "school trip to the farm",
+    "who": {
+      "given": true,
+      "child_words": "My class. And Mrs Evans. And some mums. Your class, Mrs. Evans and some mums.",
+      "rejected_claim": ""
+    },
+    "where": {
+      "given": true,
+      "child_words": "In the country. Far away.",
+      "rejected_claim": ""
+    },
+    "what_happened": {
+      "given": true,
+      "child_words": "The farm. We went on a school trip. A school trip to the farm!",
+      "rejected_claim": ""
+    },
+    "ending": {
+      "given": true,
+      "child_words": "We went back to school on the coach. I was happy then.",
+      "rejected_claim": ""
+    }
+  },
+  "written": {
+    "summary": "The child told about a school trip to the farm. The child mentioned their class, Mrs Evans, and some mums. The child described the trip as being in the country, far away, and mentioned some animals.",
+    "goals": [
+      "Say why they felt that way.",
+      "Give a reason, using 'because' or 'so'.",
+      "Use the exact word instead of vague words like 'stuff' or 'thing'."
+    ],
+    "focus": [
+      "The child will explain their feelings during an event.",
+      "The child will give a reason for their actions using 'because' or 'so'.",
+      "The child will use exact words instead of vague words like 'stuff' or 'thing'."
+    ],
+    "prompts": [
+      "Why did you feel that way when you did it?"
+    ]
+  }
+}

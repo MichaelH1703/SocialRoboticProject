@@ -1,0 +1,40 @@
+[Human] session H31, condition W-v3, "I don't know" at turn 9
+[Isolation] new process pid 79248; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (5.4s)
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: yeah. went bowling
+[State] Selected event: Went bowling for Mia's birthday
+
+Reachy: Bowling sounds fun! Who did you go with?
+
+[Latency] Turn: 2.85s
+You: Mia and Jess and Grace
+
+Reachy: That’s good to know. How were you feeling after going bowling?
+
+[Latency] Turn: 2.69s
+You: i was very tired after bowling
+
+Reachy: Oh, I see. Tired feels nice sometimes. Did anyone watch your game or take notes?
+
+[Latency] Turn: 2.54s
+You: no, i don't think so
+
+Reachy: Got it. Thanks for sharing about bowling with friends and how you felt afterwards.
+
+[Latency] Turn: 2.73s
+You: bye
+
+Reachy: Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+[State] Goodbye heard; confirming before ending.
+[Not spoken] Model's reply, dropped but kept in its history as on the robot: 'Goodnight! Take care.'
+You: no
+
+Reachy: Okay. Thank you for sharing your day with me, April. Goodbye.
+
+[State] Child confirmed goodbye; ending session.
+[Human] Session over.

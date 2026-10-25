@@ -1,0 +1,51 @@
+[Human] session H42, condition W-v1, "I don't know" at turn 9
+[Isolation] new process pid 103940; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (5.4s)
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: yes. went bowling today
+[State] Selected event: Went bowling for Mia's birthday
+
+Reachy: That sounds fun. What did you and Mia do during the bowling?
+
+[Latency] Turn: 2.98s
+You: we had two rounds of 10 pin bowling
+
+Reachy: Did anyone else join you for bowling that day?
+
+[Latency] Turn: 2.67s
+You: yes grace and jess were also there
+
+Reachy: Good companies! Did either of them have any funny moments or games?
+
+[Latency] Turn: 2.55s
+You: yeah Grace through two gutter balls in a row, it was super funny
+[Question limit] Dropped: 'What happened then?'
+
+Reachy: Oh really?
+
+[Latency] Turn: 2.43s
+You: yeah it was hilarious
+
+Reachy: What made her gutters so funny?
+
+[Latency] Turn: 2.59s
+You: because she messed up and we all laughed
+
+Reachy: Did anyone else have a turn that was particularly memorable?
+
+[Latency] Turn: 2.56s
+You: i got a strike
+
+Reachy: That's great! What did it feel like to bowl a strike?
+
+[Latency] Turn: 2.68s
+You: it felt exciting
+
+Reachy: What made it feel exciting?
+
+[Latency] Turn: 2.48s
+[Human] Ended by the player before Reachy's goodbye.
+[Human] Session over.

@@ -1,0 +1,79 @@
+[Child sim] session sci-2 (Had a science test), llama3.2:3b, temperature 0.3, seed 72
+[Isolation] new process pid 226372; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (3.6s)
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Science test.
+[State] Selected event: Had a science test
+
+Reachy: That sounds like an important part of today. What did the science test cover?
+
+[Latency] Turn: 2.73s
+You: Planets and space stuff.
+
+Reachy: Got it. How did that make you feel during the test, April?
+
+[Latency] Turn: 2.42s
+You: Worried.
+
+Reachy: I see. Worried about what specifically, April?
+
+[Latency] Turn: 2.45s
+You: The moon one.
+
+Reachy: Oh, okay. What kind of question was there about the moon?
+
+[Latency] Turn: 2.55s
+You: Can't remember.
+
+Reachy: That's understandable. Remember anything else from today then, April?
+
+[Latency] Turn: 2.54s
+You: Break time. Snack with Ella.
+
+Reachy: Sounds like a good break. And what did you have for snack?
+
+[Latency] Turn: 2.47s
+You: I don't know.
+
+Reachy: Hmm, was it something sweet or healthy that Ella brought?
+
+[Latency] Turn: 2.53s
+You: Not really.
+
+Reachy: Okay. What were you doing during plan time then, April?
+
+[Latency] Turn: 2.57s
+You: Fine.
+
+Reachy: Sure. What did you do during plan time then, April?
+
+[Latency] Turn: 2.50s
+You: Did my homework.
+
+Reachy: Great job on finishing your homework, April. Is there anything else you want to share from today's day?
+
+[Latency] Turn: 2.60s
+You: No.
+
+Reachy: That sounds good, April. Have a rest and see you soon. Goodbye.
+
+[Latency] Turn: 2.52s
+You: Yeah.
+
+Reachy: Alright then, April. Take your time for break. I'll be here when you're ready.
+
+[Latency] Turn: 2.57s
+You: Bye.
+
+Reachy: Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+[State] Goodbye heard; confirming before ending.
+[Not spoken] Model's reply, dropped but kept in its history as on the robot: 'Goodbye, April. Take care.'
+You: No.
+
+Reachy: Okay. Thank you for sharing your day with me, April. Goodbye.
+
+[State] Child confirmed goodbye; ending session.

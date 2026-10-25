@@ -1,0 +1,294 @@
+{
+  "labelled": true,
+  "speakers": "auto",
+  "auto_labels": {
+    "method": "pieces",
+    "segments": [
+      [
+        "therapist",
+        "Hi Chloe."
+      ],
+      [
+        "therapist",
+        "Before we start, I've got a quick story of my own."
+      ],
+      [
+        "therapist",
+        "I tried to make a new recipe last night."
+      ],
+      [
+        "therapist",
+        "I followed the instructions but forgot to add the eggs until the end, so I had to mix everything again."
+      ],
+      [
+        "child",
+        "What were you making? Banana bread."
+      ],
+      [
+        "therapist",
+        "Have you had a go at making anything recently?"
+      ],
+      [
+        "child",
+        "Yeah, I went to my nan's on Sunday and we made biscuits, like the ones with the icing on top, except hers weren't the normal sort because she uses this recipe from a book she got ages ago, and it's got a different ratio of butter to flour."
+      ],
+      [
+        "therapist",
+        "If you change the ratio, the texture changes, which is why some biscuits are crunchy and some are more crumbly."
+      ],
+      [
+        "therapist",
+        "You and your nan made biscuits on Sunday."
+      ],
+      [
+        "therapist",
+        "What happened while you were making them?"
+      ],
+      [
+        "child",
+        "Well, the recipe says chill the dough for thirty minutes, but we didn't have enough room in the fridge because there was a casserole dish on the shelf, and then Nan said we could put it in the freezer for ten minutes instead, which isn't exactly the same thing because the temperature is lower and you have to be careful not to freeze it solid."
+      ],
+      [
+        "therapist",
+        "What did you do with the dough?"
+      ],
+      [
+        "child",
+        "I put it in the freezer and set the timer on my phone for ten minutes."
+      ],
+      [
+        "child",
+        "It was on 14:22, so when it went off it was 14:32."
+      ],
+      [
+        "child",
+        "Who else was there? Nan."
+      ],
+      [
+        "therapist",
+        "I've said that. You have,"
+      ],
+      [
+        "child",
+        "sorry."
+      ],
+      [
+        "therapist",
+        "What happened when the timer went off?"
+      ],
+      [
+        "child",
+        "I took the dough out."
+      ],
+      [
+        "child",
+        "It was a bit harder round the edges."
+      ],
+      [
+        "therapist",
+        "Butter has a melting point of about thirty-two to thirty-five degrees Celsius, which is why it softens quite quickly in your hands."
+      ],
+      [
+        "therapist",
+        "And what did you do next?"
+      ],
+      [
+        "child",
+        "Rolled it out."
+      ],
+      [
+        "child",
+        "We used the star cutter and the round cutter."
+      ],
+      [
+        "child",
+        "The star one has five points, obviously, and the round one was about six centimetres across."
+      ],
+      [
+        "therapist",
+        "Did the biscuits go straight into the oven?"
+      ],
+      [
+        "child",
+        "No, we put them on the baking tray first."
+      ],
+      [
+        "child",
+        "There were twelve stars and eight circles, so twenty altogether."
+      ],
+      [
+        "child",
+        "Nan said there wasn't enough space for another one."
+      ],
+      [
+        "therapist",
+        "What was it like making them with your nan?"
+      ],
+      [
+        "child",
+        "I liked it."
+      ],
+      [
+        "child",
+        "She let me do the measuring without checking every five seconds."
+      ],
+      [
+        "therapist",
+        "It sounds like you really enjoyed having that independence."
+      ],
+      [
+        "child",
+        "Well, I know how to measure flour."
+      ],
+      [
+        "therapist",
+        "It's not difficult if you use the scales properly."
+      ],
+      [
+        "child",
+        "Fair point."
+      ],
+      [
+        "therapist",
+        "What happened at the end?"
+      ],
+      [
+        "child",
+        "We iced them after they'd cooled down."
+      ],
+      [
+        "child",
+        "Mine had blue icing."
+      ],
+      [
+        "child",
+        "Nan did pink."
+      ],
+      [
+        "therapist",
+        "So you made the dough with your nan, chilled it in the freezer for ten minutes, cut out twenty biscuits and iced them when they were cool."
+      ],
+      [
+        "therapist",
+        "You liked that Nan let you do the measuring yourself."
+      ],
+      [
+        "child",
+        "Yeah, and next time we're making shortbread, which is different because it doesn't normally have egg in it and the proportions are different."
+      ],
+      [
+        "therapist",
+        "We can hear about the shortbread next time."
+      ],
+      [
+        "therapist",
+        "Thank you,"
+      ],
+      [
+        "child",
+        "Chloe."
+      ],
+      [
+        "therapist",
+        "Okay."
+      ]
+    ],
+    "echoes_relabelled": []
+  },
+  "labelled_transcript": "Therapist. Hi Chloe. Before we start, I've got a quick story of my own. I tried to make a new recipe last night. I followed the instructions but forgot to add the eggs until the end, so I had to mix everything again. Child. What were you making? Banana bread. Therapist. Have you had a go at making anything recently? Child. Yeah, I went to my nan's on Sunday and we made biscuits, like the ones with the icing on top, except hers weren't the normal sort because she uses this recipe from a book she got ages ago, and it's got a different ratio of butter to flour. Therapist. If you change the ratio, the texture changes, which is why some biscuits are crunchy and some are more crumbly. You and your nan made biscuits on Sunday. What happened while you were making them? Child. Well, the recipe says chill the dough for thirty minutes, but we didn't have enough room in the fridge because there was a casserole dish on the shelf, and then Nan said we could put it in the freezer for ten minutes instead, which isn't exactly the same thing because the temperature is lower and you have to be careful not to freeze it solid. Therapist. What did you do with the dough? Child. I put it in the freezer and set the timer on my phone for ten minutes. It was on 14:22, so when it went off it was 14:32. Who else was there? Nan. Therapist. I've said that. You have, Child. sorry. Therapist. What happened when the timer went off? Child. I took the dough out. It was a bit harder round the edges. Therapist. Butter has a melting point of about thirty-two to thirty-five degrees Celsius, which is why it softens quite quickly in your hands. And what did you do next? Child. Rolled it out. We used the star cutter and the round cutter. The star one has five points, obviously, and the round one was about six centimetres across. Therapist. Did the biscuits go straight into the oven? Child. No, we put them on the baking tray first. There were twelve stars and eight circles, so twenty altogether. Nan said there wasn't enough space for another one. Therapist. What was it like making them with your nan? Child. I liked it. She let me do the measuring without checking every five seconds. Therapist. It sounds like you really enjoyed having that independence. Child. Well, I know how to measure flour. Therapist. It's not difficult if you use the scales properly. Child. Fair point. Therapist. What happened at the end? Child. We iced them after they'd cooled down. Mine had blue icing. Nan did pink. Therapist. So you made the dough with your nan, chilled it in the freezer for ten minutes, cut out twenty biscuits and iced them when they were cool. You liked that Nan let you do the measuring yourself. Child. Yeah, and next time we're making shortbread, which is different because it doesn't normally have egg in it and the proportions are different. Therapist. We can hear about the shortbread next time. Thank you, Child. Chloe. Therapist. Okay.",
+  "facts": {
+    "child_turns": 14,
+    "mean_words_per_turn": 20.2,
+    "sequence_words": [
+      "after",
+      "first",
+      "next",
+      "then"
+    ],
+    "vague_words": [
+      "thing"
+    ],
+    "child_text": [
+      "What were you making? Banana bread.",
+      "Yeah, I went to my nan's on Sunday and we made biscuits, like the ones with the icing on top, except hers weren't the normal sort because she uses this recipe from a book she got ages ago, and it's got a different ratio of butter to flour.",
+      "Well, the recipe says chill the dough for thirty minutes, but we didn't have enough room in the fridge because there was a casserole dish on the shelf, and then Nan said we could put it in the freezer for ten minutes instead, which isn't exactly the same thing because the temperature is lower and you have to be careful not to freeze it solid.",
+      "I put it in the freezer and set the timer on my phone for ten minutes. It was on 14:22, so when it went off it was 14:32. Who else was there? Nan.",
+      "sorry.",
+      "I took the dough out. It was a bit harder round the edges.",
+      "Rolled it out. We used the star cutter and the round cutter. The star one has five points, obviously, and the round one was about six centimetres across.",
+      "No, we put them on the baking tray first. There were twelve stars and eight circles, so twenty altogether. Nan said there wasn't enough space for another one.",
+      "I liked it. She let me do the measuring without checking every five seconds.",
+      "Well, I know how to measure flour.",
+      "Fair point.",
+      "We iced them after they'd cooled down. Mine had blue icing. Nan did pink.",
+      "Yeah, and next time we're making shortbread, which is different because it doesn't normally have egg in it and the proportions are different.",
+      "Chloe."
+    ],
+    "feelings": [
+      {
+        "word": "enjoyed",
+        "child_words": "I liked it.",
+        "named": false
+      }
+    ],
+    "reasons": [
+      {
+        "child_words": "because she uses this recipe from a book she got ages ago, and it's got a different ratio of butter to flour.",
+        "linked": true,
+        "about_feeling": false
+      },
+      {
+        "child_words": "because the temperature is lower and you have to be careful not to freeze it solid.",
+        "linked": true,
+        "about_feeling": false
+      },
+      {
+        "child_words": "because it doesn't normally have egg in it and the proportions are different.",
+        "linked": true,
+        "about_feeling": false
+      }
+    ],
+    "feeling_reasons": []
+  },
+  "checked": {
+    "event": "Making biscuits",
+    "who": {
+      "given": true,
+      "child_words": "Who else was there? Nan.",
+      "rejected_claim": ""
+    },
+    "where": {
+      "given": true,
+      "child_words": "I went to my nan's on Sunday",
+      "rejected_claim": ""
+    },
+    "what_happened": {
+      "given": true,
+      "child_words": "Well, the recipe says chill the dough for thirty minutes, but we didn't have enough room in the fridge because there was a casserole dish on the shelf, and then Nan said we could put it in the freezer for ten minutes instead, which isn't exactly the same thing because the temperature is lower and you have to be careful not to freeze it solid. I put it in the freezer and set the timer on my phone for ten minutes. It was on 14:22, so when it went off it was 14:32. I took the dough out. It was a bit harder round the edges. Rolled it out. We used the star cutter and the round cutter. The star one has five points, obviously, and the round one was about six centimetres across. No, we put them on the baking tray first. There were twelve stars and eight circles, so twenty altogether. Nan said there wasn't enough space for another one. We iced them after they'd cooled down. Mine had blue icing. Nan did pink. Yeah, and next time we're making shortbread, which is different because it doesn't normally have egg in it and the proportions are different.",
+      "rejected_claim": ""
+    },
+    "ending": {
+      "given": true,
+      "child_words": "We iced them after they'd cooled down. Mine had blue icing. Nan did pink. Yeah, and next time we're making shortbread, which is different because it doesn't normally have egg in it and the proportions are different.",
+      "rejected_claim": ""
+    }
+  },
+  "written": {
+    "summary": "The child told about making biscuits with nan, using a recipe from a book with a different butter to flour ratio. They discussed chilling the dough in the freezer instead of the fridge, cutting out stars and circles, icing the biscuits, and planning to make shortbread next. The child mentioned their name was Chloe.",
+    "goals": [
+      "Name the feeling with a feeling word.",
+      "Say why they felt that way.",
+      "Use the exact word instead of vague words like 'stuff' or 'thing'."
+    ],
+    "focus": [
+      "The child will name their feeling using a specific feeling word.",
+      "The child will explain the reason for their feeling.",
+      "The child will use an exact word instead of a vague word like 'stuff' or 'thing'."
+    ],
+    "prompts": [
+      "What feeling did you have when you did it?",
+      "Why did you feel that way when you did it?",
+      "What exact word did you use for the thing you did?"
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+[Human] session H17, condition W-v2, "I don't know" at turn 7
+[Isolation] new process pid 86220; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (5.5s)
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: yeah. went bowling
+[State] Selected event: Went bowling for Mia's birthday
+[Question limit] Dropped: 'Where did that happen? How do you feel after?'
+
+Reachy: Gonna bowled with who?
+
+[Latency] Turn: 2.95s
+You: with Mia and Jess and Grace and Mia's mum and dad were there as well
+
+Reachy: Oh, that sounds fun! What did you do after you bowed?
+
+[Latency] Turn: 2.59s
+You: you mean bowled?
+
+Reachy: Yes, what did you do while you were bowling?
+
+[Latency] Turn: 2.67s
+You: i bowled
+
+Reachy: Did anyone win a game or bowl the best?
+
+[Latency] Turn: 2.45s
+You: yeah Mia won, i came second
+
+Reachy: Mia did really well! What was her score?
+
+[Latency] Turn: 2.51s
+You: 238
+[Question limit] Dropped: 'How many pins did you knock down?'
+
+Reachy: Wow, that's amazing! What about you?
+
+[Latency] Turn: 2.52s
+You: i got 170
+
+Reachy: Got a good score too! How did you feel when Mia won?
+
+[Latency] Turn: 2.48s
+You: I was pretty impressed, she was really really good
+
+Reachy: That sounds like it made you proud and happy.
+
+[Latency] Turn: 2.59s
+You: yeah it did
+
+Reachy: What other things happened at the bowling alley besides bowling?
+
+[Latency] Turn: 2.77s
+You: goodbye
+
+Reachy: Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+[State] Goodbye heard; confirming before ending.
+[Not spoken] Model's reply, dropped but kept in its history as on the robot: "Is there anything else about your day that would like to share or a different topic you'd prefer to talk about?"
+You: no
+
+Reachy: Okay. Thank you for sharing your day with me, April. Goodbye.
+
+[State] Child confirmed goodbye; ending session.
+[Human] Session over.

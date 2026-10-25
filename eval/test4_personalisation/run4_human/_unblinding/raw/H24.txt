@@ -1,0 +1,57 @@
+[Human] session H24, condition B, "I don't know" at turn 6
+[Isolation] new process pid 83920; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (5.4s)
+[Supabase] client_profiles error: {'message': 'Cannot coerce the result to a single JSON object', 'code': 'PGRST116', 'hint': None, 'details': 'The result contains 0 rows'}
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: yeah. went bowling
+[State] Selected event: Went bowling for Mia's birthday
+
+Reachy: Bowling sounds fun! What team did Mia play with?
+
+[Latency] Turn: 2.84s
+You: we all played on the same lane
+
+Reachy: That’s good, everyone playing together. How did that make you feel?
+
+[Latency] Turn: 2.59s
+You: it was fun
+
+Reachy: Sounds like a really enjoyable time, having fun together!
+
+[Latency] Turn: 2.54s
+You: yeah
+
+Reachy: Great to hear it. What else can you remember about your bowling adventure today?
+
+[Latency] Turn: 2.65s
+You: we had pizza and cake and party food
+
+Reachy: That adds some more details – sounds like a celebratory day! What did your team share for the birthday celebration?
+
+[Latency] Turn: 2.72s
+You: what team we weren't on a team
+[Question limit] Dropped: 'What do you remember about that moment?'
+
+Reachy: Oh, I see. So you joined another team or shared with friends not in your team?
+
+[Latency] Turn: 2.63s
+You: there were no teams
+
+Reachy: No teams sounds different but still fun! What did you have for the birthday celebration then?
+
+[Latency] Turn: 2.49s
+You: i already said, cake and pizza
+
+Reachy: Pizza and cake sound delicious. Did you enjoy any other treats besides those two?
+
+[Latency] Turn: 2.57s
+You: i dont know
+
+Reachy: Oh, it sounds like that might be a bit confusing right now. What do you remember most about your bowling day today?
+
+[Latency] Turn: 2.74s
+[Human] Ended by the player before Reachy's goodbye.
+[Human] Session over.

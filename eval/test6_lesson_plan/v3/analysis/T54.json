@@ -1,0 +1,271 @@
+{
+  "labelled": true,
+  "speakers": "auto",
+  "auto_labels": {
+    "method": "sentences",
+    "segments": [
+      [
+        "therapist",
+        "Hi, Oliver."
+      ],
+      [
+        "therapist",
+        "Before we start, I'll tell you a little story about my weekend."
+      ],
+      [
+        "therapist",
+        "I went to my sister's house, and we tried to put a shelf up."
+      ],
+      [
+        "therapist",
+        "We measured it twice, but we'd put the brackets in the wrong place."
+      ],
+      [
+        "therapist",
+        "We had to start again."
+      ],
+      [
+        "therapist",
+        "What about you?"
+      ],
+      [
+        "therapist",
+        "Anything happen recently?"
+      ],
+      [
+        "child",
+        "My auntie's birthday."
+      ],
+      [
+        "therapist",
+        "Tell me about that."
+      ],
+      [
+        "child",
+        "We went for food."
+      ],
+      [
+        "therapist",
+        "Where did you go for food?"
+      ],
+      [
+        "child",
+        "The Italian place near Mum's work."
+      ],
+      [
+        "therapist",
+        "Who went with you?"
+      ],
+      [
+        "child",
+        "Mum, Dad, my sister, Auntie Nicky and her boyfriend."
+      ],
+      [
+        "therapist",
+        "What happened when you got there?"
+      ],
+      [
+        "child",
+        "We sat at the back."
+      ],
+      [
+        "child",
+        "My sister ordered pizza even though she always says she doesn't like cheese."
+      ],
+      [
+        "therapist",
+        "What did you have?"
+      ],
+      [
+        "child",
+        "Chicken pasta."
+      ],
+      [
+        "child",
+        "It was £12.95."
+      ],
+      [
+        "child",
+        "I checked the menu before we went."
+      ],
+      [
+        "therapist",
+        "You'd already looked at the menu."
+      ],
+      [
+        "therapist",
+        "What happened after you'd eaten?"
+      ],
+      [
+        "therapist",
+        "They brought out a cake."
+      ],
+      [
+        "child",
+        "It had pink icing and those silver balls on it."
+      ],
+      [
+        "therapist",
+        "Did you do anything for your auntie's birthday?"
+      ],
+      [
+        "child",
+        "I gave her the present."
+      ],
+      [
+        "child",
+        "It was a book about birds."
+      ],
+      [
+        "therapist",
+        "How did you feel about the meal?"
+      ],
+      [
+        "child",
+        "Don't know."
+      ],
+      [
+        "therapist",
+        "That's fine."
+      ],
+      [
+        "therapist",
+        "We don't have to find a feeling word."
+      ],
+      [
+        "therapist",
+        "Was there anything else you remember?"
+      ],
+      [
+        "child",
+        "Her boyfriend spilt some water."
+      ],
+      [
+        "child",
+        "Not loads, just near his fork."
+      ],
+      [
+        "therapist",
+        "What happened at the very end of the visit?"
+      ],
+      [
+        "child",
+        "I don't remember."
+      ],
+      [
+        "therapist",
+        "Okay, you remember the restaurant, who was there, what you ate, the cake and giving your auntie the bird book."
+      ],
+      [
+        "child",
+        "I've probably forgotten a detail or two."
+      ],
+      [
+        "therapist",
+        "The book was about British birds, not all birds."
+      ],
+      [
+        "child",
+        "Thanks for correcting that."
+      ],
+      [
+        "therapist",
+        "A book about British birds."
+      ],
+      [
+        "child",
+        "Yeah."
+      ],
+      [
+        "therapist",
+        "Anything else you want to add?"
+      ],
+      [
+        "child",
+        "No."
+      ],
+      [
+        "therapist",
+        "That's enough for today."
+      ],
+      [
+        "therapist",
+        "Thank you for telling me about it."
+      ],
+      [
+        "therapist",
+        "Can we go now?"
+      ]
+    ],
+    "echoes_relabelled": []
+  },
+  "labelled_transcript": "Therapist. Hi, Oliver. Before we start, I'll tell you a little story about my weekend. I went to my sister's house, and we tried to put a shelf up. We measured it twice, but we'd put the brackets in the wrong place. We had to start again. What about you? Anything happen recently? Child. My auntie's birthday. Therapist. Tell me about that. Child. We went for food. Therapist. Where did you go for food? Child. The Italian place near Mum's work. Therapist. Who went with you? Child. Mum, Dad, my sister, Auntie Nicky and her boyfriend. Therapist. What happened when you got there? Child. We sat at the back. My sister ordered pizza even though she always says she doesn't like cheese. Therapist. What did you have? Child. Chicken pasta. It was £12.95. I checked the menu before we went. Therapist. You'd already looked at the menu. What happened after you'd eaten? They brought out a cake. Child. It had pink icing and those silver balls on it. Therapist. Did you do anything for your auntie's birthday? Child. I gave her the present. It was a book about birds. Therapist. How did you feel about the meal? Child. Don't know. Therapist. That's fine. We don't have to find a feeling word. Was there anything else you remember? Child. Her boyfriend spilt some water. Not loads, just near his fork. Therapist. What happened at the very end of the visit? Child. I don't remember. Therapist. Okay, you remember the restaurant, who was there, what you ate, the cake and giving your auntie the bird book. Child. I've probably forgotten a detail or two. Therapist. The book was about British birds, not all birds. Child. Thanks for correcting that. Therapist. A book about British birds. Child. Yeah. Therapist. Anything else you want to add? Child. No. Therapist. That's enough for today. Thank you for telling me about it. Can we go now?",
+  "facts": {
+    "child_turns": 15,
+    "mean_words_per_turn": 6.8,
+    "sequence_words": [
+      "before"
+    ],
+    "vague_words": [],
+    "child_text": [
+      "My auntie's birthday.",
+      "We went for food.",
+      "The Italian place near Mum's work.",
+      "Mum, Dad, my sister, Auntie Nicky and her boyfriend.",
+      "We sat at the back. My sister ordered pizza even though she always says she doesn't like cheese.",
+      "Chicken pasta. It was £12.95. I checked the menu before we went.",
+      "It had pink icing and those silver balls on it.",
+      "I gave her the present. It was a book about birds.",
+      "Don't know.",
+      "Her boyfriend spilt some water. Not loads, just near his fork.",
+      "I don't remember.",
+      "I've probably forgotten a detail or two.",
+      "Thanks for correcting that.",
+      "Yeah.",
+      "No."
+    ],
+    "feelings": [],
+    "reasons": [],
+    "feeling_reasons": []
+  },
+  "checked": {
+    "event": "Auntie's birthday",
+    "who": {
+      "given": true,
+      "child_words": "Mum, Dad, my sister, Auntie Nicky and her boyfriend.",
+      "rejected_claim": ""
+    },
+    "where": {
+      "given": true,
+      "child_words": "The Italian place near Mum's work.",
+      "rejected_claim": ""
+    },
+    "what_happened": {
+      "given": true,
+      "child_words": "We sat at the back. My sister ordered pizza even though she always says she doesn't like cheese. Chicken pasta. It was £12.95. I checked the menu before we went. It had pink icing and those silver balls on it. I gave her the present. It was a book about birds. Her boyfriend spilt some water. Not loads, just near his fork.",
+      "rejected_claim": ""
+    },
+    "ending": {
+      "given": false,
+      "child_words": "",
+      "rejected_claim": "I don't remember. | I don't remember."
+    }
+  },
+  "written": {
+    "summary": "The child told about Auntie's birthday, saying they went for food at the Italian place near Mum's work. The child mentioned Mum, Dad, their sister, Auntie Nicky and her boyfriend were there. They sat at the back, the sister ordered pizza even though she always says she doesn't like cheese, they had chicken pasta for £12.95, the child checked the menu before they went, the food had pink icing and silver balls, the child gave Auntie a book about birds, the child said they don't know, the boyfriend spilt some water near his fork, the child said they don't remember, the child said they've probably forgotten a detail or two, the child thanked for correcting that, and said yeah and no.",
+    "goals": [
+      "Say how it ended.",
+      "Say how they felt.",
+      "Give a reason, using 'because' or 'so'."
+    ],
+    "focus": [
+      "The child will say how the event ended.",
+      "The child will say how they felt during the event.",
+      "The child will give a reason for what happened, using 'because' or 'so'."
+    ],
+    "prompts": [
+      "How did it end?",
+      "How did you feel about that?"
+    ]
+  }
+}

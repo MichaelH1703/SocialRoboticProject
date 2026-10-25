@@ -1,0 +1,50 @@
+[Human] session H09, condition W, "I don't know" at turn 10
+[Isolation] new process pid 409660; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (3.9s)
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: yeah. went bowling
+[State] Selected event: Went bowling for Mia's birthday
+
+Reachy: Bowling sounds fun. Who was there with you?
+
+[Latency] Turn: 2.80s
+You: mia was there
+
+Reachy: Great! And how did you feel after bowling, anything in particular?
+
+[Latency] Turn: 2.58s
+You: after?
+
+Reachy: After bowling. What do you remember feeling or thinking?
+
+[Latency] Turn: 2.52s
+You: after bowling, i was very tired
+
+Reachy: Oh, being very tired sounds like a nice way to end your day. Anything else?
+
+[Latency] Turn: 2.54s
+You: i dont know
+
+Reachy: Do you think about anything specific that happened at the bowling alley?
+
+[Latency] Turn: 2.72s
+You: i got a strike
+
+Reachy: That must have been exciting! What did it feel like?
+
+[Latency] Turn: 2.63s
+You: i was super happy
+
+Reachy: Super happy sounds wonderful. Anything else from your day that you remember clearly?
+
+[Latency] Turn: 2.48s
+You: not really
+
+Reachy: It’s okay to not have many details sometimes. That's perfectly fine.
+
+[Latency] Turn: 2.66s
+[Human] Ended by the player before Reachy's goodbye.
+[Human] Session over.

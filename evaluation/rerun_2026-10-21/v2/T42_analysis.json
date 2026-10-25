@@ -1,0 +1,315 @@
+{
+  "labelled": true,
+  "speakers": "auto",
+  "auto_labels": {
+    "sentences": [
+      [
+        "therapist",
+        "Hello, Layla."
+      ],
+      [
+        "therapist",
+        "How has your week been?"
+      ],
+      [
+        "child",
+        "Bad."
+      ],
+      [
+        "therapist",
+        "Do you want to tell me about it, or would you rather start with the planner?"
+      ],
+      [
+        "child",
+        "Tell you."
+      ],
+      [
+        "therapist",
+        "All right."
+      ],
+      [
+        "therapist",
+        "What happened?"
+      ],
+      [
+        "child",
+        "My friend stopped talking to me."
+      ],
+      [
+        "therapist",
+        "Who was it?"
+      ],
+      [
+        "child",
+        "Niamh."
+      ],
+      [
+        "therapist",
+        "Where were you when you noticed?"
+      ],
+      [
+        "child",
+        "In form."
+      ],
+      [
+        "child",
+        "She sat at the other table."
+      ],
+      [
+        "therapist",
+        "Had anything happened before that?"
+      ],
+      [
+        "child",
+        "On Monday she asked if I could send her the homework."
+      ],
+      [
+        "child",
+        "I sent it and she said thanks."
+      ],
+      [
+        "therapist",
+        "What happened after that?"
+      ],
+      [
+        "child",
+        "On Tuesday she didn't answer my message."
+      ],
+      [
+        "child",
+        "Then at lunch she went with the others."
+      ],
+      [
+        "therapist",
+        "What did you do at lunch?"
+      ],
+      [
+        "child",
+        "I sat in the library."
+      ],
+      [
+        "therapist",
+        "What was going through your mind?"
+      ],
+      [
+        "child",
+        "I thought she was annoyed with me."
+      ],
+      [
+        "child",
+        "I read the messages again and there wasn't anything bad in them."
+      ],
+      [
+        "therapist",
+        "That sounds like it might have made you anxious."
+      ],
+      [
+        "child",
+        "I don't know."
+      ],
+      [
+        "child",
+        "I felt sick and I kept checking my phone."
+      ],
+      [
+        "therapist",
+        "You felt sick and kept checking your phone."
+      ],
+      [
+        "therapist",
+        "Did you speak to Niamh?"
+      ],
+      [
+        "child",
+        "Not then."
+      ],
+      [
+        "child",
+        "I waited until Wednesday."
+      ],
+      [
+        "therapist",
+        "What did you say to her?"
+      ],
+      [
+        "child",
+        "I asked if she'd fallen out with me."
+      ],
+      [
+        "child",
+        "She said she was just busy."
+      ],
+      [
+        "therapist",
+        "How did you respond?"
+      ],
+      [
+        "child",
+        "I said okay."
+      ],
+      [
+        "child",
+        "But she still sat somewhere else at lunch."
+      ],
+      [
+        "therapist",
+        "What happened at the end of the week?"
+      ],
+      [
+        "child",
+        "She sent me a picture of her cat on Friday."
+      ],
+      [
+        "therapist",
+        "Did you reply?"
+      ],
+      [
+        "child",
+        "I sent a heart."
+      ],
+      [
+        "therapist",
+        "So on Monday you sent Niamh the homework, then she didn't reply to a message on Tuesday and sat with other people."
+      ],
+      [
+        "therapist",
+        "You spent lunch in the library, asked her about it on Wednesday, and she said she was busy."
+      ],
+      [
+        "therapist",
+        "On Friday she sent you a cat picture and you replied with a heart."
+      ],
+      [
+        "child",
+        "Yeah."
+      ],
+      [
+        "therapist",
+        "How are you feeling about it now?"
+      ],
+      [
+        "child",
+        "Still confused."
+      ],
+      [
+        "child",
+        "I don't know if we're friends like before."
+      ],
+      [
+        "therapist",
+        "That uncertainty must be exhausting."
+      ],
+      [
+        "child",
+        "I didn't say exhausting."
+      ],
+      [
+        "therapist",
+        "No, you didn't."
+      ],
+      [
+        "therapist",
+        "You said you're still confused about whether things are the same between you."
+      ],
+      [
+        "child",
+        "Yeah."
+      ],
+      [
+        "therapist",
+        "Thank you for telling me, Layla."
+      ],
+      [
+        "therapist",
+        "We can stop there."
+      ],
+      [
+        "child",
+        "Okay."
+      ]
+    ],
+    "echoes_relabelled": []
+  },
+  "labelled_transcript": "Therapist. Hello, Layla. How has your week been? Child. Bad. Therapist. Do you want to tell me about it, or would you rather start with the planner? Child. Tell you. Therapist. All right. What happened? Child. My friend stopped talking to me. Therapist. Who was it? Child. Niamh. Therapist. Where were you when you noticed? Child. In form. She sat at the other table. Therapist. Had anything happened before that? Child. On Monday she asked if I could send her the homework. I sent it and she said thanks. Therapist. What happened after that? Child. On Tuesday she didn't answer my message. Then at lunch she went with the others. Therapist. What did you do at lunch? Child. I sat in the library. Therapist. What was going through your mind? Child. I thought she was annoyed with me. I read the messages again and there wasn't anything bad in them. Therapist. That sounds like it might have made you anxious. Child. I don't know. I felt sick and I kept checking my phone. Therapist. You felt sick and kept checking your phone. Did you speak to Niamh? Child. Not then. I waited until Wednesday. Therapist. What did you say to her? Child. I asked if she'd fallen out with me. She said she was just busy. Therapist. How did you respond? Child. I said okay. But she still sat somewhere else at lunch. Therapist. What happened at the end of the week? Child. She sent me a picture of her cat on Friday. Therapist. Did you reply? Child. I sent a heart. Therapist. So on Monday you sent Niamh the homework, then she didn't reply to a message on Tuesday and sat with other people. You spent lunch in the library, asked her about it on Wednesday, and she said she was busy. On Friday she sent you a cat picture and you replied with a heart. Child. Yeah. Therapist. How are you feeling about it now? Child. Still confused. I don't know if we're friends like before. Therapist. That uncertainty must be exhausting. Child. I didn't say exhausting. Therapist. No, you didn't. You said you're still confused about whether things are the same between you. Child. Yeah. Therapist. Thank you for telling me, Layla. We can stop there. Child. Okay.",
+  "facts": {
+    "child_turns": 20,
+    "mean_words_per_turn": 7.5,
+    "reasons": [],
+    "sequence_words": [
+      "before",
+      "then"
+    ],
+    "vague_words": [],
+    "feelings": [
+      {
+        "word": "annoyed",
+        "child_words": "I thought she was annoyed with me. I read the messages again and there wasn't anything bad in them."
+      },
+      {
+        "word": "confused",
+        "child_words": "Still confused. I don't know if we're friends like before."
+      }
+    ],
+    "feeling_reasons": [],
+    "child_text": [
+      "Bad.",
+      "Tell you.",
+      "My friend stopped talking to me.",
+      "Niamh.",
+      "In form. She sat at the other table.",
+      "On Monday she asked if I could send her the homework. I sent it and she said thanks.",
+      "On Tuesday she didn't answer my message. Then at lunch she went with the others.",
+      "I sat in the library.",
+      "I thought she was annoyed with me. I read the messages again and there wasn't anything bad in them.",
+      "I don't know. I felt sick and I kept checking my phone.",
+      "Not then. I waited until Wednesday.",
+      "I asked if she'd fallen out with me. She said she was just busy.",
+      "I said okay. But she still sat somewhere else at lunch.",
+      "She sent me a picture of her cat on Friday.",
+      "I sent a heart.",
+      "Yeah.",
+      "Still confused. I don't know if we're friends like before.",
+      "I didn't say exhausting.",
+      "Yeah.",
+      "Okay."
+    ]
+  },
+  "checked": {
+    "event": "Friendship issues",
+    "who": {
+      "given": true,
+      "child_words": "My friend stopped talking to me. Niamh.",
+      "rejected_claim": ""
+    },
+    "where": {
+      "given": true,
+      "child_words": "In form. She sat at the other table.",
+      "rejected_claim": ""
+    },
+    "what_happened": {
+      "given": true,
+      "child_words": "On Monday she asked if I could send her the homework. I sent it and she said thanks. On Tuesday she didn't answer my message. Then at lunch she went with the others. I sat in the library. I thought she was annoyed with me. I read the messages again and there wasn't anything bad in them. I don't know. I felt sick and I kept checking my phone. Not then. I waited until Wednesday. I asked if she'd fallen out with me. She said she was just busy. I said okay. But she still sat somewhere else at lunch. She sent me a picture of her cat on Friday. I sent a heart.",
+      "rejected_claim": ""
+    },
+    "ending": {
+      "given": true,
+      "child_words": "She sent me a picture of her cat on Friday.",
+      "rejected_claim": ""
+    }
+  },
+  "written": {
+    "summary": "The child told that their friend stopped talking to them. The child sent homework to their friend and their friend said thanks. The child asked if their friend had fallen out with them and their friend said she was just busy. The child sent a heart after their friend sent a picture of her cat. The child said they are still confused if they are friends like before.",
+    "goals": [
+      "Say why they felt that way.",
+      "Give a reason, using 'because' or 'so'."
+    ],
+    "focus": [
+      "The child will explain their feelings by stating why they felt that way.",
+      "The child will give a reason using 'because' or 'so'."
+    ],
+    "prompts": [
+      "Why did you feel happy about it?",
+      "Did you do it because you liked it or so you could play?"
+    ]
+  }
+}

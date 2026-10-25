@@ -1,0 +1,81 @@
+[Child sim] session net-1 (Played netball in PE), llama3.2:3b, temperature 0.3, seed 91
+[Isolation] new process pid 227356; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (3.9s)
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Netball.
+[State] Selected event: Played netball in PE
+
+Reachy: Was there anything in particular that happened during the netball practice?
+
+[Latency] Turn: 2.69s
+You: Caught a lot of balls. Blocked some shots.
+
+Reachy: Got blocked by someone or did you pass them the ball more often?
+
+[Latency] Turn: 2.45s
+You: Blocked them.
+
+Reachy: Who were the other people playing with you in your team?
+
+[Latency] Turn: 2.60s
+You: Grace and Jess. Some others too.
+[Question limit] Dropped: 'Did that make you nervous or happy?'
+
+Reachy: Good to know who you play with. How did it feel when you blocked shots from opponents?
+
+[Latency] Turn: 2.68s
+You: Fine.
+
+Reachy: That's great to hear, Fine how do you mean?
+
+[Latency] Turn: 2.56s
+You: I don't know.
+
+Reachy: Sometimes blocking shots can be tough on your legs or hands. Did you want to talk more about it or something else from today?
+
+[Latency] Turn: 2.60s
+You: No. Can't remember.
+
+Reachy: Oh, is there anything else that stands out from the day that you might like to share?
+
+[Latency] Turn: 2.57s
+You: Lost. Four to six.
+[Question limit] Dropped: 'Maybe you could explain how it went or what happened next?'
+
+Reachy: Do you remember why you lost?
+
+[Latency] Turn: 2.59s
+You: Just was.
+
+Reachy: You seem a little confused. Can someone or something make it easier for you to remember what happened today?
+
+[Latency] Turn: 2.59s
+You: Miss Kelly.
+
+Reachy: Ms Kelly helped remind about the score, did she tell you why you might have lost?
+
+[Latency] Turn: 2.61s
+You: No.
+
+Reachy: Okay then. Is there anything else from your day that you like to share or feel curious about?
+
+[Latency] Turn: 2.64s
+You: Yeah.
+
+Reachy: Go on and what would you like to talk about today?
+
+[Latency] Turn: 2.47s
+You: Bye.
+
+Reachy: Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+[State] Goodbye heard; confirming before ending.
+[Not spoken] Model's reply, dropped but kept in its history as on the robot: 'Bye, take care.'
+You: No.
+
+Reachy: Okay. Thank you for sharing your day with me, April. Goodbye.
+
+[State] Child confirmed goodbye; ending session.

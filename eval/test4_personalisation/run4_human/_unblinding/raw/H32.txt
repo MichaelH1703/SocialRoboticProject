@@ -1,0 +1,31 @@
+[Human] session H32, condition B, "I don't know" at turn 8
+[Isolation] new process pid 99760; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (6.4s)
+[Supabase] client_profiles error: {'message': 'Cannot coerce the result to a single JSON object', 'code': 'PGRST116', 'hint': None, 'details': 'The result contains 0 rows'}
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: went bowling
+[State] Selected event: Went bowling for Mia's birthday
+
+Reachy: Bowling sounds fun! Who went with you and what did you do there?
+
+[Latency] Turn: 2.72s
+You: Mia, Grace and Jess were there, we did ten pin bowling there
+
+Reachy: That's great! What happened next at the bowling alley?
+
+[Latency] Turn: 2.58s
+You: We had pizza and birthday cake
+
+Reachy: Oh wow, that must have been delicious. Anything else you want to share from your day?
+
+[Latency] Turn: 2.77s
+You: not really
+
+Reachy: Okay, it sounds like everything is all done with today's story then. Thanks for sharing!
+
+[Latency] Turn: 2.68s
+[Human] Ended by the player before Reachy's goodbye.
+[Human] Session over.

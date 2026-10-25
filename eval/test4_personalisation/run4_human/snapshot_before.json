@@ -1,0 +1,10 @@
+{
+  "conversation_logs": "62 rows, md5 e5e2476224eb7d286145e98e46c7933b",
+  "session_notes": "4 rows, md5 9ec5dacfb76bc38be2866dc33fb9412a",
+  "client_profiles": "4 rows, md5 c420effbe0965c3f9b07e92702384a20",
+  "daily_recap_sessions": "4 rows, md5 415d8a2aa0e7f0bddb3a6ba75e748c85",
+  "recount_event_prompts": "15 rows, md5 d8e89f75927692aa155cd19ac11d98d6",
+  "client_progress": "0 rows, md5 -",
+  "client_curriculum": "0 rows, md5 -",
+  "safety_events": "2 rows, md5 527554c833bb0b9e460bfef9c927a1ca"
+}

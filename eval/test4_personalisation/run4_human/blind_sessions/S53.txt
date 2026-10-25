@@ -1,0 +1,32 @@
+Session S53
+
+Lesson focus:
+  - Continuing to develop April’s ability to recall more details about others' reactions, as this is a skill that can be further enhanced.
+  - Practicing questions where the focus is on what someone thinks or feels next (e.g., "How do you think Sam felt when he didn't know if Peanut ate?")
+  - Exploring and clarifying her confusion about whether Peanut was fed while at Sam's house.
+
+Profile style checklist:
+  1. Short sentences (about ten words or fewer).
+  2. Everyday words.
+  3. Repeat her words back to her.
+  4. Ask who, what and where questions.
+
+Reachy (greeting, not coded): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: yeah. went bowling
+Reachy [1]: Bowling sounds fun! Who did you go with?
+
+You: Mia and Jess and Grace
+Reachy [2]: That’s good to know. How were you feeling after going bowling?
+
+You: i was very tired after bowling
+Reachy [3]: Oh, I see. Tired feels nice sometimes. Did anyone watch your game or take notes?
+
+You: no, i don't think so
+Reachy [4]: Got it. Thanks for sharing about bowling with friends and how you felt afterwards.
+
+You: bye
+Reachy (scripted, not coded): Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+You: no
+Reachy (scripted, not coded): Okay. Thank you for sharing your day with me, April. Goodbye.

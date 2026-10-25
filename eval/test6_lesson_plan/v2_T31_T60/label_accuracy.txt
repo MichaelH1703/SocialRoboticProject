@@ -1,0 +1,168 @@
+T31: 331/375 words right (88.3%), 59 sentences
+    therapist said, labelled child: Okay.
+    child said, labelled therapist: And the alarm was still going.
+    child said, labelled therapist: You can't even hear yourself.
+    therapist said, labelled child: You put your book down when the alarm went off, lined up with the class, stood by the fence in the playground, and then went back into maths with twenty minutes left.
+T32: 249/252 words right (98.8%), 54 sentences
+    child said, labelled therapist: He checked it.
+T33: 436/504 words right (86.5%), 48 sentences
+    child said, labelled therapist: What were you making?
+    therapist said, labelled child: Banana bread.
+    child said, labelled therapist: If you change the ratio, the texture changes, which is why some biscuits are crunchy and some are more crumbly.
+    child said, labelled therapist: Butter has a melting point of about thirty-two to thirty-five degrees Celsius, which is why it softens quite quickly in your hands.
+    child said, labelled therapist: Nan said there wasn't enough space for another one.
+    child said, labelled therapist: It's not difficult if you use the scales properly.
+    therapist said, labelled child: Fair point.
+T34: 293/334 words right (87.7%), 65 sentences
+    therapist said, labelled child: I went to the library yesterday to return a book, but I'd left it on my desk at home. I had to go back and get it.
+    therapist said, labelled child: It was a bit frustrating.
+    child said, labelled therapist: Can we finish now?
+    therapist said, labelled child: Yes, we're done for today.
+T35: NOT auto-labelled (labelling failed; the plan used the unlabelled fallback)
+T36: 333/378 words right (88.1%), 55 sentences
+    therapist said, labelled child: I've got a little story from my week. I went to get the bus on Tuesday and realised I'd left my travel card in my other coat. I had to use my phone instead.
+    therapist said, labelled child: Thanks for correcting me.
+    therapist said, labelled child: Miss said you'd covered the main points.
+T37: 284/305 words right (93.1%), 54 sentences
+    child said, labelled therapist: It happens.
+    child said, labelled therapist: The real Class 47 was built from 1962 onwards, and there were 512 of them originally.
+    therapist said, labelled child: Anything I've missed?
+T38: 120/270 words right (44.4%), 2 sentences
+    child said, labelled therapist: fine
+    child said, labelled therapist: yeah dentist
+    child said, labelled therapist: filling
+    child said, labelled therapist: mum took me
+    child said, labelled therapist: the dentist
+    child said, labelled therapist: sat in the chair and they put that bib thing on
+    child said, labelled therapist: the light was right in my eyes and it smelled weird
+    child said, labelled therapist: the drill
+    child said, labelled therapist: yeah it made a really high noise and i could feel it in my jaw
+    child said, labelled therapist: held the arms of the chair
+    child said, labelled therapist: i put my hand up
+    child said, labelled therapist: she stopped and said do you need a break
+    child said, labelled therapist: i said yes
+    child said, labelled therapist: both
+    child said, labelled therapist: dunno
+    therapist said, labelled child: what happened after the break
+    therapist said, labelled child: did you have to go back another day
+    therapist said, labelled child: how did it end when you left
+    therapist said, labelled child: so your mum took you to the dentist for a filling the light was in your eyes and the drill made a high noise you held the chair and put your hand up the dentist stopped for a break then finished the filling and you went home with mum
+    therapist said, labelled child: anything else
+    therapist said, labelled child: thanks harry thats all for today
+T39: 328/380 words right (86.3%), 56 sentences
+    therapist said, labelled child: I went to a friend's birthday meal last month and there were so many people talking that I had to ask them to repeat the menu.
+    child said, labelled therapist: Weddings are louder than that.
+    therapist said, labelled child: They can be.
+    therapist said, labelled child: Who was there with you?
+    therapist said, labelled child: Where was it held?
+    child said, labelled therapist: Can we do something else next time?
+    therapist said, labelled child: Of course.
+T40: 289/311 words right (92.9%), 51 sentences
+    child said, labelled therapist: Why didn't you climb over it?
+    therapist said, labelled child: It was rather high and I didn't fancy it.
+    child said, labelled therapist: I was going to swimming.
+    therapist said, labelled child: What happened?
+T41: 328/368 words right (89.1%), 51 sentences
+    therapist said, labelled child: I've got a story too. I visited a museum once and followed the map the wrong way round, so I ended up back at the entrance.
+    child said, labelled therapist: It needed more force if you tried to light all of them at once.
+T42: 341/341 words right (100.0%), 56 sentences
+T43: 136/252 words right (54.0%), 2 sentences
+    child said, labelled therapist: hi
+    child said, labelled therapist: fine
+    child said, labelled therapist: thats not very efficient
+    therapist said, labelled child: anything happened to you
+    therapist said, labelled child: what football thing
+    therapist said, labelled child: where was it
+    therapist said, labelled child: who was there
+    therapist said, labelled child: what happened
+    therapist said, labelled child: what did the coach say
+    therapist said, labelled child: what did you do then
+    therapist said, labelled child: how did you feel
+    therapist said, labelled child: that sounds embarrassing
+    therapist said, labelled child: okay i wont label it for you
+    therapist said, labelled child: what happened after the reset
+    therapist said, labelled child: was that the end of the drill
+    therapist said, labelled child: and then what
+    therapist said, labelled child: did you play in the match
+    therapist said, labelled child: what happened at the end
+    therapist said, labelled child: so you were in the sports hall with the coach and under fifteens you went to the wrong cone the group reset you got it right next time and then you played a match before coach told you about next week
+    therapist said, labelled child: anything else
+    therapist said, labelled child: thanks leo
+T44: 270/276 words right (97.8%), 41 sentences
+    child said, labelled therapist: Then they made them smaller.
+    child said, labelled therapist: Bye.
+T45: 246/265 words right (92.8%), 46 sentences
+    therapist said, labelled child: All right.
+    therapist said, labelled child: I went to see a film and someone behind me kept kicking the back of my seat.
+T46: 241/266 words right (90.6%), 45 sentences
+    therapist said, labelled child: I once sent an email without the attachment and had to send a second one straight afterwards.
+    therapist said, labelled child: You finished a geography sheet during the detention.
+T47: 318/325 words right (97.8%), 49 sentences
+    child said, labelled therapist: Can we listen to music next time?
+T48: 269/270 words right (99.6%), 47 sentences
+    child said, labelled therapist: Bye.
+T49: 290/298 words right (97.3%), 47 sentences
+    therapist said, labelled child: I've got a travel story of my own.
+T50: 262/269 words right (97.4%), 46 sentences
+    therapist said, labelled child: Oh.
+    therapist said, labelled child: You gave him cucumber afterwards.
+    child said, labelled therapist: Bye.
+T51: 289/310 words right (93.2%), 43 sentences
+    therapist said, labelled child: I tried to sort out a cupboard at home and found three different chargers that didn't fit anything I own.
+    child said, labelled therapist: Bye.
+T52: 237/271 words right (87.5%), 45 sentences
+    therapist said, labelled child: I went into a meeting room and all the chairs had been moved, so I had to work out where to sit.
+    therapist said, labelled child: You're right. I added that.
+    therapist said, labelled child: He collected the books at the end.
+T53: 291/333 words right (87.4%), 49 sentences
+    therapist said, labelled child: I had to get a different bus to work yesterday because my usual one was cancelled. I ended up at a stop I'd never used before.
+    therapist said, labelled child: Okay.
+    child said, labelled therapist: The driver let me use my bus pass.
+    child said, labelled therapist: Can we do the card game now?
+T54: 265/289 words right (91.7%), 48 sentences
+    therapist said, labelled child: I've probably forgotten a detail or two.
+    child said, labelled therapist: The book was about British birds, not all birds.
+    therapist said, labelled child: Thanks for correcting that.
+    child said, labelled therapist: Can we go now?
+T55: 342/384 words right (89.1%), 46 sentences
+    therapist said, labelled child: I went for a walk with a friend at the weekend, and we got caught in the rain without coats. We ended up sheltering under a shop awning.
+    therapist said, labelled child: What happened after that?
+    child said, labelled therapist: I need to show Jayden a picture of it later.
+T56: 314/343 words right (91.5%), 47 sentences
+    therapist said, labelled child: I tried something new last weekend. I went to a pottery class, and my bowl came out wonky. I still quite like it.
+    child said, labelled therapist: Can we finish five minutes early?
+T57: 202/224 words right (90.2%), 41 sentences
+    therapist said, labelled child: I had to read letters on a screen, and I couldn't tell whether one of them was an F or a P.
+T58: 158/351 words right (45.0%), 3 sentences
+    child said, labelled therapist: alright
+    child said, labelled therapist: yeah the science thing
+    child said, labelled therapist: the group presentation
+    child said, labelled therapist: me ellie and harry and then miss put daniel in as well
+    child said, labelled therapist: science room 12
+    child said, labelled therapist: a powerpoint about renewable energy and it had to be five slides minimum but harry did nine for some reason
+    child said, labelled therapist: ellie was doing wind turbines and i was doing solar and then daniel he just started changing the font
+    child said, labelled therapist: yeah it was arial and he made it comic sans and the titles were different sizes and it looked weird
+    child said, labelled therapist: i couldnt concentrate cos it kept changing and i was trying to read the slide
+    child said, labelled therapist: it was just distracting
+    child said, labelled therapist: i told him can you stop changing it until weve finished the words and he said he was making it look better
+    child said, labelled therapist: miss came over and said we needed to agree on one format so we picked arial again
+    child said, labelled therapist: harry had put a picture of a coal power station on my solar slide and i had to move it
+    child said, labelled therapist: the bell went and we saved it to the shared folder
+    child said, labelled therapist: yeah but it was the picture that took ages not the font
+    therapist said, labelled child: The picture took longer than the font issue.
+    child said, labelled therapist: yeah
+    child said, labelled therapist: okay
+T59: 304/360 words right (84.4%), 45 sentences
+    therapist said, labelled child: I went swimming on Sunday, and I got water up my nose when I tried to turn at the end of the pool. It wasn't my finest moment.
+    therapist said, labelled child: Rob set the route with the blue holds out of use.
+    therapist said, labelled child: You felt pleased with yourself, but your arms were tired, so you didn't repeat it.
+    child said, labelled therapist: That's it.
+T60: 389/438 words right (88.8%), 67 sentences
+    therapist said, labelled child: I went to the supermarket after work yesterday and got to the till before realising I'd left my shopping bag at home.
+    child said, labelled therapist: Not the first team.
+    child said, labelled therapist: You can stand closer there than at the proper stadium.
+    child said, labelled therapist: The second one was offside, I think.
+    child said, labelled therapist: The coffee smelled rank as well.
+
+OVERALL, model alone: 8152/9342 words right (87.3%); child's words found 3616/4106 (88.1%); labelled child and really were 3616/4316 (83.8%)
+OVERALL, after echo rule: 8155/9342 words right (87.3%); child's words found 3616/4106 (88.1%); labelled child and really were 3616/4313 (83.8%)

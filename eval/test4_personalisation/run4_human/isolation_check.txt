@@ -1,0 +1,99 @@
+Isolation check, run 4, finished 2026-10-16 17:39
+
+H11: unloaded nothing; confirmed none loaded before starting
+    new process pid 22740; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+H12: unloaded qwen2.5:3b; confirmed none loaded before starting
+    new process pid 50700; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+H13: unloaded qwen2.5:3b; confirmed none loaded before starting
+    new process pid 25812; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+H14: unloaded qwen2.5:3b; confirmed none loaded before starting
+    new process pid 50500; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+H15: unloaded qwen2.5:3b; confirmed none loaded before starting
+    new process pid 34104; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+H14, H15: reset by you at 2026-10-16 15:04; their first plays are kept as .reset-20261016-150429.txt
+H14: unloaded qwen2.5:3b; confirmed none loaded before starting
+    new process pid 48260; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+H15: unloaded qwen2.5:3b; confirmed none loaded before starting
+    new process pid 26304; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+H16: unloaded qwen2.5:3b; confirmed none loaded before starting
+    new process pid 18020; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+H17: unloaded qwen2.5:3b; confirmed none loaded before starting
+    new process pid 86220; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+H18: unloaded qwen2.5:3b; confirmed none loaded before starting
+    new process pid 17504; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+H19: unloaded qwen2.5:3b; confirmed none loaded before starting
+    new process pid 81332; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+H20: unloaded qwen2.5:3b; confirmed none loaded before starting
+    new process pid 87748; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+H21: unloaded qwen2.5:3b; confirmed none loaded before starting
+    new process pid 83608; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+H22: unloaded qwen2.5:3b; confirmed none loaded before starting
+    new process pid 89152; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+H23: unloaded nothing; confirmed none loaded before starting
+    new process pid 89712; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+H24: unloaded qwen2.5:3b; confirmed none loaded before starting
+    new process pid 83920; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+H25: unloaded qwen2.5:3b; confirmed none loaded before starting
+    new process pid 97288; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+H26: unloaded qwen2.5:3b; confirmed none loaded before starting
+    new process pid 89008; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+H27: unloaded qwen2.5:3b; confirmed none loaded before starting
+    new process pid 97192; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+H28: unloaded qwen2.5:3b; confirmed none loaded before starting
+    new process pid 81044; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+H29: unloaded qwen2.5:3b; confirmed none loaded before starting
+    new process pid 75840; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+H30: unloaded qwen2.5:3b; confirmed none loaded before starting
+    new process pid 92076; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+H31: unloaded qwen2.5:3b; confirmed none loaded before starting
+    new process pid 79248; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+H32: unloaded qwen2.5:3b; confirmed none loaded before starting
+    new process pid 99760; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+H33: unloaded qwen2.5:3b; confirmed none loaded before starting
+    new process pid 99456; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+H34: unloaded qwen2.5:3b; confirmed none loaded before starting
+    new process pid 100084; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+H35: unloaded qwen2.5:3b; confirmed none loaded before starting
+    new process pid 100992; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+H36: unloaded qwen2.5:3b; confirmed none loaded before starting
+    new process pid 89560; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+H37: unloaded qwen2.5:3b; confirmed none loaded before starting
+    new process pid 21416; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+H38: unloaded qwen2.5:3b; confirmed none loaded before starting
+    new process pid 77640; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+H39: unloaded qwen2.5:3b; confirmed none loaded before starting
+    new process pid 69920; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+H40: unloaded qwen2.5:3b; confirmed none loaded before starting
+    new process pid 98436; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+H41: unloaded qwen2.5:3b; confirmed none loaded before starting
+    new process pid 102324; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+H42: unloaded qwen2.5:3b; confirmed none loaded before starting
+    new process pid 103940; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+H43: unloaded qwen2.5:3b; confirmed none loaded before starting
+    new process pid 25148; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+H44: unloaded qwen2.5:3b; confirmed none loaded before starting
+    new process pid 98052; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+H45: unloaded qwen2.5:3b; confirmed none loaded before starting
+    new process pid 102224; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+H46: unloaded qwen2.5:3b; confirmed none loaded before starting
+    new process pid 105044; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+H47: unloaded qwen2.5:3b; confirmed none loaded before starting
+    new process pid 87612; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+H48: unloaded qwen2.5:3b; confirmed none loaded before starting
+    new process pid 88796; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+H49: unloaded qwen2.5:3b; confirmed none loaded before starting
+    new process pid 92092; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+H50: unloaded qwen2.5:3b; confirmed none loaded before starting
+    new process pid 103400; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+
+April's database rows (all tables the robot reads or writes, every therapist's April):
+  conversation_logs: before 62 rows, md5 e5e2476224eb7d286145e98e46c7933b | after 62 rows, md5 e5e2476224eb7d286145e98e46c7933b
+  session_notes: before 4 rows, md5 9ec5dacfb76bc38be2866dc33fb9412a | after 4 rows, md5 9ec5dacfb76bc38be2866dc33fb9412a
+  client_profiles: before 4 rows, md5 c420effbe0965c3f9b07e92702384a20 | after 4 rows, md5 c420effbe0965c3f9b07e92702384a20
+  daily_recap_sessions: before 4 rows, md5 415d8a2aa0e7f0bddb3a6ba75e748c85 | after 4 rows, md5 415d8a2aa0e7f0bddb3a6ba75e748c85
+  recount_event_prompts: before 15 rows, md5 d8e89f75927692aa155cd19ac11d98d6 | after 15 rows, md5 d8e89f75927692aa155cd19ac11d98d6
+  client_progress: before 0 rows, md5 - | after 0 rows, md5 -
+  client_curriculum: before 0 rows, md5 - | after 0 rows, md5 -
+  safety_events: before 2 rows, md5 527554c833bb0b9e460bfef9c927a1ca | after 2 rows, md5 527554c833bb0b9e460bfef9c927a1ca
+
+Unchanged by the run: True

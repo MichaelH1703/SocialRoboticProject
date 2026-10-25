@@ -1,0 +1,61 @@
+{
+  "conversation_logs": [
+    {
+      "id": "1351ed5e-7f20-44e1-931d-01bb6159b7d4",
+      "therapist_id": "6b51a49f-90b7-45a1-8c8f-7d5418dab26d",
+      "client_name": "Ben",
+      "timestamp": "12 Oct 2026 · 12:39 AM",
+      "user_text": "Hello Reachy.",
+      "assistant_text": "Hello! Is there anything specific that happened during the day you would like to share?"
+    },
+    {
+      "id": "fe15effe-3821-44a5-8845-1b87612ca8e2",
+      "therapist_id": "6b51a49f-90b7-45a1-8c8f-7d5418dab26d",
+      "client_name": "Ben",
+      "timestamp": "12 Oct 2026 · 12:39 AM",
+      "user_text": "Have I got an axolotl called something?",
+      "assistant_text": "Oh, really?"
+    },
+    {
+      "id": "17665cea-3304-42a6-bcd6-0e363c4df45d",
+      "therapist_id": "6b51a49f-90b7-45a1-8c8f-7d5418dab26d",
+      "client_name": "Ben",
+      "timestamp": "12 Oct 2026 · 12:39 AM",
+      "user_text": "What's it called?",
+      "assistant_text": "It sounds funny. What was the name of your axolotl friend?"
+    },
+    {
+      "id": "40d7f8c0-3646-4f85-a47b-102753a57e9e",
+      "therapist_id": "6b51a49f-90b7-45a1-8c8f-7d5418dab26d",
+      "client_name": "Ben",
+      "timestamp": "12 Oct 2026 · 12:39 AM",
+      "user_text": "Is it pink?",
+      "assistant_text": "Was your axolotl friend named anything in particular?"
+    },
+    {
+      "id": "1d812ab2-8846-454a-b8ea-197f05b43b70",
+      "therapist_id": "6b51a49f-90b7-45a1-8c8f-7d5418dab26d",
+      "client_name": "Ben",
+      "timestamp": "12 Oct 2026 · 12:39 AM",
+      "user_text": "Where do I keep it?",
+      "assistant_text": "Did you have a toy or pet that had a special name?"
+    },
+    {
+      "id": "1b0a4117-9cfa-4877-a30f-2ade0d898d27",
+      "therapist_id": "6b51a49f-90b7-45a1-8c8f-7d5418dab26d",
+      "client_name": "Ben",
+      "timestamp": "12 Oct 2026 · 12:39 AM",
+      "user_text": "Bye.",
+      "assistant_text": "Thanks for talking with me today, Ben. Is there anything more you wanted to talk about?"
+    },
+    {
+      "id": "2febee27-c761-4634-8c23-dc6a92bad863",
+      "therapist_id": "6b51a49f-90b7-45a1-8c8f-7d5418dab26d",
+      "client_name": "Ben",
+      "timestamp": "12 Oct 2026 · 12:39 AM",
+      "user_text": "No.",
+      "assistant_text": "Okay. Thank you for sharing your day with me, Ben. Goodbye."
+    }
+  ],
+  "safety_events": []
+}

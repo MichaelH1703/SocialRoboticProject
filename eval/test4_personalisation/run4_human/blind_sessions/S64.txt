@@ -1,0 +1,35 @@
+Session S64
+
+Lesson focus:
+  - Improve narrative sequencing by clarifying which event happened first.
+  - Enhance specific detail recall for personal actions and emotional responses during games.
+  - Develop understanding of different types of emotions related to sports outcomes (e.g., joy, disappointment).
+
+Profile style checklist:
+  1. No jokes, sarcasm or figures of speech.
+  2. One question at a time.
+  3. Say what is coming next.
+  4. Ask what happened before asking about feelings.
+
+Reachy (greeting, not coded): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: yeah. went bowling
+Reachy [1]: Pinned bowling?
+
+You: yeah 10 pin bowling
+Reachy [2]: Sounds fun! What did you and who go bowling with?
+
+You: Mia and Grace and Jess were all there
+Reachy [3]: Oh, that's great to hear! Did something happen during the game they remember most?
+
+You: I got two strikes in a row
+Reachy [4]: That must have been exciting! What did Mia and Grace think when you told them about it?
+
+You: they didnt believe me at first
+Reachy [5]: Do you remember what Mia or Grace said that made you feel unsure at first?
+
+You: they just thought i didnt get two in a row
+Reachy [6]: Oh, I see. What did you do to make sure they understood it was real?
+
+You: i showed them the score board
+Reachy [7]: That’s very clear and helpful! Thanks for sharing that with me today.

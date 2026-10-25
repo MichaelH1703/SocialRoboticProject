@@ -1,0 +1,45 @@
+Session S15
+
+Reachy (greeting, not coded): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Went bowling.
+Reachy [1]: Gonna bowling with whom?
+
+You: Mia and Ella and Jess and Grace.
+Reachy [2]: Oh, who all else was there?
+
+You: Just Mia's mum too.
+Reachy [3]: Alright. How did you feel playing bowling?
+
+You: Happy. A bit nervous.
+Reachy [4]: Got excited for the game then?
+
+You: No. Just was.
+Reachy [5]: Really glad you had that happy feeling on your day wasn't it?
+
+You: Yeah. Good.
+Reachy [6]: What did Mia's mum bring with her when she came?
+
+You: I don't know.
+Reachy [7]: Do you remember if the others brought anything too?
+
+You: No.
+Reachy [8]: Okay, what else do you remember about your day?
+
+You: Pizza and cake.
+Reachy [9]: Got yummy food then huh?
+
+You: Yeah.
+Reachy [10]: And after that what happened next in bowlin' land?
+
+You: Mia's mum drove me home.
+Reachy [11]: Mia's mum took you back to where you live right?
+
+You: Yeah.
+Reachy [12]: Did you notice any funny or special things during your bowling game, like something that happened only because of yourself?
+
+You: Bye.
+Reachy (scripted, not coded): Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+You: No.
+Reachy (scripted, not coded): Okay. Thank you for sharing your day with me, April. Goodbye.

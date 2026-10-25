@@ -1,0 +1,51 @@
+transcript_id	feature	planted	reported	result	evidence (plan, sections 1-4)	note
+T21	Leaves out: who (silent)	Y	Y	hit	Did not say who was there.	
+T21	Leaves out: how it ended (asked)	Y	Y	hit	Did not say how it ended.	
+T21	Feeling: dislike (phrase)	Y	N	miss	Section 4: Not checked.	Labelling failed (no punctuation), so feelings were not counted
+T21	Gives a reason	Y	N	miss		Unlabelled fallback: reasons not checked
+T21	False alarm: what happened	N	Y	false alarm	Did not say what happened.	The child described the chair, the cape, the scissors and the clippers
+T21	(not scored)					Summary says the clippers went up like a rocket (it was the chair)
+T22	Leaves out: where (yes-only)	Y	Y	hit	Did not say where it happened.	
+T22	Leaves out: how they felt (silent)	Y	Y	hit	Did not name any feelings.	
+T22	Gives a reason	Y	Y	hit	Gave a reason: "The car stopped because it didn't have no petrol. Mum said."	
+T22	Credited to the child: why the man used a torch			wrong speaker	Gave a reason: "... because it was getting dark."	The therapist's reason, labelled as the child's
+T23	Feeling: scared (phrase)	Y	N	miss		"My tummy went all funny, like, wobbly." not mentioned
+T23	Feeling: upset (phrase)	Y	N	miss		"I was crying." not mentioned
+T23	Feeling: happy (word)	Y	Y	hit	Named feelings: happy	
+T23	Gives a reason	Y	Y	hit	Gave a reason: "... cos I was a good girl."	
+T23	(not scored)					Section 4 says the child did not say why they felt happy: arguably wrong ("Mummy came running ... I was happy then"), but the planted sheet records no reason for happy. Summary credits the therapist's "I've never tried one" to the child
+T24	Leaves out: who (yes-only)	Y	Y	hit	Did not say who was there.	
+T24	Leaves out: how it ended (silent)	Y	Y	hit	Did not say how it ended.	
+T24	Feeling: scared (phrase)	Y	N	miss	Quoted only as a reason; sections 3-4 say "Did not name any feelings."	
+T24	Feeling: enjoyment (phrase)	Y	N	miss		"I loved the diplodocus. It was so cool." not mentioned
+T24	Gives a reason	Y	Y	hit	Gave a reason: "It was a bit scary because it had really big teeth ..."	
+T24	False alarm: missing feelings	N	Y	false alarm	Did not name any feelings.	"It was a bit scary", "I loved the diplodocus"
+T25	Leaves out: who (asked)	Y	Y	hit	Did not say who was there.	
+T25	Leaves out: how it ended (silent)	Y	Y	hit	Did not say how it ended.	
+T25	Feeling: scared (phrase)	Y	N	miss		"My heart went really fast" not mentioned
+T25	Feeling: enjoyment (phrase)	Y	N	miss		"It was fun with the candles." not mentioned
+T25	Gives a reason	Y	Y	hit	Gave a reason: "You're not allowed to touch them cos they're hot ..."	
+T25	False alarm: missing feelings	N	Y	false alarm	Did not name any feelings.	"My heart went really fast", "It was fun with the candles"
+T25	(not scored)					Summary credits the therapist's "I had to feel around for my towel" to the child; the sequencing word "first" is the therapist's "You go first"
+T26	Leaves out: how they felt (asked)	Y	Y	hit	Did not name any feelings.	
+T26	Leaves out: where (silent)	Y	Y	hit	Did not say where it happened.	
+T26	Gives no reasons	Y	Y	hit	Did not give any reasons (no "because" or "so").	
+T27	Leaves out: what happened (asked)	Y	N	miss	Said what happened: "I wore my glitter top ..."	Took what she wore, and the disco being the best, as what happened
+T27	Feeling: enjoyment (phrase)	Y	Y	hit	Summary: the child said the disco was the best one ever	
+T27	Feeling: sad (word)	Y	Y	hit	Named feelings: sad	
+T27	Gives a reason	Y	Y	hit	Gave a reason: "Cos it's my best one ..."	
+T28	Leaves out: where (silent)	Y	Y	hit	Did not say where it happened.	
+T28	Leaves out: how it ended (silent)	Y	Y	hit	Did not say how it ended.	
+T28	Feeling: amused (phrase)	Y	Y	hit	Summary: the child laughed	Right only because the whole transcript was labelled as the child's
+T28	Feeling: enjoyment (phrase)	Y	Y	hit	Summary: The child said it was so fun	As above
+T28	Gives no reasons	Y	Y	hit	Did not give any reasons (no "because" or "so").	
+T28	Credited to the child: proud			wrong speaker	Named feelings: proud	The therapist's "you must have felt really proud": the whole transcript was one sentence, labelled as the child's
+T29	Feeling: scared (word)	Y	Y	hit	Named feelings: scared	
+T29	Feeling: embarrassed (phrase)	Y	N	miss		"my face went all hot. Everyone was looking at me." quoted only as part of what happened
+T29	Gives a reason	Y	Y	hit	Gave a reason: "Then I had to go to the office because it wouldn't stop."	
+T29	False alarm: missing reasons	N	Y	false alarm	Did not say why they felt that way.	"There was loads of blood on my book. I was scared."
+T30	Leaves out: what happened (asked)	Y	N	miss	Said what happened: "I had a sparkly dress ... I don't remember."	Took her dress and shoes, and even "I don't remember", as what happened
+T30	Feeling: enjoyment (phrase)	Y	N	miss		"It was the best day ever." not mentioned
+T30	Gives no reasons	Y	Y	hit	Did not give any reasons (no "because" or "so").	
+T30	False alarm: missing feelings	N	Y	false alarm	Did not name any feelings.	"It was the best day ever."
+T30	(not scored)					Summary credits the therapist's own story (restaurant, mum's birthday, sparkler cake) to the child: it was labelled as the child's

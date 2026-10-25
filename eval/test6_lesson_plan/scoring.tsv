@@ -1,0 +1,55 @@
+transcript_id	feature	planted	reported	result	evidence (plan, sections 1-4)	note
+T01	Leaves out: where	Y	Y	hit	"limited information about where exactly the lesson took place (location was vague)"
+T01	Uses 'because'	Y	Y	hit	"scared to jump into the deep end due to its depth"	Reason given in the summary; not remarked on as a skill
+T01	Emotion word: scared	Y	Y	hit	"initially scared"; "their initial fear"
+T01	Emotion word: happy	Y	Y	hit	"happy at the end"; "their feeling of happiness"
+T01	False alarm: what happened	N	Y	false alarm	"did not describe the specific activities or games played during the lesson"	The child described jumping into the deep end
+T01	False alarm: who	N	Y	false alarm	"lapses in recall regarding certain details, such as Jo's role"	The child said "Jo's the teacher". "when" is not a planted category (not counted)
+T01	(not scored)					Summary says the child felt "nervous": the therapist's word, credited to the child
+T02	Leaves out: how it ended	Y	Y	hit	"struggled with remembering or explaining what happened immediately after the party ended"	Phrased as after the party ended
+T02	Uses neither 'because' nor 'so'	Y	N	miss		Never says the child gave no reasons
+T02	Emotion word: excited	Y	Y	hit	"understanding of their feelings ("Excited")"
+T02	(not scored)					Section 4 credits the therapist's "You sound like you were thrilled" to the child
+T03	Leaves out: who	Y	Y	hit	"had trouble recalling who was with them at break"
+T03	Uses 'so'	Y	Y	hit	"forgot it when the bell rang, causing them to go inside"	Reason given in the summary
+T03	Emotion word: sad	Y	Y	hit	"their feelings (sadness and worry)"
+T03	Emotion word: worried	Y	Y	hit	"anxious ("worried")"
+T03	False alarm: missing reasons	N	Y	false alarm	"did not elaborate on why losing a new coat would make them sad or worried"	The child used "so", and when asked gave a reason ("It's my new coat")
+T03	(not scored)					Section 4 says the child expressed "upset": the therapist's word, credited to the child
+T04	Leaves out: how they felt	Y	Y	hit	"had difficulty articulating their feelings ... ("I don't know")"
+T04	Uses 'because' and 'so'	Y	Y	hit	"did the mixing because she thought they were good at it"; "too hot in the oven, so they waited"	Summary wrongly says Grandma did the mixing (the child did)
+T04	Uses no emotion words	Y	Y	hit	"had difficulty articulating their feelings"
+T04	False alarm: what happened	N	Y	false alarm	"Less detail about actions like mixing, waiting, or eating cookies"	The child described each of these
+T05	Leaves out: where	Y	Y	hit	"couldn't remember details about the match, such as ... where it took place"
+T05	Leaves out: how it ended	Y	N	miss		Never mentions that the child did not say how the match ended
+T05	Uses neither 'because' nor 'so'	Y	N	miss		Section 4 says the child "avoided elaborating on this emotion", but not that they gave no reasons
+T05	Emotion word: angry	Y	Y	hit	"felt angry"; "feeling angry and frustrated ("Really angry")"	"frustrated" is the therapist's word, credited to the child
+T05	False alarm: who	N	Y	false alarm	"couldn't remember details about the match, such as who was watching"	The child said "My mum and my nan"
+T05	False alarm: what happened	N	Y	false alarm	"did not clearly state what happened immediately after the referee gave a goal"	The child said "I kicked the ball away"
+T05	(not scored)					Summary reverses the order (kicked the ball after being told off) and invents an "opponent player"; says the Tigers scored. "Pronoun usage" gap is outside the planted categories
+T06	Uses 'because'	Y	N	miss	"making them scared due to one moving" but also "did not provide a clear reason for being scared by the snake"	Contradicts itself: the child said "scared because one moved"
+T06	Emotion word: excited	Y	Y	hit	"excited them"; "different emotions (excitement, fear)"	
+T06	Emotion word: scared	Y	Y	hit	"making them scared"; "fear"	
+T06	False alarm: missing reasons	N	Y	false alarm	"did not provide a clear reason for being scared by the snake"	The child said "because one moved"
+T06	False alarm: missing linking words	N	Y	false alarm	"Limited use of conjunctions to connect thoughts (e.g., "and," "then")"	The child used "because", "and" and "then"
+T06	(not scored)					Control transcript: nothing left out. Credits the therapist's "you" to the child. "Redundant phrases" gap is outside the planted categories
+T07	Leaves out: what happened	Y	Y	hit	"difficulty providing one specific thing they did at the park"	
+T07	Uses neither 'because' nor 'so'	Y	N	miss		Never says the child gave no reasons
+T07	Emotion word: happy	Y	Y	hit	"their feelings (happy)"	
+T08	Leaves out: who	Y	N	miss		Never mentions who was there
+T08	Leaves out: how they felt	Y	N	miss	"provided a clear answer indicating fear and pain ("My knee was red")"	Says the opposite: invents fear, pain and relief
+T08	Uses 'because'	Y	Y	hit	"hit a stone because they didn't see it coming"	
+T08	Uses no emotion words	Y	N	miss	"feeling relief afterward"	Says the opposite: invents feelings
+T08	False alarm: missing reasons	N	Y	false alarm	"gaps in describing ... the exact reason why they didn't see the stone"	The child used "because"
+T08	False alarm: what happened	N	Y	false alarm	"could provide more about how quickly they fell and whether there were any other injuries"	The child described the fall step by step
+T09	Leaves out: how it ended	Y	N	miss		Never mentions that the child did not say how the assembly ended
+T09	Uses 'so'	Y	Y	hit	"indicated nervousness due to many parents being present"	The reason is credited to the child, but the child's "so everyone clapped" itself is not mentioned
+T09	Emotion word: nervous	Y	Y	hit	"indicated nervousness"	
+T09	Emotion word: proud	Y	Y	hit	"mentioned feeling proud"	
+T09	False alarm: what happened	N	Y	false alarm	"Limited elaboration on specific parts of the play"	The child described the play, their part and the clapping
+T09	(not scored)					Credits the therapist's "Did I get that right?" to the child. "Did not describe any mistakes" is outside the planted categories
+T10	Leaves out: who	Y	Y	hit	"struggled to provide specific details about the game play environment or participants"	
+T10	Leaves out: where	Y	Y	hit	"struggled to provide specific details about the game play environment"	"Environment" is ambiguous; section 5 confirms it means "where they played"
+T10	Uses neither 'because' nor 'so'	Y	N	miss	"defeated them three times due to the dragon having fire"	Says the opposite: invents a reason the child never gave
+T10	Emotion word: annoyed	Y	Y	hit	"could express feelings (annoyed, happy)"	
+T10	Emotion word: happy	Y	Y	hit	"could express feelings (annoyed, happy)"	Section 4 says "frustration": the therapist's word

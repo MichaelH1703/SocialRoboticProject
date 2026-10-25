@@ -1,0 +1,77 @@
+[Child sim] session B2, llama3.2:3b, temperature 0.3, seed 2
+[Supabase] client_profiles error: {'message': 'Cannot coerce the result to a single JSON object', 'code': 'PGRST116', 'hint': None, 'details': 'The result contains 0 rows'}
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Went bowling.
+[State] Selected event: Went bowling for Mia's birthday
+
+Reachy: That sounds fun. Who went with you?
+
+[Latency] Turn: 2.69s
+You: Mia. And Ella and stuff.
+
+Reachy: Oh, Mia’s birthday! That's great. What did she get at her party?
+
+[Latency] Turn: 2.72s
+You: Cake. With candles.
+
+Reachy: Your cake sounds yummy. What games did you play there?
+
+[Latency] Turn: 2.52s
+You: Bowling. Got two strikes.
+
+Reachy: That must have been exciting! How were you feeling during the bowling?
+
+[Latency] Turn: 2.50s
+You: Happy. A bit nervous.
+
+Reachy: Nervous and happy is a good mix. Did anyone get hurt or feel upset at your party?
+
+[Latency] Turn: 2.50s
+You: No. Everyone had fun.
+
+Reachy: That's wonderful to hear. Did you see anything funny happen during the bowling?
+
+[Latency] Turn: 2.68s
+You: Can't remember.
+
+Reachy: Oh, no worries. There are always things we can talk about from our day. What else would you like to share?
+
+[Latency] Turn: 2.80s
+You: I don't know.
+
+Reachy: It sounds like the fun of your birthday got everything clear in your mind! If you feel like it, what part was most special or memorable for you today?
+
+[Latency] Turn: 2.68s
+You: Singing Happy Birthday.
+
+Reachy: That makes a nice memory. What did you sing?
+
+[Latency] Turn: 2.50s
+You: Happy Birthday. Really loud.
+
+Reachy: The happy birthday song must have made your party even more special. Did anything else stand out to you from today?
+
+[Latency] Turn: 2.73s
+You: Pizza.
+
+Reachy: Enjoying pizza sounds delicious! Was it a homemade or a restaurant pizza?
+
+[Latency] Turn: 2.66s
+You: Restaurant pizza.
+
+Reachy: Thanks for sharing, April. It was nice talking about your day with you today. You had a great birthday party.
+
+[Latency] Turn: 2.62s
+You: Bye.
+
+Reachy: Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+[State] Goodbye heard; confirming before ending.
+[Not spoken] Model's reply, dropped but kept in its history as on the robot: 'Goodbye, April. Take care.'
+You: No.
+
+Reachy: Okay. Thank you for sharing your day with me, April. Goodbye.
+
+[State] Child confirmed goodbye; ending session.

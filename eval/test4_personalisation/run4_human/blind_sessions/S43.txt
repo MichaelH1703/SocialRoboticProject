@@ -1,0 +1,35 @@
+Session S43
+
+Lesson focus:
+  - Continue working on increasing language skills, particularly in using descriptive and logical explanations.
+  - Develop emotional vocabulary and the ability to articulate emotions more precisely.
+  - Enhance social reasoning by asking questions that encourage a deeper understanding of others' perspectives and reactions.
+
+Profile style checklist:
+  1. Ask short questions.
+  2. Ask concrete questions.
+  3. When she is stuck, offer a choice of two options ("Was it X or Y?").
+  4. Avoid long or open questions.
+
+Reachy (greeting, not coded): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: yeah. went bowling
+Reachy [1]: Bowling was fun. Which friends did you go with?
+
+You: Mia and Jess and Grace
+Reachy [2]: That sounds like a great group of friends. What did you do at the bowling alley?
+
+You: It was Mia's birthday, we bowled and then had cake and pizza and soft drink
+Reachy [3]: Oh, that must have been special! Did someone win any games or get prizes?
+
+You: Mia won the bowling but there were no prizes
+Reachy [4]: Winning games is often exciting. Do you remember how it made you feel when Mia won?
+
+You: i was happy for her but a little sad that i wasn't the one that one
+Reachy [5]: It's normal to feel both happy and a bit sad about such things. How did it feel to share birthday activities with friends?
+
+You: good
+Reachy [6]: Good to hear you enjoyed sharing your special day with friends. Is there anything else from today you want to talk about?
+
+You: no
+Reachy [7]: Okay, that's great. We can chat more another time if you want. Have a good day!

@@ -1,0 +1,56 @@
+Session S74
+
+Lesson focus:
+  - Improve narrative sequencing by clarifying which event happened first.
+  - Enhance specific detail recall for personal actions and emotional responses during games.
+  - Develop understanding of different types of emotions related to sports outcomes (e.g., joy, disappointment).
+
+Profile style checklist:
+  1. No jokes, sarcasm or figures of speech.
+  2. One question at a time.
+  3. Say what is coming next.
+  4. Ask what happened before asking about feelings.
+
+Reachy (greeting, not coded): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: yeah i went bowling today
+Reachy [1]: That sounds fun. What did you do at the bowling alley?
+
+You: we had a party, it was Mia's birthday
+Reachy [2]: Oh really?
+
+You: yes
+Reachy [3]: Who else from your life was there?
+
+You: my friends Jess and Grace were there as well
+Reachy [4]: Got it. And how did you feel at the birthday party?
+
+You: it was fun
+Reachy [5]: That's great to hear! How did they make the party fun for you?
+
+You: what?
+Reachy [6]: How did Jess and Grace make the party enjoyable for you?
+
+You: i dont know
+Reachy [7]: Can you remember what games or activities you played at the bowling alley?
+
+You: yeah we did bowling and we played ski ball as well
+Reachy [8]: What happened next after playing those games?
+
+You: we had pizza and birthday cake
+Reachy [9]: Sounds delicious! And then what did you do?
+
+You: Mia's mum drove me home
+Reachy [10]: And how did you feel when you went home?
+
+You: tired
+Reachy [11]: That’s understandable. Did anyone in your family come to pick you up?
+
+You: no, Mia's mum drove me home
+Reachy [12]: Got it. And that made you tired as well. Thank you for sharing about your day!
+
+You: goodbye
+Reachy (scripted, not coded): Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+You: no
+Reachy (scripted, not coded): Okay. Thank you for sharing your day with me, April. Goodbye.

@@ -1,0 +1,32 @@
+Therapist. Hello, Victor. How's your week been?
+Child. Fine.
+Therapist. What happened at school recently?
+Child. We had a supply teacher in history.
+Therapist. I've got a small story from yesterday. I went into a meeting room and all the chairs had been moved, so I had to work out where to sit. What happened in your history lesson?
+Child. The teacher didn't know where we were up to.
+Therapist. What did you do?
+Child. I got my book out. The date was already on the board.
+Therapist. Who was in the lesson?
+Child. Everyone in our class.
+Therapist. What did the supply teacher ask you to do?
+Child. Read the page about the Industrial Revolution.
+Therapist. Did you manage to do that?
+Child. Yes.
+Therapist. What happened after the reading?
+Child. He said answer the questions at the bottom. I did questions one to six.
+Therapist. Was there anything difficult about the lesson?
+Child. He kept calling me Vincent.
+Therapist. How did you feel when he called you that?
+Child. I don't know. It's not my name.
+Therapist. That must have been irritating.
+Child. I didn't say irritating.
+Therapist. You're right. I added that. What did you do when he called you Vincent?
+Child. I said it's Victor. He said sorry.
+Therapist. Did he remember after that?
+Child. For a bit. Then he did it again.
+Therapist. What happened at the end of the lesson?
+Child. He collected the books. I put mine on the front desk.
+Therapist. So the supply teacher didn't know where the class was up to, you read the Industrial Revolution page and answered six questions, and he called you Vincent more than once even after you corrected him. He collected the books at the end.
+Child. Yes.
+Therapist. Thank you, Victor. That's all for today.
+Child. Okay.

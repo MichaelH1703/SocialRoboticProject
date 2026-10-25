@@ -1,0 +1,54 @@
+Session S34
+
+Reachy (greeting, not coded): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Went bowling
+Reachy [1]: Gave Mia what fun! What happened when you were at the bowling alley?
+
+You: we did some bowling
+Reachy [2]: And what did you and Mia do together there?
+
+You: bowled
+Reachy [3]: What game did you guys bowl first, or any other fun things happen there?
+
+You: bowling
+Reachy [4]: Fun! Did anyone score better than you did?
+
+You: yeah i came second
+Reachy [5]: That sounds amazing. What were the scores like?
+
+You: Mia scored 300, i scored 192
+Reachy [6]: Oh wow, that's really close! Great job though. Did you celebrate your score together?
+
+You: Yeah, i told her she did well
+Reachy [7]: That’s nice to hear. What did Mia say when you told her about your score?
+
+You: she bragged that she won
+Reachy [8]: She seemed proud of herself, didn't she?
+
+You: yeah i guess so
+Reachy [9]: Good job working together, having fun, and celebrating!
+
+You: thanks
+Reachy [10]: You're welcome. Have a nice day ahead!
+
+You: is that all
+Reachy [11]: That's great to hear about your bowling session. Do you have any more details or would you like to talk about something different?
+
+You: we also sang happy birthday
+Reachy [12]: Singing "Happy Birthday" must have made the day extra special, didn't it?
+
+You: yeah
+Reachy [13]: That's wonderful! What did Mia say while she sang or after?
+
+You: she was quite, it was her birthday
+Reachy [14]: She sure knows how to make birthdays merry! Did you both enjoy the evening together?
+
+You: yeah it was alot of fun
+Reachy [15]: That's great to hear. Have a good day!
+
+You: bye
+Reachy (scripted, not coded): Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+You: no
+Reachy (scripted, not coded): Okay. Thank you for sharing your day with me, April. Goodbye.

@@ -1,0 +1,396 @@
+transcript_id	quote	found	how	speaker	closest_turn	coverage	section
+T01	My dad. And Jo. Jo's the teacher.	exact	one turn	child			2
+T01	We did jumping in. In the deep end. Jumping into the deep end. I didn't want to because it was really deep. Scared. Jo held my hand. Then I jumped. I got a sticker.	exact	joined from 8 sentences	child/therapist			2
+T01	I got a sticker. Happy.	exact	joined from 2 sentences	child/therapist			2
+T01	I didn't want to because it was really deep.	exact	one turn	child			2
+T01	then	exact	one turn	child/therapist			2
+T01	Scared.	exact	one turn	child/therapist			4
+T01	Happy.	exact	one turn	child/therapist			4
+T02	Lots of people. From my class.	exact	one turn	child			2
+T02	At the soft play.	exact	one turn	child/therapist			2
+T02	We went on the big slide. Then pizza. Hana opened presents. I gave her a unicorn.	exact	joined from 4 sentences	child/therapist			2
+T02	then	exact	one turn	child/therapist			2
+T02	Excited.	exact	one turn	child/therapist			4
+T03	At school. In the playground.	exact	one turn	child			2
+T03	I took it off at break. I put it on the bench. The bell went, so I went inside. I forgot it. It was gone after.	exact	joined from 5 sentences	child			2
+T03	It was in lost property. I got it back.	exact	one turn	child			2
+T03	The bell went, so I went inside.	exact	one turn	child			2
+T03	after	exact	one turn	child			2
+T03	Sad.	exact	one turn	child/therapist			4
+T04	My grandma. At her house.	exact	one turn	child			2
+T04	At her house.	exact	one turn	child/therapist			2
+T04	We got the flour and the butter. And chocolate chips. I did the mixing because Grandma said I'm good at it. We put them in the oven. They were too hot, so we waited. We ate one each.	exact	joined from 6 sentences	child/therapist			2
+T04	Mum came and got me. I took some home.	exact	one turn	child			2
+T04	Then what? I did the mixing because Grandma said I'm good at it.	exact	joined from 2 sentences	child/therapist			2
+T04	We put them in the oven. They were too hot, so we waited.	exact	one turn	child			2
+T04	then	exact	one turn	therapist			2
+T05	My team. The Tigers. And another team.	exact	one turn	child			2
+T05	I was in goal. They scored two. The ref said it was a goal. It wasn't. I kicked the ball away. Then I got told off. We kept playing.	exact	joined from 7 sentences	child/therapist			2
+T05	then	exact	one turn	child/therapist			2
+T05	Angry.	exact	one turn	child/therapist			4
+T06	Me and my mum and my brother Ben.	exact	one turn	child			2
+T06	The big one in the city.	exact	one turn	child			2
+T06	We saw the lions first. Then the snakes. We had lunch. Then the gift shop. A lion. A toy lion.	exact	joined from 6 sentences	child/therapist			2
+T06	We drove home. I fell asleep in the car.	exact	one turn	child			2
+T06	Scared. A bit scared because one moved.	exact	one turn	child			2
+T06	first	exact	one turn	child/therapist			2
+T06	then	exact	one turn	child/therapist			2
+T06	Excited. I like lions.	exact	one turn	child			4
+T06	Scared. A bit scared because one moved.	exact	one turn	child			4
+T06	Scared. A bit scared because one moved.	exact	one turn	child			4
+T07	My dad. And Biscuit.	exact	one turn	child			2
+T07	The one by the river.	exact	one turn	child			2
+T07	We went home for tea.	exact	one turn	child			2
+T07	We went home for tea.	exact	one turn	child			2
+T07	stuff	exact	one turn	child/therapist			3
+T07	things	exact	one turn	child			3
+T07	Happy.	exact	one turn	child/therapist			4
+T08	On the path. Outside my house.	exact	one turn	child			2
+T08	I went fast down the hill. I hit a stone because I didn't see it. I fell on my knee. It was bleeding. I got a plaster. Then I went inside.	exact	joined from 6 sentences	child/therapist			2
+T08	I got a plaster. Then I went inside.	exact	one turn	child			2
+T08	I hit a stone because I didn't see it.	exact	one turn	child			2
+T08	then	exact	one turn	child/therapist			2
+T09	My class. And Miss Hart.	exact	one turn	child			2
+T09	In the hall.	exact	one turn	child/therapist			2
+T09	We did a play. About the seasons.	exact	one turn	child			2
+T09	I said my line, so everyone clapped.	exact	one turn	child			2
+T09	Nervous. Lots of mums and dads.	exact	one turn	child			4
+T09	Proud.	exact	one turn	child/therapist			4
+T10	I got to level five. Then a big dragon came. I lost. Three times. The dragon has fire. I tried again. I beat it.	exact	joined from 7 sentences	child/therapist			2
+T10	I saved it. Then it was dinner.	exact	one turn	child			2
+T10	then	exact	one turn	child/therapist			2
+T10	Annoyed.	exact	one turn	child/therapist			4
+T10	Happy.	exact	one turn	child/therapist			4
+T11	The one with the big rocks. By the café. The beach with the big rocks, by the café.	exact	joined from 3 sentences	child/therapist			2
+T11	I made a sandcastle. A really big one. The sea came in, so it got washed away. I went in the water. It was cold. I jumped the waves.	exact	joined from 6 sentences	child/therapist			2
+T11	We had chips in the car. Then we went home. Chips in the car, and then home.	exact	joined from 3 sentences	child/therapist			2
+T11	The sea came in, so it got washed away.	exact	one turn	child/therapist			2
+T11	then	exact	one turn	child/therapist			2
+T11	Happy.	exact	one turn	child/therapist			4
+T12	Me and my mum and my sister Ella.	exact	one turn	child			2
+T12	She licked my face. She was really small. I held her. I was a bit nervous because she was wriggly. She sat on my knee. All the way back.	exact	joined from 6 sentences	child/therapist			2
+T12	Pepper fell asleep in her new bed.	exact	one turn	child/therapist			2
+T12	I held her. I was a bit nervous because she was wriggly.	exact	one turn	child			2
+T12	Pepper. Because she's black and white.	exact	one turn	child/therapist			2
+T12	I held her. I was a bit nervous because she was wriggly.	exact	one turn	child			4
+T12	Excited.	exact	one turn	child/therapist			4
+T12	I held her. I was a bit nervous because she was wriggly.	exact	one turn	child			4
+T13	My whole class. And Mr Patel.	exact	one turn	child			2
+T13	On the field. At school.	exact	one turn	child			2
+T13	The running race. And the egg and spoon. I was winning. Then I fell over. Mr Patel gave me a plaster. Then I did the egg and spoon. I dropped the egg. Two times.	exact	joined from 8 sentences	child/therapist			2
+T13	then	exact	one turn	child/therapist			2
+T13	Sad. My knee hurt.	exact	one turn	child			4
+T14	My dad. He had to go too.	exact	one turn	child			2
+T14	I sat in the big chair. It goes up and down. She looked at my teeth with a mirror. She counted them. I have to brush more because one has a hole. So I got a new toothbrush. I got a sticker. Then we went to the café.	exact	joined from 8 sentences	child			2
+T14	I got a sticker. Then we went to the café.	exact	one turn	child			2
+T14	I have to brush more because one has a hole. So I got a new toothbrush.	exact	one turn	child			2
+T14	next	exact	one turn	child/therapist			2
+T14	then	exact	one turn	child/therapist			2
+T15	My cousin Mia. And my auntie.	exact	one turn	child			2
+T15	The big one at the shopping centre.	exact	one turn	child			2
+T15	We watched the dinosaur film. And we had popcorn. A T-rex came out. It was really loud, so I hid behind my hands. Scared. A bit scared. The baby dinosaur found its mum. I was happy then.	exact	joined from 8 sentences	child/therapist			2
+T15	Auntie drove us home. Mia fell asleep.	exact	one turn	child			2
+T15	A T-rex came out. It was really loud, so I hid behind my hands.	exact	one turn	child			2
+T15	then	exact	one turn	child/therapist			2
+T15	Scared. A bit scared.	exact	one turn	child			4
+T15	The baby dinosaur found its mum. I was happy then.	exact	one turn	child			4
+T16	In my bedroom. On the floor.	exact	one turn	child			2
+T16	It got really tall. Taller than me. It fell down because I bumped it. All the bricks went everywhere. I built it again. Even taller.	exact	joined from 6 sentences	child/therapist			2
+T16	I took a photo of it. Then I had to tidy up for bed.	exact	one turn	child			2
+T16	It fell down because I bumped it. All the bricks went everywhere.	exact	one turn	child			2
+T16	then	exact	one turn	child/therapist			2
+T16	Cross.	exact	one turn	child/therapist			4
+T16	Proud.	exact	one turn	child/therapist			4
+T17	My grandad. He was looking after me.	exact	one turn	child			2
+T17	I was eating an apple. And it came out. In the apple.	exact	one turn	child			2
+T17	after	exact	one turn	child/therapist			2
+T17	Surprised. It didn't hurt.	exact	one turn	child			4
+T18	My class. And Mrs Evans. And some mums. Your class, Mrs. Evans and some mums.	exact	joined from 5 sentences	child/therapist			2
+T18	In the country. Far away.	exact	one turn	child/therapist			2
+T18	The farm. We went on a school trip. A school trip to the farm!	exact	joined from 3 sentences	child/therapist			2
+T18	We went back to school on the coach. I was happy then.	exact	one turn	child			2
+T18	then	exact	one turn	child/therapist			2
+T18	stuff	exact	one turn	child/therapist			3
+T18	Bored. It was smelly.	exact	one turn	child			4
+T18	We went back to school on the coach. I was happy then.	exact	one turn	child			4
+T19	At home. In the garden.	exact	one turn	child/therapist			2
+T19	I opened my presents first. I got a bike. I rode it round the garden. Lots of times. We had cake because it was my birthday.	exact	joined from 5 sentences	child/therapist			2
+T19	I blew out the candles. Then I went to bed.	exact	one turn	child			2
+T19	We had cake because it was my birthday.	exact	one turn	child			2
+T19	first	exact	one turn	child/therapist			2
+T19	then	exact	one turn	child/therapist			2
+T20	Everybody. All the classes. And the teachers.	exact	one turn	child			2
+T20	It was really loud, so I put my hands on my ears. Worried. I thought it was a real fire. We all lined up. Mrs Khan counted us. She said it was just practice. So we went back in. I was glad.	exact	joined from 8 sentences	child/therapist			2
+T20	She said it was just practice. So we went back in. I was glad.	exact	one turn	child			2
+T20	It was really loud, so I put my hands on my ears.	exact	one turn	child			2
+T20	She said it was just practice. So we went back in. I was glad.	exact	one turn	child			2
+T20	Worried. I thought it was a real fire.	exact	one turn	child			4
+T20	She said it was just practice. So we went back in. I was glad.	exact	one turn	child			4
+T20	She said it was just practice. So we went back in. I was glad.	exact	one turn	child			4
+T21	the one by the bakery	exact	one turn	child/therapist			2
+T22	It was me and my mum and Theo. Theo is my baby brother.	exact	one turn	child			2
+T22	The car stopped because it didn't have no petrol. Mum said. Not petrol, the, um, the battery. No, the petrol. It was the petrol. We had to wait for ages and ages. Theo was crying in his seat. Waiting for ages. I had my tablet but it ran out too. A man came. He had a yellow coat and a big truck with orange lights on the top. A man with a yellow coat and a big truck. He looked in the front bit with a torch. He looked under the bonnet with a torch, because it was getting dark. It's the lid at the front of the car where the engine is. Oh. The big truck putted our car on the back, all up high, and we sat in the front with the man and he drived us home. And my tablet ran out.	exact	joined from 18 sentences	child/therapist			2
+T22	The big truck putted our car on the back, all up high, and we sat in the front with the man and he drived us home. And my tablet ran out.	exact	joined from 2 sentences	child			2
+T22	The car stopped because it didn't have no petrol. Mum said.	exact	one turn	child			2
+T22	He looked in the front bit with a torch. He looked under the bonnet with a torch, because it was getting dark.	exact	joined from 2 sentences	child/therapist			2
+T22	then	exact	one turn	child/therapist			2
+T23	A lady comed. She had a badge on, a green one.	exact	one turn	child			2
+T23	In the big Tesco	exact	one turn	child/therapist			2
+T23	I went to look at the cakes, the ones with the faces on, and then Mummy wasn't there. I couldn't see Mummy anywhere. And then a lady comed. She had a badge on, a green one. She works there. Me and her goed to the front where the tills are. And she said it on the speaker.	exact	joined from 7 sentences	child			2
+T23	Mummy came running really fast and gave me a big squeeze. I was happy then. We still had to get the shopping. And I got one of the face cakes cos I was a good girl.	exact	joined from 4 sentences	child			2
+T23	We still had to get the shopping. And I got one of the face cakes cos I was a good girl.	exact	one turn	child			2
+T23	then	exact	one turn	child/therapist			2
+T23	Mummy came running really fast and gave me a big squeeze. I was happy then.	exact	one turn	child			4
+T24	The big one in the city. With the, um, the steps outside and the lions.	exact	one turn	child			2
+T24	We went to the museum on the coach and saw the diplodocus and the T-rex and it roared and I did the sheet.	exact	one turn	child			2
+T24	It was a bit scary because it had really big teeth and it moved its head at me.	exact	one turn	child			2
+T24	first	exact	one turn	child/therapist			2
+T24	stuff	exact	one turn	child			3
+T25	In the living room. I was watching Bluey and then the telly went off and everything went black.	exact	one turn	child			2
+T25	The lights went off and the telly and it went black and the torch was broke so we had candles and we did I spy.	exact	one turn	child			2
+T25	You're not allowed to touch them cos they're hot. You can get burned.	exact	one turn	child			2
+T25	The lights went off and the telly and it went black and the torch was broke so we had candles and we did I spy.	exact	one turn	child			2
+T25	after	exact	one turn	child/therapist			2
+T25	first	exact	one turn	therapist			2
+T25	then	exact	one turn	child			2
+T25	something	exact	one turn	child/therapist			3
+T26	Me and Ava and my dad. Ava's my sister. She's three.	exact	one turn	child			2
+T26	First we rolled a big ball for the bottom and it got bigger and bigger and then a littler one for the head. We did a snowball fight and I throwed one at Dad and it went on his head. And then Dad falled over on his bum. He fell over on his bum. He melted. The next day he was all small and then it was just the carrot and the hat left.	exact	joined from 6 sentences	child/therapist			2
+T26	Dad put the carrot in the bin.	exact	one turn	child			2
+T26	first	exact	one turn	child/therapist			2
+T26	next	exact	one turn	child			2
+T26	then	exact	one turn	child			2
+T27	Me and Kayla and Ruby. And Mr Dean. He's our teacher.	exact	one turn	child			2
+T27	At school. In the hall.	exact	one turn	child/therapist			2
+T27	I wore my glitter top. The one with the star. Cos it's my best one. It goes all different colours when you rub it. It changes colour. Kayla had one too but hers was a heart. It was the best. The best one ever.	exact	joined from 8 sentences	child/therapist			2
+T27	My mum picked me up and we got chips on the way home. I was a bit sad when it finished because I wanted it to keep going.	exact	joined from 2 sentences	child			2
+T27	Cos it's my best one. It goes all different colours when you rub it.	exact	one turn	child			2
+T27	I was a bit sad when it finished because I wanted it to keep going.	exact	one turn	child			2
+T27	I was a bit sad when it finished because I wanted it to keep going.	exact	one turn	child			4
+T27	I was a bit sad when it finished because I wanted it to keep going.	exact	one turn	child			4
+T28	you helped your grandad what did you help him wash his car his red car its red a red car and its got a its got a dent at the back a dent ok so how did you wash it with a big a big bucket and the sponge the yellow sponge and the bubbles bubbles lovely and the and grandad got the hose and he sprayed it on the car and then he sprayed me he sprayed you on my on my legs all wet and I couldn't stop laughing you couldn't stop laughing did you get and biscuit who's biscuit his dog grandad's dog he's a sausage dog a sausage dog what did biscuit do he jumped in the bucket in the bucket of bubbles yeah he was all bubbles on his on his head like a like a hat like a bubble hat it was so fun it sounds like it was so fun you must have felt really proud helping your grandad do you got a dog I've got a cat called pepper my nan's got a cat no my auntie my auntie's got a cat your auntie's got a cat what else happened with the car we did the windows with the um with the squeezy thing the squeegee the squee squeegee and it goes squeak squeak ha and then did you and the wheels I did the wheels with the brush you did the wheels with the brush wow so let me say it back you helped your grandad wash his red car you had a big bucket and a yellow sponge and grandad sprayed you with the hose and you couldn't stop laughing then biscuit jumped in the bucket and got bubbles on his head you did the windows with the squeegee and the wheels with the brush and it was so fun and it was so fun brilliant kai can I draw biscuit yes let's draw biscuit	not there	PROVISIONAL	therapist	you did the wheels with the brush wow so let me say it back you helped your grandad wash his red car you had a big bucket and a yellow sponge and grandad sprayed you with the hose and you couldn't stop laughing then biscuit jumped in the bucket and got bubbles on his head you did the windows with the squeegee and the wheels with the brush	0.21	2
+T28	you helped your grandad wash his red car you had a big bucket and a yellow sponge and grandad sprayed you with the hose and you couldn't stop laughing then biscuit jumped in the bucket and got bubbles on his head you did the windows with the squeegee and the wheels with the brush and it was so fun and it was so fun	reworded	PROVISIONAL	therapist	you did the wheels with the brush wow so let me say it back you helped your grandad wash his red car you had a big bucket and a yellow sponge and grandad sprayed you with the hose and you couldn't stop laughing then biscuit jumped in the bucket and got bubbles on his head you did the windows with the squeegee and the wheels with the brush	0.84	2
+T28	then	exact	one turn	child/therapist			2
+T28	thing	exact	one turn	child			3
+T28	ok kai so what did you do on saturday um I I helped my grandad you helped your grandad what did you help him wash his car his red car its red a red car and its got a its got a dent at the back a dent ok so how did you wash it with a big a big bucket and the sponge the yellow sponge and the bubbles bubbles lovely and the and grandad got the hose and he sprayed it on the car and then he sprayed me he sprayed you on my on my legs all wet and I couldn't stop laughing you couldn't stop laughing did you get and biscuit who's biscuit his dog grandad's dog he's a sausage dog a sausage dog what did biscuit do he jumped in the bucket in the bucket of bubbles yeah he was all bubbles on his on his head like a like a hat like a bubble hat it was so fun it sounds like it was so fun you must have felt really proud helping your grandad do you got a dog I've got a cat called pepper my nan's got a cat no my auntie my auntie's got a cat your auntie's got a cat what else happened with the car we did the windows with the um with the squeezy thing the squeegee the squee squeegee and it goes squeak squeak ha and then did you and the wheels I did the wheels with the brush you did the wheels with the brush wow so let me say it back you helped your grandad wash his red car you had a big bucket and a yellow sponge and grandad sprayed you with the hose and you couldn't stop laughing then biscuit jumped in the bucket and got bubbles on his head you did the windows with the squeegee and the wheels with the brush and it was so fun and it was so fun brilliant kai can I draw biscuit yes let's draw biscuit	not there	PROVISIONAL	therapist	you did the wheels with the brush wow so let me say it back you helped your grandad wash his red car you had a big bucket and a yellow sponge and grandad sprayed you with the hose and you couldn't stop laughing then biscuit jumped in the bucket and got bubbles on his head you did the windows with the squeegee and the wheels with the brush	0.20	4
+T29	Sam saw it. He sits next to me. Miss Patel.	exact	joined from 3 sentences	child/therapist			2
+T29	In my class. At my table.	exact	one turn	child			2
+T29	"Drip drip on my book. There was loads of blood on my book. I was scared. Miss!"" really loud. My face went all hot. Everyone was looking at me. Then I had to go to the office because it wouldn't stop. The office lady, Mrs, um, Mrs Green. She gived me a ice pack in a, in a blue thing. Then it stopped. I went back to class and I finished my take aways. And I got a sticker for being sensible. The ice pack was blue."	exact	joined from 13 sentences	child/therapist			2
+T29	I went back to class and I finished my take aways. And I got a sticker for being sensible. The ice pack was blue. Can I have a sticker?	exact	joined from 4 sentences	child			2
+T29	Then I had to go to the office because it wouldn't stop.	exact	one turn	child			2
+T29	next	exact	one turn	child			2
+T29	then	exact	one turn	child/therapist			2
+T29	thing	exact	one turn	child/therapist			3
+T29	What happened? It just comed out. Drip drip on my book. There was loads of blood on my book. I was scared.	exact	joined from 5 sentences	child/therapist			4
+T30	Uncle Dev and my cousins and my mum and my dad and loads and loads of people	exact	one turn	child			2
+T30	In a castle	exact	one turn	child			2
+T30	I had a sparkly dress. It was purple with a bow on the back. And shiny shoes. A bit too big. I don't remember.	exact	joined from 5 sentences	child/therapist			2
+T30	We went home in a taxi when it was really really dark. I falled asleep in the taxi.	exact	one turn	child			2
+T31	People were talking over the alarm. Like, why are you talking?	exact	one turn	child			2
+T31	At school.	exact	one turn	child/therapist			2
+T31	It was really loud. Miss Patel said leave everything and line up. Put my book down. Everyone got up at once and the chairs scraped. People were talking over the alarm. Like, why are you talking? I just wanted everyone to be quiet. We went back in.	exact	joined from 8 sentences	child			2
+T31	afterwards	exact	one turn	child/therapist			2
+T31	then	exact	one turn	therapist			2
+T32	Dad	exact	one turn	child/therapist			2
+T32	The chippy	exact	one turn	child/therapist			2
+T32	He ordered. Stood there. Waiting. Sausage and chips. The man gave Dad the wrong bag. Fish. Took it back to the counter. Got the right one	exact	joined from 8 sentences	child/therapist			2
+T32	Can I go now? Bye	exact	joined from 2 sentences	child			2
+T33	Yeah, I went to my nan's on Sunday and we made biscuits, like the ones with the icing on top, except hers weren't the normal sort because she uses this recipe from a book she got ages ago, and it's got a different ratio of butter to flour.	exact	one turn	child			2
+T33	Yeah, I went to my nan's on Sunday and we made biscuits, like the ones with the icing on top, except hers weren't the normal sort because she uses this recipe from a book she got ages ago, and it's got a different ratio of butter to flour.	exact	one turn	child			2
+T33	Yeah, and next time we're making shortbread, which is different because it doesn't normally have egg in it and the proportions are different.	exact	one turn	child			2
+T33	Yeah, I went to my nan's on Sunday and we made biscuits, like the ones with the icing on top, except hers weren't the normal sort because she uses this recipe from a book she got ages ago, and it's got a different ratio of butter to flour.	exact	one turn	child			2
+T33	Well, the recipe says chill the dough for thirty minutes, but we didn't have enough room in the fridge because there was a casserole dish on the shelf, and then Nan said we could put it in the freezer for ten minutes instead, which isn't exactly the same thing because the temperature is lower and you have to be careful not to freeze it solid.	exact	one turn	child			2
+T33	Yeah, and next time we're making shortbread, which is different because it doesn't normally have egg in it and the proportions are different.	exact	one turn	child			2
+T33	after	exact	one turn	child			2
+T33	first	exact	one turn	child			2
+T33	next	exact	one turn	child/therapist			2
+T33	then	exact	one turn	child			2
+T33	thing	exact	one turn	child/therapist			3
+T34	Coach, me, everyone	exact	one turn	child			2
+T34	At training.	exact	one turn	child/therapist			2
+T34	We were doing penalties. I took one and it went over. No, over the fence. Coach said get it. Embarrassing. Everyone was looking. I didn't say because. They were looking. That's it. Then Callum took it. The ball. He threw it back over. We carried on. No, we did passing. My face was hot. Dunno. It was hot.	exact	joined from 17 sentences	child/therapist			2
+T34	We finished at half five. Dad picked me up.	exact	one turn	child			2
+T34	I didn't say because. They were looking. That's it.	exact	one turn	child			2
+T34	then	exact	one turn	child/therapist			2
+T35	my auntie and lewis	exact	one turn	child			2
+T35	we were playing mario kart and then the wifi stopped	exact	one turn	child			2
+T36	Me, Ruby, Jayden and Tom	exact	one turn	child			2
+T36	Ruby was making the slides and Jayden was writing the notes. Tom said he wasn't doing the speaking bit. I said everyone has to do something. Then he said he would do the title slide. We did it on Thursday. Tom read the title and then I did my part. Ruby did two slides. Jayden read the ending.	exact	joined from 8 sentences	child			2
+T36	Miss said we'd covered the main points. Then we sat down.	exact	one turn	child			2
+T36	I was annoyed because it was supposed to be shared out equally.	exact	one turn	child			2
+T36	then	exact	one turn	child			2
+T36	something	exact	one turn	child			3
+T36	thing	exact	one turn	child/therapist			3
+T36	I was annoyed because it was supposed to be shared out equally.	exact	one turn	child			4
+T36	I was annoyed because it was supposed to be shared out equally.	exact	one turn	child			4
+T37	My uncle. I've already said.	exact	one turn	child			2
+T37	Coventry	exact	one turn	child/therapist			2
+T37	I went to Birmingham on the train with my uncle. It stopped at Birmingham International first, then Birmingham New Street. The display said platform four, but the train was on platform three when we got there. Went through the barriers. We went to the model railway shop. I found the one I wanted. It was £89.99, which is cheaper than some of the limited editions. I haven't got that much money. I was disappointed. I'd been looking forward to seeing it. We got lunch. A cheese sandwich and a bottle of water. We got the 15:42 back to Coventry.	exact	joined from 13 sentences	child			2
+T37	We got the 15:42 back to Coventry. Correct. Anything I've missed? The train back was a Voyager, not a Meridian.	exact	joined from 4 sentences	child/therapist			2
+T37	first	exact	one turn	child			2
+T37	then	exact	one turn	child/therapist			2
+T37	I was disappointed. I'd been looking forward to seeing it.	exact	one turn	child			4
+T38	your mum took you to the dentist	exact	one turn	therapist			2
+T38	she did the rest did you have to go back another day no finished it then how did it end when you left mum paid and we went home so your mum took you to the dentist for a filling the light was in your eyes and the drill made a high noise you held the chair and put your hand up the dentist stopped for a break then finished the filling and you went home with mum	reworded	PROVISIONAL	therapist	so your mum took you to the dentist for a filling the light was in your eyes and the drill made a high noise you held the chair and put your hand up the dentist stopped for a break then finished the filling and you went home with mum	0.63	2
+T38	you went home with mum	exact	one turn	therapist			2
+T38	after	exact	one turn	therapist			2
+T38	then	exact	one turn	child/therapist			2
+T39	Mum, Dad, my brother, Auntie Saira and loads of relatives	exact	one turn	child			2
+T39	At this hotel near Leicester. I don't know what it was called.	exact	one turn	child			2
+T39	We had to wait in this room. The chairs were gold and the lights were really bright. There was perfume everywhere. It was horrible. I could smell about four different perfumes and one smelled like cleaning spray. I went outside for a bit. My brother came out after me. He asked if I was all right. I said I wanted some air. Until Mum came and said they were starting the meal. We sat at round tables. I was next to my cousin, who kept tapping his glass with a spoon. I wanted to throw the spoon out the window. I didn't, obviously. There was dancing. I stayed by the table and watched. We left before the cake because my brother had college in the morning.	exact	joined from 17 sentences	child			2
+T39	We left before the cake because my brother had college in the morning.	exact	one turn	child			2
+T39	We left before the cake because my brother had college in the morning.	exact	one turn	child			2
+T39	after	exact	one turn	child/therapist			2
+T39	before	exact	one turn	child/therapist			2
+T39	next	exact	one turn	child/therapist			2
+T39	I didn't say angry. I wanted the tapping to stop.	exact	one turn	child			4
+T40	Outside the leisure centre	exact	one turn	child/therapist			2
+T40	The app said due in three minutes. Then it said delayed. Then it disappeared. Checked the other stop on the app. Same thing. I couldn't get there for the start. I rang Dad. He said he'd come and get me. No, he was at the supermarket. Twenty-two minutes. I checked the time when I got there and when he came. Stood under the shelter. It started raining. It was. I hate being late because then everyone's already started and I don't know what they've done.	exact	joined from 15 sentences	child/therapist			2
+T40	Dad picked me up and drove me home. I didn't go swimming.	exact	one turn	child			2
+T40	It was. I hate being late because then everyone's already started and I don't know what they've done.	exact	one turn	child			2
+T40	then	exact	one turn	child/therapist			2
+T40	thing	exact	one turn	child			3
+T41	Our science teacher, Mr Bell, and two other teachers. Everyone in Year 8.	exact	one turn	child			2
+T41	We went to the science museum in Manchester.	exact	one turn	child			2
+T41	We had to put our bags in the lockers. Mine was number 108. There was a room with a big floor map of the Moon. You could walk on it and it showed all the craters. People were walking across the map and the floor was shaking a bit because the display had moving parts underneath. I was trying to find the Apollo 11 landing site. Yes, it was marked near the Sea of Tranquillity. Apollo 11 landed on 20 July 1969. Neil Armstrong went down the ladder first, then Buzz Aldrin. We went to the electricity section. There was a hand crank that lit up a row of bulbs. I got six bulbs on. The boy behind me got four. Pleased. It worked properly when I turned it faster. We had lunch and then got back on the coach. The driver put the radio on. It was some station with adverts.	exact	joined from 18 sentences	child/therapist			2
+T41	We had lunch and then got back on the coach. The driver put the radio on. It was some station with adverts.	exact	joined from 3 sentences	child			2
+T41	The science trip. I've got a story too. I visited a museum once and followed the map the wrong way round, so I ended up back at the entrance.	exact	joined from 3 sentences	child/therapist			2
+T41	People were walking across the map and the floor was shaking a bit because the display had moving parts underneath. I was trying to find the Apollo 11 landing site.	exact	one turn	child			2
+T41	first	exact	one turn	child/therapist			2
+T41	then	exact	one turn	child			2
+T42	My friend stopped talking to me. Niamh.	exact	joined from 2 sentences	child/therapist			2
+T42	In form. She sat at the other table.	exact	one turn	child			2
+T42	On Monday she asked if I could send her the homework. I sent it and she said thanks. On Tuesday she didn't answer my message. Then at lunch she went with the others. I sat in the library. I thought she was annoyed with me. I read the messages again and there wasn't anything bad in them. I don't know. I felt sick and I kept checking my phone. Not then. I waited until Wednesday. I asked if she'd fallen out with me. She said she was just busy. I said okay. But she still sat somewhere else at lunch. She sent me a picture of her cat on Friday. I sent a heart.	exact	joined from 17 sentences	child			2
+T42	She sent me a picture of her cat on Friday.	exact	one turn	child			2
+T42	before	exact	one turn	child/therapist			2
+T42	then	exact	one turn	child/therapist			2
+T42	I thought she was annoyed with me. I read the messages again and there wasn't anything bad in them.	exact	one turn	child			4
+T42	Still confused. I don't know if we're friends like before.	exact	one turn	child			4
+T43	anything happened to you the football thing what football thing training where was it sports hall who was there me and coach and the under fifteens what happened we were doing a drill where you pass and move and i went the wrong way what did the coach say he said wrong cone what did you do then went to the other cone how did you feel my stomach dropped that sounds embarrassing no its just my stomach did that okay i wont label it for you then everyone had to reset because i was in the wrong place what happened after the reset i got it right the next time was that the end of the drill no we did it for another ten minutes and then what coach split us into teams for a match did you play in the match yes what happened at the end we finished and coach said next week we are doing fitness so you were in the sports hall with the coach and under fifteens you went to the wrong cone the group reset you got it right next time and then you played a match before coach told you about next week yeah anything else no thanks leo can i get my bag	not there	PROVISIONAL	therapist	so you were in the sports hall with the coach and under fifteens you went to the wrong cone the group reset you got it right next time and then you played a match before coach told you about next week	0.19	2
+T43	anything happened to you the football thing what football thing training where was it sports hall who was there me and coach and the under fifteens what happened we were doing a drill where you pass and move and i went the wrong way what did the coach say he said wrong cone what did you do then went to the other cone how did you feel my stomach dropped that sounds embarrassing no its just my stomach did that okay i wont label it for you then everyone had to reset because i was in the wrong place what happened after the reset i got it right the next time was that the end of the drill no we did it for another ten minutes and then what coach split us into teams for a match did you play in the match yes what happened at the end we finished and coach said next week we are doing fitness so you were in the sports hall with the coach and under fifteens you went to the wrong cone the group reset you got it right next time and then you played a match before coach told you about next week yeah anything else no thanks leo can i get my bag	not there	PROVISIONAL	therapist	so you were in the sports hall with the coach and under fifteens you went to the wrong cone the group reset you got it right next time and then you played a match before coach told you about next week	0.19	2
+T43	after	exact	one turn	therapist			2
+T43	before	exact	one turn	therapist			2
+T43	next	exact	one turn	child/therapist			2
+T43	then	exact	one turn	child/therapist			2
+T43	thing	exact	one turn	child/therapist			3
+T44	My dad.	exact	one turn	child			2
+T44	The optician in town, opposite the Boots.	exact	one turn	child			2
+T44	They showed me letters on the screen. Some were tiny. I had to say which way the E was facing.	exact	one turn	child			2
+T44	They said the glasses would be ready next week. Dad took me to get a drink afterwards.	exact	one turn	child			2
+T44	Because I can see the board in class, mostly. I just can't read the small writing from the back.	exact	one turn	child			2
+T44	afterwards	exact	one turn	child			2
+T44	first	exact	one turn	child			2
+T44	next	exact	one turn	child/therapist			2
+T44	then	exact	one turn	child/therapist			2
+T44	I was embarrassed. I know it's a test, but I should have got it.	exact	one turn	child			4
+T45	My cousin Ethan.	exact	one turn	child			2
+T45	The Odeon.	exact	one turn	child/therapist			2
+T45	I went to see a film and someone behind me kept kicking the back of my seat. We saw the new Spider-Man film. We got tickets on the machine. The queue was long, so Ethan went to get popcorn while I waited. The trailers went on forever. One was for a horror film and it had this really loud bang. I jumped. Nearly dropped my drink. Someone kept checking their phone. The light was going on and off. No, I moved my head so I couldn't see it. We stayed until the credits finished because there was an extra bit after them.	exact	joined from 12 sentences	child/therapist			2
+T45	We stayed until the credits finished because there was an extra bit after them.	exact	one turn	child			2
+T45	No, I moved my head so I couldn't see it.	exact	one turn	child			2
+T45	We stayed until the credits finished because there was an extra bit after them.	exact	one turn	child			2
+T45	after	exact	one turn	child/therapist			2
+T45	It was just loud. I wasn't scared.	exact	one turn	child			4
+T46	Mr Khan. There were three other people there.	exact	one turn	child			2
+T46	I had to go at lunch on Wednesday. Room 12.	exact	one turn	child			2
+T46	We sat in silence and did work. I finished a geography sheet.	exact	one turn	child			2
+T46	The bell went and we went to afternoon lessons.	exact	one turn	child			2
+T46	after	exact	one turn	child/therapist			2
+T46	afterwards	exact	one turn	therapist			2
+T46	before	exact	one turn	child/therapist			2
+T46	Annoyed. I'd done the work. It was just the upload.	exact	one turn	child			4
+T47	Olivia Rodrigo. My older sister.	exact	joined from 2 sentences	child/therapist			2
+T47	The O2 in London.	exact	one turn	child			2
+T47	We had to queue for security. They checked our bags and scanned the tickets. We bought water. Then we found our seats. We were quite high up. The bass was so strong I could feel it in my ribs. Everyone was singing and the lights kept flashing. Happy. I knew nearly all the words. Yes, but not for every song. I wanted to hear the quieter ones properly. The lights in the bit between songs. They kept going black and then white really fast. I had to shut my eyes for a minute. It wasn't all overwhelming. I liked most of it. She sang the song with the purple lights. My sister knew I wanted to hear it live.	exact	joined from 18 sentences	child			2
+T47	Everyone went out at once. We waited inside for a bit, then got the Tube.	exact	one turn	child			2
+T47	then	exact	one turn	child			2
+T47	Happy. I knew nearly all the words.	exact	one turn	child			4
+T48	Alfie and Ben.	exact	one turn	child/therapist			2
+T48	The canteen.	exact	one turn	child/therapist			2
+T48	We stood in the old place. Then a dinner lady told us to move. Went round the tables. Everyone else was going the other way. I couldn't get through. People had trays and bags and the floor was sticky. Eventually. I had pasta. They were already at a table when I got there. We went to form.	exact	joined from 10 sentences	child			2
+T48	then	exact	one turn	child			2
+T48	things	exact	one turn	child			3
+T49	Mum, my stepdad and me.	exact	one turn	child			2
+T49	The gate changed. It said gate 18, then it changed to 26. Walked to 26. It was ages away. The screen. There was a message on the app too. I was exhausted. We had to walk past all the shops and then down a long corridor. They said boarding was delayed because the plane hadn't arrived. About forty minutes. I sat on the floor near the window. They called the rows in groups. We were in row 29. I put my headphones on and watched a film. Mum fell asleep. We landed after midnight.	exact	joined from 16 sentences	child/therapist			2
+T49	My stepdad got the car from the car park and drove us home.	exact	one turn	child			2
+T49	They said boarding was delayed because the plane hadn't arrived.	exact	one turn	child			2
+T49	after	exact	one turn	child/therapist			2
+T49	then	exact	one turn	child/therapist			2
+T50	Mum and my sister.	exact	one turn	child			2
+T50	In my bedroom.	exact	one turn	child			2
+T50	We looked under the bed and behind the drawers. I got a torch. Mum said to turn the lights off and listen. We heard scratching near the wardrobe. I moved the boxes. He was behind the bottom one. I picked him up and put him back in his cage. Mum checked the latch.	exact	joined from 8 sentences	child			2
+T50	I gave him a bit of cucumber. He ate it.	exact	one turn	child			2
+T50	afterwards	exact	one turn	therapist			2
+T50	I was relieved. I thought the cat might get him.	exact	one turn	child			4
+T50	Not terrifying. I was worried, though.	exact	one turn	child			4
+T51	The manager, Denise, and another volunteer called Paul.	exact	one turn	child			2
+T51	The charity shop near the bus station.	exact	one turn	child			2
+T51	They showed me the till and how to tag the clothes. I had to put the hangers the same way round. A woman asked if we had any blue coats. I looked through the rail but I couldn't find one. I asked Denise. She said to check the back room. There were some blue jumpers but no coats. Denise showed me where the stock was kept and then I put the jumpers out. A man brought in a bag of books. I put them on the donations shelf.	exact	joined from 10 sentences	child			2
+T51	Paul showed me how to lock the back door. Then I went home.	exact	one turn	child			2
+T51	then	exact	one turn	child/therapist			2
+T51	I was worried I'd done it wrong.	exact	one turn	child			4
+T52	Everyone in our class.	exact	one turn	child			2
+T52	I went into a meeting room	exact	one turn	therapist			2
+T52	I got my book out. The date was already on the board. Read the page about the Industrial Revolution. He said answer the questions at the bottom. I did questions one to six. He kept calling me Vincent. I said it's Victor. He said sorry. For a bit. Then he did it again. He collected the books. I put mine on the front desk.	exact	joined from 12 sentences	child/therapist			2
+T52	He collected the books at the end.	exact	one turn	therapist			2
+T52	I went into a meeting room and all the chairs had been moved, so I had to work out where to sit.	exact	one turn	therapist			2
+T52	then	exact	one turn	child			2
+T53	Nobody. Well, there was this woman with a green bag but I don't know her.	exact	one turn	child			2
+T53	Outside the library, the stop by the big crossing.	exact	one turn	child			2
+T53	My bus didn't come. The app said delayed and then it changed to cancelled. It was 8:17. I walked to the other stop. It's the 24, not the 24A, because the 24A goes the long way round. My face got hot and I kept checking the time. I was going to be late. I got on the 24.	exact	joined from 8 sentences	child			2
+T53	I got there.	exact	one turn	child			2
+T53	I had to get a different bus to work yesterday because my usual one was cancelled. I ended up at a stop I'd never used before.	exact	one turn	therapist			2
+T53	I walked to the other stop. It's the 24, not the 24A, because the 24A goes the long way round.	exact	one turn	child			2
+T53	before	exact	one turn	therapist			2
+T53	then	exact	one turn	child/therapist			2
+T53	thing	exact	one turn	child/therapist			3
+T54	Mum, Dad, my sister, Auntie Nicky and her boyfriend.	exact	one turn	child			2
+T54	The Italian place near Mum's work.	exact	one turn	child			2
+T54	We sat at the back. My sister ordered pizza even though she always says she doesn't like cheese. Chicken pasta. It was £12.95. I checked the menu before we went. They brought out a cake. It had pink icing and those silver balls on it. I gave her the present. It was a book about birds. Her boyfriend spilt some water. Not loads, just near his fork.	exact	joined from 11 sentences	child			2
+T54	before	exact	one turn	child/therapist			2
+T55	Me and Jayden. He was on his Xbox and I was on the laptop.	exact	one turn	child			2
+T55	In my bedroom. He was at his house.	exact	one turn	child			2
+T55	"First I did the tracks, but I put the redstone in the wrong place, so the minecart stopped before the station. It took about twenty minutes to fix it. He built the roof. Then he kept putting lanterns everywhere. It looked like an airport. It was funny. I couldn't stop laughing when he put one on top of the cow. A bit, because he used all the iron for rails and I wanted some for tools. I said, ""Bro, that's not the plan."" Then he said, ""The plan has changed."" What happened after that? We went mining for more iron. I found a cave with loads of coal and three diamonds, but that's not really part of the station. We saved the world and said we'd finish the station next time."	not there	PROVISIONAL	child	First I did the tracks, but I put the redstone in the wrong place, so the minecart stopped before the station. It took about twenty minutes to fix it.	0.22	2
+T55	We saved the world and said we'd finish the station next time.	exact	one turn	child			2
+T55	First I did the tracks, but I put the redstone in the wrong place, so the minecart stopped before the station. It took about twenty minutes to fix it.	exact	one turn	child			2
+T55	A bit, because he used all the iron for rails and I wanted some for tools.	exact	one turn	child			2
+T55	after	exact	one turn	therapist			2
+T55	before	exact	one turn	child/therapist			2
+T55	first	exact	one turn	child			2
+T55	next	exact	one turn	child			2
+T55	then	exact	one turn	child			2
+T56	Priya. She's the manager on Saturdays.	exact	one turn	child			2
+T56	I did a shift at the charity shop.	exact	one turn	child			2
+T56	Sorting donations. There were about six bags of clothes and two boxes of books when I got there. Priya showed me the labels for the rails. Trousers on one, tops on another. I put a jumper on the wrong rail and she moved it. A man brought in a bag with a broken mug in it. It had a crack all the way down the side. I asked Priya, because I wasn't sure if we could take it. She said no and put it in the rubbish. I did the books after lunch. There was a whole set of old railway books. I wanted to look through them, but I was supposed to be sorting them by category. A bit. I did look at the titles while I was stacking them.	exact	joined from 14 sentences	child			2
+T56	Priya said I could go at three because the back room was tidy.	exact	one turn	child			2
+T56	I asked Priya, because I wasn't sure if we could take it. She said no and put it in the rubbish.	exact	one turn	child			2
+T56	Priya said I could go at three because the back room was tidy.	exact	one turn	child			2
+T56	after	exact	one turn	child			2
+T56	something	exact	one turn	therapist			3
+T56	I was embarrassed. I thought I'd messed it up straight away.	exact	one turn	child			4
+T57	Mum	exact	one turn	child/therapist			2
+T57	In town	exact	one turn	child			2
+T57	They checked my teeth. I sat down. The chair moved back. The light was bright. Used the little mirror thing and counted. Just a check. Mum paid.	exact	joined from 7 sentences	child/therapist			2
+T57	We left.	exact	one turn	child			2
+T57	thing	exact	one turn	child/therapist			3
+T58	The picture took longer than the font issue	exact	one turn	therapist			2
+T58	The picture took longer than the font issue	exact	one turn	therapist			2
+T59	My instructor, Rob, and two other people from the Tuesday group.	exact	one turn	child			2
+T59	At the climbing centre in Leeds. The indoor one by the retail park.	exact	one turn	child			2
+T59	I got to the middle and couldn't reach the next green hold. I tried moving my left foot up, but it kept slipping. My stomach went all tight. I thought I was going to have to come down without finishing it. I went back down one hold and put my foot on the red one instead. Then I could reach. Properly pleased with myself. I didn't think I'd manage it. Rob said I could try it again if I wanted, but I said no because my arms were tired.	exact	joined from 9 sentences	child			2
+T59	We did stretches and then everyone got their bags.	exact	one turn	child			2
+T59	Rob said I could try it again if I wanted, but I said no because my arms were tired.	exact	one turn	child			2
+T59	You felt pleased with yourself, but your arms were tired, so you didn't repeat it.	exact	one turn	therapist			2
+T59	next	exact	one turn	child/therapist			2
+T59	then	exact	one turn	child/therapist			2
+T60	my uncle Mark	exact	one turn	child			2
+T60	At the training ground, not Elland Road	exact	one turn	child			2
+T60	Leeds scored first, about twelve minutes in. Then the other team scored twice. I was annoyed. The linesman was right there. My uncle got a coffee. I didn't want one because it smelled burnt. Leeds got another goal. It was two-all. We went to the car. We stopped at a petrol station and he got a sandwich.	exact	joined from 10 sentences	child			2
+T60	We went to the car. We stopped at a petrol station and he got a sandwich.	exact	joined from 2 sentences	child			2
+T60	We had to park further away because the main bit was full. There were cones everywhere.	exact	one turn	child			2
+T60	My uncle got a coffee. I didn't want one because it smelled burnt.	exact	one turn	child			2
+T60	after	exact	one turn	therapist			2
+T60	before	exact	one turn	therapist			2
+T60	first	exact	one turn	child			2
+T60	then	exact	one turn	child			2
+T60	I was annoyed. The linesman was right there.	exact	one turn	child			4

@@ -1,0 +1,73 @@
+{
+  "labelled": true,
+  "speakers": "auto",
+  "auto_labels": {
+    "sentences": [
+      [
+        "therapist",
+        "hi harry how are you fine anything happened since last time yeah dentist was that a check up or something else filling what happened at the appointment mum took me where was it the dentist right what happened when you went in sat in the chair and they put that bib thing on what happened next the light was right in my eyes and it smelled weird was the smell the worst part or was it the light the drill the drill was the worst part yeah it made a really high noise and i could feel it in my jaw what did you do while they were using it held the arms of the chair did you tell the dentist anything i put my hand up what happened when you put your hand up she stopped and said do you need a break what did you say i said yes was it painful or was the noise difficult both that must have been frightening dunno okay you dont have to know."
+      ],
+      [
+        "child",
+        "what happened after the break she did the rest did you have to go back another day no finished it then how did it end when you left mum paid and we went home so your mum took you to the dentist for a filling the light was in your eyes and the drill made a high noise you held the chair and put your hand up the dentist stopped for a break then finished the filling and you went home with mum yeah anything else no thanks harry thats all for today can i get my coat"
+      ]
+    ],
+    "echoes_relabelled": []
+  },
+  "labelled_transcript": "Therapist. hi harry how are you fine anything happened since last time yeah dentist was that a check up or something else filling what happened at the appointment mum took me where was it the dentist right what happened when you went in sat in the chair and they put that bib thing on what happened next the light was right in my eyes and it smelled weird was the smell the worst part or was it the light the drill the drill was the worst part yeah it made a really high noise and i could feel it in my jaw what did you do while they were using it held the arms of the chair did you tell the dentist anything i put my hand up what happened when you put your hand up she stopped and said do you need a break what did you say i said yes was it painful or was the noise difficult both that must have been frightening dunno okay you dont have to know. Child. what happened after the break she did the rest did you have to go back another day no finished it then how did it end when you left mum paid and we went home so your mum took you to the dentist for a filling the light was in your eyes and the drill made a high noise you held the chair and put your hand up the dentist stopped for a break then finished the filling and you went home with mum yeah anything else no thanks harry thats all for today can i get my coat",
+  "facts": {
+    "child_turns": 1,
+    "mean_words_per_turn": 98,
+    "reasons": [],
+    "sequence_words": [
+      "after",
+      "then"
+    ],
+    "vague_words": [],
+    "feelings": [],
+    "feeling_reasons": [],
+    "child_text": [
+      "what happened after the break she did the rest did you have to go back another day no finished it then how did it end when you left mum paid and we went home so your mum took you to the dentist for a filling the light was in your eyes and the drill made a high noise you held the chair and put your hand up the dentist stopped for a break then finished the filling and you went home with mum yeah anything else no thanks harry thats all for today can i get my coat"
+    ]
+  },
+  "checked": {
+    "event": "dentist visit",
+    "who": {
+      "given": true,
+      "child_words": "your mum took you to the dentist",
+      "rejected_claim": ""
+    },
+    "where": {
+      "given": false,
+      "child_words": "",
+      "rejected_claim": "what happened after the break she did the rest did you have to go back another day no finished it then how did it end when you left mum paid and we went home so your mum took you to the dentist for a filling the light was in your eyes and the drill made a high noise you held the chair and put your hand up the dentist stopped for a break then finished the filling and you went home with mum yeah anything else no thanks harry thats all for today can i get my coat"
+    },
+    "what_happened": {
+      "given": true,
+      "child_words": "she did the rest did you have to go back another day no finished it then how did it end when you left mum paid and we went home so your mum took you to the dentist for a filling the light was in your eyes and the drill made a high noise you held the chair and put your hand up the dentist stopped for a break then finished the filling and you went home with mum",
+      "rejected_claim": ""
+    },
+    "ending": {
+      "given": true,
+      "child_words": "you went home with mum",
+      "rejected_claim": ""
+    }
+  },
+  "written": {
+    "summary": "The child told about going to the dentist, having a filling, the light and drill noise, holding the chair, taking a break, finishing the filling, mum paying, going home, and getting a coat.",
+    "goals": [
+      "Say where it happened.",
+      "Name how they felt.",
+      "Give a reason, using 'because' or 'so'."
+    ],
+    "focus": [
+      "The child will say where the event happened.",
+      "The child will name how they felt during the event.",
+      "The child will give a reason for the event using 'because' or 'so'."
+    ],
+    "prompts": [
+      "Where did it happen?",
+      "How did you feel about that?"
+    ]
+  }
+}

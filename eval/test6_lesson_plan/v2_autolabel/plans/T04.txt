@@ -1,0 +1,26 @@
+Note: this transcript had no speaker labels, so they were added automatically. A few sentences may be credited to the wrong speaker, most often where the therapist repeats the child's words.
+
+1. **Narrative Summary**
+   - The child told that they made cookies with their grandma at her house. They got flour, butter, and chocolate chips. The child did the mixing because Grandma said they were good at it. They put the cookies in the oven, waited because they were too hot, ate one each, and the child took some home. The child said they made six cookies.
+   - The child spoke 9 times, averaging 7.8 words.
+
+2. **Communication Strengths**
+   - Said who was there: "My grandma. At her house."
+   - Said where it happened: "At her house."
+   - Said what happened: "We got the flour and the butter. And chocolate chips. I did the mixing because Grandma said I'm good at it. We put them in the oven. They were too hot, so we waited. We ate one each."
+   - Said how it ended: "Mum came and got me. I took some home."
+   - Gave a reason: "Then what? I did the mixing because Grandma said I'm good at it."
+   - Gave a reason: "We put them in the oven. They were too hot, so we waited."
+   - Used sequencing words: "then"
+
+3. **Communication Gaps**
+   - Did not name any feelings.
+
+4. **Emotional Understanding**
+   - Did not name any feelings.
+
+5. **Recommended Future Lesson Focus**
+   - The child will name how they felt during an event.
+
+6. **Suggested Reachy Prompts**
+   - "How did you feel when you did it?"

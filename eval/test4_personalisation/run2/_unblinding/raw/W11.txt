@@ -1,0 +1,81 @@
+[Child sim] session W11, llama3.2:3b, temperature 0.3, seed 11, "I don't know" at turn 8
+[Isolation] new process pid 368596; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (4.2s)
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Went bowling.
+[State] Selected event: Went bowling for Mia's birthday
+
+Reachy: That sounds fun. What did you and Mia do there?
+
+[Latency] Turn: 2.68s
+You: Had pizza. Then cake.
+
+Reachy: And then what happened at the bowling alley, after having pizza and cake?
+
+[Latency] Turn: 2.41s
+You: Everyone sang Happy Birthday.
+
+Reachy: Who was singing "Happy Birthday" for Mia?
+
+[Latency] Turn: 2.46s
+You: Mia's mum. Everyone.
+
+Reachy: How did it make you feel to have everyone sing "Happy Birthday"?
+
+[Latency] Turn: 2.62s
+You: Happy. A bit nervous.
+
+Reachy: That’s good to hear, happy and a little nervous. What made you feel nervous?
+
+[Latency] Turn: 2.58s
+You: Everyone was looking.
+[Question limit] Dropped: 'Did anything in particular make you feel that way at the bowling alley?'
+
+Reachy: And what about feeling happy?
+
+[Latency] Turn: 2.49s
+You: Yeah.
+
+Reachy: Did anyone at the bowling alley say or do anything that might have made you smile more than others?
+
+[Latency] Turn: 2.58s
+[Child sim] forced "I don't know" at turn 8; Reachy's line before it asked a question
+You: I don't know.
+
+Reachy: Can you remember what they said or did, even if it’s just a little thing?
+
+[Latency] Turn: 2.53s
+You: Mia blew out candles.
+
+Reachy: Got excited when Mia's mum turned the music up loud and played songs we loved together?
+
+[Latency] Turn: 2.62s
+You: No.
+
+Reachy: What might have made you feel excited or happy then?
+
+[Latency] Turn: 2.50s
+You: Two strikes.
+
+Reachy: And did that make you want to laugh or smile more?
+
+[Latency] Turn: 2.57s
+You: Good.
+
+Reachy: Did something about playing bowling games together bring a smile your way?
+
+[Latency] Turn: 2.49s
+You: Bye.
+
+Reachy: Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+[State] Goodbye heard; confirming before ending.
+[Not spoken] Model's reply, dropped but kept in its history as on the robot: 'Okay, is there anything else you would like to talk about before we stop for today?'
+You: No.
+
+Reachy: Okay. Thank you for sharing your day with me, April. Goodbye.
+
+[State] Child confirmed goodbye; ending session.

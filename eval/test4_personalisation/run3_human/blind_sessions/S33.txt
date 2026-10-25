@@ -1,0 +1,36 @@
+Session S33
+
+Reachy (greeting, not coded): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. went bowling
+Reachy [1]: Bowling sounds fun. Can you tell me who was there with you?
+
+You: Grace, Mia, Jess, Ella
+Reachy [2]: That's good friends you had with you. What did Grace do at the bowling alley?
+
+You: she was bowling in my lane with me
+Reachy [3]: Oh really?
+
+You: yes
+Reachy [4]: Did anything funny happen during the game?
+
+You: yeah, i through a gutter ball that went in and out of the gutter
+Reachy [5]: That’s something to think about. How did it make you feel playing that way?
+
+You: i dont know
+Reachy [6]: I see. Can you remember more details about what happened during bowling?
+
+You: we had birthday cake
+Reachy [7]: That sounds nice. Did you like the game better or the cake?
+
+You: the cake
+Reachy [8]: Got it. What color was the cake?
+
+You: it was pink
+Reachy [9]: Pink is pretty, didn't it taste good too?
+
+You: yeah haha, it tasted very good
+Reachy [10]: That's great to hear! Do you remember what Grace did at the bowling alley besides playing?
+
+You: not really
+Reachy [11]: Sure, tell me more about what she might have done then.

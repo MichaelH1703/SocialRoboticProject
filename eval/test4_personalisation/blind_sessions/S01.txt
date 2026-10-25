@@ -1,0 +1,45 @@
+Session S01
+
+Reachy (greeting, not coded): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Went bowling.
+Reachy [1]: That sounds fun. Who did you go with?
+
+You: Mia. And Ella and stuff.
+Reachy [2]: Oh, you went with Mia, Ella, and some friends then. Got any new friends at the bowling alley?
+
+You: No. Just those ones.
+Reachy [3]: Okay. What happened there that day?
+
+You: Got two strikes. Mia won. I came second.
+Reachy [4]: That sounds like a great time, and you scored some good strikes! Anything else special from the bowling night?
+
+You: Had pizza. Cake afterwards.
+Reachy [5]: Yay, that makes it even better. Had yummy food after bowling. Good day all around, wasn't it?
+
+You: Yeah.
+Reachy [6]: That's great to hear, that your day went well. Any part you liked best about the bowling and pizza night?
+
+You: Cake with candles. Everyone sang Happy Birthday.
+Reachy [7]: Having cake with candles sounds like a very special moment indeed. That must have made you feel extra happy!
+
+You: Happy.
+Reachy [8]: Really happy, isn't it?
+
+You: Yeah.
+Reachy [9]: Good to hear that feeling lasted all day long. Any part of the night after you had cake?
+
+You: I don't know.
+Reachy [10]: Sure, I can help if something from today pops into your head during this short pause. How did everything feel at the end of the bowling adventure with Mia and friends?
+
+You: Good.
+Reachy [11]: That's good to hear. Did anything surprise you about the day at all?
+
+You: Not really.
+Reachy [12]: Got it, glad it felt like a normal fun day for you. It sounds like you had a nice time with Mia and friends. Any other memories from today want to share besides bowling and cake?
+
+You: Bye.
+Reachy (scripted, not coded): Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+You: No.
+Reachy (scripted, not coded): Okay. Thank you for sharing your day with me, April. Goodbye.

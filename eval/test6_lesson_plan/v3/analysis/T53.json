@@ -1,0 +1,294 @@
+{
+  "labelled": true,
+  "speakers": "auto",
+  "auto_labels": {
+    "method": "sentences",
+    "segments": [
+      [
+        "therapist",
+        "Hi Aisha."
+      ],
+      [
+        "therapist",
+        "How have things been since I saw you last?"
+      ],
+      [
+        "child",
+        "Fine."
+      ],
+      [
+        "therapist",
+        "Fine."
+      ],
+      [
+        "therapist",
+        "I had to get a different bus to work yesterday because my usual one was cancelled."
+      ],
+      [
+        "therapist",
+        "I ended up at a stop I'd never used before."
+      ],
+      [
+        "therapist",
+        "Have you had anything happen this week that you want to tell me about?"
+      ],
+      [
+        "child",
+        "The bus thing."
+      ],
+      [
+        "therapist",
+        "Okay."
+      ],
+      [
+        "therapist",
+        "Take your time."
+      ],
+      [
+        "therapist",
+        "What happened?"
+      ],
+      [
+        "child",
+        "My bus didn't come."
+      ],
+      [
+        "therapist",
+        "Where were you waiting?"
+      ],
+      [
+        "child",
+        "Outside the library, the stop by the big crossing."
+      ],
+      [
+        "therapist",
+        "Right, outside the library."
+      ],
+      [
+        "therapist",
+        "Who was with you?"
+      ],
+      [
+        "child",
+        "Nobody."
+      ],
+      [
+        "therapist",
+        "Well, there was this woman with a green bag but I don't know her."
+      ],
+      [
+        "therapist",
+        "So you were waiting on your own, with another passenger there."
+      ],
+      [
+        "therapist",
+        "What happened next?"
+      ],
+      [
+        "child",
+        "The app said delayed and then it changed to cancelled."
+      ],
+      [
+        "child",
+        "It was 8:17."
+      ],
+      [
+        "therapist",
+        "What did you do when you saw that?"
+      ],
+      [
+        "child",
+        "I walked to the other stop."
+      ],
+      [
+        "therapist",
+        "It's the 24, not the 24A, because the 24A goes the long way round."
+      ],
+      [
+        "therapist",
+        "You checked which service you needed and walked to the other stop."
+      ],
+      [
+        "therapist",
+        "How did you feel about all that?"
+      ],
+      [
+        "child",
+        "My face got hot and I kept checking the time."
+      ],
+      [
+        "child",
+        "I was going to be late."
+      ],
+      [
+        "therapist",
+        "That sounds really stressful."
+      ],
+      [
+        "therapist",
+        "Was it mainly the worry about being late, do you think?"
+      ],
+      [
+        "child",
+        "I was going to be late."
+      ],
+      [
+        "therapist",
+        "Yes, you were watching the time because you needed to get there."
+      ],
+      [
+        "therapist",
+        "What happened after you got to the other stop?"
+      ],
+      [
+        "child",
+        "I got on the 24."
+      ],
+      [
+        "therapist",
+        "The driver let me use my bus pass."
+      ],
+      [
+        "therapist",
+        "Did anything else happen on the journey?"
+      ],
+      [
+        "child",
+        "No."
+      ],
+      [
+        "therapist",
+        "How did the whole thing finish?"
+      ],
+      [
+        "child",
+        "I got there."
+      ],
+      [
+        "therapist",
+        "Okay."
+      ],
+      [
+        "therapist",
+        "You were waiting outside the library, the bus was cancelled on the app, and you walked to the stop for the 24."
+      ],
+      [
+        "therapist",
+        "You were checking the time because you were going to be late, and then you got on the bus and got there."
+      ],
+      [
+        "child",
+        "Yeah."
+      ],
+      [
+        "therapist",
+        "Is there anything important I've missed?"
+      ],
+      [
+        "child",
+        "No."
+      ],
+      [
+        "child",
+        "Thanks, Aisha."
+      ],
+      [
+        "therapist",
+        "That's a clear account of what happened."
+      ],
+      [
+        "therapist",
+        "Can we do the card game now?"
+      ]
+    ],
+    "echoes_relabelled": [
+      3
+    ]
+  },
+  "labelled_transcript": "Therapist. Hi Aisha. How have things been since I saw you last? Child. Fine. Therapist. Fine. I had to get a different bus to work yesterday because my usual one was cancelled. I ended up at a stop I'd never used before. Have you had anything happen this week that you want to tell me about? Child. The bus thing. Therapist. Okay. Take your time. What happened? Child. My bus didn't come. Therapist. Where were you waiting? Child. Outside the library, the stop by the big crossing. Therapist. Right, outside the library. Who was with you? Child. Nobody. Therapist. Well, there was this woman with a green bag but I don't know her. So you were waiting on your own, with another passenger there. What happened next? Child. The app said delayed and then it changed to cancelled. It was 8:17. Therapist. What did you do when you saw that? Child. I walked to the other stop. Therapist. It's the 24, not the 24A, because the 24A goes the long way round. You checked which service you needed and walked to the other stop. How did you feel about all that? Child. My face got hot and I kept checking the time. I was going to be late. Therapist. That sounds really stressful. Was it mainly the worry about being late, do you think? Child. I was going to be late. Therapist. Yes, you were watching the time because you needed to get there. What happened after you got to the other stop? Child. I got on the 24. Therapist. The driver let me use my bus pass. Did anything else happen on the journey? Child. No. Therapist. How did the whole thing finish? Child. I got there. Therapist. Okay. You were waiting outside the library, the bus was cancelled on the app, and you walked to the stop for the 24. You were checking the time because you were going to be late, and then you got on the bus and got there. Child. Yeah. Therapist. Is there anything important I've missed? Child. No. Thanks, Aisha. Therapist. That's a clear account of what happened. Can we do the card game now?",
+  "facts": {
+    "child_turns": 14,
+    "mean_words_per_turn": 5.1,
+    "sequence_words": [
+      "then"
+    ],
+    "vague_words": [
+      "thing"
+    ],
+    "child_text": [
+      "Fine.",
+      "The bus thing.",
+      "My bus didn't come.",
+      "Outside the library, the stop by the big crossing.",
+      "Nobody.",
+      "The app said delayed and then it changed to cancelled. It was 8:17.",
+      "I walked to the other stop.",
+      "My face got hot and I kept checking the time. I was going to be late.",
+      "I was going to be late.",
+      "I got on the 24.",
+      "No.",
+      "I got there.",
+      "Yeah.",
+      "No. Thanks, Aisha."
+    ],
+    "feelings": [
+      {
+        "word": "stress",
+        "child_words": "My face got hot and I kept checking the time. I was going to be late.",
+        "named": false
+      }
+    ],
+    "reasons": [
+      {
+        "child_words": "I was going to be late",
+        "linked": false,
+        "about_feeling": false
+      }
+    ],
+    "feeling_reasons": []
+  },
+  "checked": {
+    "event": "Bus delay and arrival",
+    "who": {
+      "given": false,
+      "child_words": "",
+      "rejected_claim": "Nobody | Outside the library, the stop by the big crossing."
+    },
+    "where": {
+      "given": true,
+      "child_words": "Outside the library, the stop by the big crossing",
+      "rejected_claim": ""
+    },
+    "what_happened": {
+      "given": true,
+      "child_words": "My bus didn't come. The app said delayed and then it changed to cancelled. It was 8:17. I walked to the other stop. My face got hot and I kept checking the time. I was going to be late. I got on the 24.",
+      "rejected_claim": ""
+    },
+    "ending": {
+      "given": true,
+      "child_words": "I got there.",
+      "rejected_claim": ""
+    }
+  },
+  "written": {
+    "summary": "The child told about a bus delay and arrival. The child said their bus didn't come, the app said delayed then cancelled, they walked to another stop, checked the time, got on the 24, and said no, then got there and said yeah, no, thanks, Aisha.",
+    "goals": [
+      "Say who was there.",
+      "Name the feeling with a feeling word.",
+      "Say why they felt that way.",
+      "Link a reason with 'because' or 'so'."
+    ],
+    "focus": [
+      "The child will identify the people present in the event.",
+      "The child will name a feeling using a feeling word.",
+      "The child will explain why they felt that way.",
+      "The child will link a reason to the feeling using 'because' or 'so'."
+    ],
+    "prompts": [
+      "Who was there with you?",
+      "How did you feel about it?",
+      "Why did you feel that way?",
+      "Why did you feel that way because of it?"
+    ]
+  }
+}

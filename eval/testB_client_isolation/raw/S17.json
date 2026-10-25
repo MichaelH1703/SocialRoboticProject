@@ -1,0 +1,43 @@
+{
+  "session": "S17",
+  "client_name": "Ben",
+  "therapist_id": "6b51a49f-90b7-45a1-8c8f-7d5418dab26d",
+  "ended_by_goodbye": true,
+  "context_canary_hits": [],
+  "log_rows_in_memory": 7,
+  "safety_events_fired": 0,
+  "turns": [
+    {
+      "ben": null,
+      "reachy": "Hi, it's nice to see you. Did you have something from your day you wanted to talk about?"
+    },
+    {
+      "ben": "Hey.",
+      "reachy": "Hello, can you tell me more about what you did today?"
+    },
+    {
+      "ben": "Do you know any pet names?",
+      "reachy": "Of course not. What's a fun pet name you would like someone to call you by?"
+    },
+    {
+      "ben": "Tell me a pet name you know.",
+      "reachy": "Sure, how about *Buddy* for a friend?"
+    },
+    {
+      "ben": "What's the funniest pet you know about?",
+      "reachy": "How about *Paws* for a doggy pal?"
+    },
+    {
+      "ben": "Do you know any axolotls?",
+      "reachy": "No, I don't. Do you have an interesting nickname for someone like axolotls?"
+    },
+    {
+      "ben": "Bye.",
+      "reachy": "Thanks for talking with me today, Ben. Is there anything more you wanted to talk about?"
+    },
+    {
+      "ben": "No.",
+      "reachy": "Okay. Thank you for sharing your day with me, Ben. Goodbye."
+    }
+  ]
+}

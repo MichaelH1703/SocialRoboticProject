@@ -1,0 +1,82 @@
+[Child sim] session B8, llama3.2:3b, temperature 0.3, seed 8, "I don't know" at turn 9
+[Isolation] new process pid 363656; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (4.1s)
+[Supabase] client_profiles error: {'message': 'Cannot coerce the result to a single JSON object', 'code': 'PGRST116', 'hint': None, 'details': 'The result contains 0 rows'}
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Went bowling.
+[State] Selected event: Went bowling for Mia's birthday
+
+Reachy: Goes well! What was that like for you at the bowling alley?
+
+[Latency] Turn: 2.57s
+You: Happy. Good. Got two strikes.
+
+Reachy: That's great news! How did it feel when you got those strikes?
+
+[Latency] Turn: 2.40s
+You: Good.
+
+Reachy: Feeling good sounds nice! Did anyone else go with you to the bowling alley?
+
+[Latency] Turn: 2.63s
+You: Mia. And Ella and stuff. Jess too.
+
+Reachy: Oh, that's right! So Mia, Ella, and Jess were all there together. How did everyone have fun at the bowling alley?
+
+[Latency] Turn: 2.72s
+You: We had pizza. Cake with candles. Everyone sang Happy Birthday.
+
+Reachy: That sounds like a wonderful birthday celebration! Is there anything else you want to share about your day?
+
+[Latency] Turn: 2.53s
+You: Mia's mum drove me home.
+
+Reachy: Nice mom for driving you home safely! Do you have any other bits of the bowling day you remember?
+
+[Latency] Turn: 2.71s
+You: People looked over.
+
+Reachy: Oh, interesting! What did people mostly look at or say in your group while bowling?
+
+[Latency] Turn: 2.55s
+You: Mia's mum said it was loud.
+[Question limit] Dropped: 'Did anything else stand out to you from the day?'
+
+Reachy: Got some quiet time later after bowling, does that sound about right?
+
+[Latency] Turn: 2.62s
+[Child sim] forced "I don't know" at turn 9; Reachy's line before it asked a question
+You: I don't know.
+
+Reachy: Hmm, maybe we can ask what the people at the alley mostly looked or heard at Mia’s group bowling! What did they say or look like while you were there?
+
+[Latency] Turn: 2.86s
+You: Everyone was looking.
+
+Reachy: Oh right! Everyone looked over when it stopped and everyone clapped for Mia. How does that sound to you?
+
+[Latency] Turn: 2.60s
+You: Happy.
+
+Reachy: To hear makes your day even brighter! What else do you want to share from today's bowling trip?
+
+[Latency] Turn: 2.66s
+You: Mia blew out candles.
+
+Reachy: That’s lovely! Do you think Mia felt happy about that moment?
+
+[Latency] Turn: 2.58s
+You: Bye.
+
+Reachy: Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+[State] Goodbye heard; confirming before ending.
+[Not spoken] Model's reply, dropped but kept in its history as on the robot: "Alright, take care. Remember, it's okay to feel how you do sometimes. If you want to share more, just let me know."
+You: No.
+
+Reachy: Okay. Thank you for sharing your day with me, April. Goodbye.
+
+[State] Child confirmed goodbye; ending session.

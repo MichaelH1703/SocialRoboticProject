@@ -1,0 +1,32 @@
+Therapist. Hello, Niamh. How are you doing today?
+Child. Okay.
+Therapist. Last week I had an appointment at the optician's. I had to read letters on a screen, and I couldn't tell whether one of them was an F or a P. Have you had an appointment recently?
+Child. Dentist.
+Therapist. Was that this week or last week?
+Child. Tuesday.
+Therapist. What happened at the dentist?
+Child. They checked my teeth.
+Therapist. Who went with you?
+Child. Mum.
+Therapist. Where was the appointment?
+Child. In town.
+Therapist. What happened when you went into the room?
+Child. I sat down. The chair moved back.
+Therapist. How did you feel while that was happening?
+Child. I don't know.
+Therapist. That's okay. You don't need to choose a feeling. Was there anything that made the appointment easier or harder?
+Child. The light was bright.
+Therapist. The light was bright. What did the dentist do next?
+Child. Used the little mirror thing and counted.
+Therapist. Did you have any treatment, or was it just a check?
+Child. Just a check.
+Therapist. What happened after the check?
+Child. Mum paid.
+Therapist. And how did the visit finish?
+Child. We left.
+Therapist. So on Tuesday you went into town with Mum, sat in the chair, and the dentist checked your teeth with a mirror and counted them. The light was bright, and then Mum paid and you left.
+Child. Yes.
+Therapist. Have I got that right?
+Child. Yes.
+Therapist. Thanks, Niamh. That's enough detail for today.
+Child. Can I get my bag?

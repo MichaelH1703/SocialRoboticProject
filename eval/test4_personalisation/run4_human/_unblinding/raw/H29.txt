@@ -1,0 +1,57 @@
+[Human] session H29, condition W-v1, "I don't know" at turn 8
+[Isolation] new process pid 75840; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (5.4s)
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: I played ten pin bowling at the bowling alley
+
+Reachy: That sounds fun. What did you do there?
+
+[Latency] Turn: 2.93s
+You: ten pin bowling
+
+Reachy: And who was with you when you went bowling?
+
+[Latency] Turn: 2.61s
+You: Mia and grace and jess
+
+Reachy: Oh, that's nice to have friends along for bowling. How did Mia and Grace make the day special?
+
+[Latency] Turn: 2.69s
+You: it was Mia's birthday
+[State] Selected event: Went bowling for Mia's birthday
+[Question limit] Dropped: 'Did you enjoy it?'
+
+Reachy: Got it. How were your feelings during the bowling game?
+
+[Latency] Turn: 2.56s
+You: i was happy
+
+Reachy: That's great to hear you were happy! Was there anything in particular that made you feel that way?
+
+[Latency] Turn: 2.71s
+You: not particularly
+
+Reachy: Alright, can you think of a small thing that brought happiness during your bowling game then?
+
+[Latency] Turn: 2.66s
+You: i got a strike
+
+Reachy: That sounds amazing! How did it make you feel to achieve something like that?
+
+[Latency] Turn: 2.59s
+You: it was super exciting
+[Question limit] Dropped: 'You must have loved watching the ball go through all 10 pins!'
+
+Reachy: Super exciting, huh?
+
+[Latency] Turn: 2.58s
+You: yeah
+
+Reachy: It's great to hear that the exciting experience made you happy.
+
+[Latency] Turn: 2.72s
+[Human] Ended by the player before Reachy's goodbye.
+[Human] Session over.

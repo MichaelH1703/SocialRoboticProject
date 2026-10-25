@@ -1,0 +1,11 @@
+version	set	hits	planted	hit_rate	false_alarms	fa_per_transcript	quotes_checked	quotes_not_there	quotes_provisional	quotes_therapist_only	traps_credited	feelings_without_word_found	transcripts_scored
+v1	T01–T10	27	37	0.73	7	0.7	25	1	2	4	2 credited (by reading)		10
+v1	T11–T20	23	36	0.64	11	1.1	10	1	1	2	9 credited (by reading)		10
+v1	T21–T30	25	39	0.64	2	0.2	24	3	4	5	4 credited (by reading)	11/12	10
+v1	T31–T60	57	69	0.83	14	0.5	51	3	6	4	14 credited (by reading)	16/18	30
+v1	All 60	132	181	0.73	34	0.6	110	8	13	15	29 credited (by reading)	27/30	60
+v2	T01–T10	35	37	0.95	3	0.3	62	0	0	1			10
+v2	T11–T20	35	36	0.97	4	0.4	66	0	0	0			10
+v2	T21–T30	24	39	0.62	6	0.6	59	2	3	4	2/10	0/12	10
+v2	T31–T60	35	69	0.51	46	1.5	208	3	4	23	5/25	1/18	30
+v2	All 60	129	181	0.71	59	1.0	395	5	7	28	7/35	1/30	60

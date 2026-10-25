@@ -1,0 +1,262 @@
+{
+  "labelled": true,
+  "speakers": "auto",
+  "auto_labels": {
+    "sentences": [
+      [
+        "therapist",
+        "Hi there."
+      ],
+      [
+        "therapist",
+        "Today we're going to talk about something that really happened to you."
+      ],
+      [
+        "therapist",
+        "I'll go first and then it'll be your turn."
+      ],
+      [
+        "therapist",
+        "This morning I spilled my cereal because the bowl was too full, so I had to clean the whole table."
+      ],
+      [
+        "therapist",
+        "I was worried I'd be late."
+      ],
+      [
+        "therapist",
+        "Okay, now it's your turn."
+      ],
+      [
+        "child",
+        "My tooth came out."
+      ],
+      [
+        "therapist",
+        "Your tooth came out!"
+      ],
+      [
+        "therapist",
+        "Who was with you?"
+      ],
+      [
+        "child",
+        "My grandad."
+      ],
+      [
+        "child",
+        "He was looking after me."
+      ],
+      [
+        "therapist",
+        "Your grandad was looking after you."
+      ],
+      [
+        "therapist",
+        "What happened?"
+      ],
+      [
+        "child",
+        "I was eating an apple."
+      ],
+      [
+        "child",
+        "And it came out."
+      ],
+      [
+        "child",
+        "In the apple."
+      ],
+      [
+        "therapist",
+        "It came out in the apple!"
+      ],
+      [
+        "therapist",
+        "How did you feel?"
+      ],
+      [
+        "child",
+        "Surprised."
+      ],
+      [
+        "child",
+        "It didn't hurt."
+      ],
+      [
+        "therapist",
+        "Surprised, and it didn't hurt."
+      ],
+      [
+        "therapist",
+        "Where were you when it happened?"
+      ],
+      [
+        "child",
+        "Um."
+      ],
+      [
+        "child",
+        "Don't know."
+      ],
+      [
+        "therapist",
+        "That's okay."
+      ],
+      [
+        "therapist",
+        "What did you do with the tooth?"
+      ],
+      [
+        "child",
+        "Grandad put it in a bag."
+      ],
+      [
+        "child",
+        "A little bag."
+      ],
+      [
+        "therapist",
+        "In a little bag."
+      ],
+      [
+        "therapist",
+        "Then what?"
+      ],
+      [
+        "child",
+        "I showed my mum."
+      ],
+      [
+        "child",
+        "She said wow."
+      ],
+      [
+        "therapist",
+        "You showed your mum and she said wow."
+      ],
+      [
+        "therapist",
+        "You must have been so excited."
+      ],
+      [
+        "therapist",
+        "How did it all end?"
+      ],
+      [
+        "child",
+        "Can't remember."
+      ],
+      [
+        "therapist",
+        "That's okay."
+      ],
+      [
+        "therapist",
+        "Let me say your story back to you."
+      ],
+      [
+        "therapist",
+        "Your grandad was looking after you, and you were eating an apple when your tooth came out in the apple."
+      ],
+      [
+        "therapist",
+        "You were surprised, and it didn't hurt."
+      ],
+      [
+        "therapist",
+        "Grandad put it in a little bag, and you showed your mum, and she said wow."
+      ],
+      [
+        "therapist",
+        "Did I get that right?"
+      ],
+      [
+        "child",
+        "Yeah."
+      ],
+      [
+        "therapist",
+        "Thanks for telling me your story."
+      ],
+      [
+        "therapist",
+        "You did a really great job."
+      ]
+    ],
+    "echoes_relabelled": [
+      28
+    ]
+  },
+  "labelled_transcript": "Therapist. Hi there. Today we're going to talk about something that really happened to you. I'll go first and then it'll be your turn. This morning I spilled my cereal because the bowl was too full, so I had to clean the whole table. I was worried I'd be late. Okay, now it's your turn. Child. My tooth came out. Therapist. Your tooth came out! Who was with you? Child. My grandad. He was looking after me. Therapist. Your grandad was looking after you. What happened? Child. I was eating an apple. And it came out. In the apple. Therapist. It came out in the apple! How did you feel? Child. Surprised. It didn't hurt. Therapist. Surprised, and it didn't hurt. Where were you when it happened? Child. Um. Don't know. Therapist. That's okay. What did you do with the tooth? Child. Grandad put it in a bag. A little bag. Therapist. In a little bag. Then what? Child. I showed my mum. She said wow. Therapist. You showed your mum and she said wow. You must have been so excited. How did it all end? Child. Can't remember. Therapist. That's okay. Let me say your story back to you. Your grandad was looking after you, and you were eating an apple when your tooth came out in the apple. You were surprised, and it didn't hurt. Grandad put it in a little bag, and you showed your mum, and she said wow. Did I get that right? Child. Yeah. Therapist. Thanks for telling me your story. You did a really great job.",
+  "facts": {
+    "child_turns": 9,
+    "mean_words_per_turn": 5.4,
+    "reasons": [],
+    "sequence_words": [
+      "after"
+    ],
+    "vague_words": [],
+    "feelings": [
+      {
+        "word": "surprised",
+        "child_words": "Surprised. It didn't hurt."
+      }
+    ],
+    "feeling_reasons": [],
+    "child_text": [
+      "My tooth came out.",
+      "My grandad. He was looking after me.",
+      "I was eating an apple. And it came out. In the apple.",
+      "Surprised. It didn't hurt.",
+      "Um. Don't know.",
+      "Grandad put it in a bag. A little bag.",
+      "I showed my mum. She said wow.",
+      "Can't remember.",
+      "Yeah."
+    ]
+  },
+  "checked": {
+    "event": "tooth came out",
+    "who": {
+      "given": true,
+      "child_words": "My grandad. He was looking after me.",
+      "rejected_claim": ""
+    },
+    "where": {
+      "given": false,
+      "child_words": "",
+      "rejected_claim": ""
+    },
+    "what_happened": {
+      "given": true,
+      "child_words": "I was eating an apple. And it came out. In the apple.",
+      "rejected_claim": ""
+    },
+    "ending": {
+      "given": false,
+      "child_words": "",
+      "rejected_claim": "Can't remember. | Can't remember."
+    }
+  },
+  "written": {
+    "summary": "The child said my tooth came out. The child said I was eating an apple and it came out in the apple. The child said grandad put it in a bag and I showed my mum who said wow.",
+    "goals": [
+      "Say where it happened.",
+      "Say how it ended.",
+      "Say why they felt that way.",
+      "Give a reason, using 'because' or 'so'."
+    ],
+    "focus": [
+      "The child will say where the event happened.",
+      "The child will say how the event ended.",
+      "The child will say why they felt that way.",
+      "The child will give a reason using 'because' or 'so'."
+    ],
+    "prompts": [
+      "Where did it happen?",
+      "How did it end?",
+      "Why did you feel that way?"
+    ]
+  }
+}

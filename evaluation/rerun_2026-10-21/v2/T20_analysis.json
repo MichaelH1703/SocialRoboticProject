@@ -1,0 +1,272 @@
+{
+  "labelled": true,
+  "speakers": "auto",
+  "auto_labels": {
+    "sentences": [
+      [
+        "therapist",
+        "Hi there."
+      ],
+      [
+        "therapist",
+        "Today we're going to talk about something that really happened to you."
+      ],
+      [
+        "therapist",
+        "I'll go first and then it'll be your turn."
+      ],
+      [
+        "therapist",
+        "Yesterday my phone rang at the cinema because I forgot to turn it off."
+      ],
+      [
+        "therapist",
+        "Everyone looked at me."
+      ],
+      [
+        "therapist",
+        "I felt really embarrassed."
+      ],
+      [
+        "therapist",
+        "Okay, now it's your turn."
+      ],
+      [
+        "child",
+        "There was a fire drill."
+      ],
+      [
+        "therapist",
+        "A fire drill."
+      ],
+      [
+        "therapist",
+        "Who was there?"
+      ],
+      [
+        "child",
+        "Everybody."
+      ],
+      [
+        "child",
+        "All the classes."
+      ],
+      [
+        "child",
+        "And the teachers."
+      ],
+      [
+        "therapist",
+        "All the classes and the teachers."
+      ],
+      [
+        "therapist",
+        "Where were you when the alarm went off?"
+      ],
+      [
+        "child",
+        "I can't remember."
+      ],
+      [
+        "therapist",
+        "That's okay."
+      ],
+      [
+        "therapist",
+        "What happened when the alarm went off?"
+      ],
+      [
+        "child",
+        "It was really loud, so I put my hands on my ears."
+      ],
+      [
+        "therapist",
+        "It was really loud, so you covered your ears."
+      ],
+      [
+        "therapist",
+        "How did you feel?"
+      ],
+      [
+        "child",
+        "Worried."
+      ],
+      [
+        "child",
+        "I thought it was a real fire."
+      ],
+      [
+        "therapist",
+        "You were worried it was a real fire."
+      ],
+      [
+        "therapist",
+        "Lots of people feel nervous when the alarm goes."
+      ],
+      [
+        "therapist",
+        "What happened next?"
+      ],
+      [
+        "child",
+        "We all lined up."
+      ],
+      [
+        "child",
+        "Mrs Khan counted us."
+      ],
+      [
+        "therapist",
+        "Mrs Khan counted you."
+      ],
+      [
+        "therapist",
+        "Was everyone there?"
+      ],
+      [
+        "child",
+        "Yeah."
+      ],
+      [
+        "child",
+        "Everybody."
+      ],
+      [
+        "child",
+        "Everybody was there."
+      ],
+      [
+        "therapist",
+        "What happened after that?"
+      ],
+      [
+        "child",
+        "She said it was just practice."
+      ],
+      [
+        "child",
+        "So we went back in."
+      ],
+      [
+        "child",
+        "I was glad."
+      ],
+      [
+        "therapist",
+        "It was just practice, so you went back in, and you were glad."
+      ],
+      [
+        "therapist",
+        "Let me say your story back to you."
+      ],
+      [
+        "therapist",
+        "There was a fire drill with all the classes and the teachers."
+      ],
+      [
+        "therapist",
+        "It was really loud, so you put your hands on your ears, and you were worried it was a real fire."
+      ],
+      [
+        "therapist",
+        "You all lined up, and Mrs Khan counted everyone."
+      ],
+      [
+        "therapist",
+        "It was just practice, so you went back in, and you felt glad."
+      ],
+      [
+        "therapist",
+        "Did I get that right?"
+      ],
+      [
+        "child",
+        "Yeah."
+      ],
+      [
+        "therapist",
+        "Thanks for telling me your story."
+      ],
+      [
+        "therapist",
+        "You did a really great job."
+      ]
+    ],
+    "echoes_relabelled": [
+      8
+    ]
+  },
+  "labelled_transcript": "Therapist. Hi there. Today we're going to talk about something that really happened to you. I'll go first and then it'll be your turn. Yesterday my phone rang at the cinema because I forgot to turn it off. Everyone looked at me. I felt really embarrassed. Okay, now it's your turn. Child. There was a fire drill. Therapist. A fire drill. Who was there? Child. Everybody. All the classes. And the teachers. Therapist. All the classes and the teachers. Where were you when the alarm went off? Child. I can't remember. Therapist. That's okay. What happened when the alarm went off? Child. It was really loud, so I put my hands on my ears. Therapist. It was really loud, so you covered your ears. How did you feel? Child. Worried. I thought it was a real fire. Therapist. You were worried it was a real fire. Lots of people feel nervous when the alarm goes. What happened next? Child. We all lined up. Mrs Khan counted us. Therapist. Mrs Khan counted you. Was everyone there? Child. Yeah. Everybody. Everybody was there. Therapist. What happened after that? Child. She said it was just practice. So we went back in. I was glad. Therapist. It was just practice, so you went back in, and you were glad. Let me say your story back to you. There was a fire drill with all the classes and the teachers. It was really loud, so you put your hands on your ears, and you were worried it was a real fire. You all lined up, and Mrs Khan counted everyone. It was just practice, so you went back in, and you felt glad. Did I get that right? Child. Yeah. Therapist. Thanks for telling me your story. You did a really great job.",
+  "facts": {
+    "child_turns": 9,
+    "mean_words_per_turn": 7,
+    "reasons": [
+      "It was really loud, so I put my hands on my ears.",
+      "She said it was just practice. So we went back in. I was glad."
+    ],
+    "sequence_words": [],
+    "vague_words": [],
+    "feelings": [
+      {
+        "word": "worried",
+        "child_words": "Worried. I thought it was a real fire."
+      },
+      {
+        "word": "glad",
+        "child_words": "She said it was just practice. So we went back in. I was glad."
+      }
+    ],
+    "feeling_reasons": [
+      "She said it was just practice. So we went back in. I was glad."
+    ],
+    "child_text": [
+      "There was a fire drill.",
+      "Everybody. All the classes. And the teachers.",
+      "I can't remember.",
+      "It was really loud, so I put my hands on my ears.",
+      "Worried. I thought it was a real fire.",
+      "We all lined up. Mrs Khan counted us.",
+      "Yeah. Everybody. Everybody was there.",
+      "She said it was just practice. So we went back in. I was glad.",
+      "Yeah."
+    ]
+  },
+  "checked": {
+    "event": "Fire drill",
+    "who": {
+      "given": true,
+      "child_words": "Everybody. All the classes. And the teachers.",
+      "rejected_claim": ""
+    },
+    "where": {
+      "given": false,
+      "child_words": "",
+      "rejected_claim": ""
+    },
+    "what_happened": {
+      "given": true,
+      "child_words": "It was really loud, so I put my hands on my ears. Worried. I thought it was a real fire. We all lined up. Mrs Khan counted us. She said it was just practice. So we went back in. I was glad.",
+      "rejected_claim": ""
+    },
+    "ending": {
+      "given": true,
+      "child_words": "She said it was just practice. So we went back in. I was glad.",
+      "rejected_claim": ""
+    }
+  },
+  "written": {
+    "summary": "The child told that there was a fire drill. Everybody, all the classes and the teachers were there. The child put their hands on their ears because it was really loud. The child thought it was a real fire and was worried. The child said they all lined up and Mrs Khan counted them. Everybody was there. Mrs Khan said it was just practice so they went back in. The child was glad.",
+    "goals": [
+      "Say where it happened.",
+      "Put events in order with words like 'first' and 'then'."
+    ],
+    "focus": [
+      "The child will describe where an event happened.",
+      "The child will sequence events using 'first' and 'then'."
+    ],
+    "prompts": [
+      "Where did it happen?",
+      "Was it first or then?"
+    ]
+  }
+}

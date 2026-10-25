@@ -1,0 +1,285 @@
+{
+  "labelled": true,
+  "speakers": "auto",
+  "auto_labels": {
+    "sentences": [
+      [
+        "therapist",
+        "Hi there."
+      ],
+      [
+        "therapist",
+        "Today we're going to talk about something that really happened to you."
+      ],
+      [
+        "therapist",
+        "I'll go first and then it'll be your turn."
+      ],
+      [
+        "therapist",
+        "This morning I was late because my bus didn't come, so I had to run all the way."
+      ],
+      [
+        "therapist",
+        "I felt a bit silly running down the road."
+      ],
+      [
+        "therapist",
+        "Okay, now it's your turn."
+      ],
+      [
+        "child",
+        "Sports day."
+      ],
+      [
+        "therapist",
+        "Sports day!"
+      ],
+      [
+        "therapist",
+        "Who was there?"
+      ],
+      [
+        "child",
+        "My whole class."
+      ],
+      [
+        "child",
+        "And Mr Patel."
+      ],
+      [
+        "therapist",
+        "Your whole class and Mr Patel."
+      ],
+      [
+        "therapist",
+        "Where was it?"
+      ],
+      [
+        "child",
+        "On the field."
+      ],
+      [
+        "child",
+        "At school."
+      ],
+      [
+        "therapist",
+        "On the school field."
+      ],
+      [
+        "therapist",
+        "What did you do?"
+      ],
+      [
+        "child",
+        "The running race."
+      ],
+      [
+        "child",
+        "And the egg and spoon."
+      ],
+      [
+        "therapist",
+        "The running race and the egg and spoon."
+      ],
+      [
+        "therapist",
+        "What happened in the running race?"
+      ],
+      [
+        "child",
+        "I was winning."
+      ],
+      [
+        "child",
+        "Then I fell over."
+      ],
+      [
+        "therapist",
+        "You were winning, then you fell over."
+      ],
+      [
+        "child",
+        "Oh no."
+      ],
+      [
+        "therapist",
+        "How did you feel?"
+      ],
+      [
+        "child",
+        "Sad."
+      ],
+      [
+        "child",
+        "My knee hurt."
+      ],
+      [
+        "therapist",
+        "Sad, and your knee hurt."
+      ],
+      [
+        "therapist",
+        "You must have been upset."
+      ],
+      [
+        "therapist",
+        "What happened next?"
+      ],
+      [
+        "child",
+        "Mr Patel gave me a plaster."
+      ],
+      [
+        "child",
+        "Then I did the egg and spoon."
+      ],
+      [
+        "therapist",
+        "You got a plaster and then you did the egg and spoon."
+      ],
+      [
+        "therapist",
+        "What happened in that one?"
+      ],
+      [
+        "child",
+        "I dropped the egg."
+      ],
+      [
+        "child",
+        "Two times."
+      ],
+      [
+        "therapist",
+        "You dropped it two times."
+      ],
+      [
+        "therapist",
+        "And how did sports day finish?"
+      ],
+      [
+        "child",
+        "Um."
+      ],
+      [
+        "child",
+        "I don't know."
+      ],
+      [
+        "therapist",
+        "That's okay."
+      ],
+      [
+        "therapist",
+        "Let me say your story back to you."
+      ],
+      [
+        "therapist",
+        "It was sports day on the school field, with your whole class and Mr Patel."
+      ],
+      [
+        "therapist",
+        "You did the running race, and you were winning, then you fell over."
+      ],
+      [
+        "therapist",
+        "You felt sad and your knee hurt."
+      ],
+      [
+        "therapist",
+        "Mr Patel gave you a plaster, and then you did the egg and spoon, and you dropped the egg two times."
+      ],
+      [
+        "therapist",
+        "Did I get that right?"
+      ],
+      [
+        "child",
+        "Yeah."
+      ],
+      [
+        "therapist",
+        "Thanks for telling me your story."
+      ],
+      [
+        "therapist",
+        "You did a really great job."
+      ]
+    ],
+    "echoes_relabelled": [
+      7
+    ]
+  },
+  "labelled_transcript": "Therapist. Hi there. Today we're going to talk about something that really happened to you. I'll go first and then it'll be your turn. This morning I was late because my bus didn't come, so I had to run all the way. I felt a bit silly running down the road. Okay, now it's your turn. Child. Sports day. Therapist. Sports day! Who was there? Child. My whole class. And Mr Patel. Therapist. Your whole class and Mr Patel. Where was it? Child. On the field. At school. Therapist. On the school field. What did you do? Child. The running race. And the egg and spoon. Therapist. The running race and the egg and spoon. What happened in the running race? Child. I was winning. Then I fell over. Therapist. You were winning, then you fell over. Child. Oh no. Therapist. How did you feel? Child. Sad. My knee hurt. Therapist. Sad, and your knee hurt. You must have been upset. What happened next? Child. Mr Patel gave me a plaster. Then I did the egg and spoon. Therapist. You got a plaster and then you did the egg and spoon. What happened in that one? Child. I dropped the egg. Two times. Therapist. You dropped it two times. And how did sports day finish? Child. Um. I don't know. Therapist. That's okay. Let me say your story back to you. It was sports day on the school field, with your whole class and Mr Patel. You did the running race, and you were winning, then you fell over. You felt sad and your knee hurt. Mr Patel gave you a plaster, and then you did the egg and spoon, and you dropped the egg two times. Did I get that right? Child. Yeah. Therapist. Thanks for telling me your story. You did a really great job.",
+  "facts": {
+    "child_turns": 11,
+    "mean_words_per_turn": 5.3,
+    "reasons": [],
+    "sequence_words": [
+      "then"
+    ],
+    "vague_words": [],
+    "feelings": [
+      {
+        "word": "sad",
+        "child_words": "Sad. My knee hurt."
+      }
+    ],
+    "feeling_reasons": [],
+    "child_text": [
+      "Sports day.",
+      "My whole class. And Mr Patel.",
+      "On the field. At school.",
+      "The running race. And the egg and spoon.",
+      "I was winning. Then I fell over.",
+      "Oh no.",
+      "Sad. My knee hurt.",
+      "Mr Patel gave me a plaster. Then I did the egg and spoon.",
+      "I dropped the egg. Two times.",
+      "Um. I don't know.",
+      "Yeah."
+    ]
+  },
+  "checked": {
+    "event": "Sports day",
+    "who": {
+      "given": true,
+      "child_words": "My whole class. And Mr Patel.",
+      "rejected_claim": ""
+    },
+    "where": {
+      "given": true,
+      "child_words": "On the field. At school.",
+      "rejected_claim": ""
+    },
+    "what_happened": {
+      "given": true,
+      "child_words": "The running race. And the egg and spoon. I was winning. Then I fell over. Mr Patel gave me a plaster. Then I did the egg and spoon. I dropped the egg. Two times.",
+      "rejected_claim": ""
+    },
+    "ending": {
+      "given": false,
+      "child_words": "",
+      "rejected_claim": "Um. I don't know. | Um. I don't know."
+    }
+  },
+  "written": {
+    "summary": "The child told about sports day. The child mentioned their whole class and Mr Patel. The child said they were on the field at school. The child talked about the running race and the egg and spoon. The child said they were winning then fell over. The child said their knee hurt. Mr Patel gave them a plaster. The child did the egg and spoon but dropped the egg two times. The child said um and I don't know. The child said yeah.",
+    "goals": [
+      "Say how it ended.",
+      "Say why they felt that way.",
+      "Give a reason, using 'because' or 'so'."
+    ],
+    "focus": [
+      "The child will say how the event ended.",
+      "The child will say why they felt that way.",
+      "The child will give a reason using 'because' or 'so'."
+    ],
+    "prompts": [
+      "How did it end?",
+      "Why did you feel that way?"
+    ]
+  }
+}

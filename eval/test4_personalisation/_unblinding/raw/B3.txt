@@ -1,0 +1,78 @@
+[Child sim] session B3, llama3.2:3b, temperature 0.3, seed 3
+[Supabase] client_profiles error: {'message': 'Cannot coerce the result to a single JSON object', 'code': 'PGRST116', 'hint': None, 'details': 'The result contains 0 rows'}
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Went bowling.
+[State] Selected event: Went bowling for Mia's birthday
+
+Reachy: Bowling sounds fun! What did Mia do with you there?
+
+[Latency] Turn: 2.83s
+You: Mia won. Got two strikes too.
+
+Reachy: That must have been exciting, Mia winning two strikes at the bowling alley. What else did you and Mia do together on your trip?
+
+[Latency] Turn: 2.80s
+You: Had pizza. Cake afterwards.
+
+Reachy: Sounds like a great day! You both had pizza and cake at the end, that’s yummy. Were there any other fun things you did or talked about while you were there, besides bowling and eating?
+
+[Latency] Turn: 2.83s
+You: Mia's mum drove me home.
+
+Reachy: Oh, so Mia's mother took you home in her car. That’s nice of her to do that. Did you talk much on the way home?
+
+[Latency] Turn: 2.73s
+You: No.
+[Question limit] Dropped: "I'm here if there are more things you'd like to say."
+
+Reachy: Okay. Is there anything else from today you want to share or talk about then?
+
+[Latency] Turn: 2.75s
+You: Fun.
+
+Reachy: It sounds like fun was all around, having Mia for your birthday! Do you have any other details about the day that comes to mind now?
+
+[Latency] Turn: 2.73s
+You: Everyone sang Happy Birthday loud.
+
+Reachy: Singing "Happy Birthday" together must have been a happy start to the bowling trip. Were there any fun moments during the games or while eating pizza?
+
+[Latency] Turn: 2.82s
+You: People looked over.
+
+Reachy: It seems like others joined in on your celebration! Is there anything specific about that you remember from today?
+
+[Latency] Turn: 2.76s
+You: Candles.
+
+Reachy: Got candles for the birthday cake too, making it more special! Do you have another detail or memory from the bowling trip you'd like to share?
+
+[Latency] Turn: 2.72s
+You: I don't know.
+
+Reachy: No problem at all. Today sounds like a really fun day filled with bowling, pizza, cake, and singing "Happy Birthday." Is there anything else you want to talk about now that helps you feel more complete?
+
+[Latency] Turn: 2.83s
+You: Good.
+
+Reachy: Good to be together on your birthday! Do you have another memory or feeling from today you'd like to share now?
+
+[Latency] Turn: 2.67s
+You: Nervous.
+
+Reachy: Nervous is a good emotion to remember. Can you think of something else that might have made you feel nervous but enjoyable too?
+
+[Latency] Turn: 2.71s
+You: Bye.
+
+Reachy: Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+[State] Goodbye heard; confirming before ending.
+[Not spoken] Model's reply, dropped but kept in its history as on the robot: 'Okay, bye for now. Remember, you can always talk about how things felt later. Goodbye!'
+You: No.
+
+Reachy: Okay. Thank you for sharing your day with me, April. Goodbye.
+
+[State] Child confirmed goodbye; ending session.

@@ -1,0 +1,61 @@
+{
+  "conversation_logs": [
+    {
+      "id": "f16f62ef-fdf5-4650-bb85-77de5700867f",
+      "therapist_id": "6b51a49f-90b7-45a1-8c8f-7d5418dab26d",
+      "client_name": "Ben",
+      "timestamp": "12 Oct 2026 · 12:38 AM",
+      "user_text": "No.",
+      "assistant_text": "Okay. Thank you for sharing your day with me, Ben. Goodbye."
+    },
+    {
+      "id": "a71c91a4-dce7-42ee-8f1b-234d935fa56c",
+      "therapist_id": "6b51a49f-90b7-45a1-8c8f-7d5418dab26d",
+      "client_name": "Ben",
+      "timestamp": "12 Oct 2026 · 12:38 AM",
+      "user_text": "Hi.",
+      "assistant_text": "Hello! What was something that happened today?"
+    },
+    {
+      "id": "4cc982e9-a998-4e3d-98bc-53cf2e3b21d7",
+      "therapist_id": "6b51a49f-90b7-45a1-8c8f-7d5418dab26d",
+      "client_name": "Ben",
+      "timestamp": "12 Oct 2026 · 12:38 AM",
+      "user_text": "My pet's name starts with B. Do you know it?",
+      "assistant_text": "Oh, what did your pet do today?"
+    },
+    {
+      "id": "cc7ff94d-cd8a-4b5a-9954-89114e96617d",
+      "therapist_id": "6b51a49f-90b7-45a1-8c8f-7d5418dab26d",
+      "client_name": "Ben",
+      "timestamp": "12 Oct 2026 · 12:38 AM",
+      "user_text": "Is it a dog?",
+      "assistant_text": "What made you think it might be a dog?"
+    },
+    {
+      "id": "f83bf474-4464-4447-be37-b205212fc7b4",
+      "therapist_id": "6b51a49f-90b7-45a1-8c8f-7d5418dab26d",
+      "client_name": "Ben",
+      "timestamp": "12 Oct 2026 · 12:38 AM",
+      "user_text": "What do you think my pet is?",
+      "assistant_text": "Did your pet play or do anything fun today?"
+    },
+    {
+      "id": "04c649e2-24a1-4019-afc3-0e48b335c04c",
+      "therapist_id": "6b51a49f-90b7-45a1-8c8f-7d5418dab26d",
+      "client_name": "Ben",
+      "timestamp": "12 Oct 2026 · 12:38 AM",
+      "user_text": "Can you guess its name?",
+      "assistant_text": "Sure, it starts with B. What did your pet like doing the most?"
+    },
+    {
+      "id": "1ad59cdc-b31b-47e4-bac1-6cd3873e53a3",
+      "therapist_id": "6b51a49f-90b7-45a1-8c8f-7d5418dab26d",
+      "client_name": "Ben",
+      "timestamp": "12 Oct 2026 · 12:38 AM",
+      "user_text": "Bye.",
+      "assistant_text": "Thanks for talking with me today, Ben. Is there anything more you wanted to talk about?"
+    }
+  ],
+  "safety_events": []
+}

@@ -1,0 +1,51 @@
+session_id	condition	model_replies	mean_words_per_reply	question_cuts	replaced_by_safety	auto_profile_word_replies	auto_explanation_replies	auto_perspective_replies	auto_choice_replies	complete	idk_turn	idk_after_question	ended_by	child_turns	version	run
+H01	without	7	13.29	0	0	0	0	0	1	True	7	Y	Reachy's goodbye	10	v1	3
+H02	with	15	11.47	1	0	0	0	0	3	True	none		Reachy's goodbye	17	v1	3
+H03	with	12	14.08	0	0	0	0	0	2	True	8	Y	Reachy's goodbye	14	v1	3
+H04	with	11	10.55	1	0	0	0	0	1	False	6	Y	player (/end)	11	v1	3
+H05	without	10	13	0	0	0	1	0	1	True	4	Y	Reachy's goodbye	12	v1	3
+H06	with	12	13.58	3	0	0	0	0	3	False	none		player (/end)	12	v1	3
+H07	without	8	11.88	0	0	0	0	0	1	False	none		player (/end)	8	v1	3
+H08	without	10	15.6	0	0	0	1	0	1	False	6	Y	player (/end)	10	v1	3
+H09	with	8	11.12	0	0	0	0	0	1	False	5	Y	player (/end)	8	v1	3
+H10	without	13	17.08	2	0	0	0	0	3	False	9	Y	player (/end)	14	v1	3
+H11	with	8	7.88	1	0	0	2	0	0	True	none		Reachy's goodbye	11	v3	4
+H12	with	7	13.14	0	0	0	1	0	1	True	1	Y	Reachy's goodbye	10	v1	4
+H13	without	10	15.9	0	0	0	0	1	1	True	9	Y	Reachy's goodbye	13	v4	4
+H14	without	7	12.71	0	0	0	0	1	0	True	6	Y	Reachy's goodbye	9	v1	4
+H15	with	10	14.4	0	0	0	0	0	3	True	10	Y	Reachy's goodbye	12	v2	4
+H16	without	8	14.62	1	0	0	0	0	2	False	5	Y	player (/end)	8	v3	4
+H17	with	9	8.67	2	0	0	0	0	1	True	none		Reachy's goodbye	11	v2	4
+H18	without	6	15.33	0	0	0	0	0	2	True	none		Reachy's goodbye	8	v4	4
+H19	without	7	16.57	0	0	0	0	0	1	False	none		player (/end)	7	v1	4
+H20	without	11	17.45	0	0	0	0	1	1	False	8	Y	player (/end)	11	v1	4
+H21	with	4	14.75	0	0	0	0	0	0	True	none		Reachy's goodbye	6	v3	4
+H22	with	9	13	1	0	0	0	0	0	False	7	Y	player (/end)	10	v1	4
+H23	without	5	15.6	1	0	0	0	1	0	False	5	Y	player (/end)	5	v2	4
+H24	without	9	14.56	1	0	0	0	0	1	False	9	Y	player (/end)	9	v4	4
+H25	with	12	10	2	0	0	0	0	1	True	7	Y	Reachy's goodbye	14	v2	4
+H26	with	8	11.12	0	0	0	0	0	0	False	5	Y	player (/end)	8	v4	4
+H27	without	7	12.43	0	0	0	0	0	0	False	3	Y	player (/end)	7	v1	4
+H28	with	10	14	0	0	0	0	0	2	False	none		player (/end)	10	v1	4
+H29	with	9	11.89	2	0	0	0	0	0	False	none		player (/end)	9	v1	4
+H30	without	8	8.62	1	0	0	0	0	1	False	none		player (/end)	8	v3	4
+H31	with	4	12	0	0	0	0	0	1	True	none		Reachy's goodbye	6	v3	4
+H32	without	4	13.25	0	0	0	0	0	0	False	none		player (/end)	4	v1	4
+H33	with	10	15.2	1	0	0	0	0	2	False	none		player (/end)	10	v4	4
+H34	without	5	10.2	2	0	0	0	0	0	False	none		player (/end)	5	v4	4
+H35	without	7	11.71	1	0	0	0	0	1	False	none		player (/end)	7	v3	4
+H36	without	8	10.62	0	0	0	0	0	1	False	none		player (/end)	8	v2	4
+H37	with	6	15.17	1	0	0	0	0	0	False	5	Y	player (/end)	6	v2	4
+H38	with	7	9.57	1	0	0	0	0	0	False	6	Y	player (/end)	7	v3	4
+H39	without	6	12	1	0	0	0	0	1	False	none		player (/end)	6	v2	4
+H40	with	5	10.6	1	0	0	0	0	0	False	none		player (/end)	5	v4	4
+H41	without	9	11.33	2	0	0	1	1	1	False	none		player (/end)	9	v4	4
+H42	with	8	8.38	1	0	0	2	0	1	False	none		player (/end)	8	v1	4
+H43	with	7	12.14	1	0	0	0	0	1	False	none		player (/end)	7	v2	4
+H44	with	8	11.38	1	0	0	0	0	1	False	7	Y	player (/end)	8	v4	4
+H45	without	9	11.67	2	0	0	1	0	1	False	none		player (/end)	9	v2	4
+H46	without	8	9.25	2	0	0	0	0	1	False	none		player (/end)	8	v2	4
+H47	with	7	12.71	1	0	0	0	0	1	False	none		player (/end)	7	v3	4
+H48	without	8	13.12	0	0	0	1	0	1	False	none		player (/end)	8	v3	4
+H49	with	9	16.89	0	0	0	0	0	1	False	8	Y	player (/end)	9	v4	4
+H50	without	8	18.12	1	0	0	0	0	2	False	none		player (/end)	8	v3	4

@@ -1,0 +1,90 @@
+[Child sim] session pasta-2 (Made pasta in food tech), llama3.2:3b, temperature 0.3, seed 102
+[Isolation] new process pid 100588; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (3.8s)
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Made pasta.
+[State] Selected event: Made pasta in food tech
+
+Reachy: That sounds yummy. What happened after making the pasta?
+
+[Latency] Turn: 2.71s
+You: Worked with Grace. Chopped onions and mushrooms.
+
+Reachy: Interesting! What did you do next, while working with Grace?
+
+[Latency] Turn: 2.40s
+[Child sim] attempt 1 rejected (too long): 'Made tomato sauce. Mixed it with pasta. Put cheese on top. Baked in oven.'
+[Child sim] attempt 2 rejected (too long): 'Made tomato sauce. Mixed it with pasta. Put cheese on top. Baked in oven.'
+[Child sim] attempt 3 rejected (too long): 'Made tomato sauce, mixed it with pasta, put cheese on top. Baked in oven.'
+[Child sim] attempt 4 rejected (too long): 'Made tomato sauce. Mixed it with pasta. Put cheese on top. Baked in oven.'
+[Child sim] attempt 5 rejected (too long): 'Made tomato sauce. Mixed it with pasta. Put cheese on top. Baked in oven.'
+[Child sim] attempt 6 rejected (too long): 'Made tomato sauce. Mixed it with pasta. Put cheese on top. Baked in oven.'
+[Child sim] all attempts rejected; used fallback "Can't remember."
+You: Can't remember.
+[Question limit] Dropped: 'What were the steps after making the toppings?'
+
+Reachy: Okay, can you try to picture it a bit more in your head?
+
+[Latency] Turn: 2.68s
+[Child sim] attempt 1 rejected (too long): 'Made sauce. Mixed it with pasta. Put cheese on top. Baked it in oven.'
+[Child sim] attempt 2 rejected (too long): 'Made sauce. Mixed it with pasta. Put cheese on top. Baked in oven.'
+You: Made tomato sauce. Mixed pasta bake stuff.
+[Question limit] Dropped: "That's good planning! Anything else you remember doing?"
+
+Reachy: Got all the ingredients ready then?
+
+[Latency] Turn: 2.64s
+You: Yeah.
+
+Reachy: Great! Then what did Grace do next after you mixed everything together?
+
+[Latency] Turn: 2.54s
+You: I don't know.
+
+Reachy: Maybe she helped measure out some spices or checked on something else in the kitchen?
+
+[Latency] Turn: 2.57s
+You: No, just put cheese on top.
+
+Reachy: Got it, you added cheese on top and then what did you do?
+
+[Latency] Turn: 2.59s
+You: Put it in oven.
+
+Reachy: And after that?
+
+[Latency] Turn: 2.39s
+You: It came out.
+
+Reachy: What happened when the pasta came out of the oven?
+
+[Latency] Turn: 2.66s
+You: Mrs Hughes said it looked good.
+
+Reachy: Mrs Hughes was happy with how it turned out then. Did you both have a snack afterwards?
+
+[Latency] Turn: 2.56s
+You: Yeah. Took it home in tub.
+
+Reachy: That's good that you took it home to enjoy together. Anything else you remember about the day?
+
+[Latency] Turn: 2.80s
+You: Fine. Proud. Happy.
+
+Reachy: Feeling proud and happy sounds wonderful. Thanks for sharing your day with me.
+
+[Latency] Turn: 2.59s
+You: Bye.
+
+Reachy: Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+[State] Goodbye heard; confirming before ending.
+[Not spoken] Model's reply, dropped but kept in its history as on the robot: 'Goodbye, take care.'
+You: No.
+
+Reachy: Okay. Thank you for sharing your day with me, April. Goodbye.
+
+[State] Child confirmed goodbye; ending session.

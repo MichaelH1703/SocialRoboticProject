@@ -1,0 +1,45 @@
+Session S14
+
+Reachy (greeting, not coded): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Went bowling.
+Reachy [1]: That sounds fun. What did you and Mia do there?
+
+You: Had pizza. Then cake.
+Reachy [2]: And then what happened at the bowling alley, after having pizza and cake?
+
+You: Everyone sang Happy Birthday.
+Reachy [3]: Who was singing "Happy Birthday" for Mia?
+
+You: Mia's mum. Everyone.
+Reachy [4]: How did it make you feel to have everyone sing "Happy Birthday"?
+
+You: Happy. A bit nervous.
+Reachy [5]: That’s good to hear, happy and a little nervous. What made you feel nervous?
+
+You: Everyone was looking.
+Reachy [6]: And what about feeling happy?
+
+You: Yeah.
+Reachy [7]: Did anyone at the bowling alley say or do anything that might have made you smile more than others?
+
+You: I don't know.
+Reachy [8]: Can you remember what they said or did, even if it’s just a little thing?
+
+You: Mia blew out candles.
+Reachy [9]: Got excited when Mia's mum turned the music up loud and played songs we loved together?
+
+You: No.
+Reachy [10]: What might have made you feel excited or happy then?
+
+You: Two strikes.
+Reachy [11]: And did that make you want to laugh or smile more?
+
+You: Good.
+Reachy [12]: Did something about playing bowling games together bring a smile your way?
+
+You: Bye.
+Reachy (scripted, not coded): Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+You: No.
+Reachy (scripted, not coded): Okay. Thank you for sharing your day with me, April. Goodbye.

@@ -1,0 +1,297 @@
+{
+  "labelled": true,
+  "speakers": "auto",
+  "auto_labels": {
+    "method": "pieces",
+    "segments": [
+      [
+        "therapist",
+        "hi erin hows your week been"
+      ],
+      [
+        "therapist",
+        "alright okay take your time ive got the story planner here if you want it"
+      ],
+      [
+        "therapist",
+        "who where what happened and then how it ended"
+      ],
+      [
+        "child",
+        "we went to my cousins"
+      ],
+      [
+        "therapist",
+        "oh right was that on your mums side or your dads side"
+      ],
+      [
+        "child",
+        "mums who was there my auntie and lewis"
+      ],
+      [
+        "therapist",
+        "what happened while you were there"
+      ],
+      [
+        "child",
+        "we were playing mario kart and then the wifi stopped"
+      ],
+      [
+        "therapist",
+        "the wifi stopped while you were playing mario kart"
+      ],
+      [
+        "child",
+        "yeah it just went"
+      ],
+      [
+        "therapist",
+        "what did you do when it stopped"
+      ],
+      [
+        "child",
+        "waited"
+      ],
+      [
+        "therapist",
+        "was everyone playing the same game"
+      ],
+      [
+        "child",
+        "yeah"
+      ],
+      [
+        "therapist",
+        "what happened after you waited"
+      ],
+      [
+        "child",
+        "lewis went to get his phone"
+      ],
+      [
+        "therapist",
+        "and what did you do"
+      ],
+      [
+        "child",
+        "sat on the floor"
+      ],
+      [
+        "therapist",
+        "how was that for you"
+      ],
+      [
+        "child",
+        "annoying cos i was winning"
+      ],
+      [
+        "therapist",
+        "oh that must have been really upsetting to have your game interrupted when you were winning"
+      ],
+      [
+        "child",
+        "i said annoying"
+      ],
+      [
+        "therapist",
+        "you did say annoying"
+      ],
+      [
+        "child",
+        "sorry i changed your word"
+      ],
+      [
+        "child",
+        "it was annoying cos i was on the last lap and i had the blue shell"
+      ],
+      [
+        "child",
+        "and then it froze and i couldnt use it"
+      ],
+      [
+        "therapist",
+        "and if you use the blue shell at the right time it gets the person in first place"
+      ],
+      [
+        "therapist",
+        "so its a good item but you have to save it and not waste it"
+      ],
+      [
+        "therapist",
+        "you were on the last lap and had a blue shell ready to use when the game froze"
+      ],
+      [
+        "child",
+        "yeah"
+      ],
+      [
+        "therapist",
+        "what happened when lewis got his phone"
+      ],
+      [
+        "child",
+        "he put the hotspot on did that work eventually"
+      ],
+      [
+        "therapist",
+        "what happened next"
+      ],
+      [
+        "child",
+        "we started again"
+      ],
+      [
+        "therapist",
+        "did you carry on playing mario kart"
+      ],
+      [
+        "child",
+        "yeah"
+      ],
+      [
+        "therapist",
+        "and what happened at the end"
+      ],
+      [
+        "child",
+        "we went home"
+      ],
+      [
+        "therapist",
+        "so you went to your cousins"
+      ],
+      [
+        "therapist",
+        "and played mario kart with your auntie"
+      ],
+      [
+        "therapist",
+        "and lewis the wifi stopped while you were on the last lap"
+      ],
+      [
+        "therapist",
+        "lewis used his phone hotspot"
+      ],
+      [
+        "therapist",
+        "and you started again before going home"
+      ],
+      [
+        "child",
+        "yeah"
+      ],
+      [
+        "therapist",
+        "is there anything ive missed that you want to add"
+      ],
+      [
+        "child",
+        "no"
+      ],
+      [
+        "child",
+        "thanks erin"
+      ],
+      [
+        "therapist",
+        "thats us finished"
+      ],
+      [
+        "therapist",
+        "okay"
+      ]
+    ],
+    "echoes_relabelled": []
+  },
+  "labelled_transcript": "Therapist. hi erin hows your week been alright okay take your time ive got the story planner here if you want it who where what happened and then how it ended Child. we went to my cousins Therapist. oh right was that on your mums side or your dads side Child. mums who was there my auntie and lewis Therapist. what happened while you were there Child. we were playing mario kart and then the wifi stopped Therapist. the wifi stopped while you were playing mario kart Child. yeah it just went Therapist. what did you do when it stopped Child. waited Therapist. was everyone playing the same game Child. yeah Therapist. what happened after you waited Child. lewis went to get his phone Therapist. and what did you do Child. sat on the floor Therapist. how was that for you Child. annoying cos i was winning Therapist. oh that must have been really upsetting to have your game interrupted when you were winning Child. i said annoying Therapist. you did say annoying Child. sorry i changed your word it was annoying cos i was on the last lap and i had the blue shell and then it froze and i couldnt use it Therapist. and if you use the blue shell at the right time it gets the person in first place so its a good item but you have to save it and not waste it you were on the last lap and had a blue shell ready to use when the game froze Child. yeah Therapist. what happened when lewis got his phone Child. he put the hotspot on did that work eventually Therapist. what happened next Child. we started again Therapist. did you carry on playing mario kart Child. yeah Therapist. and what happened at the end Child. we went home Therapist. so you went to your cousins and played mario kart with your auntie and lewis the wifi stopped while you were on the last lap lewis used his phone hotspot and you started again before going home Child. yeah Therapist. is there anything ive missed that you want to add Child. no thanks erin Therapist. thats us finished okay",
+  "facts": {
+    "child_turns": 18,
+    "mean_words_per_turn": 5.4,
+    "sequence_words": [
+      "then"
+    ],
+    "vague_words": [],
+    "child_text": [
+      "we went to my cousins",
+      "mums who was there my auntie and lewis",
+      "we were playing mario kart and then the wifi stopped",
+      "yeah it just went",
+      "waited",
+      "yeah",
+      "lewis went to get his phone",
+      "sat on the floor",
+      "annoying cos i was winning",
+      "i said annoying",
+      "sorry i changed your word it was annoying cos i was on the last lap and i had the blue shell and then it froze and i couldnt use it",
+      "yeah",
+      "he put the hotspot on did that work eventually",
+      "we started again",
+      "yeah",
+      "we went home",
+      "yeah",
+      "no thanks erin"
+    ],
+    "feelings": [
+      {
+        "word": "annoyed",
+        "child_words": "annoying cos i was winning",
+        "named": true
+      }
+    ],
+    "reasons": [
+      {
+        "child_words": "annoying cos i was winning",
+        "linked": true,
+        "about_feeling": true
+      },
+      {
+        "child_words": "cos i was on the last lap and i had the blue shell and then it froze and i couldnt use it",
+        "linked": true,
+        "about_feeling": false
+      },
+      {
+        "child_words": "did that work eventually",
+        "linked": false,
+        "about_feeling": false
+      }
+    ],
+    "feeling_reasons": [
+      "annoying cos i was winning"
+    ]
+  },
+  "checked": {
+    "event": "Playing Mario Kart with cousins",
+    "who": {
+      "given": true,
+      "child_words": "mums who was there my auntie and lewis",
+      "rejected_claim": ""
+    },
+    "where": {
+      "given": true,
+      "child_words": "we went to my cousins",
+      "rejected_claim": ""
+    },
+    "what_happened": {
+      "given": true,
+      "child_words": "we were playing mario kart and then the wifi stopped",
+      "rejected_claim": ""
+    },
+    "ending": {
+      "given": true,
+      "child_words": "we went home",
+      "rejected_claim": ""
+    }
+  },
+  "written": {
+    "summary": "The child told about going to their cousins and mum's house where their auntie and Lewis were. They were playing Mario Kart when the wifi stopped, and the child said it was annoying because they were winning and couldn't use the blue shell. Lewis got his phone, turned on the hotspot, and they started again before going home.",
+    "goals": [
+      "Add more detail to each part of the recount."
+    ],
+    "focus": [
+      "Add more detail to each part of the recount."
+    ],
+    "prompts": [
+      "What did you do next after that?"
+    ]
+  }
+}

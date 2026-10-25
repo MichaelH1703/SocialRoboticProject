@@ -1,0 +1,315 @@
+{
+  "labelled": true,
+  "speakers": "auto",
+  "auto_labels": {
+    "method": "sentences",
+    "segments": [
+      [
+        "therapist",
+        "Hello Maya."
+      ],
+      [
+        "child",
+        "I went somewhere really fancy at the weekend."
+      ],
+      [
+        "child",
+        "I went to a big restaurant for my mum's birthday, and the waiter brought out a cake with sparklers on it."
+      ],
+      [
+        "therapist",
+        "Sparklers on a cake?"
+      ],
+      [
+        "child",
+        "Yes, like little fireworks."
+      ],
+      [
+        "therapist",
+        "Have you been anywhere fancy?"
+      ],
+      [
+        "child",
+        "I went to my auntie's wedding."
+      ],
+      [
+        "child",
+        "Auntie Shona."
+      ],
+      [
+        "therapist",
+        "Auntie Shona's wedding!"
+      ],
+      [
+        "therapist",
+        "Where was it?"
+      ],
+      [
+        "child",
+        "In a castle."
+      ],
+      [
+        "therapist",
+        "A real castle with a tower."
+      ],
+      [
+        "child",
+        "A real castle with a tower."
+      ],
+      [
+        "therapist",
+        "Who else was there?"
+      ],
+      [
+        "child",
+        "Uncle Dev and my cousins and my mum and my dad and loads and loads of people."
+      ],
+      [
+        "therapist",
+        "Loads and loads of people."
+      ],
+      [
+        "therapist",
+        "What did you do at the wedding?"
+      ],
+      [
+        "child",
+        "I had a sparkly dress."
+      ],
+      [
+        "child",
+        "It was purple with a bow on the back."
+      ],
+      [
+        "therapist",
+        "A purple sparkly dress with a bow."
+      ],
+      [
+        "child",
+        "And shiny shoes."
+      ],
+      [
+        "therapist",
+        "They was a bit too big."
+      ],
+      [
+        "child",
+        "A bit too big."
+      ],
+      [
+        "therapist",
+        "Hmm."
+      ],
+      [
+        "therapist",
+        "So what happened at the wedding?"
+      ],
+      [
+        "child",
+        "I don't remember."
+      ],
+      [
+        "therapist",
+        "That's okay."
+      ],
+      [
+        "therapist",
+        "Was it a nice day?"
+      ],
+      [
+        "child",
+        "It was the best day ever."
+      ],
+      [
+        "therapist",
+        "The best ever ever."
+      ],
+      [
+        "child",
+        "The best day ever!"
+      ],
+      [
+        "therapist",
+        "You must have been so excited when you woke up that morning."
+      ],
+      [
+        "child",
+        "My cousin Leo is four."
+      ],
+      [
+        "child",
+        "He's a baby."
+      ],
+      [
+        "child",
+        "Leo's four."
+      ],
+      [
+        "therapist",
+        "Do you have a lot of cousins?"
+      ],
+      [
+        "child",
+        "Five."
+      ],
+      [
+        "child",
+        "No, six."
+      ],
+      [
+        "therapist",
+        "Six cousins."
+      ],
+      [
+        "child",
+        "Six cousins!"
+      ],
+      [
+        "therapist",
+        "And how did the day finish?"
+      ],
+      [
+        "child",
+        "We went home in a taxi when it was really really dark."
+      ],
+      [
+        "child",
+        "I falled asleep in the taxi."
+      ],
+      [
+        "therapist",
+        "You fell asleep in the taxi."
+      ],
+      [
+        "therapist",
+        "Let me say your story back."
+      ],
+      [
+        "therapist",
+        "You went to Auntie Shona's wedding in a real castle with a tower."
+      ],
+      [
+        "therapist",
+        "Uncle Dev was there, and your cousins, and Mum and Dad, and loads and loads of people."
+      ],
+      [
+        "therapist",
+        "You had a purple sparkly dress with a bow, and shiny shoes that were a bit too big."
+      ],
+      [
+        "child",
+        "It was the best day ever."
+      ],
+      [
+        "therapist",
+        "Then you went home in a taxi when it was really dark, and you fell asleep."
+      ],
+      [
+        "child",
+        "In the taxi."
+      ],
+      [
+        "therapist",
+        "In the taxi."
+      ],
+      [
+        "therapist",
+        "Thanks, Maya."
+      ],
+      [
+        "child",
+        "Can I tell you about my dress again?"
+      ],
+      [
+        "therapist",
+        "Of course you can."
+      ]
+    ],
+    "echoes_relabelled": [
+      15,
+      29,
+      51
+    ]
+  },
+  "labelled_transcript": "Therapist. Hello Maya. Child. I went somewhere really fancy at the weekend. I went to a big restaurant for my mum's birthday, and the waiter brought out a cake with sparklers on it. Therapist. Sparklers on a cake? Child. Yes, like little fireworks. Therapist. Have you been anywhere fancy? Child. I went to my auntie's wedding. Auntie Shona. Therapist. Auntie Shona's wedding! Where was it? Child. In a castle. Therapist. A real castle with a tower. Child. A real castle with a tower. Therapist. Who else was there? Child. Uncle Dev and my cousins and my mum and my dad and loads and loads of people. Therapist. Loads and loads of people. What did you do at the wedding? Child. I had a sparkly dress. It was purple with a bow on the back. Therapist. A purple sparkly dress with a bow. Child. And shiny shoes. Therapist. They was a bit too big. Child. A bit too big. Therapist. Hmm. So what happened at the wedding? Child. I don't remember. Therapist. That's okay. Was it a nice day? Child. It was the best day ever. Therapist. The best ever ever. Child. The best day ever! Therapist. You must have been so excited when you woke up that morning. Child. My cousin Leo is four. He's a baby. Leo's four. Therapist. Do you have a lot of cousins? Child. Five. No, six. Therapist. Six cousins. Child. Six cousins! Therapist. And how did the day finish? Child. We went home in a taxi when it was really really dark. I falled asleep in the taxi. Therapist. You fell asleep in the taxi. Let me say your story back. You went to Auntie Shona's wedding in a real castle with a tower. Uncle Dev was there, and your cousins, and Mum and Dad, and loads and loads of people. You had a purple sparkly dress with a bow, and shiny shoes that were a bit too big. Child. It was the best day ever. Therapist. Then you went home in a taxi when it was really dark, and you fell asleep. Child. In the taxi. Therapist. In the taxi. Thanks, Maya. Child. Can I tell you about my dress again? Therapist. Of course you can.",
+  "facts": {
+    "child_turns": 19,
+    "mean_words_per_turn": 7.9,
+    "sequence_words": [],
+    "vague_words": [],
+    "child_text": [
+      "I went somewhere really fancy at the weekend. I went to a big restaurant for my mum's birthday, and the waiter brought out a cake with sparklers on it.",
+      "Yes, like little fireworks.",
+      "I went to my auntie's wedding. Auntie Shona.",
+      "In a castle.",
+      "A real castle with a tower.",
+      "Uncle Dev and my cousins and my mum and my dad and loads and loads of people.",
+      "I had a sparkly dress. It was purple with a bow on the back.",
+      "And shiny shoes.",
+      "A bit too big.",
+      "I don't remember.",
+      "It was the best day ever.",
+      "The best day ever!",
+      "My cousin Leo is four. He's a baby. Leo's four.",
+      "Five. No, six.",
+      "Six cousins!",
+      "We went home in a taxi when it was really really dark. I falled asleep in the taxi.",
+      "It was the best day ever.",
+      "In the taxi.",
+      "Can I tell you about my dress again?"
+    ],
+    "feelings": [
+      {
+        "word": "happy",
+        "child_words": "It was the best day ever.",
+        "named": false
+      }
+    ],
+    "reasons": [],
+    "feeling_reasons": []
+  },
+  "checked": {
+    "event": "Auntie's wedding",
+    "who": {
+      "given": true,
+      "child_words": "Uncle Dev and my cousins and my mum and my dad and loads and loads of people.",
+      "rejected_claim": ""
+    },
+    "where": {
+      "given": true,
+      "child_words": "In a castle.",
+      "rejected_claim": ""
+    },
+    "what_happened": {
+      "given": true,
+      "child_words": "I had a sparkly dress. It was purple with a bow on the back. And shiny shoes. A bit too big. I don't remember. It was the best day ever. We went home in a taxi when it was really really dark. I falled asleep in the taxi.",
+      "rejected_claim": ""
+    },
+    "ending": {
+      "given": true,
+      "child_words": "In the taxi.",
+      "rejected_claim": ""
+    }
+  },
+  "written": {
+    "summary": "The child told about going to a fancy place at the weekend, going to a big restaurant for their mum's birthday with a cake that had sparklers, going to their auntie's wedding at a castle with their family and many people, wearing a sparkly purple dress with a bow and shiny shoes, falling asleep in a taxi after it was dark, and mentioning their cousin Leo's age and the number of cousins.",
+    "goals": [
+      "Name the feeling with a feeling word.",
+      "Say why they felt that way.",
+      "Give a reason, using 'because' or 'so'.",
+      "Put events in order with words like 'first' and 'then'."
+    ],
+    "focus": [
+      "The child will name the feeling using a feeling word.",
+      "The child will explain why they felt that way.",
+      "The child will give a reason using 'because' or 'so'.",
+      "The child will put events in order using 'first' and 'then'."
+    ],
+    "prompts": [
+      "How did you feel about that?",
+      "Why did you feel like that?",
+      "Did you do that because of something else?",
+      "Did you do that first or then?"
+    ]
+  }
+}

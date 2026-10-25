@@ -1,0 +1,45 @@
+Session S10
+
+Reachy (greeting, not coded): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Went bowling.
+Reachy [1]: Bowling sounds fun. What did you and who go bowling with?
+
+You: Mia. And Ella and stuff. Jess too.
+Reachy [2]: Oh, and who went bowling with them that day?
+
+You: Mia's mum took us.
+Reachy [3]: Got it. How was Mia's mum when she took you bowling?
+
+You: Nice.
+Reachy [4]: That's good to hear. What happened next at the bowling alley?
+
+You: Had pizza. Then cake.
+Reachy [5]: Sounds like a yummy day! What did you do after eating pizza and cake?
+
+You: I don't know.
+Reachy [6]: What did Mia do after having pizza and cake that day?
+
+You: Blow out candles.
+Reachy [7]: Fun birthday tradition! Did anyone play games at the bowling alley?
+
+You: Bowling. Got two strikes.
+Reachy [8]: That's great! What else did you enjoy about going bowling with Mia?
+
+You: Good. Fun.
+Reachy [9]: Good to hear it was a fun day indeed.
+
+You: Yeah.
+Reachy [10]: Okay, there's always another time to talk if you want to share more later.
+
+You: Mm.
+Reachy [11]: That's okay. Maybe we can try talking about your favourite part of the bowling adventure.
+
+You: Cake.
+Reachy [12]: Sounds delicious! What did Mia get for cake?
+
+You: Bye.
+Reachy (scripted, not coded): Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+You: No.
+Reachy (scripted, not coded): Okay. Thank you for sharing your day with me, April. Goodbye.

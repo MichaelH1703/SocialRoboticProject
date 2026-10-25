@@ -1,0 +1,26 @@
+Session S62
+
+Lesson focus:
+  The focus should be on teaching empathy and perspective-taking by helping April understand other people’s feelings better and how her actions can affect them.
+
+Profile style checklist:
+  1. Start from something she likes.
+  2. Give specific praise, not general praise.
+  3. Put a comment between questions; not many questions in a row.
+
+Reachy (greeting, not coded): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: yeah, went bowling
+Reachy [1]: That sounds fun! Who was there with you at the bowling alley?
+
+You: Mia and grace and Jess were all there and Mia's mum was there aswell, it was Mia's birthday so we had cake and pizza afterwards
+Reachy [2]: Oh really?
+
+You: yes
+Reachy [3]: Did anything special happen at the bowling?
+
+You: i got two strike
+Reachy [4]: That must have been exciting! How did you feel after bowling with your friends?
+
+You: good
+Reachy [5]: It sounds like a great day! Do you remember what you were doing during that time?

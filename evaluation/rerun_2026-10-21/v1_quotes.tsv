@@ -1,0 +1,127 @@
+transcript_id	quote	found	how	speaker	closest_turn	coverage	section
+T01	scared	exact	one turn	child/therapist			2
+T01	happy	exact	one turn	child/therapist			2
+T01	I don't know	exact	one turn	child			3
+T01	scared	exact	one turn	child/therapist			4
+T01	got a sticker	exact	one turn	child/therapist			4
+T02	lots of people from your class	exact	one turn	therapist			3
+T02	excited	exact	one turn	child/therapist			4
+T04	they were too hot	exact	one turn	child/therapist			2
+T04	Mum came to get me	reworded	PROVISIONAL	therapist	Let me say your story back to you. You made cookies with your grandma at her house. You did the mixing because Grandma said you're good at it. They were too hot, so you waited, then you ate one each, and you took some home when Mum came to get you.	0.80	2
+T05	The Tigers,	exact	one turn	child/therapist			1
+T05	The Tigers	exact	one turn	child/therapist			2
+T06	excited	exact	one turn	child/therapist			4
+T06	a bit scared because one moved	exact	one turn	child/therapist			4
+T07	Stuff	exact	one turn	child/therapist			3
+T07	Things.	exact	one turn	child			3
+T07	Um,	exact	one turn	child/therapist			3
+T07	Okay,	exact	one turn	therapist			3
+T07	Yeah.	exact	one turn	child			3
+T08	path	exact	one turn	child/therapist			3
+T08	fell... bleeding	exact	joined from 2 sentences	child/therapist			3
+T08	got a plaster	exact	one turn	child/therapist			3
+T10	Dragon Quest	exact	one turn	child/therapist			1
+T10	save	exact	one turn	child/therapist			2
+T10	I don't know where I was playing	not there	PROVISIONAL	therapist	On Saturday I tried to build a bookshelf, but I lost a screw, so it wobbled. I was quite cross because it took all afternoon.	0.43	3
+T10	really annoyed	exact	one turn	child/therapist			3
+T11	really big	exact	one turn	child/therapist			2
+T11	um	exact	one turn	child/therapist			3
+T11	I don't know,	exact	one turn	child			4
+T11	I don't remember	exact	one turn	child			4
+T11	um	exact	one turn	child/therapist			5
+T13	sad	exact	one turn	child/therapist			2
+T13	my knee hurt	exact	one turn	child			2
+T17	We will talk about this later.	not there	PROVISIONAL	therapist	Hi there. Today we're going to talk about something that really happened to you. I'll go first and then it'll be your turn.	0.33	3
+T18	Can you tell me what you and your class did together at the farm?	excluded	PROVISIONAL	therapist	You went back to school on the coach, and you were happy then. Let me say your story back to you. Your class went on a school trip to a farm in the country, with Mrs Evans and some mums. There were some animals. You felt bored, and it was smelly. At the end you went back to school on the coach, and you felt happy.	0.50	5
+T18	How do you think Mrs Evans felt during the trip?	excluded	PROVISIONAL	therapist	You went back to school on the coach, and you were happy then. Let me say your story back to you. Your class went on a school trip to a farm in the country, with Mrs Evans and some mums. There were some animals. You felt bored, and it was smelly. At the end you went back to school on the coach, and you felt happy.	0.50	5
+T18	What emotions do you feel when someone gives you a present?	excluded	PROVISIONAL	therapist	You went back to school on the coach, and you were happy then. Let me say your story back to you. Your class went on a school trip to a farm in the country, with Mrs Evans and some mums. There were some animals. You felt bored, and it was smelly. At the end you went back to school on the coach, and you felt happy.	0.27	5
+T19	I rode it round the garden lots of times.	exact	one turn	child			2
+T19	really proud	exact	one turn	therapist			4
+T19	What was the best part about your birthday?	excluded	PROVISIONAL	therapist	You rode it round the garden lots of times. Who came to your birthday?	0.38	5
+T19	How did you feel when you got your bike?	excluded	PROVISIONAL	therapist	That's okay. How did you feel when you got the bike?	0.89	5
+T21	climber	not there	PROVISIONAL	therapist	hi jayden come and sit down ok so today we're going to do some talking about things that happened did anything happen at the weekend	0.00	1
+T21	rocket	exact	one turn	child/therapist			1
+T22	petrol	exact	one turn	child/therapist			2
+T22	bonnet.	exact	one turn	child/therapist			2
+T24	The robot T-rex had big teeth and moved its head like this,	excluded	PROVISIONAL	child	It was a bit scary because it had really big teeth and it moved its head at me.	0.54	5
+T25	I Spy	exact	one turn	child/therapist			1
+T25	I Spy	exact	one turn	child/therapist			1
+T26	bigger	exact	one turn	child/therapist			2
+T26	littler.	exact	one turn	child			2
+T26	up to here	exact	one turn	child			2
+T26	Mr Snowy	exact	one turn	child/therapist			2
+T26	bigger and bigger	exact	one turn	child/therapist			3
+T26	first we made a big ball then a small one	reworded	PROVISIONAL	child	First we rolled a big ball for the bottom and it got bigger and bigger and then a littler one for the head.	0.80	3
+T26	bigger	exact	one turn	child/therapist			5
+T26	smaller.	excluded	PROVISIONAL	therapist	Hello Freya. Did you see the snow this week?	0.00	5
+T27	glitter top,	exact	one turn	child/therapist			2
+T27	colored ones	not there	PROVISIONAL	child	At school. In the hall. There was big lights, the coloured ones.	0.50	2
+T27	What did you do at the disco?	exact	one turn	therapist			3
+T27	It was the best one ever	exact	one turn	therapist			3
+T27	What did you do at the disco?	exact	one turn	therapist			5
+T28	yellow sponge	exact	one turn	child/therapist			2
+T29	I felt scared and embarrassed	not there	PROVISIONAL	therapist	Hi Ruby. I'm going to tell you about something that happened to me. Yesterday I was cutting up apples and I cut my finger, just a little bit, and I had to put a plaster on it. Look.	0.40	3
+T30	loads	exact	one turn	child/therapist			2
+T30	loads.	exact	one turn	child/therapist			2
+T30	I don't remember	exact	one turn	child			3
+T30	the best ever ever.	exact	one turn	child			4
+T31	buzzy	exact	one turn	child/therapist			4
+T32	What happened there?	exact	one turn	therapist			3
+T32	Stood there,	exact	one turn	child			3
+T33	I put it in the freezer and set the timer on my phone for ten minutes,	exact	one turn	child			3
+T33	I placed the dough in the freezer because we didn't have enough space in the fridge to chill it for thirty minutes. I used my phone timer to make sure it chilled long enough.	not there	PROVISIONAL	child	Well, the recipe says chill the dough for thirty minutes, but we didn't have enough room in the fridge because there was a casserole dish on the shelf, and then Nan said we could put it in the freezer for ten minutes instead, which isn't exactly the same thing because the temperature is lower and you have to be careful not to freeze it solid.	0.32	3
+T34	Everyone was looking	exact	one turn	child/therapist			2
+T34	My face felt hot	reworded	PROVISIONAL	child	My face was hot.	0.75	2
+T34	Dunno	exact	one turn	child			3
+T34	Everyone was looking	exact	one turn	child/therapist			3
+T35	annoying	exact	one turn	child/therapist			2
+T35	annoying	exact	one turn	child/therapist			4
+T36	The Boy at the Back of the Class.	exact	one turn	child/therapist			1
+T36	annoyed	exact	one turn	child/therapist			4
+T37	Voyager,	exact	one turn	child			3
+T37	disappointed	exact	one turn	child/therapist			5
+T37	excited	excluded	PROVISIONAL	therapist	Hello, George. What shall we talk about today?	0.00	5
+T39	horrible	exact	one turn	child			3
+T39	but	excluded	PROVISIONAL	therapist	Hi Imogen. Did anything interesting happen recently?	0.00	5
+T39	however,	excluded	PROVISIONAL	therapist	Hi Imogen. Did anything interesting happen recently?	0.00	5
+T40	hated being late	reworded	PROVISIONAL	child	It was. I hate being late because then everyone's already started and I don't know what they've done.	0.67	4
+T42	busy.	exact	one turn	child/therapist			1
+T42	I felt sick and I kept checking my phone	exact	one turn	child			2
+T42	I thought she was annoyed with me	exact	one turn	child			3
+T42	I felt hurt when you didn't respond to my messages	not there	PROVISIONAL	child	I don't know. I felt sick and I kept checking my phone.	0.30	3
+T42	I thought she was annoyed with me	exact	one turn	child			4
+T42	Tell Niamh you are sad because your friend is not talking to you anymore	excluded	PROVISIONAL	child	My friend stopped talking to me.	0.21	5
+T42	When you felt sick, what did it make you do?	excluded	PROVISIONAL	therapist	You felt sick and kept checking your phone. Did you speak to Niamh?	0.50	5
+T43	wrong cone	exact	one turn	child/therapist			2
+T43	stomach did that	exact	one turn	child			3
+T43	embarrassing	exact	one turn	therapist			4
+T43	my stomach did that	exact	one turn	child			4
+T45	We got tickets on the machine... We stayed until the credits finished	exact	joined from 2 sentences	child			2
+T45	Someone kept checking their phone	exact	one turn	child			3
+T45	We got tickets on the machine... We stayed until the credits finished	exact	joined from 2 sentences	child			3
+T45	Better than I expected	exact	one turn	child			4
+T45	The bit with the train was good	exact	one turn	child			4
+T48	I felt confused	excluded	PROVISIONAL	child	I couldn't get through. People had trays and bags and the floor was sticky.	0.33	5
+T48	I was anxious.	excluded	PROVISIONAL	child	I don't know if it was anxious. I just couldn't work out where to go.	1.00	5
+T49	my stepdad got the car from the car park and drove us home.	exact	one turn	child			3
+T49	too tired to be stressed,	exact	one turn	child			4
+T50	terrifying,	exact	one turn	child/therapist			4
+T50	scared	excluded	PROVISIONAL	therapist	Hi Thomas. What's been happening?	0.00	5
+T50	terrified,	excluded	PROVISIONAL	therapist	Hi Thomas. What's been happening?	0.00	5
+T51	were working with	reworded	PROVISIONAL	therapist	Who were you working with?	1.00	3
+T51	we worked with	not there	PROVISIONAL	therapist	Who were you working with?	0.33	3
+T51	It was okay	exact	one turn	child			4
+T52	Vincent.	exact	one turn	child/therapist			1
+T54	about British birds	exact	one turn	child/therapist			1
+T54	about birds	exact	one turn	child			3
+T56	rail	exact	one turn	child			2
+T56	broken mug	exact	one turn	child/therapist			2
+T59	blue holds,	exact	one turn	child/therapist			2
+T59	green ones	exact	one turn	child			2
+T59	tight	exact	one turn	child			2
+T59	pleased with myself.	exact	one turn	child			2
+T59	tight	exact	one turn	child			4
+T60	rank	exact	one turn	child			2
+T60	Yeah	exact	one turn	child			3
+T60	about twelve minutes in	exact	one turn	child			3
+T60	about	exact	one turn	child/therapist			5

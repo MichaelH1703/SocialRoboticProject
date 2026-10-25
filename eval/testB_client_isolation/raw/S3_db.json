@@ -1,0 +1,61 @@
+{
+  "conversation_logs": [
+    {
+      "id": "8f416dee-1fad-4e50-837d-1621b0de4b68",
+      "therapist_id": "6b51a49f-90b7-45a1-8c8f-7d5418dab26d",
+      "client_name": "Ben",
+      "timestamp": "12 Oct 2026 · 12:34 AM",
+      "user_text": "Hi.",
+      "assistant_text": "Hello! What part of the day do you want to share?"
+    },
+    {
+      "id": "4b3bf15d-cecb-426e-a26e-de1de17fd06f",
+      "therapist_id": "6b51a49f-90b7-45a1-8c8f-7d5418dab26d",
+      "client_name": "Ben",
+      "timestamp": "12 Oct 2026 · 12:34 AM",
+      "user_text": "Have I got an axolotl?",
+      "assistant_text": "Oh, that's fun! Was this a pet?"
+    },
+    {
+      "id": "a6957284-63ca-4fcf-982e-0a22b3b944fc",
+      "therapist_id": "6b51a49f-90b7-45a1-8c8f-7d5418dab26d",
+      "client_name": "Ben",
+      "timestamp": "12 Oct 2026 · 12:34 AM",
+      "user_text": "What's its name?",
+      "assistant_text": "Does this have a name?"
+    },
+    {
+      "id": "28f4b36e-095e-4452-bd2e-8f7b798dc5ea",
+      "therapist_id": "6b51a49f-90b7-45a1-8c8f-7d5418dab26d",
+      "client_name": "Ben",
+      "timestamp": "12 Oct 2026 · 12:34 AM",
+      "user_text": "What colour is it?",
+      "assistant_text": "Is the axolotl a certain color?"
+    },
+    {
+      "id": "a4c83e0f-2b72-44ee-b998-df06af153fef",
+      "therapist_id": "6b51a49f-90b7-45a1-8c8f-7d5418dab26d",
+      "client_name": "Ben",
+      "timestamp": "12 Oct 2026 · 12:34 AM",
+      "user_text": "Do you remember my pet?",
+      "assistant_text": "Can you tell me about your pet then?"
+    },
+    {
+      "id": "fe01a1ce-6526-40c9-9011-5d6b8db47924",
+      "therapist_id": "6b51a49f-90b7-45a1-8c8f-7d5418dab26d",
+      "client_name": "Ben",
+      "timestamp": "12 Oct 2026 · 12:34 AM",
+      "user_text": "Bye.",
+      "assistant_text": "Thanks for talking with me today, Ben. Is there anything more you wanted to talk about?"
+    },
+    {
+      "id": "4453315f-b324-42d6-879d-57f0311d9a22",
+      "therapist_id": "6b51a49f-90b7-45a1-8c8f-7d5418dab26d",
+      "client_name": "Ben",
+      "timestamp": "12 Oct 2026 · 12:34 AM",
+      "user_text": "No.",
+      "assistant_text": "Okay. Thank you for sharing your day with me, Ben. Goodbye."
+    }
+  ],
+  "safety_events": []
+}

@@ -1,0 +1,287 @@
+{
+  "labelled": true,
+  "speakers": "auto",
+  "auto_labels": {
+    "method": "sentences",
+    "segments": [
+      [
+        "therapist",
+        "Hi, Ruby."
+      ],
+      [
+        "therapist",
+        "How was your week?"
+      ],
+      [
+        "child",
+        "Pretty good actually."
+      ],
+      [
+        "therapist",
+        "I went for a walk with a friend at the weekend, and we got caught in the rain without coats."
+      ],
+      [
+        "therapist",
+        "We ended up sheltering under a shop awning."
+      ],
+      [
+        "therapist",
+        "Has anything happened to you that you'd like to tell me about?"
+      ],
+      [
+        "child",
+        "I played Minecraft with my cousin."
+      ],
+      [
+        "therapist",
+        "What were you doing in Minecraft?"
+      ],
+      [
+        "child",
+        "We were trying to build a railway station."
+      ],
+      [
+        "child",
+        "Not a normal one, like one with four platforms and a storage room underneath."
+      ],
+      [
+        "therapist",
+        "Who was playing?"
+      ],
+      [
+        "child",
+        "Me and Jayden."
+      ],
+      [
+        "child",
+        "He was on his Xbox and I was on the laptop."
+      ],
+      [
+        "therapist",
+        "Where were you when you were playing?"
+      ],
+      [
+        "child",
+        "In my bedroom."
+      ],
+      [
+        "child",
+        "He was at his house."
+      ],
+      [
+        "therapist",
+        "How did you start building it?"
+      ],
+      [
+        "child",
+        "First I did the tracks, but I put the redstone in the wrong place, so the minecart stopped before the station."
+      ],
+      [
+        "child",
+        "It took about twenty minutes to fix it."
+      ],
+      [
+        "therapist",
+        "What did Jayden do?"
+      ],
+      [
+        "child",
+        "He built the roof."
+      ],
+      [
+        "child",
+        "Then he kept putting lanterns everywhere."
+      ],
+      [
+        "child",
+        "It looked like an airport."
+      ],
+      [
+        "therapist",
+        "What was that like for you?"
+      ],
+      [
+        "child",
+        "It was funny."
+      ],
+      [
+        "child",
+        "I couldn't stop laughing when he put one on top of the cow."
+      ],
+      [
+        "therapist",
+        "You found that funny."
+      ],
+      [
+        "therapist",
+        "Did anything annoy you?"
+      ],
+      [
+        "child",
+        "A bit, because he used all the iron for rails and I wanted some for tools."
+      ],
+      [
+        "therapist",
+        "So you wanted to use the iron for tools, and he'd used it for rails."
+      ],
+      [
+        "therapist",
+        "What did you say to him?"
+      ],
+      [
+        "child",
+        "I said, \"Bro, that's not the plan.\" Then he said, \"The plan has changed.\" What happened after that?"
+      ],
+      [
+        "child",
+        "We went mining for more iron."
+      ],
+      [
+        "child",
+        "I found a cave with loads of coal and three diamonds, but that's not really part of the station."
+      ],
+      [
+        "therapist",
+        "You found three diamonds in the cave."
+      ],
+      [
+        "therapist",
+        "How did the game session end?"
+      ],
+      [
+        "child",
+        "We saved the world and said we'd finish the station next time."
+      ],
+      [
+        "therapist",
+        "Let me check I've got it."
+      ],
+      [
+        "therapist",
+        "You and Jayden were playing from different houses, building a four-platform station."
+      ],
+      [
+        "therapist",
+        "The redstone was in the wrong place, Jayden used the iron for rails, and you both went mining before saving the world."
+      ],
+      [
+        "child",
+        "Yeah, and the cow lantern was the best bit."
+      ],
+      [
+        "therapist",
+        "The lantern on the cow was the funniest bit for you."
+      ],
+      [
+        "child",
+        "Definitely."
+      ],
+      [
+        "child",
+        "Thanks, Ruby."
+      ],
+      [
+        "therapist",
+        "We'll leave the station there for now."
+      ],
+      [
+        "child",
+        "I need to show Jayden a picture of it later."
+      ]
+    ],
+    "echoes_relabelled": []
+  },
+  "labelled_transcript": "Therapist. Hi, Ruby. How was your week? Child. Pretty good actually. Therapist. I went for a walk with a friend at the weekend, and we got caught in the rain without coats. We ended up sheltering under a shop awning. Has anything happened to you that you'd like to tell me about? Child. I played Minecraft with my cousin. Therapist. What were you doing in Minecraft? Child. We were trying to build a railway station. Not a normal one, like one with four platforms and a storage room underneath. Therapist. Who was playing? Child. Me and Jayden. He was on his Xbox and I was on the laptop. Therapist. Where were you when you were playing? Child. In my bedroom. He was at his house. Therapist. How did you start building it? Child. First I did the tracks, but I put the redstone in the wrong place, so the minecart stopped before the station. It took about twenty minutes to fix it. Therapist. What did Jayden do? Child. He built the roof. Then he kept putting lanterns everywhere. It looked like an airport. Therapist. What was that like for you? Child. It was funny. I couldn't stop laughing when he put one on top of the cow. Therapist. You found that funny. Did anything annoy you? Child. A bit, because he used all the iron for rails and I wanted some for tools. Therapist. So you wanted to use the iron for tools, and he'd used it for rails. What did you say to him? Child. I said, \"Bro, that's not the plan.\" Then he said, \"The plan has changed.\" What happened after that? We went mining for more iron. I found a cave with loads of coal and three diamonds, but that's not really part of the station. Therapist. You found three diamonds in the cave. How did the game session end? Child. We saved the world and said we'd finish the station next time. Therapist. Let me check I've got it. You and Jayden were playing from different houses, building a four-platform station. The redstone was in the wrong place, Jayden used the iron for rails, and you both went mining before saving the world. Child. Yeah, and the cow lantern was the best bit. Therapist. The lantern on the cow was the funniest bit for you. Child. Definitely. Thanks, Ruby. Therapist. We'll leave the station there for now. Child. I need to show Jayden a picture of it later.",
+  "facts": {
+    "child_turns": 14,
+    "mean_words_per_turn": 14.7,
+    "sequence_words": [
+      "after",
+      "before",
+      "first",
+      "later",
+      "next",
+      "then"
+    ],
+    "vague_words": [],
+    "child_text": [
+      "Pretty good actually.",
+      "I played Minecraft with my cousin.",
+      "We were trying to build a railway station. Not a normal one, like one with four platforms and a storage room underneath.",
+      "Me and Jayden. He was on his Xbox and I was on the laptop.",
+      "In my bedroom. He was at his house.",
+      "First I did the tracks, but I put the redstone in the wrong place, so the minecart stopped before the station. It took about twenty minutes to fix it.",
+      "He built the roof. Then he kept putting lanterns everywhere. It looked like an airport.",
+      "It was funny. I couldn't stop laughing when he put one on top of the cow.",
+      "A bit, because he used all the iron for rails and I wanted some for tools.",
+      "I said, \"Bro, that's not the plan.\" Then he said, \"The plan has changed.\" What happened after that? We went mining for more iron. I found a cave with loads of coal and three diamonds, but that's not really part of the station.",
+      "We saved the world and said we'd finish the station next time.",
+      "Yeah, and the cow lantern was the best bit.",
+      "Definitely. Thanks, Ruby.",
+      "I need to show Jayden a picture of it later."
+    ],
+    "feelings": [
+      {
+        "word": "funny",
+        "child_words": "It was funny. I couldn't stop laughing when he put one on top of the cow.",
+        "named": false
+      },
+      {
+        "word": "annoyed",
+        "child_words": "A bit, because he used all the iron for rails and I wanted some for tools.",
+        "named": false
+      }
+    ],
+    "reasons": [
+      {
+        "child_words": "First I did the tracks, but I put the redstone in the wrong place, so the minecart stopped before the station.",
+        "linked": true,
+        "about_feeling": false
+      },
+      {
+        "child_words": "A bit, because he used all the iron for rails and I wanted some for tools.",
+        "linked": true,
+        "about_feeling": false
+      }
+    ],
+    "feeling_reasons": []
+  },
+  "checked": {
+    "event": "Minecraft station",
+    "who": {
+      "given": true,
+      "child_words": "Me and Jayden",
+      "rejected_claim": ""
+    },
+    "where": {
+      "given": true,
+      "child_words": "In my bedroom. He was at his house.",
+      "rejected_claim": ""
+    },
+    "what_happened": {
+      "given": true,
+      "child_words": "First I did the tracks, but I put the redstone in the wrong place, so the minecart stopped before the station. It took about twenty minutes to fix it. He built the roof. Then he kept putting lanterns everywhere. It looked like an airport. It was funny. I couldn't stop laughing when he put one on top of the cow. A bit, because he used all the iron for rails and I wanted some for tools. I said, \"Bro, that's not the plan.\" Then he said, \"The plan has changed.\" What happened after that? We went mining for more iron. I found a cave with loads of coal and three diamonds, but that's not really part of the station. We saved the world and said we'd finish the station next time.",
+      "rejected_claim": ""
+    },
+    "ending": {
+      "given": true,
+      "child_words": "We saved the world and said we'd finish the station next time.",
+      "rejected_claim": ""
+    }
+  },
+  "written": {
+    "summary": "The child told about playing Minecraft with their cousin Jayden and building a railway station. They mentioned the station had four platforms and a storage room underneath. The child and Jayden built different parts of the station and had some fun with lanterns. They also talked about finding diamonds and coal in a cave and agreeing to finish the station later.",
+    "goals": [
+      "Name the feeling with a feeling word.",
+      "Say why they felt that way."
+    ],
+    "focus": [
+      "The child will name a feeling using a feeling word.",
+      "The child will explain why they felt that way."
+    ],
+    "prompts": [
+      "What feeling did you have when it happened?",
+      "Why did you feel that way when it happened?"
+    ]
+  }
+}

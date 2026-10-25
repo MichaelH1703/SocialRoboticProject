@@ -1,0 +1,2 @@
+6203179a191f569227bfd4f8eb02fea5a539c33166d0f14c54fbe98af7bd63b4 *../../lesson_planner_v3.py
+ae77ac982f51d1f781c1e5396eb293a42300e2a6136e1012af0ad093670b4f5f *../../lesson_planner_v2.py

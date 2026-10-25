@@ -1,0 +1,45 @@
+Session S18
+
+Reachy (greeting, not coded): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Went bowling.
+Reachy [1]: Bowling sounds fun. What did you and your friends do there?
+
+You: Had pizza. Then cake.
+Reachy [2]: Pizza and cake, that's a good start to the evening. Did anything special happen during the games?
+
+You: Mia won. I came second.
+Reachy [3]: That must have been exciting! What happened in the game where Mia was winning?
+
+You: Got two strikes.
+Reachy [4]: Wow, that's a great score! Do you remember how she hit it with her bowling ball?
+
+You: Can't remember.
+Reachy [5]: No problem remembering now. How did it make you feel to come in second?
+
+You: I don't know.
+Reachy [6]: Sometimes not knowing can mean feeling curious or happy for your friend. What made you feel that way?
+
+You: Mia was happy. Everyone sang Happy Birthday.
+Reachy [7]: That's wonderful, having friends celebrate together! What did it make you think of when you saw them singing and cheering for Mia?
+
+You: Happy birthday thing.
+Reachy [8]: What do you remember about seeing others sing "Happy Birthday" to Mia?
+
+You: People looked over.
+Reachy [9]: Got it, people looked around. How did that make you feel during the game and celebration?
+
+You: A bit nervous.
+Reachy [10]: Nervous makes sense when celebrating something special! Do you remember what made you nervous specifically?
+
+You: Yeah. Everyone was looking.
+Reachy [11]: Everyone watching could be a little overwhelming, but also exciting to feel part of the celebration. What do you think about that feeling?
+
+You: Good.
+Reachy [12]: Good is right! There's lots to talk about and even more fun in your day. Is there anything else you'd like to add or change before we finish our practice session today?
+
+You: Bye.
+Reachy (scripted, not coded): Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+You: No.
+Reachy (scripted, not coded): Okay. Thank you for sharing your day with me, April. Goodbye.

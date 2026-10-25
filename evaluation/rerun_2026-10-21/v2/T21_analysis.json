@@ -1,0 +1,57 @@
+{
+  "labelled": false,
+  "speakers": "none",
+  "auto_labels": null,
+  "labelled_transcript": null,
+  "facts": {
+    "child_turns": 0,
+    "mean_words_per_turn": 0,
+    "reasons": [],
+    "sequence_words": [],
+    "vague_words": [],
+    "feelings": [],
+    "feeling_reasons": [],
+    "child_text": []
+  },
+  "checked": {
+    "event": "hair cut",
+    "who": {
+      "given": false,
+      "child_words": "",
+      "rejected_claim": "the cape thing with dinosaurs on it"
+    },
+    "where": {
+      "given": true,
+      "child_words": "the one by the bakery",
+      "rejected_claim": ""
+    },
+    "what_happened": {
+      "given": false,
+      "child_words": "",
+      "rejected_claim": "I sat in the big chair and it goes up and up like a like a rocket it went up like a rocket and there was a cape thing with dinosaurs on it a dinosaur cape cool the scissors went snip snip and it tickled my ear it tickled your ear yeah and then the buzzy thing on my neck the buzzy thing the clippers I didn't like the buzzy thing it was too loud on my ear too loud"
+    },
+    "ending": {
+      "given": false,
+      "child_words": "",
+      "rejected_claim": "can I do the stickers now in a minute tell me one more thing about the hair shop there was a telly on the wall with cartoons on a telly with cartoons brilliant ok let's do stickers can I have the dinosaur one"
+    }
+  },
+  "written": {
+    "summary": "The child told about getting a hair cut at the hair shop by the bakery. The child sat in the big chair and the clippers went up like a rocket. The child mentioned a dinosaur cape, the scissors snipping, the buzzy thing on the neck, and a telly with cartoons on the wall.",
+    "goals": [
+      "Say who was there.",
+      "Say what happened.",
+      "Say how it ended."
+    ],
+    "focus": [
+      "The child will identify the people present in the event.",
+      "The child will describe the actions that took place during the event.",
+      "The child will explain how the event concluded."
+    ],
+    "prompts": [
+      "Who was there in that?",
+      "What did you do in that?",
+      "How did that end?"
+    ]
+  }
+}

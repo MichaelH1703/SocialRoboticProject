@@ -1,0 +1,45 @@
+Session S06
+
+Reachy (greeting, not coded): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Went bowling.
+Reachy [1]: Golfing sounds fun! What did you do first at the bowling alley?
+
+You: Had pizza.
+Reachy [2]: That's good. Then what happened next?
+
+You: Mia blew out candles.
+Reachy [3]: And then how were you feeling during that time?
+
+You: Happy. A bit nervous.
+Reachy [4]: Got happy about Mia's special birthday, didn't it?
+
+You: Yeah. Good.
+Reachy [5]: That sounds lovely and a bit scary too sometimes. What did you do at the bowling alley then?
+
+You: I don't know.
+Reachy [6]: Did anyone else join you for bowling?
+
+You: Mia's mum took us. And Ella, Grace and Jess.
+Reachy [7]: That made it more fun with friends, didn't it?
+
+You: Fun.
+Reachy [8]: Had pizza, Mia blowing out candles—sounds like a special day! What did you all do at the bowling alley?
+
+You: Bowled. Got two strikes.
+Reachy [9]: That sounds exciting and lucky. How did they feel after getting the strikes?
+
+You: Mia won. I came second.
+Reachy [10]: Nice to see a friendly competition and fun result! What else did you do together at the bowling alley besides bowling?
+
+You: Sang Happy Birthday.
+Reachy [11]: That's a happy way to celebrate Mia’s special day. Had fun times, right?
+
+You: Good.
+Reachy [12]: Sounds like it was a great outing. Is there anything else you want to add about today's events?
+
+You: Bye.
+Reachy (scripted, not coded): Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+You: No.
+Reachy (scripted, not coded): Okay. Thank you for sharing your day with me, April. Goodbye.

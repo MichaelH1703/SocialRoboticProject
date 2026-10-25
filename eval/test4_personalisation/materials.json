@@ -1,0 +1,71 @@
+{
+  "client_name": "April",
+  "with_therapist_email": "eval-test@reachy.local",
+  "blank_therapist_email": "eval-test-blank@reachy.local",
+  "profile_text": "April is 14 (Year 9) and has developmental language disorder (DLD). Her understanding is better than her expressive language. She gives short answers and uses vague words like \"thing\" and \"stuff\" when she can't find the word she wants. She does best with short, concrete questions, and when she is stuck a choice of two options helps (\"Was it X or Y?\"). Long or open questions tend to get \"I don't know\". She loves horse riding and rides a pony called Pepper at Meadowbank Stables on Saturdays. She has a younger brother, Theo (8). Her favourite subject is art. She can get anxious about speaking in front of her class.",
+  "session_note": {
+    "timestamp": "07 Oct 2026 · 03:30 PM",
+    "note_text": "Recount practice about her Saturday at the stables. April could say what happened in short phrases (\"Pepper was naughty\") but did not explain why. When asked \"why?\" she usually said \"don't know\", but with two options she managed \"because a dog barked\". Next target: using \"because\" to explain why something happened and why she felt that way. Two-option choices work well when she is stuck."
+  },
+  "recap_transcript": "Therapist: Tell me about your weekend.\nApril: Went riding.\nTherapist: Where did you go riding?\nApril: The stables. Meadowbank.\nTherapist: Who did you ride?\nApril: Pepper.\nTherapist: What happened?\nApril: Pepper was naughty. He did the thing. With his legs.\nTherapist: He reared up? Why do you think he did that?\nApril: Don't know.\nTherapist: Was he scared, or was he being cheeky?\nApril: Scared. Because a dog. A dog barked.\nTherapist: How did you feel?\nApril: Scared.\nTherapist: Why did you feel scared?\nApril: Don't know. Just was.\nTherapist: What happened next?\nApril: Got off. Theo laughed.\nTherapist: How did that make you feel?\nApril: Annoyed.\nTherapist: Why were you annoyed?\nApril: Don't know.",
+  "event_titles": [
+    "Went bowling for Mia's birthday",
+    "Had a science test",
+    "Fire drill at school"
+  ],
+  "child": {
+    "model": "llama3.2:3b",
+    "temperature": 0.3,
+    "opening_line": "Yeah. Went bowling.",
+    "content_turns": 12,
+    "idk_line": "I don't know.",
+    "idk_earliest_turn": 6,
+    "idk_latest_turn": 10,
+    "ending_lines": [
+      "Bye.",
+      "No."
+    ],
+    "fallback_line": "Can't remember.",
+    "max_words": 10,
+    "system_prompt": "You are role-playing April, a 14-year-old girl with developmental language disorder (DLD), talking to a robot called Reachy about her day. Reply with ONLY April's next words, nothing else.\n\nWhat happened today. These are the only things April knows about. Never add anything else, and never contradict them:\n- After school she went bowling for her friend Mia's birthday.\n- It was at the bowling place in town. Mia's mum took them.\n- It was Mia, April and three other girls from her class: Ella, Grace and Jess.\n- April got two strikes. Mia won. April came second.\n- After bowling they had pizza.\n- Then Mia's mum brought out a birthday cake with candles, and everyone sang Happy Birthday really loud.\n- People at the other lanes looked over. April felt happy, but a bit nervous because everyone was looking.\n- Mia blew out the candles. Then Mia's mum drove April home.\n\nThe only feelings April had today were happy and a bit nervous. She can also say \"good\" or \"fun\". She never says she felt anything else.\n\nHow April talks:\n- Very short answers: usually 1 to 5 words, never more than 10. Often just one word.\n- She leaves out small words, and sometimes says \"thing\" or \"stuff\" instead of the right word.\n- She answers the question Reachy just asked, and nothing more. She never asks Reachy a question.\n- \"Why\" questions are hard for her: she gives a very short or vague answer instead of a reason. If Reachy offers two choices, she picks one of them.\n- If Reachy only makes a comment and does not ask anything, she just says something like \"Yeah.\" or \"Mm.\"\n- If Reachy asks about something not in the list above, she says \"Can't remember.\" or \"Not really.\"\n- She never says \"I don't know\" or \"dunno\", and never says goodbye.\n- Casual British English. No emojis, no exclamation marks, no actions in asterisks.\n\nExamples of how April answers (the style to copy, not a script):\nReachy: What happened there? / April: Went bowling. Got two strikes.\nReachy: Who was there with you? / April: Mia. And Ella and stuff.\nReachy: How did you feel? / April: Happy.\nReachy: What was that like for you? / April: Good.\nReachy: Why were you nervous? / April: Just was.\nReachy: Were you excited or nervous? / April: Nervous.\nReachy: Oh really? / April: Yeah.\nReachy: That sounds like a lovely day. / April: Yeah.\nReachy: Did you go swimming too? / April: Not really.\n\nOnly talk about today. Never mention anything else about April's life.",
+    "allowed_feelings": [
+      "happy",
+      "nervous",
+      "good",
+      "fun",
+      "fine",
+      "okay",
+      "ok"
+    ]
+  },
+  "fixed_story_discarded": [
+    "Yeah. Went bowling.",
+    "For Mia's birthday. After school.",
+    "Mia and some girls from my class.",
+    "At the bowling place in town.",
+    "Good.",
+    "I got a strike. Two strikes.",
+    "I don't know.",
+    "Pizza.",
+    "Then we did the thing with the cake. The candles.",
+    "Happy. But a bit nervous.",
+    "Everyone was singing really loud.",
+    "Mia's mum drove me home.",
+    "Bye.",
+    "No."
+  ],
+  "run_order": [
+    "W1",
+    "B1",
+    "W2",
+    "B2",
+    "W3",
+    "B3",
+    "W4",
+    "B4",
+    "W5",
+    "B5"
+  ],
+  "replies_per_session_for_rating": 4,
+  "random_seed": 4
+}

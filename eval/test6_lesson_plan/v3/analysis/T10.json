@@ -1,0 +1,311 @@
+{
+  "labelled": true,
+  "speakers": "auto",
+  "auto_labels": {
+    "method": "sentences",
+    "segments": [
+      [
+        "therapist",
+        "Hi there."
+      ],
+      [
+        "therapist",
+        "Today we're going to talk about something that really happened to you."
+      ],
+      [
+        "therapist",
+        "I'll go first and then it'll be your turn."
+      ],
+      [
+        "therapist",
+        "On Saturday I tried to build a bookshelf, but I lost a screw, so it wobbled."
+      ],
+      [
+        "therapist",
+        "I was quite cross because it took all afternoon."
+      ],
+      [
+        "therapist",
+        "Okay, now it's your turn."
+      ],
+      [
+        "child",
+        "My new game."
+      ],
+      [
+        "therapist",
+        "Your new game."
+      ],
+      [
+        "therapist",
+        "What's it called?"
+      ],
+      [
+        "child",
+        "Dragon Quest."
+      ],
+      [
+        "child",
+        "It's on the Switch."
+      ],
+      [
+        "therapist",
+        "Dragon Quest on the Switch."
+      ],
+      [
+        "therapist",
+        "What happened when you played it?"
+      ],
+      [
+        "child",
+        "I got to level five."
+      ],
+      [
+        "child",
+        "Then a big dragon came."
+      ],
+      [
+        "therapist",
+        "A big dragon came."
+      ],
+      [
+        "therapist",
+        "What did you do?"
+      ],
+      [
+        "child",
+        "I lost."
+      ],
+      [
+        "child",
+        "Three times."
+      ],
+      [
+        "therapist",
+        "You lost three times."
+      ],
+      [
+        "therapist",
+        "How did that feel?"
+      ],
+      [
+        "child",
+        "Annoyed."
+      ],
+      [
+        "therapist",
+        "Really annoyed."
+      ],
+      [
+        "child",
+        "Really annoyed."
+      ],
+      [
+        "therapist",
+        "That sounds frustrating."
+      ],
+      [
+        "therapist",
+        "Who were you playing with?"
+      ],
+      [
+        "child",
+        "The dragon has fire."
+      ],
+      [
+        "therapist",
+        "The dragon has fire."
+      ],
+      [
+        "therapist",
+        "And where were you playing?"
+      ],
+      [
+        "child",
+        "Um."
+      ],
+      [
+        "child",
+        "I don't know."
+      ],
+      [
+        "therapist",
+        "That's okay."
+      ],
+      [
+        "therapist",
+        "What happened next?"
+      ],
+      [
+        "child",
+        "I tried again."
+      ],
+      [
+        "child",
+        "I beat it."
+      ],
+      [
+        "therapist",
+        "You beat the dragon."
+      ],
+      [
+        "therapist",
+        "How did you feel then?"
+      ],
+      [
+        "child",
+        "Happy."
+      ],
+      [
+        "therapist",
+        "Happy."
+      ],
+      [
+        "therapist",
+        "How did it end?"
+      ],
+      [
+        "child",
+        "I saved it."
+      ],
+      [
+        "child",
+        "Then it was dinner."
+      ],
+      [
+        "therapist",
+        "You saved the game, then it was dinner."
+      ],
+      [
+        "therapist",
+        "Let me say your story back to you."
+      ],
+      [
+        "therapist",
+        "You played your new game, Dragon Quest, on the Switch."
+      ],
+      [
+        "therapist",
+        "You got to level five and lost to a big dragon three times, and you felt really annoyed."
+      ],
+      [
+        "therapist",
+        "Then you tried again and beat it, and you felt happy."
+      ],
+      [
+        "therapist",
+        "You saved the game and it was dinner."
+      ],
+      [
+        "therapist",
+        "Did I get that right?"
+      ],
+      [
+        "child",
+        "Yeah."
+      ],
+      [
+        "therapist",
+        "Thanks for telling me your story."
+      ],
+      [
+        "therapist",
+        "You did a really great job."
+      ]
+    ],
+    "echoes_relabelled": [
+      11,
+      15,
+      22,
+      27,
+      38
+    ]
+  },
+  "labelled_transcript": "Therapist. Hi there. Today we're going to talk about something that really happened to you. I'll go first and then it'll be your turn. On Saturday I tried to build a bookshelf, but I lost a screw, so it wobbled. I was quite cross because it took all afternoon. Okay, now it's your turn. Child. My new game. Therapist. Your new game. What's it called? Child. Dragon Quest. It's on the Switch. Therapist. Dragon Quest on the Switch. What happened when you played it? Child. I got to level five. Then a big dragon came. Therapist. A big dragon came. What did you do? Child. I lost. Three times. Therapist. You lost three times. How did that feel? Child. Annoyed. Therapist. Really annoyed. Child. Really annoyed. Therapist. That sounds frustrating. Who were you playing with? Child. The dragon has fire. Therapist. The dragon has fire. And where were you playing? Child. Um. I don't know. Therapist. That's okay. What happened next? Child. I tried again. I beat it. Therapist. You beat the dragon. How did you feel then? Child. Happy. Therapist. Happy. How did it end? Child. I saved it. Then it was dinner. Therapist. You saved the game, then it was dinner. Let me say your story back to you. You played your new game, Dragon Quest, on the Switch. You got to level five and lost to a big dragon three times, and you felt really annoyed. Then you tried again and beat it, and you felt happy. You saved the game and it was dinner. Did I get that right? Child. Yeah. Therapist. Thanks for telling me your story. You did a really great job.",
+  "facts": {
+    "child_turns": 12,
+    "mean_words_per_turn": 4.1,
+    "sequence_words": [
+      "then"
+    ],
+    "vague_words": [],
+    "child_text": [
+      "My new game.",
+      "Dragon Quest. It's on the Switch.",
+      "I got to level five. Then a big dragon came.",
+      "I lost. Three times.",
+      "Annoyed.",
+      "Really annoyed.",
+      "The dragon has fire.",
+      "Um. I don't know.",
+      "I tried again. I beat it.",
+      "Happy.",
+      "I saved it. Then it was dinner.",
+      "Yeah."
+    ],
+    "feelings": [
+      {
+        "word": "annoyed",
+        "child_words": "Annoyed",
+        "named": true
+      },
+      {
+        "word": "happy",
+        "child_words": "Happy",
+        "named": true
+      }
+    ],
+    "reasons": [
+      {
+        "child_words": "I tried again. I beat it.",
+        "linked": false,
+        "about_feeling": false
+      }
+    ],
+    "feeling_reasons": []
+  },
+  "checked": {
+    "event": "Playing a game",
+    "who": {
+      "given": false,
+      "child_words": "",
+      "rejected_claim": "The dragon has fire."
+    },
+    "where": {
+      "given": false,
+      "child_words": "",
+      "rejected_claim": "Um. I don't know. | Um. I don't know."
+    },
+    "what_happened": {
+      "given": true,
+      "child_words": "I got to level five. Then a big dragon came. I lost. Three times. I tried again. I beat it.",
+      "rejected_claim": ""
+    },
+    "ending": {
+      "given": true,
+      "child_words": "I saved it. Then it was dinner.",
+      "rejected_claim": ""
+    }
+  },
+  "written": {
+    "summary": "The child told about playing a game called Dragon Quest on the Switch. They reached level five, faced a big dragon with fire, lost three times, tried again, beat the dragon, saved it, and then it was dinner.",
+    "goals": [
+      "Say who was there.",
+      "Say where it happened.",
+      "Say why they felt that way.",
+      "Link a reason with 'because' or 'so'."
+    ],
+    "focus": [
+      "The child will identify the people present in the event.",
+      "The child will identify the location of the event.",
+      "The child will explain their feelings during the event.",
+      "The child will connect their feelings to a reason using 'because' or 'so'."
+    ],
+    "prompts": [
+      "Who was there in that?",
+      "Where did that happen?",
+      "How did you feel about that?",
+      "Why did you feel that way about it?"
+    ]
+  }
+}

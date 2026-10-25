@@ -1,0 +1,71 @@
+[Interactive] session I8, typed by a person; 10 model replies, /end to stop
+[Isolation] new process pid 431068; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (3.9s)
+[Interactive] Event titles: Went bowling for Mia's birthday, Had a science test, Fire drill at school, Played netball in PE, Made pasta in food tech
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: i played netball today
+[State] Selected event: Played netball in PE
+
+Reachy: Oh, playing netball. Which team did you play for?
+
+[Latency] Turn: 2.84s
+[Interactive] Reply 1 of 10 saved.
+You: i was on the blue team
+
+Reachy: Playing netball with the blue team. What happened during that game?
+
+[Latency] Turn: 2.62s
+[Interactive] Reply 2 of 10 saved.
+You: i was GS
+
+Reachy: Grade school (GS) during the game. How did you feel about that?
+
+[Latency] Turn: 2.50s
+[Interactive] Reply 3 of 10 saved.
+You: no i was goalscorer
+
+Reachy: You were a goal scorer! What teams scored against each other in your game?
+
+[Latency] Turn: 2.61s
+[Interactive] Reply 4 of 10 saved.
+You: well i scored most of my teams goals
+
+Reachy: That’s great to hear, scoring many goals for your team. How did it feel when you scored?
+
+[Latency] Turn: 2.60s
+[Interactive] Reply 5 of 10 saved.
+You: i was happy whenever i scored, i think i played very well
+
+Reachy: Sounds like you felt happy and like you played really well when you scored. Do you remember any specific moments during the game that stood out?
+
+[Latency] Turn: 2.77s
+[Interactive] Reply 6 of 10 saved.
+You: there was one time i fell over and scraped my knee
+
+Reachy: Falling over and scraping your knee must have been a bit of an accident. How did it feel after that?
+
+[Latency] Turn: 2.68s
+[Interactive] Reply 7 of 10 saved.
+You: it was pretty sore
+
+Reachy: It sounds like you were in some pain. Did anyone help you or the coach treat any injuries during the game?
+
+[Latency] Turn: 2.76s
+[Interactive] Reply 8 of 10 saved.
+You: yeah the teacher told me to put some ice on it
+
+Reachy: The teacher gave you ice for your scrapes. How did that feel after putting the ice on it?
+
+[Latency] Turn: 2.69s
+[Interactive] Reply 9 of 10 saved.
+You: it was super cold but i think it helpe
+
+Reachy: Putting ice helped keep things chill and maybe felt a bit better afterwards. Did anything else happen during the game besides scoring goals and having some falls?
+
+[Latency] Turn: 2.64s
+[Interactive] Reply 10 of 10 saved.
+[Interactive] Session I8 ended (10 replies), 10 replies saved.
+[Interactive] Database unchanged by the session: True

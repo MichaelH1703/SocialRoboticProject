@@ -1,0 +1,286 @@
+{
+  "labelled": true,
+  "speakers": "auto",
+  "auto_labels": {
+    "sentences": [
+      [
+        "therapist",
+        "Hi there."
+      ],
+      [
+        "therapist",
+        "Today we're going to talk about something that really happened to you."
+      ],
+      [
+        "therapist",
+        "I'll go first and then it'll be your turn."
+      ],
+      [
+        "therapist",
+        "On Saturday I went to my sister's house because it was her birthday."
+      ],
+      [
+        "therapist",
+        "We had a huge cake, so I was very full."
+      ],
+      [
+        "therapist",
+        "I was really happy to see her."
+      ],
+      [
+        "therapist",
+        "Okay, now it's your turn."
+      ],
+      [
+        "child",
+        "A party."
+      ],
+      [
+        "child",
+        "I went to a party."
+      ],
+      [
+        "therapist",
+        "A party."
+      ],
+      [
+        "therapist",
+        "Whose party was it?"
+      ],
+      [
+        "child",
+        "Hana's."
+      ],
+      [
+        "child",
+        "It was her birthday."
+      ],
+      [
+        "therapist",
+        "Hana's birthday."
+      ],
+      [
+        "therapist",
+        "Who else was there?"
+      ],
+      [
+        "child",
+        "Lots of people."
+      ],
+      [
+        "child",
+        "From my class."
+      ],
+      [
+        "therapist",
+        "Lots of people from your class."
+      ],
+      [
+        "therapist",
+        "Where was the party?"
+      ],
+      [
+        "child",
+        "At the soft play."
+      ],
+      [
+        "therapist",
+        "At the soft play."
+      ],
+      [
+        "therapist",
+        "What happened there?"
+      ],
+      [
+        "child",
+        "We went on the big slide."
+      ],
+      [
+        "child",
+        "Then pizza."
+      ],
+      [
+        "therapist",
+        "The big slide and then pizza."
+      ],
+      [
+        "therapist",
+        "What else happened?"
+      ],
+      [
+        "child",
+        "Hana opened presents."
+      ],
+      [
+        "child",
+        "I gave her a unicorn."
+      ],
+      [
+        "therapist",
+        "You gave her a unicorn."
+      ],
+      [
+        "therapist",
+        "How did you feel at the party?"
+      ],
+      [
+        "child",
+        "Excited."
+      ],
+      [
+        "therapist",
+        "Really excited."
+      ],
+      [
+        "therapist",
+        "You sound like you were thrilled."
+      ],
+      [
+        "therapist",
+        "What happened at the end of the party?"
+      ],
+      [
+        "child",
+        "Can I tell you about the slide?"
+      ],
+      [
+        "therapist",
+        "Okay, tell me about the slide."
+      ],
+      [
+        "child",
+        "It was really fast."
+      ],
+      [
+        "child",
+        "I went down ten times."
+      ],
+      [
+        "therapist",
+        "Ten times."
+      ],
+      [
+        "therapist",
+        "And how did the party finish?"
+      ],
+      [
+        "child",
+        "Don't know."
+      ],
+      [
+        "therapist",
+        "That's okay."
+      ],
+      [
+        "therapist",
+        "Let me say your story back to you."
+      ],
+      [
+        "therapist",
+        "You went to Hana's birthday party at the soft play with lots of people from your class."
+      ],
+      [
+        "therapist",
+        "You went on the big slide and had pizza, and you gave Hana a unicorn."
+      ],
+      [
+        "therapist",
+        "You felt really excited."
+      ],
+      [
+        "therapist",
+        "Did I get that right?"
+      ],
+      [
+        "child",
+        "Yeah."
+      ],
+      [
+        "therapist",
+        "Thanks for telling me your story."
+      ],
+      [
+        "therapist",
+        "You did a really great job."
+      ]
+    ],
+    "echoes_relabelled": [
+      9,
+      13,
+      20,
+      24,
+      31,
+      38
+    ]
+  },
+  "labelled_transcript": "Therapist. Hi there. Today we're going to talk about something that really happened to you. I'll go first and then it'll be your turn. On Saturday I went to my sister's house because it was her birthday. We had a huge cake, so I was very full. I was really happy to see her. Okay, now it's your turn. Child. A party. I went to a party. Therapist. A party. Whose party was it? Child. Hana's. It was her birthday. Therapist. Hana's birthday. Who else was there? Child. Lots of people. From my class. Therapist. Lots of people from your class. Where was the party? Child. At the soft play. Therapist. At the soft play. What happened there? Child. We went on the big slide. Then pizza. Therapist. The big slide and then pizza. What else happened? Child. Hana opened presents. I gave her a unicorn. Therapist. You gave her a unicorn. How did you feel at the party? Child. Excited. Therapist. Really excited. You sound like you were thrilled. What happened at the end of the party? Child. Can I tell you about the slide? Therapist. Okay, tell me about the slide. Child. It was really fast. I went down ten times. Therapist. Ten times. And how did the party finish? Child. Don't know. Therapist. That's okay. Let me say your story back to you. You went to Hana's birthday party at the soft play with lots of people from your class. You went on the big slide and had pizza, and you gave Hana a unicorn. You felt really excited. Did I get that right? Child. Yeah. Therapist. Thanks for telling me your story. You did a really great job.",
+  "facts": {
+    "child_turns": 11,
+    "mean_words_per_turn": 5.3,
+    "reasons": [],
+    "sequence_words": [
+      "then"
+    ],
+    "vague_words": [],
+    "feelings": [
+      {
+        "word": "excited",
+        "child_words": "Excited."
+      }
+    ],
+    "feeling_reasons": [],
+    "child_text": [
+      "A party. I went to a party.",
+      "Hana's. It was her birthday.",
+      "Lots of people. From my class.",
+      "At the soft play.",
+      "We went on the big slide. Then pizza.",
+      "Hana opened presents. I gave her a unicorn.",
+      "Excited.",
+      "Can I tell you about the slide?",
+      "It was really fast. I went down ten times.",
+      "Don't know.",
+      "Yeah."
+    ]
+  },
+  "checked": {
+    "event": "Hana's birthday party",
+    "who": {
+      "given": true,
+      "child_words": "Lots of people. From my class.",
+      "rejected_claim": ""
+    },
+    "where": {
+      "given": true,
+      "child_words": "At the soft play.",
+      "rejected_claim": ""
+    },
+    "what_happened": {
+      "given": true,
+      "child_words": "We went on the big slide. Then pizza. Hana opened presents. I gave her a unicorn.",
+      "rejected_claim": ""
+    },
+    "ending": {
+      "given": false,
+      "child_words": "",
+      "rejected_claim": "Don't know. | Don't know."
+    }
+  },
+  "written": {
+    "summary": "The child told about Hana's birthday party. The child said they went to a party, it was Hana's birthday, lots of people from their class were there, they went to the soft play, they went on the big slide then had pizza, Hana opened presents and the child gave her a unicorn, the child asked if they could tell about the slide, said it was really fast and they went down ten times, then said don't know and yeah.",
+    "goals": [
+      "Say how it ended.",
+      "Say why they felt that way.",
+      "Give a reason, using 'because' or 'so'."
+    ],
+    "focus": [
+      "The child will say how the event ended.",
+      "The child will say why they felt that way.",
+      "The child will give a reason using 'because' or 'so'."
+    ],
+    "prompts": [
+      "How did it end?",
+      "Why did you feel that way?"
+    ]
+  }
+}

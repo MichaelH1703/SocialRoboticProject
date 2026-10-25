@@ -1,0 +1,45 @@
+Session net-2
+
+Reachy (greeting, not rated): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Netball.
+Reachy (reply 71): What did you do during netball?
+
+You: Played goal defence. Caught ball a lot. Blocked shots.
+Reachy (reply 72): Did anyone else play on the team with you?
+
+You: Grace. Jess. Some others.
+Reachy (reply 73): Got to work together and had fun, right?
+
+You: Mm.
+Reachy (reply 74): What did you enjoy most about your netball time?
+
+You: Caught ball a lot.
+Reachy (reply 75): How does it feel when you catch the ball during netball, little one?
+
+You: I don't know.
+Reachy (reply 76): Sometimes it feels like something fun happened when you do those nice catches, hmm?
+
+You: Yeah.
+Reachy (reply 77): Got to celebrate more with friends for doing well together, didn't it?
+
+You: No.
+Reachy (not picked for rating): Was there anything particular that made today stand out or something that surprised anyone, Grace or Jess?
+
+You: My team lost. Four goals six.
+Reachy (reply 78): Oh, I see. And how did you feel about the result?
+
+You: Annoyed.
+Reachy (reply 79): It must have been a bit disappointing to not win, huh?
+
+You: Fine.
+Reachy (not picked for rating): Got to learn from the game and be ready for next time then, didn't it?
+
+You: Can't remember.
+Reachy (reply 80): Sometimes we forget little things like that when we're focused on other parts of our day. What else do you recall happening besides catching balls?
+
+You: Bye.
+Reachy (scripted, not rated): Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+You: No.
+Reachy (scripted, not rated): Okay. Thank you for sharing your day with me, April. Goodbye.

@@ -1,0 +1,250 @@
+{
+  "labelled": true,
+  "speakers": "auto",
+  "auto_labels": {
+    "method": "sentences",
+    "segments": [
+      [
+        "therapist",
+        "Hi there."
+      ],
+      [
+        "therapist",
+        "Today we're going to talk about something that really happened to you."
+      ],
+      [
+        "therapist",
+        "I'll go first and then it'll be your turn."
+      ],
+      [
+        "therapist",
+        "This morning I dropped my phone, so the screen cracked."
+      ],
+      [
+        "therapist",
+        "I was so upset because it was new."
+      ],
+      [
+        "therapist",
+        "Okay, now it's your turn."
+      ],
+      [
+        "child",
+        "I fell off my scooter."
+      ],
+      [
+        "therapist",
+        "Oh no, you fell off your scooter."
+      ],
+      [
+        "therapist",
+        "Where were you?"
+      ],
+      [
+        "child",
+        "On the path."
+      ],
+      [
+        "child",
+        "Outside my house."
+      ],
+      [
+        "therapist",
+        "On the path outside your house."
+      ],
+      [
+        "therapist",
+        "What happened?"
+      ],
+      [
+        "child",
+        "I went fast down the hill."
+      ],
+      [
+        "therapist",
+        "You went fast down the hill."
+      ],
+      [
+        "therapist",
+        "Then what?"
+      ],
+      [
+        "child",
+        "I hit a stone because I didn't see it."
+      ],
+      [
+        "therapist",
+        "You hit a stone because you didn't see it."
+      ],
+      [
+        "therapist",
+        "What happened next?"
+      ],
+      [
+        "child",
+        "I fell on my knee."
+      ],
+      [
+        "child",
+        "It was bleeding."
+      ],
+      [
+        "therapist",
+        "You fell on your knee and it was bleeding."
+      ],
+      [
+        "therapist",
+        "Who was with you?"
+      ],
+      [
+        "child",
+        "Can I show you my plaster?"
+      ],
+      [
+        "therapist",
+        "In a minute."
+      ],
+      [
+        "therapist",
+        "How did you feel when you fell?"
+      ],
+      [
+        "child",
+        "Um."
+      ],
+      [
+        "child",
+        "My knee was red."
+      ],
+      [
+        "therapist",
+        "Your knee was red."
+      ],
+      [
+        "therapist",
+        "It sounds like you were frightened."
+      ],
+      [
+        "therapist",
+        "What happened after that?"
+      ],
+      [
+        "child",
+        "I got a plaster."
+      ],
+      [
+        "child",
+        "Then I went inside."
+      ],
+      [
+        "therapist",
+        "You got a plaster and went inside."
+      ],
+      [
+        "therapist",
+        "Let me say your story back to you."
+      ],
+      [
+        "therapist",
+        "You were going fast on your scooter down the hill on the path outside your house."
+      ],
+      [
+        "therapist",
+        "You hit a stone because you didn't see it, fell on your knee and it was bleeding."
+      ],
+      [
+        "therapist",
+        "Then you got a plaster and went inside."
+      ],
+      [
+        "therapist",
+        "Did I get that right?"
+      ],
+      [
+        "child",
+        "Yeah."
+      ],
+      [
+        "therapist",
+        "Thanks for telling me your story."
+      ],
+      [
+        "therapist",
+        "You did a really great job."
+      ]
+    ],
+    "echoes_relabelled": []
+  },
+  "labelled_transcript": "Therapist. Hi there. Today we're going to talk about something that really happened to you. I'll go first and then it'll be your turn. This morning I dropped my phone, so the screen cracked. I was so upset because it was new. Okay, now it's your turn. Child. I fell off my scooter. Therapist. Oh no, you fell off your scooter. Where were you? Child. On the path. Outside my house. Therapist. On the path outside your house. What happened? Child. I went fast down the hill. Therapist. You went fast down the hill. Then what? Child. I hit a stone because I didn't see it. Therapist. You hit a stone because you didn't see it. What happened next? Child. I fell on my knee. It was bleeding. Therapist. You fell on your knee and it was bleeding. Who was with you? Child. Can I show you my plaster? Therapist. In a minute. How did you feel when you fell? Child. Um. My knee was red. Therapist. Your knee was red. It sounds like you were frightened. What happened after that? Child. I got a plaster. Then I went inside. Therapist. You got a plaster and went inside. Let me say your story back to you. You were going fast on your scooter down the hill on the path outside your house. You hit a stone because you didn't see it, fell on your knee and it was bleeding. Then you got a plaster and went inside. Did I get that right? Child. Yeah. Therapist. Thanks for telling me your story. You did a really great job.",
+  "facts": {
+    "child_turns": 9,
+    "mean_words_per_turn": 6,
+    "sequence_words": [
+      "then"
+    ],
+    "vague_words": [],
+    "child_text": [
+      "I fell off my scooter.",
+      "On the path. Outside my house.",
+      "I went fast down the hill.",
+      "I hit a stone because I didn't see it.",
+      "I fell on my knee. It was bleeding.",
+      "Can I show you my plaster?",
+      "Um. My knee was red.",
+      "I got a plaster. Then I went inside.",
+      "Yeah."
+    ],
+    "feelings": [],
+    "reasons": [
+      {
+        "child_words": "I hit a stone because I didn't see it",
+        "linked": true,
+        "about_feeling": false
+      },
+      {
+        "child_words": "I fell on my knee. It was bleeding",
+        "linked": false,
+        "about_feeling": false
+      }
+    ],
+    "feeling_reasons": []
+  },
+  "checked": {
+    "event": "falling off scooter",
+    "who": {
+      "given": false,
+      "child_words": "",
+      "rejected_claim": "Can I show you my plaster? | Can I show you my plaster?"
+    },
+    "where": {
+      "given": true,
+      "child_words": "On the path. Outside my house.",
+      "rejected_claim": ""
+    },
+    "what_happened": {
+      "given": true,
+      "child_words": "I went fast down the hill. I hit a stone because I didn't see it. I fell on my knee. It was bleeding. I got a plaster. Then I went inside.",
+      "rejected_claim": ""
+    },
+    "ending": {
+      "given": true,
+      "child_words": "I got a plaster. Then I went inside.",
+      "rejected_claim": ""
+    }
+  },
+  "written": {
+    "summary": "The child told that they fell off their scooter on the path outside their house. They went fast down the hill and hit a stone because they didn't see it. They fell on their knee which was bleeding and got a plaster. They then went inside.",
+    "goals": [
+      "Say who was there.",
+      "Say how they felt."
+    ],
+    "focus": [
+      "The child will identify the people present in the event.",
+      "The child will describe their feelings during the event."
+    ],
+    "prompts": [
+      "Who was there with you?",
+      "How did you feel about it?"
+    ]
+  }
+}

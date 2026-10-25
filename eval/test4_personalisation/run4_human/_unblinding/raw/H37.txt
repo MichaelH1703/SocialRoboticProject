@@ -1,0 +1,41 @@
+[Human] session H37, condition W-v2, "I don't know" at turn 9
+[Isolation] new process pid 21416; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (6.1s)
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: yeah. went bowling
+[State] Selected event: Went bowling for Mia's birthday
+
+Reachy: Bowling sounds fun! What did you and who go bowling with?
+
+[Latency] Turn: 2.92s
+You: mia and grace and jess
+
+Reachy: Mia, Grace, and Jess were there for bowling together, that's great! How did Mia make them come play bowling?
+
+[Latency] Turn: 2.85s
+You: it was her birthday
+
+Reachy: Oh, so it was a special birthday celebration. Did you have fun playing bowling with Mia and your friends?
+
+[Latency] Turn: 2.72s
+You: yes
+
+Reachy: That sounds like it was a wonderful day! What did you do first when you got there?
+
+[Latency] Turn: 2.68s
+You: i dont know
+[Question limit] Dropped: 'Can you try to recall what happened after you got there?'
+
+Reachy: Didn't remember that part right away, huh?
+
+[Latency] Turn: 2.57s
+You: i hired shoes, i remmeber now
+
+Reachy: You went to hire bowling shoes. How many of you were there and where did you go bowling?
+
+[Latency] Turn: 2.73s
+[Human] Ended by the player before Reachy's goodbye.
+[Human] Session over.

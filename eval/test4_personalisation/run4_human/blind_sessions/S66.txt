@@ -1,0 +1,47 @@
+Session S66
+
+Lesson focus:
+  - Continue working on increasing language skills, particularly in using descriptive and logical explanations.
+  - Develop emotional vocabulary and the ability to articulate emotions more precisely.
+  - Enhance social reasoning by asking questions that encourage a deeper understanding of others' perspectives and reactions.
+
+Profile style checklist:
+  1. Ask short questions.
+  2. Ask concrete questions.
+  3. When she is stuck, offer a choice of two options ("Was it X or Y?").
+  4. Avoid long or open questions.
+
+Reachy (greeting, not coded): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: yeah. i went bowling
+Reachy [1]: That sounds fun. Who was there with you when you went bowling?
+
+You: I was there for Mia's birthday party
+Reachy [2]: Oh, that makes it even more special. How did it feel going to the bowling place on such a nice day?
+
+You: yeah it felt very good
+Reachy [3]: It felt very good indeed. What games did you play at the bowling alley?
+
+You: we just did bowling
+Reachy [4]: That sounds simple but fun. How many people were there with you at the bowling alley?
+
+You: it was me and mia and grace and jess and mia's mum and dad were there too. but they didn't bowl, only me and grace and jess and mia bowled
+Reachy [5]: Nice to know more friends joined in the fun. How did it feel playing bowling with your friends?
+
+You: yeah it felt really good, it was alot of fun
+Reachy [6]: It sounds like a wonderful time you had! Was there anything Mia's mum or dad did at the bowling alley?
+
+You: they bought us all pizza and then Mia's mum had made a cake
+Reachy [7]: That's nice to have. Who ate the pizza and cake after bowling?
+
+You: i dont know
+Reachy [8]: Oh, I see. Did you eat with anyone in particular at the party?
+
+You: yeah we all ate together
+Reachy [9]: All of you had a good time together eating the pizza and cake. Did either of the adults join in your bowling games?
+
+You: no
+Reachy [10]: That's okay, it sounds like Mia's mum and dad enjoyed watching everyone have fun instead. How did Mia feel about bowling on her birthday?
+
+You: she was happy i think
+Reachy [11]: Mia was definitely happy with the bowling party on her special day. Thank you for sharing that with me.

@@ -1,0 +1,267 @@
+{
+  "labelled": true,
+  "speakers": "auto",
+  "auto_labels": {
+    "method": "sentences",
+    "segments": [
+      [
+        "therapist",
+        "Hello, Victor."
+      ],
+      [
+        "therapist",
+        "How's your week been?"
+      ],
+      [
+        "child",
+        "Fine."
+      ],
+      [
+        "therapist",
+        "What happened at school recently?"
+      ],
+      [
+        "child",
+        "We had a supply teacher in history."
+      ],
+      [
+        "therapist",
+        "I've got a small story from yesterday."
+      ],
+      [
+        "therapist",
+        "I went into a meeting room and all the chairs had been moved, so I had to work out where to sit."
+      ],
+      [
+        "therapist",
+        "What happened in your history lesson?"
+      ],
+      [
+        "child",
+        "The teacher didn't know where we were up to."
+      ],
+      [
+        "therapist",
+        "What did you do?"
+      ],
+      [
+        "child",
+        "I got my book out."
+      ],
+      [
+        "child",
+        "The date was already on the board."
+      ],
+      [
+        "therapist",
+        "Who was in the lesson?"
+      ],
+      [
+        "child",
+        "Everyone in our class."
+      ],
+      [
+        "therapist",
+        "What did the supply teacher ask you to do?"
+      ],
+      [
+        "child",
+        "Read the page about the Industrial Revolution."
+      ],
+      [
+        "therapist",
+        "Did you manage to do that?"
+      ],
+      [
+        "child",
+        "Yes."
+      ],
+      [
+        "therapist",
+        "What happened after the reading?"
+      ],
+      [
+        "child",
+        "He said answer the questions at the bottom."
+      ],
+      [
+        "child",
+        "I did questions one to six."
+      ],
+      [
+        "therapist",
+        "Was there anything difficult about the lesson?"
+      ],
+      [
+        "child",
+        "He kept calling me Vincent."
+      ],
+      [
+        "therapist",
+        "How did you feel when he called you that?"
+      ],
+      [
+        "child",
+        "I don't know."
+      ],
+      [
+        "child",
+        "It's not my name."
+      ],
+      [
+        "therapist",
+        "That must have been irritating."
+      ],
+      [
+        "child",
+        "I didn't say irritating."
+      ],
+      [
+        "therapist",
+        "You're right."
+      ],
+      [
+        "child",
+        "I added that."
+      ],
+      [
+        "therapist",
+        "What did you do when he called you Vincent?"
+      ],
+      [
+        "child",
+        "I said it's Victor."
+      ],
+      [
+        "child",
+        "He said sorry."
+      ],
+      [
+        "therapist",
+        "Did he remember after that?"
+      ],
+      [
+        "child",
+        "For a bit."
+      ],
+      [
+        "child",
+        "Then he did it again."
+      ],
+      [
+        "therapist",
+        "What happened at the end of the lesson?"
+      ],
+      [
+        "child",
+        "He collected the books."
+      ],
+      [
+        "child",
+        "I put mine on the front desk."
+      ],
+      [
+        "therapist",
+        "So the supply teacher didn't know where the class was up to, you read the Industrial Revolution page and answered six questions, and he called you Vincent more than once even after you corrected him."
+      ],
+      [
+        "child",
+        "He collected the books at the end."
+      ],
+      [
+        "child",
+        "Yes."
+      ],
+      [
+        "therapist",
+        "Thank you, Victor."
+      ],
+      [
+        "therapist",
+        "That's all for today."
+      ],
+      [
+        "child",
+        "Okay."
+      ]
+    ],
+    "echoes_relabelled": []
+  },
+  "labelled_transcript": "Therapist. Hello, Victor. How's your week been? Child. Fine. Therapist. What happened at school recently? Child. We had a supply teacher in history. Therapist. I've got a small story from yesterday. I went into a meeting room and all the chairs had been moved, so I had to work out where to sit. What happened in your history lesson? Child. The teacher didn't know where we were up to. Therapist. What did you do? Child. I got my book out. The date was already on the board. Therapist. Who was in the lesson? Child. Everyone in our class. Therapist. What did the supply teacher ask you to do? Child. Read the page about the Industrial Revolution. Therapist. Did you manage to do that? Child. Yes. Therapist. What happened after the reading? Child. He said answer the questions at the bottom. I did questions one to six. Therapist. Was there anything difficult about the lesson? Child. He kept calling me Vincent. Therapist. How did you feel when he called you that? Child. I don't know. It's not my name. Therapist. That must have been irritating. Child. I didn't say irritating. Therapist. You're right. Child. I added that. Therapist. What did you do when he called you Vincent? Child. I said it's Victor. He said sorry. Therapist. Did he remember after that? Child. For a bit. Then he did it again. Therapist. What happened at the end of the lesson? Child. He collected the books. I put mine on the front desk. Therapist. So the supply teacher didn't know where the class was up to, you read the Industrial Revolution page and answered six questions, and he called you Vincent more than once even after you corrected him. Child. He collected the books at the end. Yes. Therapist. Thank you, Victor. That's all for today. Child. Okay.",
+  "facts": {
+    "child_turns": 17,
+    "mean_words_per_turn": 6.4,
+    "sequence_words": [
+      "then"
+    ],
+    "vague_words": [],
+    "child_text": [
+      "Fine.",
+      "We had a supply teacher in history.",
+      "The teacher didn't know where we were up to.",
+      "I got my book out. The date was already on the board.",
+      "Everyone in our class.",
+      "Read the page about the Industrial Revolution.",
+      "Yes.",
+      "He said answer the questions at the bottom. I did questions one to six.",
+      "He kept calling me Vincent.",
+      "I don't know. It's not my name.",
+      "I didn't say irritating.",
+      "I added that.",
+      "I said it's Victor. He said sorry.",
+      "For a bit. Then he did it again.",
+      "He collected the books. I put mine on the front desk.",
+      "He collected the books at the end. Yes.",
+      "Okay."
+    ],
+    "feelings": [],
+    "reasons": [
+      {
+        "child_words": "For a bit. Then he did it again.",
+        "linked": false,
+        "about_feeling": false
+      }
+    ],
+    "feeling_reasons": []
+  },
+  "checked": {
+    "event": "History lesson",
+    "who": {
+      "given": true,
+      "child_words": "Everyone in our class.",
+      "rejected_claim": ""
+    },
+    "where": {
+      "given": false,
+      "child_words": "",
+      "rejected_claim": "In history."
+    },
+    "what_happened": {
+      "given": true,
+      "child_words": "We had a supply teacher in history. The teacher didn't know where we were up to. I got my book out. The date was already on the board. Read the page about the Industrial Revolution. He said answer the questions at the bottom. I did questions one to six. He kept calling me Vincent. I said it's Victor. He said sorry. He collected the books. I put mine on the front desk.",
+      "rejected_claim": ""
+    },
+    "ending": {
+      "given": true,
+      "child_words": "He collected the books at the end.",
+      "rejected_claim": ""
+    }
+  },
+  "written": {
+    "summary": "The child told that they had a supply teacher in history. The teacher didn't know where they were up to. The child got their book out. The date was already on the board. Everyone in their class read the page about the Industrial Revolution. The teacher asked them to answer the questions at the bottom. The child did questions one to six. The teacher kept calling them Vincent. The child said it's Victor. The teacher said sorry. The teacher did it again. The child put their book on the front desk. The teacher collected the books at the end.",
+    "goals": [
+      "Say where it happened.",
+      "Say how they felt.",
+      "Link a reason with 'because' or 'so'."
+    ],
+    "focus": [
+      "The child will say where the event happened.",
+      "The child will say how they felt during the event.",
+      "The child will link a reason with 'because' or 'so'."
+    ],
+    "prompts": [
+      "Where did it happen?",
+      "How did you feel when that happened?"
+    ]
+  }
+}

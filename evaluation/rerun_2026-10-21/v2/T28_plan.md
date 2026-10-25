@@ -1,0 +1,32 @@
+Note: this transcript had no speaker labels, so they were added automatically. A few sentences may be credited to the wrong speaker, most often where the therapist repeats the child's words.
+
+1. **Narrative Summary**
+   - The child told about helping grandad wash his red car with a big bucket and a yellow sponge. The grandad sprayed the child with a hose and the child laughed. Biscuit, the dog, jumped in the bucket and got bubbles on his head. The child did the windows with a squeegee and the wheels with a brush. The child said it was so fun and wanted to draw biscuit.
+   - The child spoke 1 times, averaging 340 words.
+
+2. **Communication Strengths**
+   - Said who was there: "you helped your grandad what did you help him wash his car his red car its red a red car and its got a its got a dent at the back a dent ok so how did you wash it with a big a big bucket and the sponge the yellow sponge and the bubbles bubbles lovely and the and grandad got the hose and he sprayed it on the car and then he sprayed me he sprayed you on my on my legs all wet and I couldn't stop laughing you couldn't stop laughing did you get and biscuit who's biscuit his dog grandad's dog he's a sausage dog a sausage dog what did biscuit do he jumped in the bucket in the bucket of bubbles yeah he was all bubbles on his on his head like a like a hat like a bubble hat it was so fun it sounds like it was so fun you must have felt really proud helping your grandad do you got a dog I've got a cat called pepper my nan's got a cat no my auntie my auntie's got a cat your auntie's got a cat what else happened with the car we did the windows with the um with the squeezy thing the squeegee the squee squeegee and it goes squeak squeak ha and then did you and the wheels I did the wheels with the brush you did the wheels with the brush wow so let me say it back you helped your grandad wash his red car you had a big bucket and a yellow sponge and grandad sprayed you with the hose and you couldn't stop laughing then biscuit jumped in the bucket and got bubbles on his head you did the windows with the squeegee and the wheels with the brush and it was so fun and it was so fun brilliant kai can I draw biscuit yes let's draw biscuit"
+   - Said what happened: "you helped your grandad wash his red car you had a big bucket and a yellow sponge and grandad sprayed you with the hose and you couldn't stop laughing then biscuit jumped in the bucket and got bubbles on his head you did the windows with the squeegee and the wheels with the brush and it was so fun and it was so fun"
+   - Used sequencing words: "then"
+   - Named feelings: proud
+
+3. **Communication Gaps**
+   - Did not say where it happened.
+   - Did not say how it ended.
+   - Did not give any reasons (no "because" or "so").
+   - Used vague words: "thing"
+
+4. **Emotional Understanding**
+   - Named "proud": "ok kai so what did you do on saturday um I I helped my grandad you helped your grandad what did you help him wash his car his red car its red a red car and its got a its got a dent at the back a dent ok so how did you wash it with a big a big bucket and the sponge the yellow sponge and the bubbles bubbles lovely and the and grandad got the hose and he sprayed it on the car and then he sprayed me he sprayed you on my on my legs all wet and I couldn't stop laughing you couldn't stop laughing did you get and biscuit who's biscuit his dog grandad's dog he's a sausage dog a sausage dog what did biscuit do he jumped in the bucket in the bucket of bubbles yeah he was all bubbles on his on his head like a like a hat like a bubble hat it was so fun it sounds like it was so fun you must have felt really proud helping your grandad do you got a dog I've got a cat called pepper my nan's got a cat no my auntie my auntie's got a cat your auntie's got a cat what else happened with the car we did the windows with the um with the squeezy thing the squeegee the squee squeegee and it goes squeak squeak ha and then did you and the wheels I did the wheels with the brush you did the wheels with the brush wow so let me say it back you helped your grandad wash his red car you had a big bucket and a yellow sponge and grandad sprayed you with the hose and you couldn't stop laughing then biscuit jumped in the bucket and got bubbles on his head you did the windows with the squeegee and the wheels with the brush and it was so fun and it was so fun brilliant kai can I draw biscuit yes let's draw biscuit"
+   - Did not say why they felt that way.
+
+5. **Recommended Future Lesson Focus**
+   - The child will say where the event happened.
+   - The child will say how the event ended.
+   - The child will say why they felt that way.
+   - The child will give a reason using 'because' or 'so'.
+
+6. **Suggested Reachy Prompts**
+   - "Where did it happen?"
+   - "How did it end?"
+   - "Why did you feel that way?"

@@ -1,0 +1,52 @@
+[Human] session H16, condition B, "I don't know" at turn 6
+[Isolation] new process pid 18020; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (6.4s)
+[Supabase] client_profiles error: {'message': 'Cannot coerce the result to a single JSON object', 'code': 'PGRST116', 'hint': None, 'details': 'The result contains 0 rows'}
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: yeah. went bowling
+[State] Selected event: Went bowling for Mia's birthday
+
+Reachy: That sounds fun. What did you and who else go bowling with mommy or daddy?
+
+[Latency] Turn: 2.88s
+You: no it was with Mia and some of my other friends
+[Question limit] Dropped: 'How did that make you feel after?'
+
+Reachy: Got it, you had a good time with friends at the bowling alley, right?
+
+[Latency] Turn: 2.76s
+You: yeah
+
+Reachy: That's great to hear. What games did you play and who scored more points?
+
+[Latency] Turn: 2.61s
+You: I came second, Mia won
+
+Reachy: That’s very exciting! Did anyone else win any prizes or have a good time too?
+
+[Latency] Turn: 2.59s
+You: i dont know
+
+Reachy: It must have been fun to see others winning. How did you feel about coming in second place?
+
+[Latency] Turn: 2.56s
+You: yeah i was happy that i came second, a little sad i didn't win
+
+Reachy: That’s a mixed feeling. It's good to be glad someone else won and still enjoy the experience!
+
+[Latency] Turn: 2.74s
+You: yeah
+
+Reachy: Okay, is there anything you want to talk about next?
+
+[Latency] Turn: 2.59s
+You: no
+
+Reachy: Alright, that’s fine. Having a nice day talking about your bowling trip with friends!
+
+[Latency] Turn: 2.68s
+[Human] Ended by the player before Reachy's goodbye.
+[Human] Session over.

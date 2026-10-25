@@ -1,0 +1,73 @@
+[Human] session H06, condition W, "I don't know" at turn 7
+[Isolation] new process pid 402536; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (3.7s)
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Went bowling
+[State] Selected event: Went bowling for Mia's birthday
+[Question limit] Dropped: 'Who was with you?'
+
+Reachy: That sounds like fun. Where did you go bowling?
+
+[Latency] Turn: 2.72s
+You: at superlanes
+
+Reachy: At SuperLanes. Was anyone else there with you?
+
+[Latency] Turn: 2.54s
+You: yeah it was Mia's Birthday party
+
+Reachy: Mia had a birthday party too. Did you have any special treats or games while you were there?
+
+[Latency] Turn: 2.76s
+You: we had pizza and cake
+
+Reachy: That sounds yummy! And what game did you play at SuperLanes?
+
+[Latency] Turn: 2.65s
+You: there was a bunch or arcade machines
+
+Reachy: What kind of games did you play on the arcades, do you remember?
+
+[Latency] Turn: 2.60s
+You: there was a hunting game with fake guns
+[Question limit] Dropped: 'How fun! What happened next after playing those games in the arcade?'
+
+Reachy: Oh really?
+
+[Latency] Turn: 2.63s
+You: yeah
+[Question limit] Dropped: 'Did everything go well there?'
+
+Reachy: That sounds like it could be fun. What did you think about Mia having her birthday party at SuperLanes?
+
+[Latency] Turn: 2.61s
+You: i liked it alot
+
+Reachy: That's great to hear! Did anyone have a favorite part of the party or games?
+
+[Latency] Turn: 2.61s
+You: I think Mia liked the bowling best, she won
+
+Reachy: That's wonderful hearing that. Did you all laugh or play together during the bowling game?
+
+[Latency] Turn: 2.78s
+You: yeah, i came second
+
+Reachy: Nice to know! What did you feel when Mia won and how did it make you feel?
+
+[Latency] Turn: 2.60s
+You: happy
+
+Reachy: To hear you were happy, that's good to know. Did anyone laugh at you for coming in second?
+
+[Latency] Turn: 2.72s
+You: no
+
+Reachy: Good to hear no one laughed at you. That's nice. Thank you for sharing your day with me.
+
+[Latency] Turn: 2.78s
+[Human] Ended by the player before Reachy's goodbye.
+[Human] Session over.

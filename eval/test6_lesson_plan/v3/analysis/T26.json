@@ -1,0 +1,341 @@
+{
+  "labelled": true,
+  "speakers": "auto",
+  "auto_labels": {
+    "method": "sentences",
+    "segments": [
+      [
+        "therapist",
+        "Hello Freya."
+      ],
+      [
+        "therapist",
+        "Did you see the snow this week?"
+      ],
+      [
+        "child",
+        "We made a snowman!"
+      ],
+      [
+        "therapist",
+        "You made a snowman!"
+      ],
+      [
+        "therapist",
+        "Tell me about it."
+      ],
+      [
+        "child",
+        "Me and Ava and my dad."
+      ],
+      [
+        "child",
+        "Ava's my sister."
+      ],
+      [
+        "child",
+        "She's three."
+      ],
+      [
+        "therapist",
+        "You, Ava and Dad."
+      ],
+      [
+        "therapist",
+        "What did you do first?"
+      ],
+      [
+        "child",
+        "First we rolled a big ball for the bottom and it got bigger and bigger and then a littler one for the head."
+      ],
+      [
+        "therapist",
+        "Bigger and bigger."
+      ],
+      [
+        "therapist",
+        "How did you feel when you saw all the snow?"
+      ],
+      [
+        "child",
+        "It was up to here on my boots."
+      ],
+      [
+        "therapist",
+        "Up to here."
+      ],
+      [
+        "therapist",
+        "Right up to there!"
+      ],
+      [
+        "child",
+        "Wow."
+      ],
+      [
+        "therapist",
+        "And Ava's boots it went right in the top."
+      ],
+      [
+        "child",
+        "Into the top of her boots."
+      ],
+      [
+        "therapist",
+        "Oh dear."
+      ],
+      [
+        "therapist",
+        "What did the snowman look like?"
+      ],
+      [
+        "child",
+        "He had a carrot nose and stones for eyes and Dad's hat."
+      ],
+      [
+        "child",
+        "The stripy one."
+      ],
+      [
+        "therapist",
+        "Dad's stripy hat."
+      ],
+      [
+        "therapist",
+        "Did he have a name?"
+      ],
+      [
+        "child",
+        "Mr Frosty."
+      ],
+      [
+        "child",
+        "No, Mr Snowy."
+      ],
+      [
+        "child",
+        "Ava wanted Mr Frosty but he's Mr Snowy."
+      ],
+      [
+        "therapist",
+        "Mr Snowy."
+      ],
+      [
+        "therapist",
+        "What else happened?"
+      ],
+      [
+        "child",
+        "We did a snowball fight and I throwed one at Dad and it went on his head."
+      ],
+      [
+        "therapist",
+        "Right on his head!"
+      ],
+      [
+        "child",
+        "And then Dad falled over on his bum."
+      ],
+      [
+        "therapist",
+        "In the snow."
+      ],
+      [
+        "child",
+        "He fell over on his bum."
+      ],
+      [
+        "therapist",
+        "He must have slipped on some ice."
+      ],
+      [
+        "therapist",
+        "Have you got a snowman?"
+      ],
+      [
+        "child",
+        "Not this year."
+      ],
+      [
+        "therapist",
+        "Did it snow a lot?"
+      ],
+      [
+        "child",
+        "Loads."
+      ],
+      [
+        "child",
+        "All the cars was white."
+      ],
+      [
+        "therapist",
+        "All the cars were white!"
+      ],
+      [
+        "child",
+        "And the bins."
+      ],
+      [
+        "therapist",
+        "And the bins!"
+      ],
+      [
+        "therapist",
+        "What happened to Mr Snowy in the end?"
+      ],
+      [
+        "child",
+        "He melted."
+      ],
+      [
+        "child",
+        "The next day he was all small and then it was just the carrot and the hat left."
+      ],
+      [
+        "therapist",
+        "Just the carrot and the hat."
+      ],
+      [
+        "therapist",
+        "He melted because the sun came out and warmed him up."
+      ],
+      [
+        "child",
+        "Dad put the carrot in the bin."
+      ],
+      [
+        "child",
+        "Into the bin!"
+      ],
+      [
+        "therapist",
+        "Okay Freya, can you tell me the story again from the start?"
+      ],
+      [
+        "child",
+        "Um, we made a snowman and it was Mr Snowy and Dad falled over and he melted."
+      ],
+      [
+        "therapist",
+        "Dad melted?"
+      ],
+      [
+        "child",
+        "No!"
+      ],
+      [
+        "child",
+        "Mr Snowy melted!"
+      ],
+      [
+        "therapist",
+        "Oh, Mr Snowy melted, not Dad."
+      ],
+      [
+        "therapist",
+        "Now let's look at some pictures of snow."
+      ],
+      [
+        "therapist",
+        "Is that a polar bear?"
+      ],
+      [
+        "child",
+        "Yes, that's a polar bear."
+      ]
+    ],
+    "echoes_relabelled": [
+      11,
+      14,
+      28,
+      47
+    ]
+  },
+  "labelled_transcript": "Therapist. Hello Freya. Did you see the snow this week? Child. We made a snowman! Therapist. You made a snowman! Tell me about it. Child. Me and Ava and my dad. Ava's my sister. She's three. Therapist. You, Ava and Dad. What did you do first? Child. First we rolled a big ball for the bottom and it got bigger and bigger and then a littler one for the head. Therapist. Bigger and bigger. How did you feel when you saw all the snow? Child. It was up to here on my boots. Therapist. Up to here. Right up to there! Child. Wow. Therapist. And Ava's boots it went right in the top. Child. Into the top of her boots. Therapist. Oh dear. What did the snowman look like? Child. He had a carrot nose and stones for eyes and Dad's hat. The stripy one. Therapist. Dad's stripy hat. Did he have a name? Child. Mr Frosty. No, Mr Snowy. Ava wanted Mr Frosty but he's Mr Snowy. Therapist. Mr Snowy. What else happened? Child. We did a snowball fight and I throwed one at Dad and it went on his head. Therapist. Right on his head! Child. And then Dad falled over on his bum. Therapist. In the snow. Child. He fell over on his bum. Therapist. He must have slipped on some ice. Have you got a snowman? Child. Not this year. Therapist. Did it snow a lot? Child. Loads. All the cars was white. Therapist. All the cars were white! Child. And the bins. Therapist. And the bins! What happened to Mr Snowy in the end? Child. He melted. The next day he was all small and then it was just the carrot and the hat left. Therapist. Just the carrot and the hat. He melted because the sun came out and warmed him up. Child. Dad put the carrot in the bin. Into the bin! Therapist. Okay Freya, can you tell me the story again from the start? Child. Um, we made a snowman and it was Mr Snowy and Dad falled over and he melted. Therapist. Dad melted? Child. No! Mr Snowy melted! Therapist. Oh, Mr Snowy melted, not Dad. Now let's look at some pictures of snow. Is that a polar bear? Child. Yes, that's a polar bear.",
+  "facts": {
+    "child_turns": 19,
+    "mean_words_per_turn": 9.5,
+    "sequence_words": [
+      "first",
+      "next",
+      "then"
+    ],
+    "vague_words": [],
+    "child_text": [
+      "We made a snowman!",
+      "Me and Ava and my dad. Ava's my sister. She's three.",
+      "First we rolled a big ball for the bottom and it got bigger and bigger and then a littler one for the head.",
+      "It was up to here on my boots.",
+      "Wow.",
+      "Into the top of her boots.",
+      "He had a carrot nose and stones for eyes and Dad's hat. The stripy one.",
+      "Mr Frosty. No, Mr Snowy. Ava wanted Mr Frosty but he's Mr Snowy.",
+      "We did a snowball fight and I throwed one at Dad and it went on his head.",
+      "And then Dad falled over on his bum.",
+      "He fell over on his bum.",
+      "Not this year.",
+      "Loads. All the cars was white.",
+      "And the bins.",
+      "He melted. The next day he was all small and then it was just the carrot and the hat left.",
+      "Dad put the carrot in the bin. Into the bin!",
+      "Um, we made a snowman and it was Mr Snowy and Dad falled over and he melted.",
+      "No! Mr Snowy melted!",
+      "Yes, that's a polar bear."
+    ],
+    "feelings": [],
+    "reasons": [
+      {
+        "child_words": "He melted. The next day he was all small and then it was just the carrot and the hat left.",
+        "linked": false,
+        "about_feeling": false
+      },
+      {
+        "child_words": "Dad put the carrot in the bin. Into the bin!",
+        "linked": false,
+        "about_feeling": false
+      }
+    ],
+    "feeling_reasons": []
+  },
+  "checked": {
+    "event": "Making a snowman",
+    "who": {
+      "given": true,
+      "child_words": "Me and Ava and my dad. Ava's my sister. She's three.",
+      "rejected_claim": ""
+    },
+    "where": {
+      "given": false,
+      "child_words": "",
+      "rejected_claim": "It was up to here on my boots."
+    },
+    "what_happened": {
+      "given": true,
+      "child_words": "First we rolled a big ball for the bottom and it got bigger and bigger and then a littler one for the head. We did a snowball fight and I throwed one at Dad and it went on his head. And then Dad falled over on his bum. He fell over on his bum.",
+      "rejected_claim": ""
+    },
+    "ending": {
+      "given": true,
+      "child_words": "He melted. The next day he was all small and then it was just the carrot and the hat left. Dad put the carrot in the bin. Into the bin!",
+      "rejected_claim": ""
+    }
+  },
+  "written": {
+    "summary": "The child told about making a snowman with Ava and their dad. They rolled balls for the body and head, used a carrot nose, stones for eyes, and Dad's hat. The snowman melted the next day and Dad put the carrot in the bin. The child also mentioned a snowball fight and Dad falling over.",
+    "goals": [
+      "Say where it happened.",
+      "Say how they felt.",
+      "Link a reason with 'because' or 'so'."
+    ],
+    "focus": [
+      "The child will say where the event happened.",
+      "The child will say how they felt during the event.",
+      "The child will link a reason with 'because' or 'so'."
+    ],
+    "prompts": [
+      "Where did it happen?",
+      "How did you feel when that happened?"
+    ]
+  }
+}

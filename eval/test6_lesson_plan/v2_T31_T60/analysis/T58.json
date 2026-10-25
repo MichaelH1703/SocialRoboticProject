@@ -1,0 +1,77 @@
+{
+  "labelled": true,
+  "speakers": "auto",
+  "auto_labels": {
+    "sentences": [
+      [
+        "therapist",
+        "hi lewis hows things alright i had to work with someone new yesterday and we had different ideas about how to organise the task so we had to talk it through a bit what about you anything happen at school yeah the science thing what science thing the group presentation who was in your group me ellie and harry and then miss put daniel in as well where were you doing it science room 12 and what were you meant to make a powerpoint about renewable energy and it had to be five slides minimum but harry did nine for some reason what happened when you started working ellie was doing wind turbines and i was doing solar and then daniel he just started changing the font changing the font yeah it was arial and he made it comic sans and the titles were different sizes and it looked weird how did that affect you i couldnt concentrate cos it kept changing and i was trying to read the slide that must have been really irritating it was just distracting what did you do about it i told him can you stop changing it until weve finished the words and he said he was making it look better what happened then miss came over and said we needed to agree on one format so we picked arial again was there anything else that happened harry had put a picture of a coal power station on my solar slide and i had to move it how did the lesson finish the bell went and we saved it to the shared folder so you were working on renewable energy with ellie harry and daniel and the font kept changing while you were trying to read the slide you asked daniel to stop and miss helped you agree on arial then you moved the picture and saved the presentation when the bell went yeah but it was the picture that took ages not the font thanks for correcting me."
+      ],
+      [
+        "child",
+        "The picture took longer than the font issue."
+      ],
+      [
+        "therapist",
+        "yeah we'll stop there for today okay"
+      ]
+    ],
+    "echoes_relabelled": []
+  },
+  "labelled_transcript": "Therapist. hi lewis hows things alright i had to work with someone new yesterday and we had different ideas about how to organise the task so we had to talk it through a bit what about you anything happen at school yeah the science thing what science thing the group presentation who was in your group me ellie and harry and then miss put daniel in as well where were you doing it science room 12 and what were you meant to make a powerpoint about renewable energy and it had to be five slides minimum but harry did nine for some reason what happened when you started working ellie was doing wind turbines and i was doing solar and then daniel he just started changing the font changing the font yeah it was arial and he made it comic sans and the titles were different sizes and it looked weird how did that affect you i couldnt concentrate cos it kept changing and i was trying to read the slide that must have been really irritating it was just distracting what did you do about it i told him can you stop changing it until weve finished the words and he said he was making it look better what happened then miss came over and said we needed to agree on one format so we picked arial again was there anything else that happened harry had put a picture of a coal power station on my solar slide and i had to move it how did the lesson finish the bell went and we saved it to the shared folder so you were working on renewable energy with ellie harry and daniel and the font kept changing while you were trying to read the slide you asked daniel to stop and miss helped you agree on arial then you moved the picture and saved the presentation when the bell went yeah but it was the picture that took ages not the font thanks for correcting me. Child. The picture took longer than the font issue. Therapist. yeah we'll stop there for today okay",
+  "facts": {
+    "child_turns": 1,
+    "mean_words_per_turn": 8,
+    "reasons": [],
+    "sequence_words": [],
+    "vague_words": [],
+    "feelings": [],
+    "feeling_reasons": [],
+    "child_text": [
+      "The picture took longer than the font issue."
+    ]
+  },
+  "checked": {
+    "event": "presentation issue",
+    "who": {
+      "given": false,
+      "child_words": "",
+      "rejected_claim": "me ellie and harry and then miss put daniel in as well | The picture took longer than the font issue."
+    },
+    "where": {
+      "given": false,
+      "child_words": "",
+      "rejected_claim": "science room 12 | The picture took longer than the font issue."
+    },
+    "what_happened": {
+      "given": true,
+      "child_words": "The picture took longer than the font issue",
+      "rejected_claim": ""
+    },
+    "ending": {
+      "given": true,
+      "child_words": "The picture took longer than the font issue",
+      "rejected_claim": ""
+    }
+  },
+  "written": {
+    "summary": "The child said the picture took longer than the font issue.",
+    "goals": [
+      "Say who was there.",
+      "Say where it happened.",
+      "Name how they felt.",
+      "Give a reason, using 'because' or 'so'."
+    ],
+    "focus": [
+      "The child will say who was there.",
+      "The child will say where it happened.",
+      "The child will name how they felt.",
+      "The child will give a reason using 'because' or 'so'."
+    ],
+    "prompts": [
+      "Who was with you in that?",
+      "Where did that happen?",
+      "How did you feel when that happened?"
+    ]
+  }
+}

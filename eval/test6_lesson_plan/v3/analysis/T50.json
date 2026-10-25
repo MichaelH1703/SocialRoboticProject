@@ -1,0 +1,283 @@
+{
+  "labelled": true,
+  "speakers": "auto",
+  "auto_labels": {
+    "method": "sentences",
+    "segments": [
+      [
+        "therapist",
+        "Hi Thomas."
+      ],
+      [
+        "therapist",
+        "What's been happening?"
+      ],
+      [
+        "child",
+        "I lost my hamster."
+      ],
+      [
+        "child",
+        "Oh."
+      ],
+      [
+        "therapist",
+        "I've got a story about looking for something."
+      ],
+      [
+        "therapist",
+        "I once spent ages looking for my glasses and they were on my head."
+      ],
+      [
+        "therapist",
+        "Tell me what happened with your hamster."
+      ],
+      [
+        "child",
+        "His name's Pickle."
+      ],
+      [
+        "child",
+        "The cage door wasn't shut properly."
+      ],
+      [
+        "therapist",
+        "Where did you first notice he was missing?"
+      ],
+      [
+        "child",
+        "In my bedroom."
+      ],
+      [
+        "therapist",
+        "Who helped you look?"
+      ],
+      [
+        "child",
+        "Mum and my sister."
+      ],
+      [
+        "therapist",
+        "What did you do first?"
+      ],
+      [
+        "child",
+        "We looked under the bed and behind the drawers."
+      ],
+      [
+        "child",
+        "I got a torch."
+      ],
+      [
+        "therapist",
+        "Did you find anything?"
+      ],
+      [
+        "child",
+        "A sock and two pens."
+      ],
+      [
+        "therapist",
+        "What happened next?"
+      ],
+      [
+        "child",
+        "Mum said to turn the lights off and listen."
+      ],
+      [
+        "child",
+        "We heard scratching near the wardrobe."
+      ],
+      [
+        "therapist",
+        "What did you do when you heard it?"
+      ],
+      [
+        "child",
+        "I moved the boxes."
+      ],
+      [
+        "child",
+        "He was behind the bottom one."
+      ],
+      [
+        "therapist",
+        "How did you feel when you found him?"
+      ],
+      [
+        "child",
+        "I was relieved."
+      ],
+      [
+        "child",
+        "I thought the cat might get him."
+      ],
+      [
+        "therapist",
+        "That must have been terrifying."
+      ],
+      [
+        "child",
+        "Not terrifying."
+      ],
+      [
+        "child",
+        "I was worried, though."
+      ],
+      [
+        "therapist",
+        "Thanks for correcting that."
+      ],
+      [
+        "therapist",
+        "You were worried about the cat getting him, and relieved when you found him."
+      ],
+      [
+        "child",
+        "Yeah."
+      ],
+      [
+        "therapist",
+        "What happened after you found Pickle?"
+      ],
+      [
+        "child",
+        "I picked him up and put him back in his cage."
+      ],
+      [
+        "child",
+        "Mum checked the latch."
+      ],
+      [
+        "therapist",
+        "What happened at the end?"
+      ],
+      [
+        "child",
+        "I gave him a bit of cucumber."
+      ],
+      [
+        "child",
+        "He ate it."
+      ],
+      [
+        "therapist",
+        "So Pickle's cage door wasn't shut properly, you and your mum and sister searched your bedroom, heard scratching by the wardrobe, found him behind a box, put him back in his cage and checked the latch."
+      ],
+      [
+        "therapist",
+        "You gave him cucumber afterwards."
+      ],
+      [
+        "child",
+        "Yes."
+      ],
+      [
+        "therapist",
+        "Is there anything else you want to add?"
+      ],
+      [
+        "child",
+        "No."
+      ],
+      [
+        "therapist",
+        "Thank you, Thomas."
+      ],
+      [
+        "therapist",
+        "Bye."
+      ]
+    ],
+    "echoes_relabelled": []
+  },
+  "labelled_transcript": "Therapist. Hi Thomas. What's been happening? Child. I lost my hamster. Oh. Therapist. I've got a story about looking for something. I once spent ages looking for my glasses and they were on my head. Tell me what happened with your hamster. Child. His name's Pickle. The cage door wasn't shut properly. Therapist. Where did you first notice he was missing? Child. In my bedroom. Therapist. Who helped you look? Child. Mum and my sister. Therapist. What did you do first? Child. We looked under the bed and behind the drawers. I got a torch. Therapist. Did you find anything? Child. A sock and two pens. Therapist. What happened next? Child. Mum said to turn the lights off and listen. We heard scratching near the wardrobe. Therapist. What did you do when you heard it? Child. I moved the boxes. He was behind the bottom one. Therapist. How did you feel when you found him? Child. I was relieved. I thought the cat might get him. Therapist. That must have been terrifying. Child. Not terrifying. I was worried, though. Therapist. Thanks for correcting that. You were worried about the cat getting him, and relieved when you found him. Child. Yeah. Therapist. What happened after you found Pickle? Child. I picked him up and put him back in his cage. Mum checked the latch. Therapist. What happened at the end? Child. I gave him a bit of cucumber. He ate it. Therapist. So Pickle's cage door wasn't shut properly, you and your mum and sister searched your bedroom, heard scratching by the wardrobe, found him behind a box, put him back in his cage and checked the latch. You gave him cucumber afterwards. Child. Yes. Therapist. Is there anything else you want to add? Child. No. Therapist. Thank you, Thomas. Bye.",
+  "facts": {
+    "child_turns": 15,
+    "mean_words_per_turn": 7.2,
+    "sequence_words": [],
+    "vague_words": [],
+    "child_text": [
+      "I lost my hamster. Oh.",
+      "His name's Pickle. The cage door wasn't shut properly.",
+      "In my bedroom.",
+      "Mum and my sister.",
+      "We looked under the bed and behind the drawers. I got a torch.",
+      "A sock and two pens.",
+      "Mum said to turn the lights off and listen. We heard scratching near the wardrobe.",
+      "I moved the boxes. He was behind the bottom one.",
+      "I was relieved. I thought the cat might get him.",
+      "Not terrifying. I was worried, though.",
+      "Yeah.",
+      "I picked him up and put him back in his cage. Mum checked the latch.",
+      "I gave him a bit of cucumber. He ate it.",
+      "Yes.",
+      "No."
+    ],
+    "feelings": [
+      {
+        "word": "relieved",
+        "child_words": "I was relieved. I thought the cat might get him.",
+        "named": true
+      },
+      {
+        "word": "worried",
+        "child_words": "I was worried, though.",
+        "named": true
+      }
+    ],
+    "reasons": [
+      {
+        "child_words": "I was relieved. I thought the cat might get him.",
+        "linked": false,
+        "about_feeling": true
+      },
+      {
+        "child_words": "I was worried, though.",
+        "linked": false,
+        "about_feeling": true
+      }
+    ],
+    "feeling_reasons": [
+      "I was relieved. I thought the cat might get him.",
+      "I was worried, though."
+    ]
+  },
+  "checked": {
+    "event": "Finding the hamster",
+    "who": {
+      "given": true,
+      "child_words": "Mum and my sister.",
+      "rejected_claim": ""
+    },
+    "where": {
+      "given": true,
+      "child_words": "In my bedroom.",
+      "rejected_claim": ""
+    },
+    "what_happened": {
+      "given": true,
+      "child_words": "We looked under the bed and behind the drawers. I got a torch. A sock and two pens. Mum said to turn the lights off and listen. We heard scratching near the wardrobe. I moved the boxes. He was behind the bottom one. I picked him up and put him back in his cage. Mum checked the latch.",
+      "rejected_claim": ""
+    },
+    "ending": {
+      "given": true,
+      "child_words": "I gave him a bit of cucumber. He ate it.",
+      "rejected_claim": ""
+    }
+  },
+  "written": {
+    "summary": "The child told that they lost their hamster named Pickle because the cage door wasn't shut properly. They looked under the bed and behind the drawers with Mum and their sister, used a torch, and found the hamster behind the bottom box. They gave the hamster some cucumber and put him back in his cage.",
+    "goals": [
+      "Link a reason with 'because' or 'so'.",
+      "Put events in order with words like 'first' and 'then'."
+    ],
+    "focus": [
+      "The child will link a reason with 'because' or 'so' in their recount.",
+      "The child will put events in order using words like 'first' and 'then'."
+    ],
+    "prompts": [
+      "What did you do first, and then what did you do?"
+    ]
+  }
+}

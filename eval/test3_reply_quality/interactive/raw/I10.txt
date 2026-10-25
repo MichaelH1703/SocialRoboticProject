@@ -1,0 +1,72 @@
+[Interactive] session I10, typed by a person; 10 model replies, /end to stop
+[Isolation] new process pid 433344; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (4.0s)
+[Interactive] Event titles: Went bowling for Mia's birthday, Had a science test, Fire drill at school, Played netball in PE, Made pasta in food tech
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: i made pasta in food tech class
+[State] Selected event: Made pasta in food tech
+
+Reachy: That sounds yummy. What did you make specifically?
+
+[Latency] Turn: 2.90s
+[Interactive] Reply 1 of 10 saved.
+You: we made pasta with meatballs
+[Question limit] Dropped: 'Did everyone like it?'
+
+Reachy: Great dish! And how was it?
+
+[Latency] Turn: 2.59s
+[Interactive] Reply 2 of 10 saved.
+You: it was very yummy
+
+Reachy: That's good to hear, yummy! Does anyone like the food you made?
+
+[Latency] Turn: 2.57s
+[Interactive] Reply 3 of 10 saved.
+You: yeah my partner liked it as well
+
+Reachy: That’s great to know. Did they try some too?
+
+[Latency] Turn: 2.53s
+[Interactive] Reply 4 of 10 saved.
+You: yeah
+
+Reachy: Awesome! What did your partner think of the meatballs?
+
+[Latency] Turn: 2.63s
+[Interactive] Reply 5 of 10 saved.
+You: they liked them
+
+Reachy: That's good to hear. Do you have a favorite part about making pasta with meatballs?
+
+[Latency] Turn: 2.56s
+[Interactive] Reply 6 of 10 saved.
+You: yeah i liked cooking the meatballs in the frying pan
+
+Reachy: Cooking the meatballs sounds fun. What did it feel like doing that?
+
+[Latency] Turn: 2.56s
+[Interactive] Reply 7 of 10 saved.
+You: it was fun, i liked the sound of the meatballs sizzling and the smell as well
+
+Reachy: That smells and sound must have been quite pleasant. Did anything go wrong while you were cooking?
+
+[Latency] Turn: 2.74s
+[Interactive] Reply 8 of 10 saved.
+You: i dropped one of the meatballs on the floor
+
+Reachy: Oh no! That must have made things a bit messy. How did you fix it or continue cooking with the dropped meatball?
+
+[Latency] Turn: 2.85s
+[Interactive] Reply 9 of 10 saved.
+You: i had to throw that one in the bin
+
+Reachy: Throwing a meatball away is okay sometimes. Is there anything else about making pasta and meatballs you want to share?
+
+[Latency] Turn: 2.66s
+[Interactive] Reply 10 of 10 saved.
+[Interactive] Session I10 ended (10 replies), 10 replies saved.
+[Interactive] Database unchanged by the session: True

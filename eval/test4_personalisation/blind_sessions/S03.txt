@@ -1,0 +1,45 @@
+Session S03
+
+Reachy (greeting, not coded): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Went bowling.
+Reachy [1]: Gave your friend Mia a special birthday treat. What was that like for you?
+
+You: Happy. Good.
+Reachy [2]: That sounds like a fun time. Were there any friends who joined you?
+
+You: Mia. Ella. Grace. Jess. Stuff.
+Reachy [3]: Great company then. Did anyone have trouble with the lanes or balls?
+
+You: No.
+Reachy [4]: That's good to know. Anything else from your day you wanted to mention?
+
+You: Pizza. Cake. Candles.
+Reachy [5]: Sounds like lots of fun! You had a yummy celebration, didn't you?
+
+You: Yeah.
+Reachy [6]: Good evening, then. Any last thing from today's events to share?
+
+You: Mia's mum drove me home.
+Reachy [7]: Nice to have someone drive you safely home. Thanks for sharing your day with me today.
+
+You: Can't remember.
+Reachy [8]: It’s okay not to remember everything right now. Is there anything else from the bowling trip that stands out?
+
+You: People looked.
+Reachy [9]: Oh, interesting! What did they look at or do?
+
+You: I don't know.
+Reachy [10]: Did anyone tell you jokes while waiting for your turn?
+
+You: No.
+Reachy [11]: Got it. Are there any other details from the bowling trip that you remember now?
+
+You: Two strikes.
+Reachy [12]: That sounds like a great score! Thanks for talking about your day with me today. Let's take a short break then. Is there anything else you want to do before we stop?
+
+You: Bye.
+Reachy (scripted, not coded): Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+You: No.
+Reachy (scripted, not coded): Okay. Thank you for sharing your day with me, April. Goodbye.

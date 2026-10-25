@@ -1,0 +1,6 @@
+set	hit rate	false alarms per transcript	quotes not in transcript
+T01-T10	0.95	0.3	0 of 66
+T11-T20	0.94	0.5	0 of 73
+T21-T30	0.69	0.2	0 of 79
+T31-T60	0.86	0.7	0 of 299
+All 60	0.86	0.5	0 of 517

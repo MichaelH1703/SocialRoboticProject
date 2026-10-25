@@ -1,0 +1,56 @@
+{
+  "seed": 7,
+  "made": "2026-10-12 02:18",
+  "sessions": [
+    {
+      "label": "H01",
+      "condition": "B",
+      "idk_turn": 7
+    },
+    {
+      "label": "H02",
+      "condition": "W",
+      "idk_turn": 9
+    },
+    {
+      "label": "H03",
+      "condition": "W",
+      "idk_turn": 8
+    },
+    {
+      "label": "H04",
+      "condition": "W",
+      "idk_turn": 6
+    },
+    {
+      "label": "H05",
+      "condition": "B",
+      "idk_turn": 8
+    },
+    {
+      "label": "H06",
+      "condition": "W",
+      "idk_turn": 7
+    },
+    {
+      "label": "H07",
+      "condition": "B",
+      "idk_turn": 10
+    },
+    {
+      "label": "H08",
+      "condition": "B",
+      "idk_turn": 6
+    },
+    {
+      "label": "H09",
+      "condition": "W",
+      "idk_turn": 10
+    },
+    {
+      "label": "H10",
+      "condition": "B",
+      "idk_turn": 9
+    }
+  ]
+}

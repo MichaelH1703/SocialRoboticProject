@@ -1,0 +1,11 @@
+label	followed_lesson_focus	used_profile_detail	focus_move_count	note
+S31	Y	N	2 (b2)	r4 "How did you and your friends feel" and r6 "Did anyone get surprised" both ask about others' feelings; both borderline (b)
+S32	N	N	0	Only plain "how did you feel" questions (r3, r6)
+S33	N	N	0	r5 is a plain feelings question; r7 "game or cake?" is a preference choice, not an emotion word
+S34	Y	N	1 (b1)	r8 "She seemed proud of herself, didn't she?" asks about Mia's feelings (leading); r14 "Did you both enjoy" is a possible second (b)
+S35	N	N	0	r4 calls nervous "normal" but doesn't ask why (April had already given the reason)
+S36	Y	N	1 (b1)	r3 "Did everyone have a good time?" is a borderline (b); r12 is a scoring-preference question, not counted
+S37	Y	N	1 (a1)	r5 asks what made her happy
+S38	Y	N	3 (a1, b2)	r6 asks what made the pink ball her favourite (a); r8 "Did Mia enjoy…" (b); r9 asks how it felt when Mia got her present, borderline (b), and the present is invented
+S39	N	N	0	Only plain feelings questions (r2, r3, r6)
+S40	Y	N	1 (b1)	r8 "Did anyone have a favorite part" drew a perspective answer from April ("I think Mia liked the bowling best"); r10 is a plain feelings question

@@ -1,0 +1,39 @@
+Session S40
+
+Reachy (greeting, not coded): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Went bowling
+Reachy [1]: That sounds like fun. Where did you go bowling?
+
+You: at superlanes
+Reachy [2]: At SuperLanes. Was anyone else there with you?
+
+You: yeah it was Mia's Birthday party
+Reachy [3]: Mia had a birthday party too. Did you have any special treats or games while you were there?
+
+You: we had pizza and cake
+Reachy [4]: That sounds yummy! And what game did you play at SuperLanes?
+
+You: there was a bunch or arcade machines
+Reachy [5]: What kind of games did you play on the arcades, do you remember?
+
+You: there was a hunting game with fake guns
+Reachy [6]: Oh really?
+
+You: yeah
+Reachy [7]: That sounds like it could be fun. What did you think about Mia having her birthday party at SuperLanes?
+
+You: i liked it alot
+Reachy [8]: That's great to hear! Did anyone have a favorite part of the party or games?
+
+You: I think Mia liked the bowling best, she won
+Reachy [9]: That's wonderful hearing that. Did you all laugh or play together during the bowling game?
+
+You: yeah, i came second
+Reachy [10]: Nice to know! What did you feel when Mia won and how did it make you feel?
+
+You: happy
+Reachy [11]: To hear you were happy, that's good to know. Did anyone laugh at you for coming in second?
+
+You: no
+Reachy [12]: Good to hear no one laughed at you. That's nice. Thank you for sharing your day with me.

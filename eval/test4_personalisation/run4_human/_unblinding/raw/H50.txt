@@ -1,0 +1,52 @@
+[Human] session H50, condition B, "I don't know" at turn 6
+[Isolation] new process pid 103400; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (6.4s)
+[Supabase] client_profiles error: {'message': 'Cannot coerce the result to a single JSON object', 'code': 'PGRST116', 'hint': None, 'details': 'The result contains 0 rows'}
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: yeah. went bowling
+[State] Selected event: Went bowling for Mia's birthday
+
+Reachy: That sounds fun! What did Mia like about bowling at her birthday?
+
+[Latency] Turn: 2.92s
+You: she loves bowling
+
+Reachy: Mia really seemed excited and had a great time bowling for her birthday, didn't she?
+
+[Latency] Turn: 2.77s
+You: yeah
+
+Reachy: Great to hear that, Mia made it even more enjoyable by loving bowling. Did you play any specific games or have anything fun happen during your bowling outing?
+
+[Latency] Turn: 2.68s
+You: we just bowled
+
+Reachy: Just bowling sounds like a simple but enjoyable way to spend the time together at Mia's birthday! What else do you remember about that day?
+
+[Latency] Turn: 2.80s
+You: we had pizza and cake
+
+Reachy: Pizza and cake sound delicious! Did something special happen with those treats or were they just part of making the bowling fun?
+
+[Latency] Turn: 2.68s
+You: we sung happy birthday before we ate them, it was very loud
+[Question limit] Dropped: 'What other things did you do besides eating and singing?'
+
+Reachy: Singing Happy Birthday together made it extra special, didn't it?
+
+[Latency] Turn: 2.61s
+You: yeah but it was too loud
+
+Reachy: It’s good to remember how exciting and joyful that day at Mia's bowling party was. Is there anything else you’d like to talk about from today?
+
+[Latency] Turn: 2.76s
+You: no
+
+Reachy: Okay, that’s great. Have a nice day!
+
+[Latency] Turn: 2.44s
+[Human] Ended by the player before Reachy's goodbye.
+[Human] Session over.

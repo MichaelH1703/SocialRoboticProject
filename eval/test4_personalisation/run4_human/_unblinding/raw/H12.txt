@@ -1,0 +1,61 @@
+[Human] session H12, condition W-v1, "I don't know" at turn 6
+[Isolation] new process pid 50700; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (6.0s)
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: i dont know
+[State] Vague reply -> scripted line: That's okay. We could talk about one of these. Went bowling for Mia's birthday, Had a science test, or Fire drill at school. Which one sounds good?
+
+Reachy: That's okay. We could talk about one of these. Went bowling for Mia's birthday, Had a science test, or Fire drill at school. Which one sounds good?
+
+[Not spoken] Model's reply, dropped but kept in its history as on the robot: "That's okay. Maybe we could talk about went bowling for mia's birthday, had a science test, fire drill at school?"
+You: yeah, i went bowling for Mia's birthday
+[State] Selected event: Went bowling for Mia's birthday
+
+Reachy: Good choice. How did that go for you today?
+
+[Latency] Turn: 2.62s
+You: yeah it was alot of fun
+
+Reachy: That sounds great. What made it so much fun, do you remember?
+
+[Latency] Turn: 2.69s
+You: just laughing and having fun with my friends
+
+Reachy: Got it, you laughed and played with your friends. How did that make you feel playing bowling with them?
+
+[Latency] Turn: 2.69s
+You: it made me feel good
+
+Reachy: Feeling good, doesn't that make you want to do more of the same activities?
+
+[Latency] Turn: 2.79s
+You: i dont know
+
+Reachy: Do you have any thoughts about your day or questions for me?
+
+[Latency] Turn: 2.63s
+You: no not really
+
+Reachy: Okay, is there anything special you'd like to talk about tomorrow then?
+
+[Latency] Turn: 2.64s
+You: no
+
+Reachy: Alright, it was nice talking with you. Have a good rest of the day!
+
+[Latency] Turn: 2.55s
+You: thankyou, goodbye
+
+Reachy: Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+[State] Goodbye heard; confirming before ending.
+[Not spoken] Model's reply, dropped but kept in its history as on the robot: "You're welcome. Goodbye."
+You: no
+
+Reachy: Okay. Thank you for sharing your day with me, April. Goodbye.
+
+[State] Child confirmed goodbye; ending session.
+[Human] Session over.

@@ -1,0 +1,273 @@
+{
+  "labelled": true,
+  "speakers": "auto",
+  "auto_labels": {
+    "sentences": [
+      [
+        "therapist",
+        "Hi there."
+      ],
+      [
+        "therapist",
+        "Today we're going to talk about something that really happened to you."
+      ],
+      [
+        "therapist",
+        "I'll go first and then it'll be your turn."
+      ],
+      [
+        "therapist",
+        "Yesterday I made soup for dinner, but I put in too much salt."
+      ],
+      [
+        "therapist",
+        "We had toast instead because it was quicker."
+      ],
+      [
+        "therapist",
+        "I felt a bit embarrassed."
+      ],
+      [
+        "therapist",
+        "Okay, now it's your turn."
+      ],
+      [
+        "child",
+        "The cinema."
+      ],
+      [
+        "child",
+        "I went to the cinema."
+      ],
+      [
+        "therapist",
+        "The cinema!"
+      ],
+      [
+        "therapist",
+        "Who did you go with?"
+      ],
+      [
+        "child",
+        "My cousin Mia."
+      ],
+      [
+        "child",
+        "And my auntie."
+      ],
+      [
+        "therapist",
+        "Your cousin Mia and your auntie."
+      ],
+      [
+        "therapist",
+        "Which cinema was it?"
+      ],
+      [
+        "child",
+        "The big one at the shopping centre."
+      ],
+      [
+        "therapist",
+        "The big cinema at the shopping centre."
+      ],
+      [
+        "therapist",
+        "What happened?"
+      ],
+      [
+        "child",
+        "We watched the dinosaur film."
+      ],
+      [
+        "child",
+        "And we had popcorn."
+      ],
+      [
+        "therapist",
+        "The dinosaur film and popcorn."
+      ],
+      [
+        "therapist",
+        "What happened in the film?"
+      ],
+      [
+        "child",
+        "A T-rex came out."
+      ],
+      [
+        "child",
+        "It was really loud, so I hid behind my hands."
+      ],
+      [
+        "therapist",
+        "It was really loud, so you hid behind your hands."
+      ],
+      [
+        "therapist",
+        "How did that feel?"
+      ],
+      [
+        "child",
+        "Scared."
+      ],
+      [
+        "child",
+        "A bit scared."
+      ],
+      [
+        "therapist",
+        "A bit scared."
+      ],
+      [
+        "therapist",
+        "You must have been frightened."
+      ],
+      [
+        "therapist",
+        "Then what happened?"
+      ],
+      [
+        "child",
+        "The baby dinosaur found its mum."
+      ],
+      [
+        "child",
+        "I was happy then."
+      ],
+      [
+        "therapist",
+        "The baby dinosaur found its mum, and you were happy."
+      ],
+      [
+        "therapist",
+        "How did the day end?"
+      ],
+      [
+        "child",
+        "Auntie drove us home."
+      ],
+      [
+        "child",
+        "Mia fell asleep."
+      ],
+      [
+        "therapist",
+        "Auntie drove you home, and Mia fell asleep."
+      ],
+      [
+        "therapist",
+        "Let me say your story back to you."
+      ],
+      [
+        "therapist",
+        "You went to the big cinema at the shopping centre with your cousin Mia and your auntie."
+      ],
+      [
+        "therapist",
+        "You watched the dinosaur film and had popcorn."
+      ],
+      [
+        "therapist",
+        "A T-rex came out and it was really loud, so you hid behind your hands, and you felt a bit scared."
+      ],
+      [
+        "therapist",
+        "Then the baby dinosaur found its mum, and you were happy."
+      ],
+      [
+        "therapist",
+        "At the end your auntie drove you home and Mia fell asleep."
+      ],
+      [
+        "therapist",
+        "Did I get that right?"
+      ],
+      [
+        "child",
+        "Yeah."
+      ],
+      [
+        "therapist",
+        "Thanks for telling me your story."
+      ],
+      [
+        "therapist",
+        "You did a really great job."
+      ]
+    ],
+    "echoes_relabelled": [
+      9,
+      28
+    ]
+  },
+  "labelled_transcript": "Therapist. Hi there. Today we're going to talk about something that really happened to you. I'll go first and then it'll be your turn. Yesterday I made soup for dinner, but I put in too much salt. We had toast instead because it was quicker. I felt a bit embarrassed. Okay, now it's your turn. Child. The cinema. I went to the cinema. Therapist. The cinema! Who did you go with? Child. My cousin Mia. And my auntie. Therapist. Your cousin Mia and your auntie. Which cinema was it? Child. The big one at the shopping centre. Therapist. The big cinema at the shopping centre. What happened? Child. We watched the dinosaur film. And we had popcorn. Therapist. The dinosaur film and popcorn. What happened in the film? Child. A T-rex came out. It was really loud, so I hid behind my hands. Therapist. It was really loud, so you hid behind your hands. How did that feel? Child. Scared. A bit scared. Therapist. A bit scared. You must have been frightened. Then what happened? Child. The baby dinosaur found its mum. I was happy then. Therapist. The baby dinosaur found its mum, and you were happy. How did the day end? Child. Auntie drove us home. Mia fell asleep. Therapist. Auntie drove you home, and Mia fell asleep. Let me say your story back to you. You went to the big cinema at the shopping centre with your cousin Mia and your auntie. You watched the dinosaur film and had popcorn. A T-rex came out and it was really loud, so you hid behind your hands, and you felt a bit scared. Then the baby dinosaur found its mum, and you were happy. At the end your auntie drove you home and Mia fell asleep. Did I get that right? Child. Yeah. Therapist. Thanks for telling me your story. You did a really great job.",
+  "facts": {
+    "child_turns": 9,
+    "mean_words_per_turn": 7.2,
+    "reasons": [
+      "A T-rex came out. It was really loud, so I hid behind my hands."
+    ],
+    "sequence_words": [
+      "then"
+    ],
+    "vague_words": [],
+    "feelings": [
+      {
+        "word": "scared",
+        "child_words": "Scared. A bit scared."
+      },
+      {
+        "word": "happy",
+        "child_words": "The baby dinosaur found its mum. I was happy then."
+      }
+    ],
+    "feeling_reasons": [],
+    "child_text": [
+      "The cinema. I went to the cinema.",
+      "My cousin Mia. And my auntie.",
+      "The big one at the shopping centre.",
+      "We watched the dinosaur film. And we had popcorn.",
+      "A T-rex came out. It was really loud, so I hid behind my hands.",
+      "Scared. A bit scared.",
+      "The baby dinosaur found its mum. I was happy then.",
+      "Auntie drove us home. Mia fell asleep.",
+      "Yeah."
+    ]
+  },
+  "checked": {
+    "event": "Going to the cinema",
+    "who": {
+      "given": true,
+      "child_words": "My cousin Mia. And my auntie.",
+      "rejected_claim": ""
+    },
+    "where": {
+      "given": true,
+      "child_words": "The big one at the shopping centre.",
+      "rejected_claim": ""
+    },
+    "what_happened": {
+      "given": true,
+      "child_words": "We watched the dinosaur film. And we had popcorn. A T-rex came out. It was really loud, so I hid behind my hands. Scared. A bit scared. The baby dinosaur found its mum. I was happy then.",
+      "rejected_claim": ""
+    },
+    "ending": {
+      "given": true,
+      "child_words": "Auntie drove us home. Mia fell asleep.",
+      "rejected_claim": ""
+    }
+  },
+  "written": {
+    "summary": "The child told about going to the cinema. The child mentioned my cousin Mia and my auntie. The child said they watched the dinosaur film and had popcorn. The child described a T-rex coming out and hiding behind their hands. The child mentioned the baby dinosaur found its mum and auntie drove them home. The child said Mia fell asleep and said yeah.",
+    "goals": [
+      "Say why they felt that way."
+    ],
+    "focus": [
+      "The child will explain their feelings about an event."
+    ],
+    "prompts": [
+      "Why did you feel that way about it?"
+    ]
+  }
+}

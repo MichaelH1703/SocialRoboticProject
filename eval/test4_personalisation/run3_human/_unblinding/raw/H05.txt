@@ -1,0 +1,71 @@
+[Human] session H05, condition B, "I don't know" at turn 8
+[Isolation] new process pid 388804; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (3.7s)
+[Supabase] client_profiles error: {'message': 'Cannot coerce the result to a single JSON object', 'code': 'PGRST116', 'hint': None, 'details': 'The result contains 0 rows'}
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. went bowling
+[State] Selected event: Went bowling for Mia's birthday
+
+Reachy: That sounds fun! Did anyone else go with you?
+
+[Latency] Turn: 2.70s
+You: it was Mia's birthday
+
+Reachy: Oh, that’s right. How did it make you feel going there for her birthday?
+
+[Latency] Turn: 2.69s
+You: it was super fun
+
+Reachy: It sounds like a lot of joy! Was the bowling alley far from your home?
+
+[Latency] Turn: 2.63s
+You: i dont know
+
+Reachy: Do you remember how your mommy or daddy drove to get there?
+
+[Latency] Turn: 2.64s
+You: we went there right after school. Mia's mum drove us
+
+Reachy: That’s good to know. Did you have a ball that you liked playing with better than the others?
+
+[Latency] Turn: 2.63s
+You: yeah it was pink
+
+Reachy: What made the pink ball your favorite?
+
+[Latency] Turn: 2.50s
+You: the colour
+
+Reachy: What fun activities did you do at the bowling alley, if anything?
+
+[Latency] Turn: 2.47s
+You: we had cake
+
+Reachy: That’s a nice treat! Did Mia enjoy their birthday party too?
+
+[Latency] Turn: 2.58s
+You: yeah
+
+Reachy: Great to hear that everyone had a good time. How did it feel when Mia received her birthday present?
+
+[Latency] Turn: 2.62s
+You: she was happy
+
+Reachy: It sounds like Mia and everyone else had a very special day together!
+
+[Latency] Turn: 2.66s
+You: bye
+
+Reachy: Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+[State] Goodbye heard; confirming before ending.
+[Not spoken] Model's reply, dropped but kept in its history as on the robot: 'Goodbye for now. Take care!'
+You: no
+
+Reachy: Okay. Thank you for sharing your day with me, April. Goodbye.
+
+[State] Child confirmed goodbye; ending session.
+[Human] Session over.

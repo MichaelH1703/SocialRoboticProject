@@ -1,0 +1,248 @@
+{
+  "labelled": true,
+  "speakers": "auto",
+  "auto_labels": {
+    "method": "sentences",
+    "segments": [
+      [
+        "therapist",
+        "Hello, Niamh."
+      ],
+      [
+        "therapist",
+        "How are you doing today?"
+      ],
+      [
+        "child",
+        "Okay."
+      ],
+      [
+        "therapist",
+        "Last week I had an appointment at the optician's."
+      ],
+      [
+        "therapist",
+        "I had to read letters on a screen, and I couldn't tell whether one of them was an F or a P."
+      ],
+      [
+        "therapist",
+        "Have you had an appointment recently?"
+      ],
+      [
+        "child",
+        "Dentist."
+      ],
+      [
+        "therapist",
+        "Was that this week or last week?"
+      ],
+      [
+        "child",
+        "Tuesday."
+      ],
+      [
+        "therapist",
+        "What happened at the dentist?"
+      ],
+      [
+        "child",
+        "They checked my teeth."
+      ],
+      [
+        "therapist",
+        "Who went with you?"
+      ],
+      [
+        "child",
+        "Mum."
+      ],
+      [
+        "therapist",
+        "Where was the appointment?"
+      ],
+      [
+        "child",
+        "In town."
+      ],
+      [
+        "therapist",
+        "What happened when you went into the room?"
+      ],
+      [
+        "child",
+        "I sat down."
+      ],
+      [
+        "child",
+        "The chair moved back."
+      ],
+      [
+        "therapist",
+        "How did you feel while that was happening?"
+      ],
+      [
+        "child",
+        "I don't know."
+      ],
+      [
+        "therapist",
+        "That's okay."
+      ],
+      [
+        "therapist",
+        "You don't need to choose a feeling."
+      ],
+      [
+        "therapist",
+        "Was there anything that made the appointment easier or harder?"
+      ],
+      [
+        "child",
+        "The light was bright."
+      ],
+      [
+        "therapist",
+        "The light was bright."
+      ],
+      [
+        "therapist",
+        "What did the dentist do next?"
+      ],
+      [
+        "child",
+        "Used the little mirror thing and counted."
+      ],
+      [
+        "therapist",
+        "Did you have any treatment, or was it just a check?"
+      ],
+      [
+        "child",
+        "Just a check."
+      ],
+      [
+        "therapist",
+        "What happened after the check?"
+      ],
+      [
+        "child",
+        "Mum paid."
+      ],
+      [
+        "therapist",
+        "And how did the visit finish?"
+      ],
+      [
+        "child",
+        "We left."
+      ],
+      [
+        "therapist",
+        "So on Tuesday you went into town with Mum, sat in the chair, and the dentist checked your teeth with a mirror and counted them."
+      ],
+      [
+        "child",
+        "The light was bright, and then Mum paid and you left."
+      ],
+      [
+        "child",
+        "Yes."
+      ],
+      [
+        "therapist",
+        "Have I got that right?"
+      ],
+      [
+        "child",
+        "Yes."
+      ],
+      [
+        "therapist",
+        "Thanks, Niamh."
+      ],
+      [
+        "therapist",
+        "That's enough detail for today."
+      ],
+      [
+        "child",
+        "Can I get my bag?"
+      ]
+    ],
+    "echoes_relabelled": [
+      24
+    ]
+  },
+  "labelled_transcript": "Therapist. Hello, Niamh. How are you doing today? Child. Okay. Therapist. Last week I had an appointment at the optician's. I had to read letters on a screen, and I couldn't tell whether one of them was an F or a P. Have you had an appointment recently? Child. Dentist. Therapist. Was that this week or last week? Child. Tuesday. Therapist. What happened at the dentist? Child. They checked my teeth. Therapist. Who went with you? Child. Mum. Therapist. Where was the appointment? Child. In town. Therapist. What happened when you went into the room? Child. I sat down. The chair moved back. Therapist. How did you feel while that was happening? Child. I don't know. Therapist. That's okay. You don't need to choose a feeling. Was there anything that made the appointment easier or harder? Child. The light was bright. Therapist. The light was bright. What did the dentist do next? Child. Used the little mirror thing and counted. Therapist. Did you have any treatment, or was it just a check? Child. Just a check. Therapist. What happened after the check? Child. Mum paid. Therapist. And how did the visit finish? Child. We left. Therapist. So on Tuesday you went into town with Mum, sat in the chair, and the dentist checked your teeth with a mirror and counted them. Child. The light was bright, and then Mum paid and you left. Yes. Therapist. Have I got that right? Child. Yes. Therapist. Thanks, Niamh. That's enough detail for today. Child. Can I get my bag?",
+  "facts": {
+    "child_turns": 16,
+    "mean_words_per_turn": 3.5,
+    "sequence_words": [
+      "then"
+    ],
+    "vague_words": [
+      "thing"
+    ],
+    "child_text": [
+      "Okay.",
+      "Dentist.",
+      "Tuesday.",
+      "They checked my teeth.",
+      "Mum.",
+      "In town.",
+      "I sat down. The chair moved back.",
+      "I don't know.",
+      "The light was bright.",
+      "Used the little mirror thing and counted.",
+      "Just a check.",
+      "Mum paid.",
+      "We left.",
+      "The light was bright, and then Mum paid and you left. Yes.",
+      "Yes.",
+      "Can I get my bag?"
+    ],
+    "feelings": [],
+    "reasons": [],
+    "feeling_reasons": []
+  },
+  "checked": {
+    "event": "Dentist visit",
+    "who": {
+      "given": true,
+      "child_words": "Mum",
+      "rejected_claim": ""
+    },
+    "where": {
+      "given": true,
+      "child_words": "In town",
+      "rejected_claim": ""
+    },
+    "what_happened": {
+      "given": true,
+      "child_words": "They checked my teeth. I sat down. The chair moved back. The light was bright. Used the little mirror thing and counted. Just a check. Mum paid.",
+      "rejected_claim": ""
+    },
+    "ending": {
+      "given": true,
+      "child_words": "We left.",
+      "rejected_claim": ""
+    }
+  },
+  "written": {
+    "summary": "The child told about a dentist visit on Tuesday. They said the chair moved back, the light was bright, they used the little mirror thing and counted, and Mum paid. They also mentioned they sat down, they don't know, and they left with Mum.",
+    "goals": [
+      "Say how they felt.",
+      "Give a reason, using 'because' or 'so'.",
+      "Use the exact word instead of vague words like 'stuff' or 'thing'."
+    ],
+    "focus": [
+      "The child will say how they felt during an activity.",
+      "The child will give a reason for their action using 'because' or 'so'.",
+      "The child will use the exact word instead of vague words like 'stuff' or 'thing'."
+    ],
+    "prompts": [
+      "How did you feel when you did that?",
+      "What was the exact word for that thing you did?"
+    ]
+  }
+}

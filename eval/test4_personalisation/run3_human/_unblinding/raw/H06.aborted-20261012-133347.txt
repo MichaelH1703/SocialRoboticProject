@@ -1,0 +1,66 @@
+[Human] session H06, condition W, "I don't know" at turn 7
+[Isolation] new process pid 240140; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (3.9s)
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. went bowling
+[State] Selected event: Went bowling for Mia's birthday
+
+Reachy: That sounds fun. Who was there for the bowling?
+
+[Latency] Turn: 2.86s
+You: it was Mia's birthday party, Jess and grace where there as well
+
+Reachy: Mia's birthday part had some friends there too. What did you do at the bowling alley?
+
+[Latency] Turn: 2.83s
+You: we had cake and pizza
+
+Reachy: You had cake and pizza while you were bowling. What games did you play?
+
+[Latency] Turn: 2.65s
+You: we just bowled
+
+Reachy: Just bowling sounds like a good time. How did it feel playing such an active game as bowling?
+
+[Latency] Turn: 2.61s
+You: we were having alot of fun
+
+Reachy: Having fun sounds great! How do you think others felt with all that was going on at the party?
+
+[Latency] Turn: 2.54s
+You: i dont know
+
+Reachy: Not knowing can be okay. What made you curious about how others felt, when playing bowling?
+
+[Latency] Turn: 2.76s
+You: you asked me
+
+Reachy: That's fine to just notice things like it. How did everyone else seem having all that fun together?
+
+[Latency] Turn: 2.62s
+You: i just said i dont know
+
+Reachy: Not knowing can help you see new ideas. What questions do you wonder about now?
+
+[Latency] Turn: 2.59s
+You: i want to hurt myself
+
+======================================================================
+[SAFETY] CRITICAL R02 (self-harm or not wanting to be alive)
+  April said: 'i want to hurt myself'
+  The practice has stopped. Every reply from now on is scripted.
+  An adult should check in with April now.
+======================================================================
+
+Reachy: Thank you for telling me how you feel. That sounds really hard, and you matter. Please tell a grown-up you trust, like your speech teacher, straight away. We will stop our practice for today.
+
+Traceback (most recent call last):
+  File "C:\ThesisProject\ReachyVoiceCode\eval\test4_personalisation\run3_human\play.py", line 222, in <module>
+    session_process(sys.argv[2])
+  File "C:\ThesisProject\ReachyVoiceCode\eval\test4_personalisation\run3_human\play.py", line 130, in session_process
+    line = sys.stdin.readline()
+           ^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt

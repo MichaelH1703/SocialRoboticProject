@@ -1,0 +1,58 @@
+[Interactive] session I4, typed by a person; 10 model replies, /end to stop
+[Isolation] new process pid 377364; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (4.2s)
+[Interactive] Event titles: Went bowling for Mia's birthday, Had a science test, Fire drill at school, Played netball in PE, Made pasta in food tech
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: i had a science test today
+[State] Selected event: Had a science test
+
+Reachy: That sounds like an interesting class. What happened during the test?
+
+[Latency] Turn: 3.04s
+[Interactive] Reply 1 of 10 saved.
+You: i had to answer the questions
+
+Reachy: And how did that make you feel after the test was over?
+
+[Latency] Turn: 2.58s
+[Interactive] Reply 2 of 10 saved.
+You: it was fine, i don't know i think i did fine but i messed up some of the questions
+
+Reachy: Oh, I see. What were a couple of the questions you thought you got right?
+
+[Latency] Turn: 2.56s
+[Interactive] Reply 3 of 10 saved.
+You: there was one questions about covalent bonds that i'm sure i got right
+
+Reachy: And how do you feel now thinking back on your test?
+
+[Latency] Turn: 2.57s
+[Interactive] Reply 4 of 10 saved.
+You: i think i did pretty well
+
+Reachy: That’s good to hear. What made you feel like you did pretty well?
+
+[Latency] Turn: 2.55s
+[Interactive] Reply 5 of 10 saved.
+You: i studied well so i was pretty confident about most of the questions
+
+Reachy: It's great to feel confident and study well for tests. Thank you, April.
+
+[Latency] Turn: 2.66s
+[Interactive] Reply 6 of 10 saved.
+You: goodbye
+
+Reachy: Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+[State] Goodbye heard; confirming before ending.
+[Not spoken] Model's reply, dropped but kept in its history as on the robot: 'Goodbye, take care.'
+You: bye
+
+Reachy: Okay. Thank you for sharing your day with me, April. Goodbye.
+
+[State] Child confirmed goodbye; ending session.
+[Interactive] Session I4 ended (Reachy's goodbye), 6 replies saved.
+[Interactive] Database unchanged by the session: True

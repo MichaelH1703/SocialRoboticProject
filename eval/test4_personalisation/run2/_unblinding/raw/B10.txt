@@ -1,0 +1,83 @@
+[Child sim] session B10, llama3.2:3b, temperature 0.3, seed 10, "I don't know" at turn 6
+[Isolation] new process pid 365444; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (4.4s)
+[Supabase] client_profiles error: {'message': 'Cannot coerce the result to a single JSON object', 'code': 'PGRST116', 'hint': None, 'details': 'The result contains 0 rows'}
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Went bowling.
+[State] Selected event: Went bowling for Mia's birthday
+[Question limit] Dropped: 'Who was there with you?'
+
+Reachy: What did you and Mia do at the bowling alley?
+
+[Latency] Turn: 2.61s
+You: Had pizza. Then cake.
+
+Reachy: And then what happened after they ate pizza and cake?
+
+[Latency] Turn: 2.37s
+You: Mia's mum drove me home.
+
+Reachy: How did it feel to go home with your mom?
+
+[Latency] Turn: 2.50s
+You: Can't remember.
+
+Reachy: Did seeing Mia's mum make you think of anything fun from the day?
+
+[Latency] Turn: 2.55s
+You: Yeah, bowling. Got two strikes.
+
+Reachy: That sounds like a lot of fun, having two strikes at the bowling alley! Do you want to talk about how that felt?
+
+[Latency] Turn: 2.69s
+[Child sim] forced "I don't know" at turn 6; Reachy's line before it asked a question
+You: I don't know.
+
+Reachy: Do you remember anything funny or special from when you were bowling and getting those strikes together?
+
+[Latency] Turn: 2.52s
+You: People looked.
+
+Reachy: Did seeing people look at you make you feel happy?
+
+[Latency] Turn: 2.46s
+You: Happy.
+
+Reachy: That sounds very exciting! Do you have any other fun things to share about the bowling trip with Mia's mum?
+
+[Latency] Turn: 2.65s
+You: Mia won.
+[Question limit] Dropped: 'Did that make you want to show off your strikes?'
+
+Reachy: Winning must have made you really proud and excited, right?
+
+[Latency] Turn: 2.82s
+You: No.
+
+Reachy: Do you remember what you were maybe a little less sure about during the bowling trip?
+
+[Latency] Turn: 2.53s
+You: Just was.
+
+Reachy: What do you think it felt like to be with Mia that day?
+
+[Latency] Turn: 2.51s
+You: Good.
+
+Reachy: It sounds like having fun and being with your friend make that day even better! Would you like to describe anything else from the day with Mia's mum?
+
+[Latency] Turn: 2.66s
+You: Bye.
+
+Reachy: Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+[State] Goodbye heard; confirming before ending.
+[Not spoken] Model's reply, dropped but kept in its history as on the robot: 'Okay, is there anything more you want to share before we take a short break?'
+You: No.
+
+Reachy: Okay. Thank you for sharing your day with me, April. Goodbye.
+
+[State] Child confirmed goodbye; ending session.

@@ -1,0 +1,50 @@
+Session S86
+
+Lesson focus:
+  - Improve narrative sequencing by clarifying which event happened first.
+  - Enhance specific detail recall for personal actions and emotional responses during games.
+  - Develop understanding of different types of emotions related to sports outcomes (e.g., joy, disappointment).
+
+Profile style checklist:
+  1. No jokes, sarcasm or figures of speech.
+  2. One question at a time.
+  3. Say what is coming next.
+  4. Ask what happened before asking about feelings.
+
+Reachy (greeting, not coded): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: yeah. went bowling
+Reachy [1]: Bowling sounds fun! What did Mia do with you there?
+
+You: we bowled and had cake and pizza for her birtthday
+Reachy [2]: That's a nice celebration. Did anyone else join you there?
+
+You: yeah grace and jess were there as well
+Reachy [3]: Grace and Jess joined you at the bowling alley, that's great company! What did they do together?
+
+You: they bowled as well
+Reachy [4]: Great fun! Did you have any snacks or drinks while you were there?
+
+You: yeah we had birthday cake
+Reachy [5]: Birthday cake sounds delicious. Was it yummy?
+
+You: yeah it was really good
+Reachy [6]: That's wonderful to hear. What else did you enjoy about the bowling and birthday celebration?
+
+You: we had pizza and soft drinks as well
+Reachy [7]: Pizza and soft drinks sound like a perfect mix! What games or activities did you play at the bowling alley?
+
+You: we also played on arcade machines
+Reachy [8]: Playing on arcade machines sounds exciting! What game did you choose to play?
+
+You: pacman
+Reachy [9]: Pac-Man sounds like a fun choice. Did anyone else want to play that game or try different ones?
+
+You: i dont know
+Reachy [10]: Sure, let's talk about it for a bit longer. What games did you all want to play at the arcade machines?
+
+You: goodbye
+Reachy (scripted, not coded): Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+You: no
+Reachy (scripted, not coded): Okay. Thank you for sharing your day with me, April. Goodbye.

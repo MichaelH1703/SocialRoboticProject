@@ -1,0 +1,58 @@
+[Human] session H45, condition B, "I don't know" at turn 10
+[Isolation] new process pid 102224; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (5.2s)
+[Supabase] client_profiles error: {'message': 'Cannot coerce the result to a single JSON object', 'code': 'PGRST116', 'hint': None, 'details': 'The result contains 0 rows'}
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. went bowling
+[State] Selected event: Went bowling for Mia's birthday
+[Question limit] Dropped: 'Who were you with?'
+
+Reachy: What did you do there?
+
+[Latency] Turn: 2.54s
+You: ten pin bowling and then had  cake and pizza
+
+Reachy: Who was with you at ten-pin bowling?
+
+[Latency] Turn: 2.55s
+You: Grace and Mia and Jess were all there
+
+Reachy: Did it make you feel happy to play games with Grace, Mia, and Jess?
+
+[Latency] Turn: 2.58s
+You: yes
+
+Reachy: That sounds good. What game did you play together that made you smile?
+
+[Latency] Turn: 2.65s
+You: ten pin bowling
+[Question limit] Dropped: 'Did anything funny happen?'
+
+Reachy: What do you remember about playing ten-pin bowling?
+
+[Latency] Turn: 2.49s
+You: i got two strikes
+
+Reachy: Good job on striking! What else happened during your bowling trip?
+
+[Latency] Turn: 2.59s
+You: we had cake and pizza
+
+Reachy: Enjoying the cake and pizza too sounds like a fun finish to a special day, didn't it?
+
+[Latency] Turn: 2.55s
+You: yeah it was special
+
+Reachy: That's wonderful to hear. What does "special" mean here for you?
+
+[Latency] Turn: 2.60s
+You: well it was Mia's birthday which made it special
+
+Reachy: Oh, that explains why it felt so special. Have you felt anything else before or after the bowling trip?
+
+[Latency] Turn: 2.77s
+[Human] Ended by the player before Reachy's goodbye.
+[Human] Session over.

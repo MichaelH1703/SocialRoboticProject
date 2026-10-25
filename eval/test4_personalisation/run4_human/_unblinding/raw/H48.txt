@@ -1,0 +1,51 @@
+[Human] session H48, condition B, "I don't know" at turn 6
+[Isolation] new process pid 88796; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (5.4s)
+[Supabase] client_profiles error: {'message': 'Cannot coerce the result to a single JSON object', 'code': 'PGRST116', 'hint': None, 'details': 'The result contains 0 rows'}
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: yeah. went bowling
+[State] Selected event: Went bowling for Mia's birthday
+
+Reachy: That sounds fun! Do you remember any players there?
+
+[Latency] Turn: 2.76s
+You: why
+
+Reachy: Maybe a friend or family member joined you for the bowling trip?
+
+[Latency] Turn: 2.71s
+You: oh, mia was there and my friends grace and jess were there as well
+
+Reachy: That's good to know. How did everyone enjoy the bowling together?
+
+[Latency] Turn: 2.56s
+You: i think everyone had a good time
+
+Reachy: Really nice to hear that everyone had fun. What did you play for?
+
+[Latency] Turn: 2.76s
+You: just for fun, it was Mia's birthday party
+
+Reachy: That explains why it might have been extra enjoyable! What do you remember about the bowling game?
+
+[Latency] Turn: 2.61s
+You: i got two strikes
+
+Reachy: Got two strikes on the bowling! That must have been exciting. How did that make you feel at that moment?
+
+[Latency] Turn: 2.76s
+You: very excited
+
+Reachy: Excited for sure! And how did Mia and your friends seem during the bowling game?
+
+[Latency] Turn: 2.61s
+You: they were all happy as well i think
+
+Reachy: That's great to hear everyone was feeling happy.
+
+[Latency] Turn: 2.61s
+[Human] Ended by the player before Reachy's goodbye.
+[Human] Session over.

@@ -1,0 +1,65 @@
+[Interactive] session I5, typed by a person; 10 model replies, /end to stop
+[Isolation] new process pid 428860; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (4.0s)
+[Interactive] Event titles: Went bowling for Mia's birthday, Had a science test, Fire drill at school, Played netball in PE, Made pasta in food tech
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: there was a fire drill at school today
+[State] Selected event: Fire drill at school
+
+Reachy: That sounds like an unusual thing. How did that make you feel during the fire drill?
+
+[Latency] Turn: 3.03s
+[Interactive] Reply 1 of 10 saved.
+You: it was very liud
+
+Reachy: It seemed loud, what happened when it went off?
+
+[Latency] Turn: 2.60s
+[Interactive] Reply 2 of 10 saved.
+You: there was a siren that was super loud and annoying
+
+Reachy: Oh, I understand now. That must have been quite unsettling. Did you know how to respond during the drill?
+
+[Latency] Turn: 2.67s
+[Interactive] Reply 3 of 10 saved.
+You: yeah our teacher told us to follow them outside
+
+Reachy: That's good to hear. What did your teacher say after they came outside?
+
+[Latency] Turn: 2.51s
+[Interactive] Reply 4 of 10 saved.
+You: they said we had to be quiet so they could count everyone
+
+Reachy: Got it, and how did you feel during that part of the drill?
+
+[Latency] Turn: 2.51s
+[Interactive] Reply 5 of 10 saved.
+You: it was annoying, having to stand still
+
+Reachy: It must have been uncomfortable standing still for a long time. How do you think your teacher felt keeping everyone quiet like that?
+
+[Latency] Turn: 2.77s
+[Interactive] Reply 6 of 10 saved.
+You: i dont know, maybe annoyed because people weren't being quiet
+
+Reachy: Sometimes feeling annoyed can happen when others aren't respecting the quiet instructions. Did your teacher say anything to make it better afterward?
+
+[Latency] Turn: 2.69s
+[Interactive] Reply 7 of 10 saved.
+You: afterwards they said we all did a good job
+
+Reachy: Good job is always nice to hear after something! Do you think that made you feel good about yourself?
+
+[Latency] Turn: 2.71s
+[Interactive] Reply 8 of 10 saved.
+You: yeah, i knew i did well even though it was a little overwhelming
+
+Reachy: You're doing really well describing your day like this. That's very helpful and you sound proud of what everyone did.
+
+[Latency] Turn: 2.86s
+[Interactive] Reply 9 of 10 saved.
+[Interactive] Session I5 ended (/end), 9 replies saved.
+[Interactive] Database unchanged by the session: True

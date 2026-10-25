@@ -1,0 +1,45 @@
+Session S22
+
+Reachy (greeting, not coded): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Went bowling.
+Reachy [1]: That sounds fun! What did you and Mia do there?
+
+You: Had pizza. Then cake.
+Reachy [2]: Got to play on the lanes and bowl, had yummy burgers too?
+
+You: Bowling. Got two strikes.
+Reachy [3]: Two strikes must have been really exciting! How did you feel after bowling at Mia's birthday?
+
+You: Happy. A bit nervous.
+Reachy [4]: Nervous but happy sounds like a great mix of feelings!
+
+You: Yeah.
+Reachy [5]: What was the person you were with, April?
+
+You: Mia. And Ella and stuff. Jess too.
+Reachy [6]: Got to see Mia and have fun bowling with friends, that sounds really nice! What did you do before or after bowling?
+
+You: I don't know.
+Reachy [7]: Maybe you could talk about something else from your day then, April?
+
+You: Mia's mum drove me home.
+Reachy [8]: And how was Mia's mum driving with you at the bowling alley?
+
+You: Good.
+Reachy [9]: Good, that makes traveling back fun! Anything else special happen while you were there, April?
+
+You: Everyone sang Happy Birthday loud.
+Reachy [10]: Singing Happy Birthday must have been so warm and joyful. Thanks for sharing, April. Let's go for a short break now, okay?
+
+You: Mm.
+Reachy [11]: I'm here when you are ready to continue.
+
+You: Yeah.
+Reachy [12]: What kind of things would you like to talk about after that?
+
+You: Bye.
+Reachy (scripted, not coded): Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+You: No.
+Reachy (scripted, not coded): Okay. Thank you for sharing your day with me, April. Goodbye.

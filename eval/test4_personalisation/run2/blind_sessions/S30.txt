@@ -1,0 +1,45 @@
+Session S30
+
+Reachy (greeting, not coded): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Went bowling.
+Reachy [1]: Ginny asked you to go bowling for her birthday, right?
+
+You: No. Mia's birthday.
+Reachy [2]: Oh, I see. Mia invited you to bowl for her birthday. What happened at the bowling alley?
+
+You: Went bowling. Got two strikes.
+Reachy [3]: That must have been fun! How did you feel when you got those strikes?
+
+You: Happy. Good.
+Reachy [4]: Good to hear you were happy and felt good! Anything else you'd like to share about your day?
+
+You: Mia won. Came second.
+Reachy [5]: Sounds like a great day with Mia. Did you have fun together?
+
+You: Fun.
+Reachy [6]: That's great to hear. Do you want to talk about anything else from your day?
+
+You: Pizza. Cake.
+Reachy [7]: Pizza and cake sound yummy! Did anyone make the pizza or cake for you?
+
+You: I don't know.
+Reachy [8]: It seems like someone made the pizza and cake just for you on Mia's birthday. Was that someone in your family?
+
+You: Mia's mum.
+Reachy [9]: That makes sense. Your friend Mia has a mum who cooked treats for her birthday. Did the whole family come to celebrate together?
+
+You: No. Just us.
+Reachy [10]: Well, it was just you and Mia celebrating your fun day! Do you have anything else ready to talk about now?
+
+You: Yeah.
+Reachy [11]: Sure! What would you like to share next?
+
+You: People looked.
+Reachy [12]: Did people from school look at the pictures of Mia's birthday party?
+
+You: Bye.
+Reachy (scripted, not coded): Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+You: No.
+Reachy (scripted, not coded): Okay. Thank you for sharing your day with me, April. Goodbye.

@@ -1,0 +1,117 @@
+transcript_id	feature	planted	reported	result	evidence (plan, sections 1-4)	note
+T31	Feeling: dislike of the noise (phrase)	Y	?	JUDGE		child: My ears felt all buzzy afterwards. I didn't like it. … I just wanted everyone to be quiet.
+T31	Gives a reason	Y	N	miss	Did not give any reasons (no "because" or "so").	
+T31	False alarm: how it ended	N	Y	false alarm	Did not say how it ended.	child: We went back in. … Miss Patel told us to get our books out again.
+T31	False alarm: missing feelings	N	Y	false alarm	Did not name any feelings.	
+T31	False alarm: missing reasons	N	Y	false alarm	Did not give any reasons (no "because" or "so").	
+T32	Leaves out: how they felt (asked)	Y	Y	hit	Did not name any feelings.	
+T32	Gives no reasons	Y	Y	hit	Did not give any reasons (no "because" or "so").	
+T33	Feeling: enjoyment (phrase)	Y	?	JUDGE		child: I liked it. She let me do the measuring without checking every five seconds.
+T33	Gives a reason	Y	?	JUDGE		
+T33	False alarm: who	N	Y	false alarm	Did not say who was there.	child: Nan. I've said that.
+T33	False alarm: missing feelings	N	Y	false alarm	Did not name any feelings.	
+T34	Feeling: embarrassment (word)	Y	?	JUDGE		child: Embarrassing. Everyone was looking.
+T34	Gives a reason	Y	?	JUDGE		
+T34	False alarm: missing feelings	N	Y	false alarm	Did not name any feelings.	
+T35	Feeling: annoyance (word)	Y	?	JUDGE		child: annoying cos i was winning
+T35	Gives a reason	Y	?	JUDGE		
+T35	False alarm: where	N	Y	false alarm	Did not say where it happened.	child: we went to my cousins
+T35	False alarm: how it ended	N	Y	false alarm	Did not say how it ended.	child: we went home
+T36	Feeling: annoyed (word)	Y	?	JUDGE		child: I was annoyed because it was supposed to be shared out equally. … I was annoyed at Tom.
+T36	Gives a reason	Y	?	JUDGE		
+T36	False alarm: where	N	Y	false alarm	Did not say where it happened.	child: In English. In the classroom.
+T37	Feeling: disappointed (word)	Y	?	JUDGE		child: I was disappointed. I'd been looking forward to seeing it.
+T37	Gives a reason	Y	N	miss	Did not give any reasons (no "because" or "so").	
+T37	False alarm: missing reasons	N	Y	false alarm	Did not give any reasons (no "because" or "so").	
+T37	False alarm?: why they felt	N	?	JUDGE	Did not say why they felt that way.	JUDGE against the reason rows below
+T38	Leaves out: how they felt (asked)	Y	Y	hit	Did not name any feelings.	
+T38	Gives a reason	Y	N	miss	Did not give any reasons (no "because" or "so").	
+T38	False alarm: where	N	Y	false alarm	Did not say where it happened.	child: the dentist
+T38	False alarm: missing reasons	N	Y	false alarm	Did not give any reasons (no "because" or "so").	
+T39	Feeling: dislike (the room) (phrase)	Y	?	JUDGE		child: It was horrible.
+T39	Feeling: annoyance (the tapping) (phrase)	Y	?	JUDGE		child: I wanted to throw the spoon out the window. … I wanted the tapping to stop.
+T39	Gives a reason	Y	?	JUDGE		
+T39	False alarm?: why they felt	N	?	JUDGE	Did not say why they felt that way.	JUDGE against the reason rows below
+T40	Feeling: dislike of being late (phrase)	Y	?	JUDGE		child: I hate being late
+T40	Gives a reason	Y	?	JUDGE		
+T40	False alarm: who	N	Y	false alarm	Did not say who was there.	child: Nobody. I was going to swimming. … I rang Dad.
+T40	False alarm: missing feelings	N	Y	false alarm	Did not name any feelings.	
+T41	Feeling: pleased (word)	Y	?	JUDGE		child: Pleased. It worked properly when I turned it faster.
+T41	Gives a reason	Y	?	JUDGE		
+T41	False alarm: missing feelings	N	Y	false alarm	Did not name any feelings.	
+T42	Feeling: anxiety (felt sick) (phrase)	Y	?	JUDGE		child: I felt sick and I kept checking my phone.
+T42	Feeling: confused (word)	Y	?	JUDGE		child: Still confused.
+T42	Gives a reason	Y	N	miss	Did not give any reasons (no "because" or "so").	
+T42	False alarm: missing reasons	N	Y	false alarm	Did not give any reasons (no "because" or "so").	
+T42	False alarm?: why they felt	N	?	JUDGE	Did not say why they felt that way.	JUDGE against the reason rows below
+T43	Feeling: stomach dropped (body reaction) (phrase)	Y	?	JUDGE		child: my stomach dropped
+T43	Gives a reason	Y	?	JUDGE		
+T43	False alarm: who	N	Y	false alarm	Did not say who was there.	child: me and coach and the under fifteens
+T43	False alarm: where	N	Y	false alarm	Did not say where it happened.	child: sports hall
+T43	False alarm: how it ended	N	Y	false alarm	Did not say how it ended.	child: we finished and coach said next week we are doing fitness
+T43	False alarm: missing feelings	N	Y	false alarm	Did not name any feelings.	
+T44	Feeling: embarrassed (word)	Y	?	JUDGE		child: I was embarrassed. I know it's a test, but I should have got it.
+T44	Gives a reason	Y	?	JUDGE		
+T44	False alarm?: why they felt	N	?	JUDGE	Did not say why they felt that way.	JUDGE against the reason rows below
+T45	Feeling: enjoyment (phrase)	Y	?	JUDGE		child: Better than I expected. The bit with the train was good.
+T45	Gives a reason	Y	?	JUDGE		
+T45	False alarm?: why they felt	N	?	JUDGE	Did not say why they felt that way.	JUDGE against the reason rows below
+T46	Feeling: annoyed (word)	Y	?	JUDGE		child: Annoyed. I'd done the work. It was just the upload.
+T46	Feeling: dislike (the detention) (phrase)	Y	?	JUDGE		child: I still didn't like it.
+T46	Gives a reason	Y	N	miss	Did not give any reasons (no "because" or "so").	
+T46	False alarm: missing reasons	N	Y	false alarm	Did not give any reasons (no "because" or "so").	
+T46	False alarm?: why they felt	N	?	JUDGE	Did not say why they felt that way.	JUDGE against the reason rows below
+T47	Feeling: happy (word)	Y	?	JUDGE		child: Happy. I knew nearly all the words. … I liked most of it.
+T47	Gives a reason	Y	N	miss	Did not give any reasons (no "because" or "so").	
+T47	False alarm: missing reasons	N	Y	false alarm	Did not give any reasons (no "because" or "so").	
+T47	False alarm?: why they felt	N	?	JUDGE	Did not say why they felt that way.	JUDGE against the reason rows below
+T48	Feeling: dislike (unannounced changes) (phrase)	Y	?	JUDGE		child: I hate it when things move and no one tells us.
+T48	Gives a reason	Y	N	miss	Did not give any reasons (no "because" or "so").	
+T48	False alarm: how it ended	N	Y	false alarm	Did not say how it ended.	child: We went to form.
+T48	False alarm: missing feelings	N	Y	false alarm	Did not name any feelings.	
+T48	False alarm: missing reasons	N	Y	false alarm	Did not give any reasons (no "because" or "so").	
+T49	Feeling: exhausted (phrase)	Y	?	JUDGE		child: I was exhausted. … I was too tired to be stressed.
+T49	Gives a reason	Y	?	JUDGE		
+T49	False alarm: where	N	Y	false alarm	Did not say where it happened.	child: The gate changed. It said gate 18, then it changed to 26.
+T49	False alarm: missing feelings	N	Y	false alarm	Did not name any feelings.	
+T50	Feeling: relieved (word)	Y	?	JUDGE		child: I was relieved.
+T50	Feeling: worried (word)	Y	?	JUDGE		child: I was worried, though.
+T50	Gives a reason	Y	N	miss	Did not give any reasons (no "because" or "so").	
+T50	False alarm: missing reasons	N	Y	false alarm	Did not give any reasons (no "because" or "so").	
+T50	False alarm?: why they felt	N	?	JUDGE	Did not say why they felt that way.	JUDGE against the reason rows below
+T51	Feeling: worried (word)	Y	?	JUDGE		child: I was worried I'd done it wrong.
+T51	Gives a reason	Y	N	miss	Did not give any reasons (no "because" or "so").	
+T51	False alarm: missing reasons	N	Y	false alarm	Did not give any reasons (no "because" or "so").	
+T51	False alarm?: why they felt	N	?	JUDGE	Did not say why they felt that way.	JUDGE against the reason rows below
+T52	Leaves out: how they felt (asked)	Y	Y	hit	Did not name any feelings.	
+T52	Gives a reason	Y	?	JUDGE		
+T53	Feeling: stress (face hot) (phrase)	Y	?	JUDGE		child: My face got hot and I kept checking the time.
+T53	Gives a reason	Y	?	JUDGE		
+T53	False alarm: missing feelings	N	Y	false alarm	Did not name any feelings.	
+T54	Leaves out: how it ended (asked)	Y	Y	hit	Did not say how it ended.	
+T54	Leaves out: how they felt (asked)	Y	Y	hit	Did not name any feelings.	
+T54	Gives no reasons	Y	Y	hit	Did not give any reasons (no "because" or "so").	
+T55	Feeling: amusement (phrase)	Y	?	JUDGE		child: It was funny. I couldn't stop laughing when he put one on top of the cow.
+T55	Feeling: annoyance (phrase)	Y	?	JUDGE		child: A bit, because he used all the iron for rails and I wanted some for tools.
+T55	Gives a reason	Y	?	JUDGE		
+T55	False alarm: missing feelings	N	Y	false alarm	Did not name any feelings.	
+T56	Feeling: embarrassed (word)	Y	?	JUDGE		child: I was embarrassed. I thought I'd messed it up straight away.
+T56	Gives a reason	Y	?	JUDGE		
+T56	False alarm?: why they felt	N	?	JUDGE	Did not say why they felt that way.	JUDGE against the reason rows below
+T57	Leaves out: how they felt (asked)	Y	Y	hit	Did not name any feelings.	
+T57	Gives no reasons	Y	Y	hit	Did not give any reasons (no "because" or "so").	
+T58	Feeling: distracted (phrase)	Y	?	JUDGE		child: it was just distracting … i couldnt concentrate cos it kept changing
+T58	Gives a reason	Y	N	miss	Did not give any reasons (no "because" or "so").	
+T58	False alarm: who	N	Y	false alarm	Did not say who was there.	child: me ellie and harry and then miss put daniel in as well
+T58	False alarm: where	N	Y	false alarm	Did not say where it happened.	child: science room 12
+T58	False alarm: missing feelings	N	Y	false alarm	Did not name any feelings.	
+T58	False alarm: missing reasons	N	Y	false alarm	Did not give any reasons (no "because" or "so").	
+T59	Feeling: worry (stomach tight) (phrase)	Y	?	JUDGE		child: My stomach went all tight. I thought I was going to have to come down without finishing it.
+T59	Feeling: pleased (word)	Y	?	JUDGE		child: Properly pleased with myself. I didn't think I'd manage it.
+T59	Gives a reason	Y	?	JUDGE		
+T59	False alarm: missing feelings	N	Y	false alarm	Did not name any feelings.	
+T60	Feeling: annoyed (word)	Y	?	JUDGE		child: I was annoyed. The linesman was right there.
+T60	Feeling: disgust (the coffee) (phrase)	Y	?	JUDGE		child: Yeah, it was rank. … The coffee smelled rank as well.
+T60	Feeling: satisfied with the draw (phrase)	Y	?	JUDGE		child: Better than losing.
+T60	Gives a reason	Y	?	JUDGE		
+T60	False alarm?: why they felt	N	?	JUDGE	Did not say why they felt that way.	JUDGE against the reason rows below

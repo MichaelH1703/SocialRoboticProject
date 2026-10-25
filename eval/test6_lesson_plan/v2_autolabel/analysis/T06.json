@@ -1,0 +1,273 @@
+{
+  "labelled": true,
+  "speakers": "auto",
+  "auto_labels": {
+    "sentences": [
+      [
+        "therapist",
+        "Hi there."
+      ],
+      [
+        "therapist",
+        "Today we're going to talk about something that really happened to you."
+      ],
+      [
+        "therapist",
+        "I'll go first and then it'll be your turn."
+      ],
+      [
+        "therapist",
+        "On Friday I baked bread for the first time, so the whole house smelled lovely."
+      ],
+      [
+        "therapist",
+        "It came out flat, but it tasted nice, and I was surprised."
+      ],
+      [
+        "therapist",
+        "Okay, now it's your turn."
+      ],
+      [
+        "child",
+        "The zoo."
+      ],
+      [
+        "child",
+        "We went to the zoo."
+      ],
+      [
+        "therapist",
+        "The zoo."
+      ],
+      [
+        "therapist",
+        "Who went with you?"
+      ],
+      [
+        "child",
+        "Me and my mum and my brother Ben."
+      ],
+      [
+        "therapist",
+        "You, your mum and your brother Ben."
+      ],
+      [
+        "therapist",
+        "Which zoo was it?"
+      ],
+      [
+        "child",
+        "The big one in the city."
+      ],
+      [
+        "therapist",
+        "The big zoo in the city."
+      ],
+      [
+        "therapist",
+        "What happened there?"
+      ],
+      [
+        "child",
+        "We saw the lions first."
+      ],
+      [
+        "child",
+        "Then the snakes."
+      ],
+      [
+        "therapist",
+        "The lions and then the snakes."
+      ],
+      [
+        "therapist",
+        "How did you feel?"
+      ],
+      [
+        "child",
+        "Excited."
+      ],
+      [
+        "child",
+        "I like lions."
+      ],
+      [
+        "therapist",
+        "You were excited."
+      ],
+      [
+        "therapist",
+        "And the snakes?"
+      ],
+      [
+        "child",
+        "Scared."
+      ],
+      [
+        "child",
+        "A bit scared because one moved."
+      ],
+      [
+        "therapist",
+        "A bit scared because one moved."
+      ],
+      [
+        "therapist",
+        "That sounds nervous-making."
+      ],
+      [
+        "therapist",
+        "What happened next?"
+      ],
+      [
+        "child",
+        "We had lunch."
+      ],
+      [
+        "child",
+        "Then the gift shop."
+      ],
+      [
+        "therapist",
+        "Lunch and then the gift shop."
+      ],
+      [
+        "therapist",
+        "What did you get?"
+      ],
+      [
+        "child",
+        "A lion."
+      ],
+      [
+        "child",
+        "A toy lion."
+      ],
+      [
+        "therapist",
+        "A toy lion."
+      ],
+      [
+        "child",
+        "How did the day end?"
+      ],
+      [
+        "child",
+        "We drove home."
+      ],
+      [
+        "child",
+        "I fell asleep in the car."
+      ],
+      [
+        "therapist",
+        "Let me say your story back to you."
+      ],
+      [
+        "therapist",
+        "You went to the big zoo in the city with your mum and your brother Ben."
+      ],
+      [
+        "therapist",
+        "You saw the lions and felt excited, and you felt a bit scared at the snakes because one moved."
+      ],
+      [
+        "therapist",
+        "Then you had lunch, got a toy lion, and fell asleep in the car on the way home."
+      ],
+      [
+        "therapist",
+        "Did I get that right?"
+      ],
+      [
+        "child",
+        "Yeah."
+      ],
+      [
+        "therapist",
+        "Thanks for telling me your story."
+      ],
+      [
+        "therapist",
+        "You did a really great job."
+      ]
+    ],
+    "echoes_relabelled": [
+      8,
+      31
+    ]
+  },
+  "labelled_transcript": "Therapist. Hi there. Today we're going to talk about something that really happened to you. I'll go first and then it'll be your turn. On Friday I baked bread for the first time, so the whole house smelled lovely. It came out flat, but it tasted nice, and I was surprised. Okay, now it's your turn. Child. The zoo. We went to the zoo. Therapist. The zoo. Who went with you? Child. Me and my mum and my brother Ben. Therapist. You, your mum and your brother Ben. Which zoo was it? Child. The big one in the city. Therapist. The big zoo in the city. What happened there? Child. We saw the lions first. Then the snakes. Therapist. The lions and then the snakes. How did you feel? Child. Excited. I like lions. Therapist. You were excited. And the snakes? Child. Scared. A bit scared because one moved. Therapist. A bit scared because one moved. That sounds nervous-making. What happened next? Child. We had lunch. Then the gift shop. Therapist. Lunch and then the gift shop. What did you get? Child. A lion. A toy lion. Therapist. A toy lion. Child. How did the day end? We drove home. I fell asleep in the car. Therapist. Let me say your story back to you. You went to the big zoo in the city with your mum and your brother Ben. You saw the lions and felt excited, and you felt a bit scared at the snakes because one moved. Then you had lunch, got a toy lion, and fell asleep in the car on the way home. Did I get that right? Child. Yeah. Therapist. Thanks for telling me your story. You did a really great job.",
+  "facts": {
+    "child_turns": 10,
+    "mean_words_per_turn": 6.7,
+    "reasons": [
+      "Scared. A bit scared because one moved."
+    ],
+    "sequence_words": [
+      "first",
+      "then"
+    ],
+    "vague_words": [],
+    "feelings": [
+      {
+        "word": "excited",
+        "child_words": "Excited. I like lions."
+      },
+      {
+        "word": "scared",
+        "child_words": "Scared. A bit scared because one moved."
+      }
+    ],
+    "feeling_reasons": [
+      "Scared. A bit scared because one moved."
+    ],
+    "child_text": [
+      "The zoo. We went to the zoo.",
+      "Me and my mum and my brother Ben.",
+      "The big one in the city.",
+      "We saw the lions first. Then the snakes.",
+      "Excited. I like lions.",
+      "Scared. A bit scared because one moved.",
+      "We had lunch. Then the gift shop.",
+      "A lion. A toy lion.",
+      "How did the day end? We drove home. I fell asleep in the car.",
+      "Yeah."
+    ]
+  },
+  "checked": {
+    "event": "Zoo visit",
+    "who": {
+      "given": true,
+      "child_words": "Me and my mum and my brother Ben.",
+      "rejected_claim": ""
+    },
+    "where": {
+      "given": true,
+      "child_words": "The big one in the city.",
+      "rejected_claim": ""
+    },
+    "what_happened": {
+      "given": true,
+      "child_words": "We saw the lions first. Then the snakes. We had lunch. Then the gift shop. A lion. A toy lion.",
+      "rejected_claim": ""
+    },
+    "ending": {
+      "given": true,
+      "child_words": "We drove home. I fell asleep in the car.",
+      "rejected_claim": ""
+    }
+  },
+  "written": {
+    "summary": "The child told about going to the zoo with their mum and brother Ben. They saw lions first, then snakes, and bought a toy lion. The day ended with them driving home and the child falling asleep in the car.",
+    "goals": [
+      "Add more detail to each part of the recount."
+    ],
+    "focus": [
+      "Add more detail to each part of the recount."
+    ],
+    "prompts": [
+      "What did you do next after that?"
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+[Child sim] session fire-1 (Fire drill at school), llama3.2:3b, temperature 0.3, seed 81
+[Isolation] new process pid 226508; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (3.9s)
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Fire drill.
+[State] Selected event: Fire drill at school
+
+Reachy: Fire drill at school, that's good. Can you tell me what happened during the fire drill?
+
+[Latency] Turn: 2.73s
+You: We went out. Stood in lines.
+[Question limit] Dropped: 'How were you feeling then?'
+
+Reachy: Oh, and did it make you feel worried or calm?
+
+[Latency] Turn: 2.45s
+You: Surprised. Cold.
+
+Reachy: Got a funny feeling for sure! What made the fire drill surprising and cold for you?
+
+[Latency] Turn: 2.63s
+You: Alarm was loud. No coat.
+
+Reachy: The alarm being loud and not having your coat, those sounds like they might have surprised you a bit. How did that make you feel in the lines?
+
+[Latency] Turn: 2.82s
+You: Fine.
+
+Reachy: That's good to know! What happened next after the surprise of the fire drill?
+
+[Latency] Turn: 2.59s
+You: I don't know.
+[Question limit] Dropped: 'How did it feel then?'
+
+Reachy: The thing is, what happened when everyone got back inside after the fire drill?
+
+[Latency] Turn: 2.58s
+You: Finished maths.
+
+Reachy: Got to finish your maths class then, did that make you feel okay or sad about the fire drill?
+
+[Latency] Turn: 2.62s
+You: Fine.
+
+Reachy: That's great to hear! Do you have any other details about the fire drill that you think might help remember it better?
+
+[Latency] Turn: 2.63s
+You: Miss Shah read register.
+
+Reachy: Miss Shah read the class roll, did she also get into groups then?
+
+[Latency] Turn: 2.54s
+You: No.
+
+Reachy: Okay, last thing did anyone talk about or laugh about during the fire drill?
+
+[Latency] Turn: 2.55s
+You: Can't remember.
+
+Reachy: That's alright, sometimes things that don't matter fade away a bit. Was there anything funny you thought of later when talking to friends about it?
+
+[Latency] Turn: 2.70s
+You: No.
+
+Reachy: Okay, thank you for sharing!
+
+[Latency] Turn: 2.42s
+You: Bye.
+
+Reachy: Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+[State] Goodbye heard; confirming before ending.
+[Not spoken] Model's reply, dropped but kept in its history as on the robot: 'Goodbye, take care.'
+You: No.
+
+Reachy: Okay. Thank you for sharing your day with me, April. Goodbye.
+
+[State] Child confirmed goodbye; ending session.

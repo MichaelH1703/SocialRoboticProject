@@ -1,0 +1,51 @@
+label	followed_lesson_focus	followed_profile_instructions	note
+S41	Y	Y	Q1 R5/R7/R8 what made it funny/feel/exciting; Q2 R1-R8 short concrete, never stuck
+S42	N	N	borderline: Q1 only R3 yes/no about others; Q2 R10/R12/R13 long-open, no X-or-Y after stuck (R9/R11)
+S43	Y	Y	Q1 R4-R5 feelings when Mia won; Q2 short questions, not stuck (R2/R6 mildly open)
+S44	Y	Y	Q1 R7 how Mia felt, R9; Q2 R4 specific praise, comment before each question
+S45	Y	N	Q1 R5 how did it make you feel; Q2 R6/R11 open after stuck, no two options
+S46	Y	N	Q1 R4 what Mia felt, R6; Q2 R6-R8 questions without comments, R3 general praise
+S47	N	Y	borderline: Q1 R4 asks April's feeling not Mia's; Q2 comment before each question, starts from bowling
+S48	Y	N	Q1 R5-R6 recall/what else happened, R9 before/after; Q2 R3 feeling before events, R7 tag question, item 3 never
+S49	Y	Y	Q1 R3/R6 feelings, coming second; Q2 short concrete questions, not stuck
+S50	Y	N	Q1 R7-R8 what Mia said/proud, R13; Q2 R3/R11 long-open, no options when answers minimal (R2-R3)
+S51	Y	N	Q1 R3 how everyone felt; Q2 R3-R7 questions with little comment, R4 tell me more, R2 general praise
+S52	Y	N	Q1 R4 what did you do first; Q2 R5 teasing, R6 two questions, item 3 never
+S53	N	N	borderline: Q1 R2-R3 no others' reactions; Q2 R2 how-question, only R3 repeats, R4 over 10 words
+S54	N	Y	borderline: Q1 R4-R5 only April's own feelings; Q2 short sentences, R5-R6 repeat upset
+S55	Y	N	Q1 R4/R5/R8 feelings, what made you happy; Q2 R2/R3/R9 open, R6 open after stuck
+S56	N	N	borderline: Q1 R4/R7 generic, no sequencing or outcome emotions; Q2 R2 two questions, R3 feelings before events
+S57	Y	N	Q1 R2-R3 what made it fun, how did it feel; Q2 R4 long leading, R5-R6 open after stuck
+S58	Y	N	Q1 R2 how did she feel; Q2 R4-R6 open, no options after stuck
+S59	Y	N	borderline: Q1 R8-R9 Mia enjoy/feel, R6 why; Q2 R4 no X-or-Y when stuck, R7 open
+S60	N	N	Q1 R8-R9 no others' feelings; Q2 R1-R3 questions with no comments, R4 general praise
+S61	Y	N	borderline: Q1 R5-R6 wanting to win/competitive; Q2 R2 Oh really, R4 feelings before events, item 3 never
+S62	N	N	Q1 R4 own feelings only; Q2 R2-R3 questions in a row, R4 general praise
+S63	N	N	borderline: Q1 R3/R4 generic, no sequencing or emotion; Q2 R5 ring true idiom, item 3 never
+S64	Y	N	borderline: Q1 R3/R6 what happened/what you did, R4; Q2 items 1/2/4 ok but item 3 never, R1 odd
+S65	Y	N	Q1 R2/R3/R6 feelings; Q2 R1/R4 open, R3 repeats open question when stuck
+S66	Y	N	Q1 R10 how Mia felt; Q2 R8 no options after stuck, R2/R9/R10 long
+S67	N	N	Q1 no others' feelings, R8 own; Q2 R1 open, R7-R8 bare questions in a row, no specific praise
+S68	N	Y	Q1 R2/R7 appearance/activities not reactions; Q2 short sentences, R4/R6 repeat, who/what questions
+S69	Y	N	Q1 R6 what did it feel like; Q2 R5 no options when stuck, R4/R7 open
+S70	N	N	borderline: Q1 no others' reactions; Q2 R6 long vague, repeats only at R7
+S71	N	Y	borderline: Q1 team questions, no others' feelings; Q2 comment before each question
+S72	N	N	Q1 no others' feelings R1-R5; Q2 R4/R5 general praise
+S73	N	Y	borderline: Q1 R2-R3 events only; Q2 short, not stuck, R1 compound
+S74	Y	N	Q1 R7-R9 what happened next/then; Q2 R4 feelings before events, R2 Oh really, item 3 never
+S75	N	Y	Q1 no others' reactions R1-R6; Q2 short, R3/R6 repeat her words
+S76	N	N	borderline: Q1 R4 only food preference; Q2 R1-R2 and R4-R5 questions in a row, no specific praise
+S77	Y	N	Q1 R5/R7 what made you happy/feel; Q2 R6 open after stuck, R3 abstract
+S78	Y	N	borderline: Q1 R4/R7 who won, feel when Mia won; Q2 item 3 never, R1-R2 garbled
+S79	Y	Y	borderline: Q1 R10 feel when Mia won, R7-R8; Q2 mostly short concrete, R10 double
+S80	Y	N	borderline: Q1 R4 others have a good time; Q2 R1/R3 long double, R6 long, little repeating
+S81	Y	Y	Q1 R3/R7 how Mia and friends seemed; Q2 short, R6-R7 repeat her words
+S82	Y	N	borderline: Q1 only R8 feel; Q2 R7 no X-or-Y after stuck, R6 garbled
+S83	Y	N	Q1 R4 how you and friends felt, R10; Q2 R2 open, R8-R9 open after stuck
+S84	N	N	Q1 no others' reactions; Q2 R4-R5 long confusing, little repeating
+S85	Y	N	borderline: Q1 R3 feel; Q2 R6 open after stuck, no options
+S86	N	N	borderline: Q1 food/arcade only, no sequencing or emotions; Q2 R9 double question, item 3 never
+S87	Y	Y	borderline: Q1 R5 only feel; Q2 mostly short concrete, R9 open
+S88	Y	Y	Q1 R3 did Mia and others enjoy; Q2 R3-R4 repeat, short (R2 13 words)
+S89	N	N	borderline: Q1 R3 Mia's view not focus, no sequencing; Q2 item 3 never, R5 vague
+S90	Y	N	Q1 R1-R2 what Mia liked/excited; Q2 R3-R5 long, R6 ignores too loud

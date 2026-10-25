@@ -1,0 +1,24 @@
+session_id	canary_mentioned	logs_saved_to_correct_client
+S1	N	Y
+S2	N	Y
+S3	N	Y
+S4	N	Y
+S5	N	Y
+S6	N	Y
+S7	N	Y
+S8	N	Y
+S9	N	Y
+S10	N	Y
+S11	N	Y
+S12	N	Y
+S13	N	Y
+S14	N	Y
+S15	N	Y
+S16	N	Y
+S17	N	Y
+S18	N	Y
+S19	N	Y
+S20	N	Y
+
+Sessions where the canary appeared (should be 0)	0
+Sessions with logs under the wrong client	0

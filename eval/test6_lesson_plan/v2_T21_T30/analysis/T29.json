@@ -1,0 +1,322 @@
+{
+  "labelled": true,
+  "speakers": "auto",
+  "auto_labels": {
+    "sentences": [
+      [
+        "therapist",
+        "Hi Ruby."
+      ],
+      [
+        "therapist",
+        "I'm going to tell you about something that happened to me."
+      ],
+      [
+        "therapist",
+        "Yesterday I was cutting up apples and I cut my finger, just a little bit, and I had to put a plaster on it."
+      ],
+      [
+        "therapist",
+        "Look."
+      ],
+      [
+        "therapist",
+        "Does it hurt?"
+      ],
+      [
+        "child",
+        "Only a tiny bit now."
+      ],
+      [
+        "therapist",
+        "Has anything like that happened to you?"
+      ],
+      [
+        "child",
+        "I had a nosebleed."
+      ],
+      [
+        "child",
+        "At school."
+      ],
+      [
+        "therapist",
+        "Oh no, a nosebleed at school."
+      ],
+      [
+        "therapist",
+        "Where were you?"
+      ],
+      [
+        "child",
+        "In my class."
+      ],
+      [
+        "child",
+        "At my table."
+      ],
+      [
+        "child",
+        "We was doing maths, the take aways."
+      ],
+      [
+        "therapist",
+        "You were doing take aways."
+      ],
+      [
+        "child",
+        "What happened?"
+      ],
+      [
+        "child",
+        "It just comed out."
+      ],
+      [
+        "child",
+        "Drip drip on my book."
+      ],
+      [
+        "child",
+        "There was loads of blood on my book."
+      ],
+      [
+        "child",
+        "I was scared."
+      ],
+      [
+        "therapist",
+        "Loads of blood on your book."
+      ],
+      [
+        "child",
+        "Sam saw it."
+      ],
+      [
+        "child",
+        "He sits next to me."
+      ],
+      [
+        "child",
+        "He shouted \"Miss!"
+      ],
+      [
+        "child",
+        "Miss!\" really loud."
+      ],
+      [
+        "therapist",
+        "Sam shouted for Miss."
+      ],
+      [
+        "therapist",
+        "Who's your teacher?"
+      ],
+      [
+        "child",
+        "Miss Patel."
+      ],
+      [
+        "therapist",
+        "She gave me a tissue and I had to hold my nose like this."
+      ],
+      [
+        "therapist",
+        "Pinch it."
+      ],
+      [
+        "therapist",
+        "Pinch it, like this?"
+      ],
+      [
+        "child",
+        "Yeah."
+      ],
+      [
+        "child",
+        "And my face went all hot."
+      ],
+      [
+        "child",
+        "Everyone was looking at me."
+      ],
+      [
+        "therapist",
+        "Everyone was looking at you."
+      ],
+      [
+        "child",
+        "Then I had to go to the office because it wouldn't stop."
+      ],
+      [
+        "therapist",
+        "You went to the office."
+      ],
+      [
+        "child",
+        "The office lady, Mrs, um, Mrs Green."
+      ],
+      [
+        "child",
+        "She gived me a ice pack in a, in a blue thing."
+      ],
+      [
+        "therapist",
+        "An ice pack."
+      ],
+      [
+        "therapist",
+        "Did it help?"
+      ],
+      [
+        "child",
+        "Yeah."
+      ],
+      [
+        "child",
+        "Then it stopped."
+      ],
+      [
+        "therapist",
+        "And what happened after it stopped?"
+      ],
+      [
+        "child",
+        "I went back to class and I finished my take aways."
+      ],
+      [
+        "child",
+        "And I got a sticker for being sensible."
+      ],
+      [
+        "therapist",
+        "A sticker for being sensible!"
+      ],
+      [
+        "therapist",
+        "Let me check I've got your story right."
+      ],
+      [
+        "therapist",
+        "You were in your class, at your table, doing take aways, and you had a nosebleed."
+      ],
+      [
+        "therapist",
+        "There was loads of blood on your book and you were scared."
+      ],
+      [
+        "therapist",
+        "Sam shouted for Miss Patel and she gave you a tissue, and you pinched your nose."
+      ],
+      [
+        "therapist",
+        "Your face went all hot and everyone was looking at you."
+      ],
+      [
+        "therapist",
+        "Then you went to the office because it wouldn't stop, and Mrs Green gave you an ice pack."
+      ],
+      [
+        "therapist",
+        "Then it stopped, and you went back to class and finished your take aways, and you got a sticker for being sensible."
+      ],
+      [
+        "child",
+        "The ice pack was blue."
+      ],
+      [
+        "therapist",
+        "A blue ice pack."
+      ],
+      [
+        "therapist",
+        "Thank you, Ruby."
+      ],
+      [
+        "therapist",
+        "You told that really clearly."
+      ],
+      [
+        "child",
+        "Can I have a sticker?"
+      ],
+      [
+        "therapist",
+        "You can have a sticker."
+      ]
+    ],
+    "echoes_relabelled": []
+  },
+  "labelled_transcript": "Therapist. Hi Ruby. I'm going to tell you about something that happened to me. Yesterday I was cutting up apples and I cut my finger, just a little bit, and I had to put a plaster on it. Look. Does it hurt? Child. Only a tiny bit now. Therapist. Has anything like that happened to you? Child. I had a nosebleed. At school. Therapist. Oh no, a nosebleed at school. Where were you? Child. In my class. At my table. We was doing maths, the take aways. Therapist. You were doing take aways. Child. What happened? It just comed out. Drip drip on my book. There was loads of blood on my book. I was scared. Therapist. Loads of blood on your book. Child. Sam saw it. He sits next to me. He shouted \"Miss! Miss!\" really loud. Therapist. Sam shouted for Miss. Who's your teacher? Child. Miss Patel. Therapist. She gave me a tissue and I had to hold my nose like this. Pinch it. Pinch it, like this? Child. Yeah. And my face went all hot. Everyone was looking at me. Therapist. Everyone was looking at you. Child. Then I had to go to the office because it wouldn't stop. Therapist. You went to the office. Child. The office lady, Mrs, um, Mrs Green. She gived me a ice pack in a, in a blue thing. Therapist. An ice pack. Did it help? Child. Yeah. Then it stopped. Therapist. And what happened after it stopped? Child. I went back to class and I finished my take aways. And I got a sticker for being sensible. Therapist. A sticker for being sensible! Let me check I've got your story right. You were in your class, at your table, doing take aways, and you had a nosebleed. There was loads of blood on your book and you were scared. Sam shouted for Miss Patel and she gave you a tissue, and you pinched your nose. Your face went all hot and everyone was looking at you. Then you went to the office because it wouldn't stop, and Mrs Green gave you an ice pack. Then it stopped, and you went back to class and finished your take aways, and you got a sticker for being sensible. Child. The ice pack was blue. Therapist. A blue ice pack. Thank you, Ruby. You told that really clearly. Child. Can I have a sticker? Therapist. You can have a sticker.",
+  "facts": {
+    "child_turns": 13,
+    "mean_words_per_turn": 10.6,
+    "reasons": [
+      "Then I had to go to the office because it wouldn't stop."
+    ],
+    "sequence_words": [
+      "next",
+      "then"
+    ],
+    "vague_words": [
+      "thing"
+    ],
+    "feelings": [
+      {
+        "word": "scared",
+        "child_words": "What happened? It just comed out. Drip drip on my book. There was loads of blood on my book. I was scared."
+      }
+    ],
+    "feeling_reasons": [],
+    "child_text": [
+      "Only a tiny bit now.",
+      "I had a nosebleed. At school.",
+      "In my class. At my table. We was doing maths, the take aways.",
+      "What happened? It just comed out. Drip drip on my book. There was loads of blood on my book. I was scared.",
+      "Sam saw it. He sits next to me. He shouted \"Miss! Miss!\" really loud.",
+      "Miss Patel.",
+      "Yeah. And my face went all hot. Everyone was looking at me.",
+      "Then I had to go to the office because it wouldn't stop.",
+      "The office lady, Mrs, um, Mrs Green. She gived me a ice pack in a, in a blue thing.",
+      "Yeah. Then it stopped.",
+      "I went back to class and I finished my take aways. And I got a sticker for being sensible.",
+      "The ice pack was blue.",
+      "Can I have a sticker?"
+    ]
+  },
+  "checked": {
+    "event": "nosebleed at school",
+    "who": {
+      "given": true,
+      "child_words": "Sam saw it. He sits next to me. Miss Patel.",
+      "rejected_claim": ""
+    },
+    "where": {
+      "given": true,
+      "child_words": "In my class. At my table.",
+      "rejected_claim": ""
+    },
+    "what_happened": {
+      "given": true,
+      "child_words": "Drip drip on my book. There was loads of blood on my book. I was scared. Miss!\" really loud. My face went all hot. Everyone was looking at me. Then I had to go to the office because it wouldn't stop. The office lady, Mrs, um, Mrs Green. She gived me a ice pack in a, in a blue thing. Then it stopped. I went back to class and I finished my take aways. And I got a sticker for being sensible. The ice pack was blue.",
+      "rejected_claim": ""
+    },
+    "ending": {
+      "given": true,
+      "child_words": "I went back to class and I finished my take aways. And I got a sticker for being sensible. The ice pack was blue. Can I have a sticker?",
+      "rejected_claim": ""
+    }
+  },
+  "written": {
+    "summary": "The child told about a nosebleed at school during maths. The child said the blood dripped on their book and they went to the office where Mrs Green gave them an ice pack in a blue thing. The child finished their work and got a sticker.",
+    "goals": [
+      "Say why they felt that way.",
+      "Use the exact word instead of vague words like 'stuff' or 'thing'."
+    ],
+    "focus": [
+      "The child will explain their feelings using specific reasons."
+    ],
+    "prompts": [
+      "Why did you feel happy about it?"
+    ]
+  }
+}

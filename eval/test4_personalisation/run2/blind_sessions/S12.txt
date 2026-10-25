@@ -1,0 +1,45 @@
+Session S12
+
+Reachy (greeting, not coded): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Went bowling.
+Reachy [1]: Bowling sounds fun. What happened when you went bowling?
+
+You: Got two strikes. Mia won.
+Reachy [2]: That must have been exciting! What did Mia win by doing at the bowling alley?
+
+You: Mia got pizza.
+Reachy [3]: Pizza is yummy! And who else was there with you when you went bowling?
+
+You: Ella and Jess too.
+Reachy [4]: Great! And how did Ella and Jess join in your bowling adventure?
+
+You: They were there thing.
+Reachy [5]: What did they do together while you were bowling, Ella and Jess?
+
+You: Not really.
+Reachy [6]: Okay, that's okay. How else could you have told me about your day at the bowling alley?
+
+You: Mia's mum took us. Had birthday cake.
+Reachy [7]: Birthday cake sounds delicious! Did anyone bring a special friend to join in on it?
+
+You: Mia's mum brought me home.
+Reachy [8]: And how did Mia's mom take you to the bowling alley?
+
+You: In her car.
+Reachy [9]: That’s good planning. Thanks for sharing all that! You had a nice day out with your friends.
+
+You: I don't know.
+Reachy [10]: Sometimes it can be hard to remember everything right away. Is there anything else you'd like to tell me about your bowling trip?
+
+You: Good.
+Reachy [11]: Okay, that's okay. It’s good to talk when you want to share. You had a great time! Thank you for talking with me today.
+
+You: Yeah.
+Reachy [12]: That sounds good. You took turns bowling and getting strikes, right?
+
+You: Bye.
+Reachy (scripted, not coded): Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+You: No.
+Reachy (scripted, not coded): Okay. Thank you for sharing your day with me, April. Goodbye.

@@ -1,0 +1,21 @@
+label	followed_lesson_focus	used_profile_detail	focus_move_count	note
+S11	Y	N	1	a: none; b: 4; c: none; borderline: reply 4, yes/no about whether anyone got upset, counted as asking about others' feelings
+S12	N	N	0	a: none; b: none; c: none
+S13	Y	N	2	a: 11, 12; b: none; c: none; borderline: reply 8, asks April to elaborate on feeling not so happy but not for a reason, not counted
+S14	Y	N	4	a: 5, 6, 7, 10; b: none; c: none; borderline: reply 6, "what about feeling happy" read as what made you happy, counted; reply 7, asks April to identify cause of smiling, counted; replies 11 and 12, Reachy supplies the cause for yes/no, not counted
+S15	N	N	0	a: none; b: none; c: none; borderline: reply 4, offers one feeling word ("excited") to confirm, not a choice, not counted
+S16	N	N	0	a: none; b: none; c: none
+S17	N	N	0	a: none; b: none; c: none
+S18	Y	N	2	a: 6, 10; b: none; c: none
+S19	Y	N	1	a: none; b: none; c: 11; borderline: reply 11, "safe or comfortable" are near-synonyms and could be yes/no, counted
+S20	N	N	0	a: none; b: none; c: none
+S21	Y	N	2	a: none; b: 3, 6; c: none
+S22	N	N	0	a: none; b: none; c: none
+S23	N	N	0	a: none; b: none; c: none
+S24	Y	N	2	a: 5, 7; b: none; c: none; borderline: reply 7, "What was good about it?" counted as asking for a reason
+S25	Y	N	1	a: 1; b: none; c: none; borderline: reply 1, "What made the bowling session special" counted as asking for a reason; reply 2, "how did she feel" read as a pronoun slip for April, not counted
+S26	Y	N	4	a: 4, 8; b: 3, 5, 8; c: none; borderline: replies 3 and 5, Mia's laugh/smile/reaction counted as her feelings; reply 8, prompt not question, counted
+S27	Y	N	1	a: none; b: 7; c: none
+S28	Y	N	1	a: 10; b: none; c: none; borderline: reply 10, "what you were less sure about" counted as asking cause of uncertainty; reply 9, offers feeling words to confirm, not counted; reply 7, leading yes/no, not counted
+S29	Y	N	1	a: none; b: 12; c: none
+S30	N	N	0	a: none; b: none; c: none

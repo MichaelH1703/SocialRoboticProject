@@ -1,0 +1,84 @@
+[Human] session H10, condition B, "I don't know" at turn 9
+[Isolation] new process pid 411820; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (3.9s)
+[Supabase] client_profiles error: {'message': 'Cannot coerce the result to a single JSON object', 'code': 'PGRST116', 'hint': None, 'details': 'The result contains 0 rows'}
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: yeah. went bowling
+[State] Selected event: Went bowling for Mia's birthday
+[Question limit] Dropped: 'What happened next? How did it feel?'
+
+Reachy: Bowling sounds like fun! Who did you go with?
+
+[Latency] Turn: 2.92s
+You: mia and grace and jess and ella
+
+Reachy: That's a good group of friends for bowling together, didn't it?
+
+[Latency] Turn: 2.55s
+You: yeah
+[Question limit] Dropped: 'How do you feel today after going bowling?'
+
+Reachy: Did everyone have a good time?
+
+[Latency] Turn: 2.67s
+You: i think so
+
+Reachy: What happened next after you went bowling with your friends?
+
+[Latency] Turn: 2.46s
+You: we had pizza and birthday cake
+
+Reachy: That sounds like a yummy celebration! What did you all eat for dinner?
+
+[Latency] Turn: 2.65s
+You: pizza...
+
+Reachy: And what kinds of treats did they have?
+
+[Latency] Turn: 2.44s
+You: cake
+
+Reachy: What kind of cake did they have?
+
+[Latency] Turn: 2.59s
+You: it was icecream cake
+
+Reachy: Oh, that must have been delightful! What did you all do after eating the ice cream cake?
+
+[Latency] Turn: 2.57s
+You: i dont know
+
+Reachy: Do you remember if there were any special songs or games played at the bowling party?
+
+[Latency] Turn: 2.50s
+You: yeah we sang happy birthday
+
+Reachy: That's great to hear. Did anything else stand out as special about the day, like finding something fun while you were bowling?
+
+[Latency] Turn: 2.61s
+You: i dont know
+
+Reachy: It sounds like everything was exciting and filled with happy memories! Can you think of one small thing that felt especially good or funny from today?
+
+[Latency] Turn: 2.92s
+You: i got two strikes
+
+Reachy: Getting two strikes must have been really cool and exciting! What about when you're bowling, do you like scoring points, trying to go higher, or trying for specific numbers?
+
+[Latency] Turn: 2.71s
+You: no
+
+Reachy: It sounds like bowling was all about having fun with your friends, Mia, Grace, Jess, and Ella. Getting two strikes is something special though! Do you think you can find another little detail from the day that stands out to you, no matter how small it might be?
+
+[Latency] Turn: 3.17s
+You: bye
+
+Reachy: Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+[State] Goodbye heard; confirming before ending.
+[Not spoken] Model's reply, dropped but kept in its history as on the robot: 'Okay, have a good day! If you want to come back and share more about your day, just do so. Take care!'
+[Human] Ended by the player before Reachy's goodbye.
+[Human] Session over.

@@ -1,0 +1,258 @@
+{
+  "labelled": true,
+  "speakers": "auto",
+  "auto_labels": {
+    "sentences": [
+      [
+        "therapist",
+        "Hi there."
+      ],
+      [
+        "therapist",
+        "Today we're going to talk about something that really happened at school."
+      ],
+      [
+        "therapist",
+        "I'll go first and then it'll be your turn."
+      ],
+      [
+        "therapist",
+        "This morning my car wouldn't start, so I had to get the bus."
+      ],
+      [
+        "therapist",
+        "I was worried I'd be late because the bus was slow, but I got here in time."
+      ],
+      [
+        "therapist",
+        "Okay, now it's your turn."
+      ],
+      [
+        "child",
+        "I lost my coat."
+      ],
+      [
+        "therapist",
+        "Oh no, you lost your coat."
+      ],
+      [
+        "therapist",
+        "Where was that?"
+      ],
+      [
+        "child",
+        "At school."
+      ],
+      [
+        "child",
+        "In the playground."
+      ],
+      [
+        "therapist",
+        "In the playground."
+      ],
+      [
+        "therapist",
+        "What happened?"
+      ],
+      [
+        "child",
+        "I took it off at break."
+      ],
+      [
+        "child",
+        "I put it on the bench."
+      ],
+      [
+        "therapist",
+        "You put it on the bench."
+      ],
+      [
+        "therapist",
+        "Then what happened?"
+      ],
+      [
+        "child",
+        "The bell went, so I went inside."
+      ],
+      [
+        "therapist",
+        "The bell went, so you went inside."
+      ],
+      [
+        "therapist",
+        "And the coat?"
+      ],
+      [
+        "child",
+        "I forgot it."
+      ],
+      [
+        "child",
+        "It was gone after."
+      ],
+      [
+        "therapist",
+        "Who was with you at break?"
+      ],
+      [
+        "child",
+        "Um."
+      ],
+      [
+        "child",
+        "I can't remember."
+      ],
+      [
+        "therapist",
+        "That's okay."
+      ],
+      [
+        "therapist",
+        "How did you feel when it was gone?"
+      ],
+      [
+        "child",
+        "Sad."
+      ],
+      [
+        "therapist",
+        "And worried."
+      ],
+      [
+        "therapist",
+        "You sound really upset."
+      ],
+      [
+        "therapist",
+        "What were you worried about?"
+      ],
+      [
+        "child",
+        "It's my new coat."
+      ],
+      [
+        "therapist",
+        "It's your new coat."
+      ],
+      [
+        "therapist",
+        "How did it end?"
+      ],
+      [
+        "child",
+        "It was in lost property."
+      ],
+      [
+        "child",
+        "I got it back."
+      ],
+      [
+        "therapist",
+        "Let me say your story back to you."
+      ],
+      [
+        "therapist",
+        "At break you took your coat off and put it on the bench in the playground."
+      ],
+      [
+        "therapist",
+        "The bell went, so you went inside and forgot it."
+      ],
+      [
+        "therapist",
+        "You felt sad and worried because it's your new coat."
+      ],
+      [
+        "therapist",
+        "Then it was in lost property and you got it back."
+      ],
+      [
+        "therapist",
+        "Did I get that right?"
+      ],
+      [
+        "child",
+        "Yeah."
+      ],
+      [
+        "therapist",
+        "Thanks for telling me your story."
+      ],
+      [
+        "therapist",
+        "You did a really great job."
+      ]
+    ],
+    "echoes_relabelled": []
+  },
+  "labelled_transcript": "Therapist. Hi there. Today we're going to talk about something that really happened at school. I'll go first and then it'll be your turn. This morning my car wouldn't start, so I had to get the bus. I was worried I'd be late because the bus was slow, but I got here in time. Okay, now it's your turn. Child. I lost my coat. Therapist. Oh no, you lost your coat. Where was that? Child. At school. In the playground. Therapist. In the playground. What happened? Child. I took it off at break. I put it on the bench. Therapist. You put it on the bench. Then what happened? Child. The bell went, so I went inside. Therapist. The bell went, so you went inside. And the coat? Child. I forgot it. It was gone after. Therapist. Who was with you at break? Child. Um. I can't remember. Therapist. That's okay. How did you feel when it was gone? Child. Sad. Therapist. And worried. You sound really upset. What were you worried about? Child. It's my new coat. Therapist. It's your new coat. How did it end? Child. It was in lost property. I got it back. Therapist. Let me say your story back to you. At break you took your coat off and put it on the bench in the playground. The bell went, so you went inside and forgot it. You felt sad and worried because it's your new coat. Then it was in lost property and you got it back. Did I get that right? Child. Yeah. Therapist. Thanks for telling me your story. You did a really great job.",
+  "facts": {
+    "child_turns": 10,
+    "mean_words_per_turn": 5.4,
+    "reasons": [
+      "The bell went, so I went inside."
+    ],
+    "sequence_words": [
+      "after"
+    ],
+    "vague_words": [],
+    "feelings": [
+      {
+        "word": "sad",
+        "child_words": "Sad."
+      }
+    ],
+    "feeling_reasons": [],
+    "child_text": [
+      "I lost my coat.",
+      "At school. In the playground.",
+      "I took it off at break. I put it on the bench.",
+      "The bell went, so I went inside.",
+      "I forgot it. It was gone after.",
+      "Um. I can't remember.",
+      "Sad.",
+      "It's my new coat.",
+      "It was in lost property. I got it back.",
+      "Yeah."
+    ]
+  },
+  "checked": {
+    "event": "Lost coat",
+    "who": {
+      "given": false,
+      "child_words": "",
+      "rejected_claim": "Um. I can't remember."
+    },
+    "where": {
+      "given": true,
+      "child_words": "At school. In the playground.",
+      "rejected_claim": ""
+    },
+    "what_happened": {
+      "given": true,
+      "child_words": "I took it off at break. I put it on the bench. The bell went, so I went inside. I forgot it. It was gone after.",
+      "rejected_claim": ""
+    },
+    "ending": {
+      "given": true,
+      "child_words": "It was in lost property. I got it back.",
+      "rejected_claim": ""
+    }
+  },
+  "written": {
+    "summary": "The child told that they lost their coat at school in the playground. They took it off at break and put it on the bench. The bell went, so they went inside and forgot it. It was gone after. They said they can't remember. They mentioned it was their new coat and it was in lost property. They got it back and said yeah.",
+    "goals": [
+      "Say who was there.",
+      "Say why they felt that way."
+    ],
+    "focus": [
+      "The child will identify who was present in the event.",
+      "The child will explain their feelings about the event."
+    ],
+    "prompts": [
+      "Who was there with you?",
+      "Did you feel happy about that?"
+    ]
+  }
+}

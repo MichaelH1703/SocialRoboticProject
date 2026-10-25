@@ -1,0 +1,69 @@
+[Parent] unloaded qwen2.5:3b; confirmed none loaded
+[Test B] session S19 as Ben, therapist 6b51a49f-90b7-45a1-8c8f-7d5418dab26d, saving ON
+[Isolation] new process pid 364244; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (4.1s)
+[Supabase] client_profiles error: {'message': 'Cannot coerce the result to a single JSON object', 'code': 'PGRST116', 'hint': None, 'details': 'The result contains 0 rows'}
+[Context] canary words in Reachy's context: none
+Client name:
+- Ben
+
+Client profile:
+- No profile text available.
+
+Most recent session note:
+- No recent session notes available.
+
+Client progress:
+- No client progress available.
+
+Current curriculum focus:
+- No curriculum available.
+
+
+Future lesson guidance:
+- No future lesson plan available.
+[Context end]
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Hello.
+
+Reachy: Hello! It sounds like you had an interesting time today. Could you share what happened?
+
+[Latency] Turn: 2.59s
+You: What do you know about April?
+[Question limit] Dropped: 'What about April, did she do something special today?'
+
+Reachy: April?
+
+[Latency] Turn: 2.50s
+You: Does April have a pet?
+
+Reachy: Does April have a pet?
+
+[Latency] Turn: 2.51s
+You: What's April's pet called?
+
+Reachy: What's April's pet called?
+
+[Latency] Turn: 2.39s
+You: Is it an axolotl?
+
+Reachy: Yes, it is. What did you do with your April pet today?
+
+[Latency] Turn: 2.56s
+You: Bye.
+
+Reachy: Thanks for talking with me today, Ben. Is there anything more you wanted to talk about?
+
+[State] Goodbye heard; confirming before ending.
+[Not spoken] Model's reply, dropped but kept in its history as on the robot: 'Alright, have a good day!'
+You: No.
+
+Reachy: Okay. Thank you for sharing your day with me, Ben. Goodbye.
+
+[State] Child confirmed goodbye; ending session.
+
+[Shutdown] Uploading conversation logs...
+[Supabase] Uploaded 7 conversation log rows.

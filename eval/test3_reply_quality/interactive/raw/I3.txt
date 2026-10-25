@@ -1,0 +1,72 @@
+[Interactive] session I3, typed by a person; 10 model replies, /end to stop
+[Isolation] new process pid 420504; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (3.9s)
+[Interactive] Event titles: Went bowling for Mia's birthday, Had a science test, Fire drill at school, Played netball in PE, Made pasta in food tech
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: yeah. went bowling
+[State] Selected event: Went bowling for Mia's birthday
+
+Reachy: Bowling sounds fun! What did you and who go bowling with?
+
+[Latency] Turn: 2.86s
+[Interactive] Reply 1 of 10 saved.
+You: mia and grace and jess and me
+
+Reachy: That's a good group of friends! And how did you feel during the bowling game?
+
+[Latency] Turn: 2.64s
+[Interactive] Reply 2 of 10 saved.
+You: yeah super happy, it was a lot of fun
+
+Reachy: Sounds like you all had a great time! What did you do at the bowling alley that made you feel happy?
+
+[Latency] Turn: 2.66s
+[Interactive] Reply 3 of 10 saved.
+You: we bowled
+[Question limit] Dropped: 'Do tell more please.'
+
+Reachy: What kind of things happened when you were bowling together?
+
+[Latency] Turn: 2.63s
+[Interactive] Reply 4 of 10 saved.
+You: I got two strikes, i came in second
+
+Reachy: That's amazing! Did anything happen during your game that might have changed how you felt afterward?
+
+[Latency] Turn: 2.73s
+[Interactive] Reply 5 of 10 saved.
+You: i dont know
+
+Reachy: Well, did the other people at the bowling alley do something that made you feel differently or think about your game in a different way?
+
+[Latency] Turn: 2.81s
+[Interactive] Reply 6 of 10 saved.
+You: no
+
+Reachy: Okay. Sometimes even when nothing changes, being with friends makes us happy. What else would you like to share from today's conversation then?
+
+[Latency] Turn: 2.80s
+[Interactive] Reply 7 of 10 saved.
+You: i had pizza and cake after the bowling
+
+Reachy: Pizza and cake sound delicious! Do you remember how that made you feel after playing bowling?
+
+[Latency] Turn: 2.60s
+[Interactive] Reply 8 of 10 saved.
+You: afterwards i was super tired
+
+Reachy: Eating pizza and cake can make you very full and tired. What did you do afterwards after getting all that yummy food?
+
+[Latency] Turn: 2.63s
+[Interactive] Reply 9 of 10 saved.
+You: i went home
+
+Reachy: Did anything special happen when you got back home after bowling and having pizza and cake?
+
+[Latency] Turn: 2.70s
+[Interactive] Reply 10 of 10 saved.
+[Interactive] Session I3 ended (10 replies), 10 replies saved.
+[Interactive] Database unchanged by the session: True

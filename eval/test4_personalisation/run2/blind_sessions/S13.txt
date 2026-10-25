@@ -1,0 +1,45 @@
+Session S13
+
+Reachy (greeting, not coded): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Went bowling.
+Reachy [1]: Oh, bowling sounds fun! What did you and who go bowling with?
+
+You: Mia. And Ella and stuff. Jess too.
+Reachy [2]: That's great! Who did you play games with at the bowling alley?
+
+You: Mia won. I came second.
+Reachy [3]: Oh, that must have been exciting! How were you feeling during all of this?
+
+You: Happy. A bit nervous.
+Reachy [4]: Sounds like you had a happy and a little nervy day playing bowling!
+
+You: Yeah.
+Reachy [5]: Did anything else happen at the bowling alley besides playing games?
+
+You: Had pizza. Cake with candles.
+Reachy [6]: Nice, having pizza and cake can make any day special! Did anyone blow out the candles together?
+
+You: Mia did.
+Reachy [7]: That must have been fun seeing Mia light her birthday cake. How did it feel to have friends celebrate your birthday like that?
+
+You: Not really.
+Reachy [8]: It sounds like having others there might not have made you feel as happy as you expected, though I see how it could be different for everyone. Can you tell me more about feeling not so happy during the celebration?
+
+You: People looking.
+Reachy [9]: That must have been tricky seeing people look at you or make eye contact at your party. How did that affect you?
+
+You: I don't know.
+Reachy [10]: Ah, that's okay. Sometimes things can feel confusing when they aren't what we expect them to be. Can you recall a part of the day where something felt different for you?
+
+You: Nervous.
+Reachy [11]: Being nervous is very common during birthday celebrations! Is there anything specific about being nervous that you could share, such as worrying someone would laugh at jokes or not understand your game?
+
+You: Just was.
+Reachy [12]: Nervousness can be understandable when celebrating a special day with friends. Do you remember any particular part of the bowling session or the party that made you feel nervous?
+
+You: Bye.
+Reachy (scripted, not coded): Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+You: No.
+Reachy (scripted, not coded): Okay. Thank you for sharing your day with me, April. Goodbye.

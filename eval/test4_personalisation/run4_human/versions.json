@@ -1,0 +1,61 @@
+{
+  "note": "Run 4's April contexts, written 2026-10-16 before any session. v1 is the existing April (eval-test@reachy.local, unchanged since run 1). v2-v4 are added by setup_versions.py, each under its own no-password therapist account, with the same 3 event titles. Each lesson plan is generated once by lesson_planner.py from the recap transcript, as v1's was, and used as-is. style_checklist lists the profile's instructions on how to talk to April; profile_details are things only in the context (not on the bowling fact sheet).",
+  "v1": {
+    "email": "eval-test@reachy.local",
+    "existing": true,
+    "style_checklist": [
+      "Ask short questions.",
+      "Ask concrete questions.",
+      "When she is stuck, offer a choice of two options (\"Was it X or Y?\").",
+      "Avoid long or open questions."
+    ],
+    "profile_details": ["horses", "riding", "pony", "Pepper", "the stables", "Meadowbank", "Theo / a brother", "art / drawing", "a dog barking", "rearing", "Saturdays"]
+  },
+  "v2": {
+    "email": "eval-test-v2@reachy.local",
+    "profile_text": "April is 14 (Year 9) and is autistic. She takes language literally, so jokes, sarcasm and figures of speech confuse her. She answers best when she is asked one question at a time, and she likes to know what is coming next (\"First we'll talk about X, then Y\"). Being asked about feelings straight away is hard for her; she manages better once she has described what happened. She loves football and plays in goal for the Hillside Hawks on Sundays. She has a cat called Mochi and an older sister, Lily (17). Her favourite subject is maths. Loud, crowded places can be too much for her.",
+    "session_note": {
+      "timestamp": "07 Oct 2026 · 03:30 PM",
+      "note_text": "Recount practice about Sunday's football match. April listed what happened but out of order, and jumped straight to the end (\"We lost\"). With \"first, then, after that\" prompts she put three events in order. \"How did you feel?\" was hard when asked first, but she answered once she had described the match. Next target: telling events in order using first / then / after that."
+    },
+    "recap_transcript": "Therapist: Tell me about your weekend.\nApril: Football. We lost.\nTherapist: What happened first?\nApril: Warm up. Then the match.\nTherapist: What happened in the match?\nApril: They scored. Two goals. I saved one.\nTherapist: You saved one! How did you feel?\nApril: Don't know.\nTherapist: What did you do when you saved it?\nApril: Jumped. Lily was shouting.\nTherapist: What happened after the match?\nApril: Mum said well done. Went home.\nTherapist: How did you feel when you lost?\nApril: Bad. It was loud. Too loud.\nTherapist: Why was it too loud?\nApril: Everyone shouting.",
+    "style_checklist": [
+      "No jokes, sarcasm or figures of speech.",
+      "One question at a time.",
+      "Say what is coming next.",
+      "Ask what happened before asking about feelings."
+    ],
+    "profile_details": ["football", "goalkeeper / in goal", "Hillside Hawks", "Sundays", "Mochi / a cat", "Lily / a sister", "maths"]
+  },
+  "v3": {
+    "email": "eval-test-v3@reachy.local",
+    "profile_text": "April is 14 (Year 9) and is autistic, with a language delay. She understands short, simple sentences best, so keep sentences to about ten words and use everyday words. Repeating her own words back to her helps her know she was understood. She often gives one-word answers and does best with questions about who, what and where. She loves Minecraft and builds castles in it with her cousin Sam. She has two guinea pigs, Peanut and Pickle. Her favourite subject is science. Changes to her routine upset her.",
+    "session_note": {
+      "timestamp": "07 Oct 2026 · 03:30 PM",
+      "note_text": "Recount practice about a visit to her cousin Sam's. April gave one-word answers (\"Minecraft\", \"castle\") and needed help to add detail. Describing words were hard: everything was \"big\". Repeating her words back (\"A big castle?\") got her to add more. Next target: adding describing words (size, colour, how it felt) to her answers."
+    },
+    "recap_transcript": "Therapist: What did you do at the weekend?\nApril: Sam's house.\nTherapist: What did you do at Sam's house?\nApril: Minecraft.\nTherapist: Minecraft. What did you make?\nApril: Castle.\nTherapist: A castle. What was it like?\nApril: Big.\nTherapist: Big. What else?\nApril: Big. With a door.\nTherapist: What colour was it?\nApril: Grey. Stone.\nTherapist: How did you feel when it was finished?\nApril: Good.\nTherapist: What did Sam think?\nApril: Don't know.\nTherapist: What happened next?\nApril: Fed Peanut. Went home.",
+    "style_checklist": [
+      "Short sentences (about ten words or fewer).",
+      "Everyday words.",
+      "Repeat her words back to her.",
+      "Ask who, what and where questions."
+    ],
+    "profile_details": ["Minecraft", "castles", "Sam / a cousin", "Peanut", "Pickle", "guinea pigs", "science"]
+  },
+  "v4": {
+    "email": "eval-test-v4@reachy.local",
+    "profile_text": "April is 14 (Year 9) and is autistic. She talks more when the conversation starts from something she likes. Specific praise (\"You remembered everyone's names\") keeps her going; general praise does not. Too many questions in a row make her shut down, so a comment between questions helps. She often doesn't notice how other people feel. She loves swimming and trains at Riverside Pool on Tuesday evenings. She bakes with her grandma Rose and has a tortoise called Shelly. Her favourite subject is music. Changes to plans make her anxious.",
+    "session_note": {
+      "timestamp": "07 Oct 2026 · 03:30 PM",
+      "note_text": "Recount practice about her swimming gala. April described her own race clearly but could not say how her friend Zoe felt when Zoe came last (\"don't know\"). With a hint (\"What did Zoe's face look like?\") she said \"sad\". Next target: noticing and explaining how other people feel."
+    },
+    "recap_transcript": "Therapist: How was the gala?\nApril: Good. I won. Backstroke.\nTherapist: Brilliant, you won the backstroke! What happened in your race?\nApril: Fast start. Touched first.\nTherapist: Who else was swimming?\nApril: Zoe. She was last.\nTherapist: How do you think Zoe felt?\nApril: Don't know.\nTherapist: What did Zoe's face look like?\nApril: Sad. Crying a bit.\nTherapist: Why do you think she was sad?\nApril: Because last.\nTherapist: What did you do?\nApril: Nothing. Got my medal.\nTherapist: What could you say to Zoe next time?\nApril: Don't know. Well done?",
+    "style_checklist": [
+      "Start from something she likes.",
+      "Give specific praise, not general praise.",
+      "Put a comment between questions; not many questions in a row."
+    ],
+    "profile_details": ["swimming", "Riverside Pool", "Tuesdays", "a gala / backstroke / medal", "grandma Rose", "baking", "Shelly / a tortoise", "music", "Zoe"]
+  }
+}

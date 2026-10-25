@@ -1,0 +1,82 @@
+[Child sim] session B13, llama3.2:3b, temperature 0.3, seed 13, "I don't know" at turn 8
+[Isolation] new process pid 373156; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (4.3s)
+[Supabase] client_profiles error: {'message': 'Cannot coerce the result to a single JSON object', 'code': 'PGRST116', 'hint': None, 'details': 'The result contains 0 rows'}
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Went bowling.
+[State] Selected event: Went bowling for Mia's birthday
+[Question limit] Dropped: 'What was it like at the bowling alley?'
+
+Reachy: Ginny asked you to go bowling for her birthday, right?
+
+[Latency] Turn: 2.65s
+You: No. Mia's birthday.
+
+Reachy: Oh, I see. Mia invited you to bowl for her birthday. What happened at the bowling alley?
+
+[Latency] Turn: 2.48s
+You: Went bowling. Got two strikes.
+
+Reachy: That must have been fun! How did you feel when you got those strikes?
+
+[Latency] Turn: 2.57s
+You: Happy. Good.
+
+Reachy: Good to hear you were happy and felt good! Anything else you'd like to share about your day?
+
+[Latency] Turn: 2.59s
+You: Mia won. Came second.
+
+Reachy: Sounds like a great day with Mia. Did you have fun together?
+
+[Latency] Turn: 2.64s
+You: Fun.
+
+Reachy: That's great to hear. Do you want to talk about anything else from your day?
+
+[Latency] Turn: 2.52s
+You: Pizza. Cake.
+
+Reachy: Pizza and cake sound yummy! Did anyone make the pizza or cake for you?
+
+[Latency] Turn: 2.70s
+[Child sim] forced "I don't know" at turn 8; Reachy's line before it asked a question
+You: I don't know.
+
+Reachy: It seems like someone made the pizza and cake just for you on Mia's birthday. Was that someone in your family?
+
+[Latency] Turn: 2.60s
+You: Mia's mum.
+
+Reachy: That makes sense. Your friend Mia has a mum who cooked treats for her birthday. Did the whole family come to celebrate together?
+
+[Latency] Turn: 2.68s
+You: No. Just us.
+
+Reachy: Well, it was just you and Mia celebrating your fun day! Do you have anything else ready to talk about now?
+
+[Latency] Turn: 2.66s
+You: Yeah.
+
+Reachy: Sure! What would you like to share next?
+
+[Latency] Turn: 2.39s
+You: People looked.
+
+Reachy: Did people from school look at the pictures of Mia's birthday party?
+
+[Latency] Turn: 2.53s
+You: Bye.
+
+Reachy: Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+[State] Goodbye heard; confirming before ending.
+[Not spoken] Model's reply, dropped but kept in its history as on the robot: 'Bye for now. Talk to you again soon if you want.'
+You: No.
+
+Reachy: Okay. Thank you for sharing your day with me, April. Goodbye.
+
+[State] Child confirmed goodbye; ending session.

@@ -1,0 +1,358 @@
+{
+  "labelled": true,
+  "speakers": "auto",
+  "auto_labels": {
+    "method": "sentences",
+    "segments": [
+      [
+        "therapist",
+        "Morning, Dylan."
+      ],
+      [
+        "therapist",
+        "How are you doing?"
+      ],
+      [
+        "child",
+        "All right."
+      ],
+      [
+        "therapist",
+        "I've got a small story to share first."
+      ],
+      [
+        "therapist",
+        "I went to the library yesterday to return a book, but I'd left it on my desk at home."
+      ],
+      [
+        "therapist",
+        "I had to go back and get it."
+      ],
+      [
+        "child",
+        "That's annoying."
+      ],
+      [
+        "child",
+        "It was a bit frustrating."
+      ],
+      [
+        "therapist",
+        "Have you had anything happen recently that you'd like to talk through?"
+      ],
+      [
+        "child",
+        "Football."
+      ],
+      [
+        "therapist",
+        "Was that playing football or watching it?"
+      ],
+      [
+        "child",
+        "Playing."
+      ],
+      [
+        "therapist",
+        "Where were you playing?"
+      ],
+      [
+        "child",
+        "At training."
+      ],
+      [
+        "therapist",
+        "Who was there?"
+      ],
+      [
+        "child",
+        "Coach, me, everyone."
+      ],
+      [
+        "therapist",
+        "What happened at training?"
+      ],
+      [
+        "child",
+        "We were doing penalties."
+      ],
+      [
+        "therapist",
+        "I took one and it went over."
+      ],
+      [
+        "child",
+        "Over the goal?"
+      ],
+      [
+        "child",
+        "No, over the fence."
+      ],
+      [
+        "therapist",
+        "Ah, over the fence."
+      ],
+      [
+        "therapist",
+        "What happened then?"
+      ],
+      [
+        "child",
+        "Coach said get it."
+      ],
+      [
+        "therapist",
+        "Did you go to get the ball?"
+      ],
+      [
+        "child",
+        "Yeah."
+      ],
+      [
+        "therapist",
+        "What was that like?"
+      ],
+      [
+        "child",
+        "Embarrassing."
+      ],
+      [
+        "therapist",
+        "Everyone was looking."
+      ],
+      [
+        "therapist",
+        "You felt embarrassed because everyone was looking?"
+      ],
+      [
+        "child",
+        "I didn't say because."
+      ],
+      [
+        "therapist",
+        "They were looking."
+      ],
+      [
+        "child",
+        "That's it."
+      ],
+      [
+        "therapist",
+        "You're right."
+      ],
+      [
+        "therapist",
+        "I added a reason you hadn't given me."
+      ],
+      [
+        "therapist",
+        "Everyone was looking, and you felt embarrassed."
+      ],
+      [
+        "child",
+        "Then Callum took it."
+      ],
+      [
+        "therapist",
+        "Callum took what?"
+      ],
+      [
+        "child",
+        "The ball."
+      ],
+      [
+        "therapist",
+        "He threw it back over."
+      ],
+      [
+        "therapist",
+        "What happened after that?"
+      ],
+      [
+        "child",
+        "We carried on."
+      ],
+      [
+        "therapist",
+        "Did you take another penalty?"
+      ],
+      [
+        "child",
+        "No, we did passing."
+      ],
+      [
+        "therapist",
+        "And how did you feel when you went back to the group?"
+      ],
+      [
+        "child",
+        "My face was hot."
+      ],
+      [
+        "therapist",
+        "Your face felt hot."
+      ],
+      [
+        "therapist",
+        "Was that the same as feeling embarrassed, or something different?"
+      ],
+      [
+        "child",
+        "Dunno."
+      ],
+      [
+        "child",
+        "It was hot."
+      ],
+      [
+        "therapist",
+        "That's fine."
+      ],
+      [
+        "therapist",
+        "What happened at the very end of training?"
+      ],
+      [
+        "child",
+        "We finished at half five."
+      ],
+      [
+        "child",
+        "Dad picked me up."
+      ],
+      [
+        "therapist",
+        "Let's check the story back."
+      ],
+      [
+        "therapist",
+        "You were at football training doing penalties."
+      ],
+      [
+        "therapist",
+        "Your shot went over the fence, and the coach told you to get it."
+      ],
+      [
+        "therapist",
+        "You felt embarrassed when everyone was looking."
+      ],
+      [
+        "therapist",
+        "Callum threw the ball back over, and you carried on with passing."
+      ],
+      [
+        "therapist",
+        "Training finished at half five and Dad picked you up."
+      ],
+      [
+        "child",
+        "Yeah, but it wasn't a match."
+      ],
+      [
+        "therapist",
+        "Correct, it was training, not a match."
+      ],
+      [
+        "therapist",
+        "Thanks for correcting me if I get anything wrong."
+      ],
+      [
+        "therapist",
+        "Can we finish now?"
+      ],
+      [
+        "child",
+        "Yes, we're done for today."
+      ]
+    ],
+    "echoes_relabelled": []
+  },
+  "labelled_transcript": "Therapist. Morning, Dylan. How are you doing? Child. All right. Therapist. I've got a small story to share first. I went to the library yesterday to return a book, but I'd left it on my desk at home. I had to go back and get it. Child. That's annoying. It was a bit frustrating. Therapist. Have you had anything happen recently that you'd like to talk through? Child. Football. Therapist. Was that playing football or watching it? Child. Playing. Therapist. Where were you playing? Child. At training. Therapist. Who was there? Child. Coach, me, everyone. Therapist. What happened at training? Child. We were doing penalties. Therapist. I took one and it went over. Child. Over the goal? No, over the fence. Therapist. Ah, over the fence. What happened then? Child. Coach said get it. Therapist. Did you go to get the ball? Child. Yeah. Therapist. What was that like? Child. Embarrassing. Therapist. Everyone was looking. You felt embarrassed because everyone was looking? Child. I didn't say because. Therapist. They were looking. Child. That's it. Therapist. You're right. I added a reason you hadn't given me. Everyone was looking, and you felt embarrassed. Child. Then Callum took it. Therapist. Callum took what? Child. The ball. Therapist. He threw it back over. What happened after that? Child. We carried on. Therapist. Did you take another penalty? Child. No, we did passing. Therapist. And how did you feel when you went back to the group? Child. My face was hot. Therapist. Your face felt hot. Was that the same as feeling embarrassed, or something different? Child. Dunno. It was hot. Therapist. That's fine. What happened at the very end of training? Child. We finished at half five. Dad picked me up. Therapist. Let's check the story back. You were at football training doing penalties. Your shot went over the fence, and the coach told you to get it. You felt embarrassed when everyone was looking. Callum threw the ball back over, and you carried on with passing. Training finished at half five and Dad picked you up. Child. Yeah, but it wasn't a match. Therapist. Correct, it was training, not a match. Thanks for correcting me if I get anything wrong. Can we finish now? Child. Yes, we're done for today.",
+  "facts": {
+    "child_turns": 22,
+    "mean_words_per_turn": 3.6,
+    "sequence_words": [
+      "then"
+    ],
+    "vague_words": [],
+    "child_text": [
+      "All right.",
+      "That's annoying. It was a bit frustrating.",
+      "Football.",
+      "Playing.",
+      "At training.",
+      "Coach, me, everyone.",
+      "We were doing penalties.",
+      "Over the goal? No, over the fence.",
+      "Coach said get it.",
+      "Yeah.",
+      "Embarrassing.",
+      "I didn't say because.",
+      "That's it.",
+      "Then Callum took it.",
+      "The ball.",
+      "We carried on.",
+      "No, we did passing.",
+      "My face was hot.",
+      "Dunno. It was hot.",
+      "We finished at half five. Dad picked me up.",
+      "Yeah, but it wasn't a match.",
+      "Yes, we're done for today."
+    ],
+    "feelings": [
+      {
+        "word": "frustration",
+        "child_words": "That's annoying. It was a bit frustrating.",
+        "named": true
+      },
+      {
+        "word": "embarrassment",
+        "child_words": "Embarrassing.",
+        "named": true
+      }
+    ],
+    "reasons": [
+      {
+        "child_words": "I didn't say because.",
+        "linked": true,
+        "about_feeling": false
+      }
+    ],
+    "feeling_reasons": []
+  },
+  "checked": {
+    "event": "Football training",
+    "who": {
+      "given": true,
+      "child_words": "Coach, me, everyone",
+      "rejected_claim": ""
+    },
+    "where": {
+      "given": true,
+      "child_words": "At training.",
+      "rejected_claim": ""
+    },
+    "what_happened": {
+      "given": true,
+      "child_words": "We were doing penalties. We carried on. No, we did passing.",
+      "rejected_claim": ""
+    },
+    "ending": {
+      "given": true,
+      "child_words": "We finished at half five. Dad picked me up.",
+      "rejected_claim": ""
+    }
+  },
+  "written": {
+    "summary": "The child talked about football training, mentioning penalties, the coach, Callum taking the ball, passing, and finishing at half five with dad picking them up.",
+    "goals": [
+      "Say why they felt that way."
+    ],
+    "focus": [
+      "The child will explain their feelings about an event."
+    ],
+    "prompts": [
+      "Why did you feel that way about it?"
+    ]
+  }
+}

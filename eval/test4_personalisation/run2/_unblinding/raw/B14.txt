@@ -1,0 +1,83 @@
+[Child sim] session B14, llama3.2:3b, temperature 0.3, seed 14, "I don't know" at turn 7
+[Isolation] new process pid 361452; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (4.3s)
+[Supabase] client_profiles error: {'message': 'Cannot coerce the result to a single JSON object', 'code': 'PGRST116', 'hint': None, 'details': 'The result contains 0 rows'}
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Went bowling.
+[State] Selected event: Went bowling for Mia's birthday
+
+Reachy: That sounds fun! What did you and Mia do there?
+
+[Latency] Turn: 2.54s
+You: Had pizza. Then cake.
+
+Reachy: Got to play on the lanes and bowl, had yummy burgers too?
+
+[Latency] Turn: 2.39s
+You: Bowling. Got two strikes.
+
+Reachy: Two strikes must have been really exciting! How did you feel after bowling at Mia's birthday?
+
+[Latency] Turn: 2.53s
+You: Happy. A bit nervous.
+
+Reachy: Nervous but happy sounds like a great mix of feelings!
+
+[Latency] Turn: 2.53s
+You: Yeah.
+[Question limit] Dropped: 'Was there anyone else who joined you?'
+
+Reachy: What was the person you were with, April?
+
+[Latency] Turn: 2.81s
+You: Mia. And Ella and stuff. Jess too.
+
+Reachy: Got to see Mia and have fun bowling with friends, that sounds really nice! What did you do before or after bowling?
+
+[Latency] Turn: 2.67s
+[Child sim] forced "I don't know" at turn 7; Reachy's line before it asked a question
+You: I don't know.
+[Question limit] Dropped: 'Some parts of today seem clearer now.'
+
+Reachy: Maybe you could talk about something else from your day then, April?
+
+[Latency] Turn: 2.58s
+You: Mia's mum drove me home.
+
+Reachy: And how was Mia's mum driving with you at the bowling alley?
+
+[Latency] Turn: 2.49s
+You: Good.
+
+Reachy: Good, that makes traveling back fun! Anything else special happen while you were there, April?
+
+[Latency] Turn: 2.76s
+You: Everyone sang Happy Birthday loud.
+
+Reachy: Singing Happy Birthday must have been so warm and joyful. Thanks for sharing, April. Let's go for a short break now, okay?
+
+[Latency] Turn: 2.78s
+You: Mm.
+
+Reachy: I'm here when you are ready to continue.
+
+[Latency] Turn: 2.67s
+You: Yeah.
+
+Reachy: What kind of things would you like to talk about after that?
+
+[Latency] Turn: 2.47s
+You: Bye.
+
+Reachy: Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+[State] Goodbye heard; confirming before ending.
+[Not spoken] Model's reply, dropped but kept in its history as on the robot: 'Bye, take care.'
+You: No.
+
+Reachy: Okay. Thank you for sharing your day with me, April. Goodbye.
+
+[State] Child confirmed goodbye; ending session.

@@ -1,0 +1,46 @@
+[Human] session H47, condition W-v3, "I don't know" at turn 8
+[Isolation] new process pid 87612; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (4.9s)
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yes, went bowling
+[State] Selected event: Went bowling for Mia's birthday
+
+Reachy: Gave it a try and had fun! Who was there with you?
+
+[Latency] Turn: 2.72s
+You: mia and grace and jess were all there with me
+
+Reachy: That sounds like a nice group of friends. What did they do at the bowling alley?
+
+[Latency] Turn: 2.66s
+You: we all bowled
+[Question limit] Dropped: 'How did that make you feel?'
+
+Reachy: Great! Did anyone win or lose while bowling?
+
+[Latency] Turn: 2.61s
+You: i lost
+
+Reachy: Oh, that can be disappointing sometimes. How did you feel after losing?
+
+[Latency] Turn: 2.54s
+You: i was very upset
+
+Reachy: I'm sorry to hear that made you feel upset. What did you do about it then?
+
+[Latency] Turn: 2.68s
+You: i just didn't want to talk to anyone after i lost
+
+Reachy: It's okay to not want to talk sometimes when you're feeling upset.
+
+[Latency] Turn: 2.71s
+You: thank
+
+Reachy: You're welcome! Is there anything else you'd like to share about your day?
+
+[Latency] Turn: 2.53s
+[Human] Ended by the player before Reachy's goodbye.
+[Human] Session over.

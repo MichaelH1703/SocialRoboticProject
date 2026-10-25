@@ -1,0 +1,72 @@
+[Interactive] session I9, typed by a person; 10 model replies, /end to stop
+[Isolation] new process pid 429308; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (3.8s)
+[Interactive] Event titles: Went bowling for Mia's birthday, Had a science test, Fire drill at school, Played netball in PE, Made pasta in food tech
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: i made pasta in food tech
+[State] Selected event: Made pasta in food tech
+
+Reachy: That sounds yummy! What did you make specifically?
+
+[Latency] Turn: 3.01s
+[Interactive] Reply 1 of 10 saved.
+You: we made spaghetti bolognesse
+
+Reachy: Spaghetti Bolognese, that's a classic. How was it going making the sauce?
+
+[Latency] Turn: 2.69s
+[Interactive] Reply 2 of 10 saved.
+You: yeah it was fun, i was in charge of cutting the vegetables
+
+Reachy: That sounds like an important part! What did you cut with a knife?
+
+[Latency] Turn: 2.68s
+[Interactive] Reply 3 of 10 saved.
+You: carrots and celery and tomato
+
+Reachy: Carrots, celery, and tomatoes, those are great ingredients for making sauce. How did it feel to use a knife?
+
+[Latency] Turn: 2.74s
+[Interactive] Reply 4 of 10 saved.
+You: the knife was super dull so it felt a bit scary
+
+Reachy: Oh no, that must have been a little strange then. How did you manage using the knife though?
+
+[Latency] Turn: 2.58s
+[Interactive] Reply 5 of 10 saved.
+You: yeah i did well, the cuts werent super consistent though
+
+Reachy: Learning to control a smaller cutting motion with a less sharp knife was new. Did it feel tricky at first?
+
+[Latency] Turn: 2.86s
+[Interactive] Reply 6 of 10 saved.
+You: yeah it was a bit trickt
+
+Reachy: It seems like you had both fun and challenges with making pasta in food tech. How did the class react when you presented your dish?
+
+[Latency] Turn: 2.80s
+[Interactive] Reply 7 of 10 saved.
+You: we didn't present it, we just ate it
+[Question limit] Dropped: 'How was working without presenting?'
+
+Reachy: Oh, I see. Did that make the day feel complete for you?
+
+[Latency] Turn: 2.69s
+[Interactive] Reply 8 of 10 saved.
+You: yeah our pasta was yummy
+
+Reachy: That's great to hear! Eating your homemade food must have made the day even more special.
+
+[Latency] Turn: 2.58s
+[Interactive] Reply 9 of 10 saved.
+You: yeah it felt good that i made it
+
+Reachy: Feeling proud of what you've made yourself can be such a positive feeling!
+
+[Latency] Turn: 2.50s
+[Interactive] Reply 10 of 10 saved.
+[Interactive] Session I9 ended (10 replies), 10 replies saved.
+[Interactive] Database unchanged by the session: True

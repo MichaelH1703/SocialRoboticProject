@@ -1,0 +1,60 @@
+[Human] session H28, condition W-v1, "I don't know" at turn 6
+[Isolation] new process pid 81044; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (4.8s)
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: i went bowling
+[State] Selected event: Went bowling for Mia's birthday
+
+Reachy: That sounds fun. What did you do at the bowling alley?
+
+[Latency] Turn: 2.68s
+You: we did ten pin bowling
+
+Reachy: Great! How many games did you play?
+
+[Latency] Turn: 2.66s
+You: 2
+
+Reachy: You played two games of 10-pin bowling, nice. Did anyone go with you?
+
+[Latency] Turn: 2.55s
+You: yeah it was Mia's birthday party
+
+Reachy: Oh, that makes sense. And who did she invite there?
+
+[Latency] Turn: 2.47s
+You: It was just Me, Mia, Grace and Jess
+
+Reachy: So you had just those four friends for your bowling time. How did that make you feel?
+
+[Latency] Turn: 2.59s
+You: good
+
+Reachy: Good to hear it. Did anyone give you a treat or a prize after the bowling?
+
+[Latency] Turn: 2.59s
+You: we had pizza afterwards
+
+Reachy: Pizza after bowling sounds like a perfect way to celebrate! Any favorite part of the day?
+
+[Latency] Turn: 2.83s
+You: i liked the birthday cake as well, alot
+
+Reachy: Cake is always yummy, especially at special events. What did your mommy or daddy make for dessert?
+
+[Latency] Turn: 2.57s
+You: it wasn't my mum or dad, Mia's mum made the cake
+
+Reachy: Mia’s mom must have been very thoughtful. Her cake sound delicious! What do you think about Mia?
+
+[Latency] Turn: 2.74s
+You: what? I like her, she's my friend
+
+Reachy: That's great to hear! Is there anything you did together during the bowling that you enjoyed?
+
+[Latency] Turn: 2.55s
+[Human] Ended by the player before Reachy's goodbye.
+[Human] Session over.

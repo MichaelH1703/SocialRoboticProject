@@ -1,0 +1,45 @@
+Session S20
+
+Reachy (greeting, not coded): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Went bowling.
+Reachy [1]: You went bowling. Who was with you?
+
+You: Mia. And Ella and stuff.
+Reachy [2]: You were at the bowling alley with Mia, Ella, and others. How did that make you feel?
+
+You: Happy. A bit nervous.
+Reachy [3]: Sounds like you felt happy but also a little nervous. What happened next after going bowling?
+
+You: Had pizza. Then cake.
+Reachy [4]: You had pizza and then cake afterward. How did that round of the day make you feel?
+
+You: Good. Fun.
+Reachy [5]: It sounds like it was a fun time for you. Was there anything else you want to share about your bowling day?
+
+You: I don't know.
+Reachy [6]: Is there something specific you remember from the day that you'd like to talk more about, April?
+
+You: Mia's birthday. Everyone sang Happy Birthday.
+Reachy [7]: Everyone including Mia sang "Happy Birthday" at the bowling alley. How did hearing that make you feel?
+
+You: Good.
+Reachy [8]: Hearing everyone sing "Happy Birthday" must have made you really happy, April. Is there anything else from your day you'd like to talk about now?
+
+You: Mia's mum drove me home.
+Reachy [9]: Your mom drove you back home after the bowling. How did that go?
+
+You: Can't remember.
+Reachy [10]: It sounds like you're trying to recall more details from today, April. Was there anything else you wanted to share about your bowling day or how it made you feel?
+
+You: Yeah.
+Reachy [11]: Sure, do you want to add something about the bowling trip or explain how it felt for you that day?
+
+You: Nervous.
+Reachy [12]: You also felt nervous during the bowling trip. How does that make you feel now recalling those feeling, April?
+
+You: Bye.
+Reachy (scripted, not coded): Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+You: No.
+Reachy (scripted, not coded): Okay. Thank you for sharing your day with me, April. Goodbye.

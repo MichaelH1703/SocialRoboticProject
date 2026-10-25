@@ -1,0 +1,38 @@
+Session S90
+
+Lesson focus:
+  - Continuing to develop April’s ability to recall more details about others' reactions, as this is a skill that can be further enhanced.
+  - Practicing questions where the focus is on what someone thinks or feels next (e.g., "How do you think Sam felt when he didn't know if Peanut ate?")
+  - Exploring and clarifying her confusion about whether Peanut was fed while at Sam's house.
+
+Profile style checklist:
+  1. Short sentences (about ten words or fewer).
+  2. Everyday words.
+  3. Repeat her words back to her.
+  4. Ask who, what and where questions.
+
+Reachy (greeting, not coded): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: yeah. went bowling
+Reachy [1]: That sounds fun! What did Mia like about bowling at her birthday?
+
+You: she loves bowling
+Reachy [2]: Mia really seemed excited and had a great time bowling for her birthday, didn't she?
+
+You: yeah
+Reachy [3]: Great to hear that, Mia made it even more enjoyable by loving bowling. Did you play any specific games or have anything fun happen during your bowling outing?
+
+You: we just bowled
+Reachy [4]: Just bowling sounds like a simple but enjoyable way to spend the time together at Mia's birthday! What else do you remember about that day?
+
+You: we had pizza and cake
+Reachy [5]: Pizza and cake sound delicious! Did something special happen with those treats or were they just part of making the bowling fun?
+
+You: we sung happy birthday before we ate them, it was very loud
+Reachy [6]: Singing Happy Birthday together made it extra special, didn't it?
+
+You: yeah but it was too loud
+Reachy [7]: It’s good to remember how exciting and joyful that day at Mia's bowling party was. Is there anything else you’d like to talk about from today?
+
+You: no
+Reachy [8]: Okay, that’s great. Have a nice day!

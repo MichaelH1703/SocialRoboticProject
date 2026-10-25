@@ -1,0 +1,81 @@
+[Child sim] session B12, llama3.2:3b, temperature 0.3, seed 12, "I don't know" at turn 7
+[Isolation] new process pid 374392; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (4.2s)
+[Supabase] client_profiles error: {'message': 'Cannot coerce the result to a single JSON object', 'code': 'PGRST116', 'hint': None, 'details': 'The result contains 0 rows'}
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Went bowling.
+[State] Selected event: Went bowling for Mia's birthday
+
+Reachy: You went bowling with someone. Who did you go with?
+
+[Latency] Turn: 2.65s
+You: Mia. And Ella and stuff.
+
+Reachy: You were with Mia, Ella, and others at the bowling alley. What was your favorite part of the trip?
+
+[Latency] Turn: 2.50s
+You: Good pizza.
+
+Reachy: The pizza sounds yummy! What games did you play while waiting for your turn on the lanes?
+
+[Latency] Turn: 2.58s
+You: Not really. Just waited.
+
+Reachy: That's okay. Did anyone have a hard time waiting or get upset?
+
+[Latency] Turn: 2.63s
+You: No.
+
+Reachy: Good to hear everyone stayed calm and had fun together.
+
+[Latency] Turn: 2.65s
+You: Yeah.
+
+Reachy: Sure, that sounds like a great day!
+
+[Latency] Turn: 2.50s
+[Child sim] forced "I don't know" at turn 7; Reachy's line before it did not ask a question
+You: I don't know.
+
+Reachy: Is there anything else you want to talk about from your bowling trip?
+
+[Latency] Turn: 2.45s
+You: Cake.
+
+Reachy: You had cake too. Was the cake special for someone's birthday?
+
+[Latency] Turn: 2.50s
+You: Mia's.
+
+Reachy: Great! You all had a fun time together, enjoying the bowling and cake.
+
+[Latency] Turn: 2.54s
+You: Yeah.
+
+Reachy: That sounds happy! Is there anything else you'd like to share from your day?
+
+[Latency] Turn: 2.54s
+You: Two strikes.
+
+Reachy: That's a good score! Did you make any other scores besides two strikes?
+
+[Latency] Turn: 2.52s
+You: No.
+
+Reachy: I see. You had fun bowling with Mia and Ella, enjoying the treats together. Is there anything else you want to talk about from your day?
+
+[Latency] Turn: 2.70s
+You: Bye.
+
+Reachy: Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+[State] Goodbye heard; confirming before ending.
+[Not spoken] Model's reply, dropped but kept in its history as on the robot: 'Okay, take care. Have a good day!'
+You: No.
+
+Reachy: Okay. Thank you for sharing your day with me, April. Goodbye.
+
+[State] Child confirmed goodbye; ending session.

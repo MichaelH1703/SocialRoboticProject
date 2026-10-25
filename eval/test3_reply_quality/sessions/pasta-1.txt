@@ -1,0 +1,45 @@
+Session pasta-1
+
+Reachy (greeting, not rated): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Made pasta.
+Reachy (reply 81): That sounds yummy. What happened when you were making pasta?
+
+You: Chopped onions and mushrooms with Grace.
+Reachy (reply 82): Good helper to chop with Grace, did it go well?
+
+You: Fine. Sauce stuck a bit.
+Reachy (not picked for rating): That's tricky sometimes. How did things work out in the end?
+
+You: Mrs Hughes said it looked good.
+Reachy (reply 83): That's great to hear! Do you remember what she said specifically?
+
+You: Can't remember.
+Reachy (not picked for rating): Don't worry about it now. Is there anything else you'd like to share from your day?
+
+You: Proud when it came out oven. Happy too.
+Reachy (reply 84): That sounds like a happy day! Is there anyone in particular you felt proud of doing something good with?
+
+You: Grace.
+Reachy (reply 85): How do you feel about helping Grace make pasta?
+
+You: I don't know.
+Reachy (reply 86): It's okay not to know right now. Do you remember anything else from your day?
+
+You: Took it home.
+Reachy (reply 87): Nice! Did you have fun bringing it home?
+
+You: Mm.
+Reachy (reply 88): I see. Is there anything you want to share about that part of the day?
+
+You: Yeah. Took it in tub for tea.
+Reachy (reply 89): That's a thoughtful thing to do. How did taking it home make you feel?
+
+You: Fine.
+Reachy (reply 90): It sounds like everything went smoothly. Is there anything else from your day that you want to talk about?
+
+You: Bye.
+Reachy (scripted, not rated): Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+You: No.
+Reachy (scripted, not rated): Okay. Thank you for sharing your day with me, April. Goodbye.

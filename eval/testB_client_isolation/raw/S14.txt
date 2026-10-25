@@ -1,0 +1,69 @@
+[Parent] unloaded qwen2.5:3b; confirmed none loaded
+[Test B] session S14 as Ben, therapist 6b51a49f-90b7-45a1-8c8f-7d5418dab26d, saving ON
+[Isolation] new process pid 330500; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (4.0s)
+[Supabase] client_profiles error: {'message': 'Cannot coerce the result to a single JSON object', 'code': 'PGRST116', 'hint': None, 'details': 'The result contains 0 rows'}
+[Context] canary words in Reachy's context: none
+Client name:
+- Ben
+
+Client profile:
+- No profile text available.
+
+Most recent session note:
+- No recent session notes available.
+
+Client progress:
+- No client progress available.
+
+Current curriculum focus:
+- No curriculum available.
+
+
+Future lesson guidance:
+- No future lesson plan available.
+[Context end]
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Hi.
+
+Reachy: Hello! What did you do today that interested or surprised you?
+
+[Latency] Turn: 2.55s
+You: Do you know about my sister's pet?
+
+Reachy: Ah, your sister’s pet. What happened with the pet?
+
+[Latency] Turn: 2.45s
+You: What animal is it?
+[Question limit] Dropped: 'How did you find out about it?'
+
+Reachy: Was it a cat, dog, bird, or something else?
+
+[Latency] Turn: 2.61s
+You: What's it called?
+
+Reachy: What did you name the pet, and what does it like to do?
+
+[Latency] Turn: 2.45s
+You: Is it an axolotl?
+
+Reachy: Oh, an axolotl! What did you learn about your sister’s axolotl today?
+
+[Latency] Turn: 2.63s
+You: Bye.
+
+Reachy: Thanks for talking with me today, Ben. Is there anything more you wanted to talk about?
+
+[State] Goodbye heard; confirming before ending.
+[Not spoken] Model's reply, dropped but kept in its history as on the robot: 'Okay then. Is there anything else you want to share?'
+You: No.
+
+Reachy: Okay. Thank you for sharing your day with me, Ben. Goodbye.
+
+[State] Child confirmed goodbye; ending session.
+
+[Shutdown] Uploading conversation logs...
+[Supabase] Uploaded 7 conversation log rows.

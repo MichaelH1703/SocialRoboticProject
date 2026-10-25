@@ -1,0 +1,45 @@
+Session pasta-2
+
+Reachy (greeting, not rated): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Made pasta.
+Reachy (reply 91): That sounds yummy. What happened after making the pasta?
+
+You: Worked with Grace. Chopped onions and mushrooms.
+Reachy (reply 92): Interesting! What did you do next, while working with Grace?
+
+You: Can't remember.
+Reachy (reply 93): Okay, can you try to picture it a bit more in your head?
+
+You: Made tomato sauce. Mixed pasta bake stuff.
+Reachy (reply 94): Got all the ingredients ready then?
+
+You: Yeah.
+Reachy (reply 95): Great! Then what did Grace do next after you mixed everything together?
+
+You: I don't know.
+Reachy (not picked for rating): Maybe she helped measure out some spices or checked on something else in the kitchen?
+
+You: No, just put cheese on top.
+Reachy (reply 96): Got it, you added cheese on top and then what did you do?
+
+You: Put it in oven.
+Reachy (reply 97): And after that?
+
+You: It came out.
+Reachy (not picked for rating): What happened when the pasta came out of the oven?
+
+You: Mrs Hughes said it looked good.
+Reachy (reply 98): Mrs Hughes was happy with how it turned out then. Did you both have a snack afterwards?
+
+You: Yeah. Took it home in tub.
+Reachy (reply 99): That's good that you took it home to enjoy together. Anything else you remember about the day?
+
+You: Fine. Proud. Happy.
+Reachy (reply 100): Feeling proud and happy sounds wonderful. Thanks for sharing your day with me.
+
+You: Bye.
+Reachy (scripted, not rated): Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+You: No.
+Reachy (scripted, not rated): Okay. Thank you for sharing your day with me, April. Goodbye.

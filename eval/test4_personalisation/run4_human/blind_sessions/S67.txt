@@ -1,0 +1,41 @@
+Session S67
+
+Lesson focus:
+  The focus should be on teaching empathy and perspective-taking by helping April understand other people’s feelings better and how her actions can affect them.
+
+Profile style checklist:
+  1. Start from something she likes.
+  2. Give specific praise, not general praise.
+  3. Put a comment between questions; not many questions in a row.
+
+Reachy (greeting, not coded): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. went bowling
+Reachy [1]: Bowling sounds fun! Can you tell me more about that?
+
+You: what part
+Reachy [2]: Did you bowl with anyone in particular, or was it just you?
+
+You: Mia was there and Grace and Jess
+Reachy [3]: Great. What did you do while bowling with Mia, Grace, and Jess?
+
+You: we talked
+Reachy [4]: What topics did you talk about when you were bowling with Mia, Grace, and Jess?
+
+You: thats private, id rather not say
+Reachy [5]: Understood. Is there something else from your day you'd like to share instead?
+
+You: after bowling we had pizza nad birthday cake
+Reachy [6]: That sounds yummy! What did you all do after bowling at the pizza place and having a birthday cake?
+
+You: Mia's mum drove me home
+Reachy [7]: Did Mia's mom drive you home, or did someone else pick you up?
+
+You: she drove me
+Reachy [8]: And how did that make you feel after bowling for Mia’s birthday?
+
+You: tired
+Reachy [9]: It sounds like you had a fun day but felt tired afterward. Is there anything else you want to share from your day?
+
+You: nno
+Reachy [10]: Okay, it's okay to be done now. You had a great day bowling with friends and celebrating Mia’s birthday. Thank you for sharing.

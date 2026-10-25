@@ -1,0 +1,76 @@
+[Interactive] session I7, typed by a person; 10 model replies, /end to stop
+[Isolation] new process pid 430628; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (3.9s)
+[Interactive] Event titles: Went bowling for Mia's birthday, Had a science test, Fire drill at school, Played netball in PE, Made pasta in food tech
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: i played netball in PE
+[State] Selected event: Played netball in PE
+
+Reachy: What fun details can you tell me about playing netball during PE?
+
+[Latency] Turn: 2.94s
+[Interactive] Reply 1 of 10 saved.
+You: i was GS
+
+Reachy: Who were you playing netball with during PE, if anyone?
+
+[Latency] Turn: 2.54s
+[Interactive] Reply 2 of 10 saved.
+You: a bunch of my friends, Mia and Grace were there
+
+Reachy: Did anything special happen during your game with Mia and Grace when you played netball in PE?
+
+[Latency] Turn: 2.54s
+[Interactive] Reply 3 of 10 saved.
+You: we won 3 of our games
+
+Reachy: That's exciting! How do you feel about winning three games while playing netball?
+
+[Latency] Turn: 2.65s
+[Interactive] Reply 4 of 10 saved.
+You: yeah we were very happy to win those games
+
+Reachy: Hearing that makes me glad for you. What did you and your friends do after winning the game, did you celebrate?
+
+[Latency] Turn: 2.75s
+[Interactive] Reply 5 of 10 saved.
+You: not really, it wasn't that important
+
+Reachy: I see. It's okay if nothing felt really important about winning. Do you have any more to share about playing netball in PE with Mia and Grace?
+
+[Latency] Turn: 2.92s
+[Interactive] Reply 6 of 10 saved.
+You: I scored a couple really good goals
+
+Reachy: That sounds like a lot of fun! Can you tell me what kind of goals you scored, or did anything special happen during those goals?
+
+[Latency] Turn: 2.80s
+[Interactive] Reply 7 of 10 saved.
+You: i made a shot for the edge of the semicircle that was super cook
+
+Reachy: Wow, scoring near the semicircle to be "super cool" sounds really impressive. What else happened during your game with Mia and Grace besides making that goal?
+
+[Latency] Turn: 2.82s
+[Interactive] Reply 8 of 10 saved.
+You: we passed around to each other alot
+
+Reachy: That's great teamwork! Did you notice any new skills or things you did better while playing together?
+
+[Latency] Turn: 2.62s
+[Interactive] Reply 9 of 10 saved.
+You: no, goodbye
+
+Reachy: Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+[State] Goodbye heard; confirming before ending.
+[Not spoken] Model's reply, dropped but kept in its history as on the robot: "Okay, it sounds like you're ready for a break now. Is there anything else you'd like to talk about today before we finish the session?"
+You: no
+
+Reachy: Okay. Thank you for sharing your day with me, April. Goodbye.
+
+[State] Child confirmed goodbye; ending session.
+[Interactive] Session I7 ended (Reachy's goodbye), 9 replies saved.
+[Interactive] Database unchanged by the session: True

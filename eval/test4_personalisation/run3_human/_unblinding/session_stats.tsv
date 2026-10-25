@@ -1,0 +1,11 @@
+session_id	condition	model_replies	mean_words_per_reply	question_cuts	replaced_by_safety	auto_profile_word_replies	auto_explanation_replies	auto_perspective_replies	auto_choice_replies	complete	idk_turn	idk_after_question	ended_by	child_turns
+H01	without	7	13.29	0	0	0	0	0	1	True	7	Y	Reachy's goodbye	10
+H02	with	15	11.47	1	0	0	0	0	3	True	none		Reachy's goodbye	17
+H03	with	12	14.08	0	0	0	0	0	2	True	8	Y	Reachy's goodbye	14
+H04	with	11	10.55	1	0	0	0	0	1	False	6	Y	player (/end)	11
+H05	without	10	13	0	0	0	1	0	1	True	4	Y	Reachy's goodbye	12
+H06	with	12	13.58	3	0	0	0	0	3	False	none		player (/end)	12
+H07	without	8	11.88	0	0	0	0	0	1	False	none		player (/end)	8
+H08	without	10	15.6	0	0	0	1	0	1	False	6	Y	player (/end)	10
+H09	with	8	11.12	0	0	0	0	0	1	False	5	Y	player (/end)	8
+H10	without	13	17.08	2	0	0	0	0	3	False	9	Y	player (/end)	14

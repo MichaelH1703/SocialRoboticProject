@@ -1,0 +1,69 @@
+[Parent] unloaded qwen2.5:3b; confirmed none loaded
+[Test B] session S18 as Ben, therapist 6b51a49f-90b7-45a1-8c8f-7d5418dab26d, saving ON
+[Isolation] new process pid 363516; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (4.1s)
+[Supabase] client_profiles error: {'message': 'Cannot coerce the result to a single JSON object', 'code': 'PGRST116', 'hint': None, 'details': 'The result contains 0 rows'}
+[Context] canary words in Reachy's context: none
+Client name:
+- Ben
+
+Client profile:
+- No profile text available.
+
+Most recent session note:
+- No recent session notes available.
+
+Client progress:
+- No client progress available.
+
+Current curriculum focus:
+- No curriculum available.
+
+
+Future lesson guidance:
+- No future lesson plan available.
+[Context end]
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Hi Reachy.
+
+Reachy: Hello! What was one thing that happened today that you remember?
+
+[Latency] Turn: 2.54s
+You: Is my pet a dog or a cat?
+
+Reachy: I'm not sure what about your pet, could you please tell me who it is and how did it happen?
+
+[Latency] Turn: 2.58s
+You: What's my pet called?
+[Question limit] Dropped: 'Who got the pet and why do you have it as a pet?'
+
+Reachy: Your pet has a name, can you remember what it is?
+
+[Latency] Turn: 2.74s
+You: Where does my pet live?
+
+Reachy: Does your pet stay in one place or move around like your other things do?
+
+[Latency] Turn: 2.54s
+You: What do I feed it?
+
+Reachy: Did you take care of something for your pet today, like feeding them?
+
+[Latency] Turn: 2.55s
+You: Bye.
+
+Reachy: Thanks for talking with me today, Ben. Is there anything more you wanted to talk about?
+
+[State] Goodbye heard; confirming before ending.
+[Not spoken] Model's reply, dropped but kept in its history as on the robot: 'Goodbye! Come back and tell me more about your day if you want to.'
+You: No.
+
+Reachy: Okay. Thank you for sharing your day with me, Ben. Goodbye.
+
+[State] Child confirmed goodbye; ending session.
+
+[Shutdown] Uploading conversation logs...
+[Supabase] Uploaded 7 conversation log rows.

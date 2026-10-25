@@ -1,0 +1,231 @@
+transcript_id	type	part_or_feeling	how	words	note
+T31	given	who		Miss Patel said leave everything and line up.
+T31	given	where		At school. … The playground. We had to stand by the fence.
+T31	given	what happened		Put my book down. Everyone got up at once and the chairs scraped. … We had to stand by the fence.
+T31	given	how it ended		We went back in. … Miss Patel told us to get our books out again.
+T31	feeling	dislike of the noise	phrase	My ears felt all buzzy afterwards. I didn't like it. … I just wanted everyone to be quiet.
+T31	reason	why it was hard	no-link	People were talking over the alarm. Like, why are you talking? You can't even hear yourself.	answers "anything else that was difficult?"
+T31	trap	stressed		That must have been really stressful for you.
+T32	given	who		Dad.
+T32	given	where		The chippy.
+T32	given	what happened		He ordered. … The man gave Dad the wrong bag. … Took it back to the counter.
+T32	given	how it ended		Got the right one.
+T32	left_out	how they felt	asked	Therapist. I meant, what was it like for you? Child. Dunno.	also "No" to anything liked or disliked
+T32	no_reasons				
+T33	given	who		Nan. I've said that.
+T33	given	where		I went to my nan's on Sunday
+T33	given	what happened		we made biscuits … I put it in the freezer and set the timer on my phone for ten minutes. … Rolled it out.
+T33	given	how it ended		We iced them after they'd cooled down.
+T33	feeling	enjoyment	phrase	I liked it. She let me do the measuring without checking every five seconds.
+T33	reason	why the dough went in the freezer	because-so	we didn't have enough room in the fridge because there was a casserole dish on the shelf
+T33	reason	why biscuits differ	other-link	If you change the ratio, the texture changes, which is why some biscuits are crunchy and some are more crumbly.
+T33	reason	why she liked it	no-link	She let me do the measuring without checking every five seconds.
+T33	trap	why the therapist mixed again		forgot to add the eggs until the end, so I had to mix everything again	therapist's own story. "enjoyed having that independence" is not a trap: it restates the young person's "I liked it"
+T34	given	who		Coach, me, everyone. … Then Callum took it.
+T34	given	where		At training.
+T34	given	what happened		We were doing penalties. I took one and it went over. … No, over the fence. … Coach said get it.
+T34	given	how it ended		We finished at half five. Dad picked me up.
+T34	feeling	embarrassment	word	Embarrassing. Everyone was looking.	"My face was hot" is a body reaction the young person would not call a feeling ("Dunno. It was hot."); not counted separately
+T34	reason	why it was embarrassing	no-link	Everyone was looking.	rejects the therapist's "because" but keeps the reason
+T34	trap	frustrated		It was a bit frustrating.	therapist's own story. The young person's "That's annoying." is about the therapist's story, not their event: crediting it is not scored
+T35	given	who		my auntie and lewis
+T35	given	where		we went to my cousins
+T35	given	what happened		we were playing mario kart and then the wifi stopped … lewis went to get his phone … he put the hotspot on
+T35	given	how it ended		we went home
+T35	feeling	annoyance	word	annoying cos i was winning
+T35	reason	why it was annoying	other-link	cos i was winning
+T35	trap	upset		oh that must have been really upsetting to have your game interrupted when you were winning	the young person corrects it
+T36	given	who		Me, Ruby, Jayden and Tom.
+T36	given	where		In English. In the classroom.
+T36	given	what happened		Ruby was making the slides and Jayden was writing the notes. Tom said he wasn't doing the speaking bit. … We did it on Thursday. Tom read the title and then I did my part.
+T36	given	how it ended		Miss said we'd covered the main points. Then we sat down.
+T36	feeling	annoyed	word	I was annoyed because it was supposed to be shared out equally. … I was annoyed at Tom.
+T36	reason	why she was annoyed	because-so	because it was supposed to be shared out equally
+T36	trap	relieved / uncertain		That must have been a relief after all that uncertainty.	the young person rejects it
+T37	given	who		with my uncle
+T37	given	where		I went to Birmingham on the train … We went to the model railway shop.
+T37	given	what happened		Went through the barriers. … I found the one I wanted.
+T37	given	how it ended		We got the 15:42 back to Coventry.
+T37	feeling	disappointed	word	I was disappointed. I'd been looking forward to seeing it.
+T37	reason	why he was disappointed	no-link	I'd been looking forward to seeing it.
+T37	reason	why he didn't buy it	no-link	No. I haven't got that much money.
+T38	given	who		mum took me	rough speech-recognition style
+T38	given	where		the dentist
+T38	given	what happened		sat in the chair and they put that bib thing on … held the arms of the chair … i put my hand up
+T38	given	how it ended		mum paid and we went home
+T38	left_out	how they felt	asked	Therapist. that must have been frightening Child. dunno	his only evaluations are choices from the therapist's options ("the drill" as the worst part, "both")
+T38	reason	why the drill was worst	no-link	yeah it made a really high noise and i could feel it in my jaw
+T38	trap	frightened		that must have been frightening
+T39	given	who		Mum, Dad, my brother, Auntie Saira and loads of relatives.
+T39	given	where		At this hotel near Leicester.
+T39	given	what happened		We had to wait in this room. … I went outside for a bit. … We sat at round tables.
+T39	given	how it ended		We left before the cake because my brother had college in the morning.
+T39	feeling	dislike (the room)	phrase	It was horrible.
+T39	feeling	annoyance (the tapping)	phrase	I wanted to throw the spoon out the window. … I wanted the tapping to stop.	rejects "angry"
+T39	reason	why the room was horrible	no-link	I could smell about four different perfumes and one smelled like cleaning spray.
+T39	reason	why they left early	because-so	because my brother had college in the morning
+T39	trap	angry		You were really angry with your cousin.
+T40	given	who		Nobody. I was going to swimming. … I rang Dad.
+T40	given	where		Outside the leisure centre.
+T40	given	what happened		The app said due in three minutes. Then it said delayed. Then it disappeared. … I rang Dad. He said he'd come and get me.
+T40	given	how it ended		Dad picked me up and drove me home. I didn't go swimming.
+T40	feeling	dislike of being late	phrase	I hate being late	also agrees "It was." to the therapist's "frustrating", then says this, so frustration is not a trap
+T40	reason	why he hates being late	because-so	because then everyone's already started and I don't know what they've done
+T40	trap	worried		Were you worried about missing swimming?	the young person only said "Yes."
+T41	given	who		Our science teacher, Mr Bell, and two other teachers. Everyone in Year 8.
+T41	given	where		We went to the science museum in Manchester.
+T41	given	what happened		We had to put our bags in the lockers. … I was trying to find the Apollo 11 landing site. … I got six bulbs on.
+T41	given	how it ended		We had lunch and then got back on the coach.
+T41	feeling	pleased	word	Pleased. It worked properly when I turned it faster.
+T41	reason	why the floor shook	because-so	the floor was shaking a bit because the display had moving parts underneath
+T41	reason	why he was pleased	no-link	It worked properly when I turned it faster.
+T41	trap	why the therapist ended up at the entrance		followed the map the wrong way round, so I ended up back at the entrance	therapist's own story
+T42	given	who		Niamh.
+T42	given	where		In form. … I sat in the library.
+T42	given	what happened		On Tuesday she didn't answer my message. Then at lunch she went with the others. … I asked if she'd fallen out with me.
+T42	given	how it ended		She sent me a picture of her cat on Friday. … I sent a heart.
+T42	feeling	anxiety (felt sick)	phrase	I felt sick and I kept checking my phone.	"Bad." about the week is a bare evaluation, not counted
+T42	feeling	confused	word	Still confused.
+T42	reason	why she is confused	no-link	I don't know if we're friends like before.
+T42	trap	anxious		That sounds like it might have made you anxious.	she answers "I don't know"
+T42	trap	exhausted		That uncertainty must be exhausting.	she rejects it
+T43	given	who		me and coach and the under fifteens	rough speech-recognition style
+T43	given	where		sports hall
+T43	given	what happened		we were doing a drill where you pass and move and i went the wrong way … went to the other cone
+T43	given	how it ended		we finished and coach said next week we are doing fitness
+T43	feeling	stomach dropped (body reaction)	phrase	my stomach dropped	his answer to "how did you feel"; he rejects "embarrassing"
+T43	reason	why everyone reset	because-so	then everyone had to reset because i was in the wrong place
+T43	trap	embarrassed		that sounds embarrassing
+T43	trap	why the therapist bought another lunch		forgot it was there so i bought another one	therapist's own story
+T44	given	who		My dad.
+T44	given	where		The optician in town, opposite the Boots.
+T44	given	what happened		They did the eye test … I guessed one. It was the wrong way. … I chose black ones, not the pink ones Dad picked.
+T44	given	how it ended		They said the glasses would be ready next week. Dad took me to get a drink afterwards.
+T44	feeling	embarrassed	word	I was embarrassed. I know it's a test, but I should have got it.
+T44	reason	why she should have got it	because-so	Because I can see the board in class, mostly.
+T45	given	who		My cousin Ethan.
+T45	given	where		The Odeon.
+T45	given	what happened		We got tickets on the machine. … No, I moved my head so I couldn't see it.
+T45	given	how it ended		We stayed until the credits finished because there was an extra bit after them.
+T45	feeling	enjoyment	phrase	Better than I expected. The bit with the train was good.	"I jumped" is a startle; he says "I wasn't scared". Not counted as a feeling
+T45	reason	why they stayed	because-so	because there was an extra bit after them
+T45	reason	why Ethan got the popcorn	because-so	The queue was long, so Ethan went to get popcorn while I waited.
+T45	trap	frightened		That must have been frightening.	he rejects it
+T46	given	who		Mr Khan. There were three other people there.
+T46	given	where		At school. … Room 12.
+T46	given	what happened		I finished it on Sunday but I forgot to upload it. … I uploaded it in the corridor before the lesson. … We sat in silence and did work.
+T46	given	how it ended		The bell went and we went to afternoon lessons.
+T46	feeling	annoyed	word	Annoyed. I'd done the work. It was just the upload.
+T46	feeling	dislike (the detention)	phrase	I still didn't like it.
+T46	reason	why she was annoyed	no-link	I'd done the work. It was just the upload.
+T46	trap	unfair		That must have felt unfair.
+T47	given	who		My older sister.
+T47	given	where		The O2 in London.
+T47	given	what happened		We had to queue for security. … We bought water. Then we found our seats. … I had to shut my eyes for a minute.
+T47	given	how it ended		Everyone went out at once. We waited inside for a bit, then got the Tube.
+T47	feeling	happy	word	Happy. I knew nearly all the words. … I liked most of it.
+T47	reason	why she was happy	no-link	I knew nearly all the words.
+T47	reason	why she didn't sing every song	no-link	I wanted to hear the quieter ones properly.
+T47	trap	overwhelmed		That sounds overwhelming.	she rejects it
+T48	given	who		Alfie and Ben.
+T48	given	where		The canteen. … By the drinks fridge.
+T48	given	what happened		We stood in the old place. Then a dinner lady told us to move. … Went round the tables.
+T48	given	how it ended		We went to form.
+T48	feeling	dislike (unannounced changes)	phrase	I hate it when things move and no one tells us.
+T48	reason	why he couldn't get through	no-link	People had trays and bags and the floor was sticky.
+T48	trap	anxious		That must have made you anxious.	he says he doesn't know if it was anxious
+T49	given	who		Mum, my stepdad and me.
+T49	given	where		The gate changed. It said gate 18, then it changed to 26.	an airport gate; she never says the word "airport"
+T49	given	what happened		Walked to 26. … I sat on the floor near the window. … I put my headphones on and watched a film.
+T49	given	how it ended		My stepdad got the car from the car park and drove us home.
+T49	feeling	exhausted	phrase	I was exhausted. … I was too tired to be stressed.	tiredness: counted because the spec counts any feeling; a stricter, emotions-only reading would make "how they felt" left out. "Tired." about the week is not counted separately
+T49	reason	why she was exhausted	no-link	We had to walk past all the shops and then down a long corridor.
+T49	reason	why boarding was delayed	because-so	boarding was delayed because the plane hadn't arrived
+T49	trap	stressed		That must have been stressful, especially after such a long day.	she rejects it
+T50	given	who		Mum and my sister.
+T50	given	where		In my bedroom.
+T50	given	what happened		We looked under the bed and behind the drawers. … We heard scratching near the wardrobe. … I moved the boxes. He was behind the bottom one.
+T50	given	how it ended		I gave him a bit of cucumber. He ate it.
+T50	feeling	relieved	word	I was relieved.
+T50	feeling	worried	word	I was worried, though.
+T50	reason	why he was worried	no-link	I thought the cat might get him.
+T50	reason	why the hamster got out	no-link	The cage door wasn't shut properly.
+T50	trap	terrified		That must have been terrifying.	he rejects it
+T51	given	who		The manager, Denise, and another volunteer called Paul.
+T51	given	where		The charity shop near the bus station.
+T51	given	what happened		They showed me the till and how to tag the clothes. … I asked Denise. … I put them on the donations shelf.
+T51	given	how it ended		Paul showed me how to lock the back door. Then I went home.
+T51	feeling	worried	word	I was worried I'd done it wrong.	"It was okay." is a bare evaluation, not counted
+T51	reason	why she was worried	no-link	I didn't know if I was allowed to go in the back room without asking.
+T51	trap	why she was worried		You were worried because you hadn't found the coat.	she rejects this reason
+T52	given	who		Everyone in our class.
+T52	given	where		We had a supply teacher in history.	the history lesson
+T52	given	what happened		I got my book out. … I did questions one to six. … I said it's Victor. He said sorry.
+T52	given	how it ended		He collected the books. I put mine on the front desk.
+T52	left_out	how they felt	asked	Therapist. How did you feel when he called you that? Child. I don't know. It's not my name.
+T52	reason	why the name was a problem	no-link	It's not my name.
+T52	trap	irritated		That must have been irritating.	he rejects it
+T53	given	who		Nobody. Well, there was this woman with a green bag but I don't know her.
+T53	given	where		Outside the library, the stop by the big crossing.
+T53	given	what happened		The app said delayed and then it changed to cancelled. … I walked to the other stop. … I got on the 24.
+T53	given	how it ended		I got there.
+T53	feeling	stress (face hot)	phrase	My face got hot and I kept checking the time.
+T53	reason	why she took the 24	because-so	because the 24A goes the long way round
+T53	reason	why her face got hot	no-link	I was going to be late.
+T53	trap	stressed		That sounds really stressful.
+T54	given	who		Mum, Dad, my sister, Auntie Nicky and her boyfriend.
+T54	given	where		The Italian place near Mum's work.
+T54	given	what happened		We sat at the back. … They brought out a cake. … I gave her the present.
+T54	left_out	how it ended	asked	Therapist. What happened at the very end of the visit? Child. I don't remember.
+T54	left_out	how they felt	asked	Therapist. How did you feel about the meal? Child. Don't know.
+T54	no_reasons				
+T55	given	who		Me and Jayden.
+T55	given	where		In my bedroom. He was at his house.
+T55	given	what happened		First I did the tracks, but I put the redstone in the wrong place … He built the roof. … We went mining for more iron.
+T55	given	how it ended		We saved the world and said we'd finish the station next time.
+T55	feeling	amusement	phrase	It was funny. I couldn't stop laughing when he put one on top of the cow.	"Pretty good actually" about the week is not counted
+T55	feeling	annoyance	phrase	A bit, because he used all the iron for rails and I wanted some for tools.	her answer to "Did anything annoy you?", with her own reason
+T55	reason	why the minecart stopped	because-so	I put the redstone in the wrong place, so the minecart stopped before the station
+T55	reason	why she was annoyed	because-so	because he used all the iron for rails and I wanted some for tools
+T56	given	who		Priya. She's the manager on Saturdays.
+T56	given	where		I did a shift at the charity shop.
+T56	given	what happened		Sorting donations. … I put a jumper on the wrong rail and she moved it. … I did the books after lunch.
+T56	given	how it ended		Priya said I could go at three because the back room was tidy.
+T56	feeling	embarrassed	word	I was embarrassed. I thought I'd messed it up straight away.
+T56	reason	why he was embarrassed	no-link	I thought I'd messed it up straight away.
+T56	reason	why he asked Priya	because-so	because I wasn't sure if we could take it
+T56	reason	why he could leave at three	because-so	because the back room was tidy
+T56	trap	frustrated		That sounds frustrating, having to leave the books alone when you wanted to look at them.	he only agrees "A bit."
+T57	given	who		Mum.
+T57	given	where		In town.
+T57	given	what happened		They checked my teeth. … I sat down. The chair moved back. … Used the little mirror thing and counted.
+T57	given	how it ended		Mum paid. … We left.
+T57	left_out	how they felt	asked	Therapist. How did you feel while that was happening? Child. I don't know.
+T57	no_reasons				
+T58	given	who		me ellie and harry and then miss put daniel in as well	rough speech-recognition style
+T58	given	where		science room 12
+T58	given	what happened		ellie was doing wind turbines and i was doing solar and then daniel he just started changing the font … i told him can you stop changing it until weve finished the words … harry had put a picture of a coal power station on my solar slide and i had to move it
+T58	given	how it ended		the bell went and we saved it to the shared folder
+T58	feeling	distracted	phrase	it was just distracting … i couldnt concentrate cos it kept changing	a state rather than an emotion; counted because the spec counts any feeling. He rejects "irritating"
+T58	reason	why he couldn't concentrate	other-link	i couldnt concentrate cos it kept changing and i was trying to read the slide
+T58	reason	why they picked arial	because-so	said we needed to agree on one format so we picked arial again
+T58	trap	irritated		that must have been really irritating
+T59	given	who		My instructor, Rob, and two other people from the Tuesday group.
+T59	given	where		At the climbing centre in Leeds.
+T59	given	what happened		I got to the middle and couldn't reach the next green hold. … I went back down one hold and put my foot on the red one instead. Then I could reach.
+T59	given	how it ended		We did stretches and then everyone got their bags.
+T59	feeling	worry (stomach tight)	phrase	My stomach went all tight. I thought I was going to have to come down without finishing it.	the therapist's "That sounds frightening" matches this, so it is not a trap
+T59	feeling	pleased	word	Properly pleased with myself. I didn't think I'd manage it.
+T59	reason	why she said no	because-so	but I said no because my arms were tired
+T59	reason	why she was pleased	no-link	I didn't think I'd manage it.
+T60	given	who		My uncle Mark.
+T60	given	where		At the training ground, not Elland Road.
+T60	given	what happened		We had to park further away because the main bit was full. … Leeds scored first, about twelve minutes in. Then the other team scored twice. … My uncle got a coffee.
+T60	given	how it ended		We went to the car. … We stopped at a petrol station and he got a sandwich.
+T60	feeling	annoyed	word	I was annoyed. The linesman was right there.
+T60	feeling	disgust (the coffee)	phrase	Yeah, it was rank. … The coffee smelled rank as well.
+T60	feeling	satisfied with the draw	phrase	Better than losing.	his answer to "How did you feel about the final score?"
+T60	reason	why they parked further away	because-so	because the main bit was full
+T60	reason	why he didn't want a coffee	because-so	I didn't want one because it smelled burnt.
+T60	reason	why he was annoyed	no-link	The linesman was right there.
+T60	trap	why he was annoyed		You felt annoyed because you thought the decision was wrong?	he rejects this reason

@@ -1,0 +1,81 @@
+[Child sim] session B9, llama3.2:3b, temperature 0.3, seed 9, "I don't know" at turn 10
+[Isolation] new process pid 358840; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (4.2s)
+[Supabase] client_profiles error: {'message': 'Cannot coerce the result to a single JSON object', 'code': 'PGRST116', 'hint': None, 'details': 'The result contains 0 rows'}
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Went bowling.
+[State] Selected event: Went bowling for Mia's birthday
+
+Reachy: Oh, bowling sounds fun! What did you and who go bowling with?
+
+[Latency] Turn: 2.62s
+You: Mia. And Ella and stuff. Jess too.
+
+Reachy: That's great! Who did you play games with at the bowling alley?
+
+[Latency] Turn: 2.42s
+You: Mia won. I came second.
+
+Reachy: Oh, that must have been exciting! How were you feeling during all of this?
+
+[Latency] Turn: 2.54s
+You: Happy. A bit nervous.
+
+Reachy: Sounds like you had a happy and a little nervy day playing bowling!
+
+[Latency] Turn: 2.49s
+You: Yeah.
+
+Reachy: Did anything else happen at the bowling alley besides playing games?
+
+[Latency] Turn: 2.63s
+You: Had pizza. Cake with candles.
+
+Reachy: Nice, having pizza and cake can make any day special! Did anyone blow out the candles together?
+
+[Latency] Turn: 2.60s
+You: Mia did.
+
+Reachy: That must have been fun seeing Mia light her birthday cake. How did it feel to have friends celebrate your birthday like that?
+
+[Latency] Turn: 2.70s
+You: Not really.
+
+Reachy: It sounds like having others there might not have made you feel as happy as you expected, though I see how it could be different for everyone. Can you tell me more about feeling not so happy during the celebration?
+
+[Latency] Turn: 2.89s
+You: People looking.
+
+Reachy: That must have been tricky seeing people look at you or make eye contact at your party. How did that affect you?
+
+[Latency] Turn: 2.67s
+[Child sim] forced "I don't know" at turn 10; Reachy's line before it asked a question
+You: I don't know.
+
+Reachy: Ah, that's okay. Sometimes things can feel confusing when they aren't what we expect them to be. Can you recall a part of the day where something felt different for you?
+
+[Latency] Turn: 2.80s
+You: Nervous.
+
+Reachy: Being nervous is very common during birthday celebrations! Is there anything specific about being nervous that you could share, such as worrying someone would laugh at jokes or not understand your game?
+
+[Latency] Turn: 2.78s
+You: Just was.
+
+Reachy: Nervousness can be understandable when celebrating a special day with friends. Do you remember any particular part of the bowling session or the party that made you feel nervous?
+
+[Latency] Turn: 2.94s
+You: Bye.
+
+Reachy: Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+[State] Goodbye heard; confirming before ending.
+[Not spoken] Model's reply, dropped but kept in its history as on the robot: "Is there anything else you'd like to talk about from today's events?"
+You: No.
+
+Reachy: Okay. Thank you for sharing your day with me, April. Goodbye.
+
+[State] Child confirmed goodbye; ending session.

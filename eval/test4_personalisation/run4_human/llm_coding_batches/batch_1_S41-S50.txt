@@ -1,0 +1,486 @@
+You are coding conversation transcripts for a research study. Answer the two questions below for each session, and nothing else. Each session is coded on its own.
+
+Each transcript is a conversation between Reachy, a robot, and April, a 14-year-old with autism, about her day. Lines starting "You:" are April. Judge ONLY the lines labelled "Reachy [n]:". Ignore lines marked "(greeting, not coded)" or "(scripted, not coded)".
+
+At the top of each transcript are that session's "Lesson focus" and "Profile style checklist". Use the ones shown for that session; they differ between sessions.
+
+## Q1. Did Reachy steer towards the lesson focus? (Y/N)
+
+Y if Reachy's replies move the conversation towards one or more items of that session's lesson focus. N if they don't.
+
+## Q2. Did Reachy's replies follow the profile's style instructions? (Y/N)
+
+Y if Reachy's replies, taken across the session, follow that session's profile style checklist. N if they don't. The checklist is about HOW Reachy talks to April, not what it talks about.
+
+## Output
+
+For each session, first show your working in 2–4 lines:
+- Q1: the reply numbers and the words that decided it, and which focus item they serve (or why N);
+- Q2: which checklist items were followed or broken, with reply numbers.
+
+Then, after all sessions, give ONE tab-separated block, with this header and one row per session in label order:
+
+label	followed_lesson_focus	followed_profile_instructions	note
+
+- followed_lesson_focus and followed_profile_instructions are exactly Y or N.
+- note is one short line: the deciding reply numbers for Q1 and Q2.
+
+If a session is a borderline case, decide using only the questions above and start the note with "borderline:".
+
+The sessions follow.
+
+Session S41
+
+Lesson focus:
+  - Continue working on increasing language skills, particularly in using descriptive and logical explanations.
+  - Develop emotional vocabulary and the ability to articulate emotions more precisely.
+  - Enhance social reasoning by asking questions that encourage a deeper understanding of others' perspectives and reactions.
+
+Profile style checklist:
+  1. Ask short questions.
+  2. Ask concrete questions.
+  3. When she is stuck, offer a choice of two options ("Was it X or Y?").
+  4. Avoid long or open questions.
+
+Reachy (greeting, not coded): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: yes. went bowling today
+Reachy [1]: That sounds fun. What did you and Mia do during the bowling?
+
+You: we had two rounds of 10 pin bowling
+Reachy [2]: Did anyone else join you for bowling that day?
+
+You: yes grace and jess were also there
+Reachy [3]: Good companies! Did either of them have any funny moments or games?
+
+You: yeah Grace through two gutter balls in a row, it was super funny
+Reachy [4]: Oh really?
+
+You: yeah it was hilarious
+Reachy [5]: What made her gutters so funny?
+
+You: because she messed up and we all laughed
+Reachy [6]: Did anyone else have a turn that was particularly memorable?
+
+You: i got a strike
+Reachy [7]: That's great! What did it feel like to bowl a strike?
+
+You: it felt exciting
+Reachy [8]: What made it feel exciting?
+
+==========
+
+Session S42
+
+Lesson focus:
+  - Continue working on increasing language skills, particularly in using descriptive and logical explanations.
+  - Develop emotional vocabulary and the ability to articulate emotions more precisely.
+  - Enhance social reasoning by asking questions that encourage a deeper understanding of others' perspectives and reactions.
+
+Profile style checklist:
+  1. Ask short questions.
+  2. Ask concrete questions.
+  3. When she is stuck, offer a choice of two options ("Was it X or Y?").
+  4. Avoid long or open questions.
+
+Reachy (greeting, not coded): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: yeah. went bowling
+Reachy [1]: Bowling sounds like fun! Who did you go with?
+
+You: mia and grace and jess and ella
+Reachy [2]: That's a good group of friends for bowling together, didn't it?
+
+You: yeah
+Reachy [3]: Did everyone have a good time?
+
+You: i think so
+Reachy [4]: What happened next after you went bowling with your friends?
+
+You: we had pizza and birthday cake
+Reachy [5]: That sounds like a yummy celebration! What did you all eat for dinner?
+
+You: pizza...
+Reachy [6]: And what kinds of treats did they have?
+
+You: cake
+Reachy [7]: What kind of cake did they have?
+
+You: it was icecream cake
+Reachy [8]: Oh, that must have been delightful! What did you all do after eating the ice cream cake?
+
+You: i dont know
+Reachy [9]: Do you remember if there were any special songs or games played at the bowling party?
+
+You: yeah we sang happy birthday
+Reachy [10]: That's great to hear. Did anything else stand out as special about the day, like finding something fun while you were bowling?
+
+You: i dont know
+Reachy [11]: It sounds like everything was exciting and filled with happy memories! Can you think of one small thing that felt especially good or funny from today?
+
+You: i got two strikes
+Reachy [12]: Getting two strikes must have been really cool and exciting! What about when you're bowling, do you like scoring points, trying to go higher, or trying for specific numbers?
+
+You: no
+Reachy [13]: It sounds like bowling was all about having fun with your friends, Mia, Grace, Jess, and Ella. Getting two strikes is something special though! Do you think you can find another little detail from the day that stands out to you, no matter how small it might be?
+
+You: bye
+Reachy (scripted, not coded): Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+==========
+
+Session S43
+
+Lesson focus:
+  - Continue working on increasing language skills, particularly in using descriptive and logical explanations.
+  - Develop emotional vocabulary and the ability to articulate emotions more precisely.
+  - Enhance social reasoning by asking questions that encourage a deeper understanding of others' perspectives and reactions.
+
+Profile style checklist:
+  1. Ask short questions.
+  2. Ask concrete questions.
+  3. When she is stuck, offer a choice of two options ("Was it X or Y?").
+  4. Avoid long or open questions.
+
+Reachy (greeting, not coded): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: yeah. went bowling
+Reachy [1]: Bowling was fun. Which friends did you go with?
+
+You: Mia and Jess and Grace
+Reachy [2]: That sounds like a great group of friends. What did you do at the bowling alley?
+
+You: It was Mia's birthday, we bowled and then had cake and pizza and soft drink
+Reachy [3]: Oh, that must have been special! Did someone win any games or get prizes?
+
+You: Mia won the bowling but there were no prizes
+Reachy [4]: Winning games is often exciting. Do you remember how it made you feel when Mia won?
+
+You: i was happy for her but a little sad that i wasn't the one that one
+Reachy [5]: It's normal to feel both happy and a bit sad about such things. How did it feel to share birthday activities with friends?
+
+You: good
+Reachy [6]: Good to hear you enjoyed sharing your special day with friends. Is there anything else from today you want to talk about?
+
+You: no
+Reachy [7]: Okay, that's great. We can chat more another time if you want. Have a good day!
+
+==========
+
+Session S44
+
+Lesson focus:
+  The focus should be on teaching empathy and perspective-taking by helping April understand other people’s feelings better and how her actions can affect them.
+
+Profile style checklist:
+  1. Start from something she likes.
+  2. Give specific praise, not general praise.
+  3. Put a comment between questions; not many questions in a row.
+
+Reachy (greeting, not coded): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: yeah. went bowling
+Reachy [1]: Bowling sounds fun! Who joined you there?
+
+You: mia and grace and jess
+Reachy [2]: Mia, Grace, and Jess were there together at the bowling alley. That's a nice group of friends to have. What did you all do?
+
+You: we all bowled together
+Reachy [3]: Great! What was your favorite part about bowling with them?
+
+You: i got two strikes
+Reachy [4]: That sounds amazing, getting two strikes is really impressive! How did that make you feel?
+
+You: excited and happ
+Reachy [5]: Excited and happy are good feelings for getting such a great score! Is there anyone in particular you enjoyed bowling with today?
+
+You: Mia, it was her birthday
+Reachy [6]: So Mia's birthday made the bowling trip extra special. How did playing together help celebrate her day?
+
+You: it was her birthday party, so we had cake and pizza afterwards
+Reachy [7]: That sounds like a wonderful way to celebrate! Do you remember what Mia said or how she felt after your game of bowling?
+
+You: i dont know
+Reachy [8]: It's okay not to know right now. Did anything in particular stand out about her day at the party?
+
+You: no
+Reachy [9]: No worries, it's normal not to recall everything. How was everyone else today, Mia included?
+
+==========
+
+Session S45
+
+Lesson focus:
+  - Continue working on increasing language skills, particularly in using descriptive and logical explanations.
+  - Develop emotional vocabulary and the ability to articulate emotions more precisely.
+  - Enhance social reasoning by asking questions that encourage a deeper understanding of others' perspectives and reactions.
+
+Profile style checklist:
+  1. Ask short questions.
+  2. Ask concrete questions.
+  3. When she is stuck, offer a choice of two options ("Was it X or Y?").
+  4. Avoid long or open questions.
+
+Reachy (greeting, not coded): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. went bowling
+Reachy [1]: Bowling sounds fun. Can you tell me who was there with you?
+
+You: Grace, Mia, Jess, Ella
+Reachy [2]: That's good friends you had with you. What did Grace do at the bowling alley?
+
+You: she was bowling in my lane with me
+Reachy [3]: Oh really?
+
+You: yes
+Reachy [4]: Did anything funny happen during the game?
+
+You: yeah, i through a gutter ball that went in and out of the gutter
+Reachy [5]: That’s something to think about. How did it make you feel playing that way?
+
+You: i dont know
+Reachy [6]: I see. Can you remember more details about what happened during bowling?
+
+You: we had birthday cake
+Reachy [7]: That sounds nice. Did you like the game better or the cake?
+
+You: the cake
+Reachy [8]: Got it. What color was the cake?
+
+You: it was pink
+Reachy [9]: Pink is pretty, didn't it taste good too?
+
+You: yeah haha, it tasted very good
+Reachy [10]: That's great to hear! Do you remember what Grace did at the bowling alley besides playing?
+
+You: not really
+Reachy [11]: Sure, tell me more about what she might have done then.
+
+==========
+
+Session S46
+
+Lesson focus:
+  The focus should be on teaching empathy and perspective-taking by helping April understand other people’s feelings better and how her actions can affect them.
+
+Profile style checklist:
+  1. Start from something she likes.
+  2. Give specific praise, not general praise.
+  3. Put a comment between questions; not many questions in a row.
+
+Reachy (greeting, not coded): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. I went bowling today
+Reachy [1]: That sounds fun. What did you and Mia do specifically at the bowling alley?
+
+You: 10 pin bowling
+Reachy [2]: Oh, 10-pin bowling. Did you bowl any games or just watch?
+
+You: yeah we played two rounds
+Reachy [3]: Great! How were both rounds, did you have fun in different ways?
+
+You: Mia won both
+Reachy [4]: That must have been exciting! What do you think Mia felt during the winning rounds?
+
+You: she was very happy, she kept bragging
+Reachy [5]: Oh really?
+
+You: yes
+Reachy [6]: What did Mia say to make herself feel happy and brag so much?
+
+You: i dont know
+Reachy [7]: Hmm, when do you think Mia might need something to comfort after that?
+
+You: no
+Reachy [8]: Is there anything else you want to talk about from today?
+
+==========
+
+Session S47
+
+Lesson focus:
+  The focus should be on teaching empathy and perspective-taking by helping April understand other people’s feelings better and how her actions can affect them.
+
+Profile style checklist:
+  1. Start from something she likes.
+  2. Give specific praise, not general praise.
+  3. Put a comment between questions; not many questions in a row.
+
+Reachy (greeting, not coded): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: yeah. went bowling
+Reachy [1]: Bowling sounds like fun! Did everyone play or were there only some of you?
+
+You: There were 4 of us there that bowled
+Reachy [2]: That's good company. How did it feel bowling with four people?
+
+You: yeah it was super fun
+Reachy [3]: Listening to you, it sounds like everyone had a great time! Do you remember what game you liked the best or who scored highest?
+
+You: Mia scored the highest
+Reachy [4]: Gotcha. It seems Mia did really well at bowling. How did that make you feel playing with her?
+
+You: it felt super fun
+Reachy [5]: That's wonderful to hear. Does anything else come to mind about your bowling trip?
+
+You: not really
+Reachy [6]: Okay, is there something from today you'd rather talk about then?
+
+You: no goodbye
+Reachy (scripted, not coded): Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+You: no
+Reachy (scripted, not coded): Okay. Thank you for sharing your day with me, April. Goodbye.
+
+==========
+
+Session S48
+
+Lesson focus:
+  - Improve narrative sequencing by clarifying which event happened first.
+  - Enhance specific detail recall for personal actions and emotional responses during games.
+  - Develop understanding of different types of emotions related to sports outcomes (e.g., joy, disappointment).
+
+Profile style checklist:
+  1. No jokes, sarcasm or figures of speech.
+  2. One question at a time.
+  3. Say what is coming next.
+  4. Ask what happened before asking about feelings.
+
+Reachy (greeting, not coded): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. went bowling
+Reachy [1]: What did you do there?
+
+You: ten pin bowling and then had  cake and pizza
+Reachy [2]: Who was with you at ten-pin bowling?
+
+You: Grace and Mia and Jess were all there
+Reachy [3]: Did it make you feel happy to play games with Grace, Mia, and Jess?
+
+You: yes
+Reachy [4]: That sounds good. What game did you play together that made you smile?
+
+You: ten pin bowling
+Reachy [5]: What do you remember about playing ten-pin bowling?
+
+You: i got two strikes
+Reachy [6]: Good job on striking! What else happened during your bowling trip?
+
+You: we had cake and pizza
+Reachy [7]: Enjoying the cake and pizza too sounds like a fun finish to a special day, didn't it?
+
+You: yeah it was special
+Reachy [8]: That's wonderful to hear. What does "special" mean here for you?
+
+You: well it was Mia's birthday which made it special
+Reachy [9]: Oh, that explains why it felt so special. Have you felt anything else before or after the bowling trip?
+
+==========
+
+Session S49
+
+Lesson focus:
+  - Continue working on increasing language skills, particularly in using descriptive and logical explanations.
+  - Develop emotional vocabulary and the ability to articulate emotions more precisely.
+  - Enhance social reasoning by asking questions that encourage a deeper understanding of others' perspectives and reactions.
+
+Profile style checklist:
+  1. Ask short questions.
+  2. Ask concrete questions.
+  3. When she is stuck, offer a choice of two options ("Was it X or Y?").
+  4. Avoid long or open questions.
+
+Reachy (greeting, not coded): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Went bowling
+Reachy [1]: Goes well. Who was there with you at the bowling?
+
+You: Mia and grace and jess
+Reachy [2]: That's great. Where did you go Bowling?
+
+You: SuperLanes
+Reachy [3]: Right, SuperLanes. How were you feeling during the bowling?
+
+You: Happy
+Reachy [4]: Happy is good to feel. What happened when you were there, anything fun or surprising?
+
+You: yeah the bowling was fun
+Reachy [5]: Sounds like a lot of fun! Did you win any games?
+
+You: no, i came second
+Reachy [6]: Coming in second can still be very good. What did that feel like for you?
+
+You: yeah i was happy to come second
+Reachy [7]: That's okay and happy, to come second too! Anything else from your day of bowling?
+
+You: no
+Reachy [8]: Alright, it sounds like a lovely experience. Thanks for sharing about your day.
+
+==========
+
+Session S50
+
+Lesson focus:
+  - Continue working on increasing language skills, particularly in using descriptive and logical explanations.
+  - Develop emotional vocabulary and the ability to articulate emotions more precisely.
+  - Enhance social reasoning by asking questions that encourage a deeper understanding of others' perspectives and reactions.
+
+Profile style checklist:
+  1. Ask short questions.
+  2. Ask concrete questions.
+  3. When she is stuck, offer a choice of two options ("Was it X or Y?").
+  4. Avoid long or open questions.
+
+Reachy (greeting, not coded): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Went bowling
+Reachy [1]: Gave Mia what fun! What happened when you were at the bowling alley?
+
+You: we did some bowling
+Reachy [2]: And what did you and Mia do together there?
+
+You: bowled
+Reachy [3]: What game did you guys bowl first, or any other fun things happen there?
+
+You: bowling
+Reachy [4]: Fun! Did anyone score better than you did?
+
+You: yeah i came second
+Reachy [5]: That sounds amazing. What were the scores like?
+
+You: Mia scored 300, i scored 192
+Reachy [6]: Oh wow, that's really close! Great job though. Did you celebrate your score together?
+
+You: Yeah, i told her she did well
+Reachy [7]: That’s nice to hear. What did Mia say when you told her about your score?
+
+You: she bragged that she won
+Reachy [8]: She seemed proud of herself, didn't she?
+
+You: yeah i guess so
+Reachy [9]: Good job working together, having fun, and celebrating!
+
+You: thanks
+Reachy [10]: You're welcome. Have a nice day ahead!
+
+You: is that all
+Reachy [11]: That's great to hear about your bowling session. Do you have any more details or would you like to talk about something different?
+
+You: we also sang happy birthday
+Reachy [12]: Singing "Happy Birthday" must have made the day extra special, didn't it?
+
+You: yeah
+Reachy [13]: That's wonderful! What did Mia say while she sang or after?
+
+You: she was quite, it was her birthday
+Reachy [14]: She sure knows how to make birthdays merry! Did you both enjoy the evening together?
+
+You: yeah it was alot of fun
+Reachy [15]: That's great to hear. Have a good day!
+
+You: bye
+Reachy (scripted, not coded): Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+You: no
+Reachy (scripted, not coded): Okay. Thank you for sharing your day with me, April. Goodbye.

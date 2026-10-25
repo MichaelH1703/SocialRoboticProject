@@ -1,0 +1,76 @@
+[Child sim] session W2, llama3.2:3b, temperature 0.3, seed 2
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Went bowling.
+[State] Selected event: Went bowling for Mia's birthday
+
+Reachy: Gonna the bowling alley sounds like fun. What did you do there?
+
+[Latency] Turn: 2.90s
+You: Got two strikes. Mia won.
+
+Reachy: That must have been exciting. What happened when Mia won?
+
+[Latency] Turn: 2.67s
+You: Mia's mum brought out cake.
+
+Reachy: Oh, yummy! Cake must make it extra special. What else did you do at the bowling alley?
+
+[Latency] Turn: 2.59s
+You: Had pizza.
+
+Reachy: Pizza and a birthday usually makes for a tasty day. Do you remember what game you played there?
+
+[Latency] Turn: 2.54s
+You: Bowling.
+
+Reachy: Bowling sounds like an active part of your fun day. What did Mia do while you were bowling?
+
+[Latency] Turn: 2.65s
+You: I don't know.
+
+Reachy: Maybe Mia had a different interest than bowling. Any other games or activities at the bowling alley?
+
+[Latency] Turn: 2.61s
+You: Sang Happy Birthday.
+
+Reachy: Singing happy birthday is such a nice gesture! What did you feel like during that time?
+
+[Latency] Turn: 2.49s
+You: Happy. A bit nervous.
+
+Reachy: Nervous and happy seems to be how it went. What made you feel nervous then?
+
+[Latency] Turn: 2.79s
+You: Everyone was looking.
+
+Reachy: Everyone watching can make us nervous but singing at a birthday is usually fun! Do you remember if anyone joined in singing with everyone?
+
+[Latency] Turn: 2.66s
+You: Mia blew out candles.
+
+Reachy: Candles and singing together makes it feel very special, doesn't it?
+
+[Latency] Turn: 2.54s
+You: Yeah.
+
+Reachy: That must have been really exciting to finish the birthday celebration!
+
+[Latency] Turn: 2.52s
+You: Then Mia's mum drove me home.
+
+Reachy: Got driven home sounds safe and cozy after a fun day out. Anything else you want to add about your bowling trip?
+
+[Latency] Turn: 2.67s
+You: Bye.
+
+Reachy: Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+[State] Goodbye heard; confirming before ending.
+[Not spoken] Model's reply, dropped but kept in its history as on the robot: 'Alright, take care. Bye for now.'
+You: No.
+
+Reachy: Okay. Thank you for sharing your day with me, April. Goodbye.
+
+[State] Child confirmed goodbye; ending session.

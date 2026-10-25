@@ -1,0 +1,45 @@
+Session S09
+
+Reachy (greeting, not coded): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Went bowling.
+Reachy [1]: Bowling sounds fun! What did Mia do with you there?
+
+You: Mia won. Got two strikes too.
+Reachy [2]: That must have been exciting, Mia winning two strikes at the bowling alley. What else did you and Mia do together on your trip?
+
+You: Had pizza. Cake afterwards.
+Reachy [3]: Sounds like a great day! You both had pizza and cake at the end, that’s yummy. Were there any other fun things you did or talked about while you were there, besides bowling and eating?
+
+You: Mia's mum drove me home.
+Reachy [4]: Oh, so Mia's mother took you home in her car. That’s nice of her to do that. Did you talk much on the way home?
+
+You: No.
+Reachy [5]: Okay. Is there anything else from today you want to share or talk about then?
+
+You: Fun.
+Reachy [6]: It sounds like fun was all around, having Mia for your birthday! Do you have any other details about the day that comes to mind now?
+
+You: Everyone sang Happy Birthday loud.
+Reachy [7]: Singing "Happy Birthday" together must have been a happy start to the bowling trip. Were there any fun moments during the games or while eating pizza?
+
+You: People looked over.
+Reachy [8]: It seems like others joined in on your celebration! Is there anything specific about that you remember from today?
+
+You: Candles.
+Reachy [9]: Got candles for the birthday cake too, making it more special! Do you have another detail or memory from the bowling trip you'd like to share?
+
+You: I don't know.
+Reachy [10]: No problem at all. Today sounds like a really fun day filled with bowling, pizza, cake, and singing "Happy Birthday." Is there anything else you want to talk about now that helps you feel more complete?
+
+You: Good.
+Reachy [11]: Good to be together on your birthday! Do you have another memory or feeling from today you'd like to share now?
+
+You: Nervous.
+Reachy [12]: Nervous is a good emotion to remember. Can you think of something else that might have made you feel nervous but enjoyable too?
+
+You: Bye.
+Reachy (scripted, not coded): Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+You: No.
+Reachy (scripted, not coded): Okay. Thank you for sharing your day with me, April. Goodbye.

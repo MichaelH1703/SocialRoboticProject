@@ -1,0 +1,83 @@
+{
+  "labelled": true,
+  "speakers": "auto",
+  "auto_labels": {
+    "sentences": [
+      [
+        "therapist",
+        "hi leo hi hows things fine ive got a quick story from yesterday i put my lunch in the fridge at work and then forgot it was there so i bought another one thats not very efficient no it wasnt."
+      ],
+      [
+        "child",
+        "anything happened to you the football thing what football thing training where was it sports hall who was there me and coach and the under fifteens what happened we were doing a drill where you pass and move and i went the wrong way what did the coach say he said wrong cone what did you do then went to the other cone how did you feel my stomach dropped that sounds embarrassing no its just my stomach did that okay i wont label it for you then everyone had to reset because i was in the wrong place what happened after the reset i got it right the next time was that the end of the drill no we did it for another ten minutes and then what coach split us into teams for a match did you play in the match yes what happened at the end we finished and coach said next week we are doing fitness so you were in the sports hall with the coach and under fifteens you went to the wrong cone the group reset you got it right next time and then you played a match before coach told you about next week yeah anything else no thanks leo can i get my bag"
+      ]
+    ],
+    "echoes_relabelled": []
+  },
+  "labelled_transcript": "Therapist. hi leo hi hows things fine ive got a quick story from yesterday i put my lunch in the fridge at work and then forgot it was there so i bought another one thats not very efficient no it wasnt. Child. anything happened to you the football thing what football thing training where was it sports hall who was there me and coach and the under fifteens what happened we were doing a drill where you pass and move and i went the wrong way what did the coach say he said wrong cone what did you do then went to the other cone how did you feel my stomach dropped that sounds embarrassing no its just my stomach did that okay i wont label it for you then everyone had to reset because i was in the wrong place what happened after the reset i got it right the next time was that the end of the drill no we did it for another ten minutes and then what coach split us into teams for a match did you play in the match yes what happened at the end we finished and coach said next week we are doing fitness so you were in the sports hall with the coach and under fifteens you went to the wrong cone the group reset you got it right next time and then you played a match before coach told you about next week yeah anything else no thanks leo can i get my bag",
+  "facts": {
+    "child_turns": 1,
+    "mean_words_per_turn": 212,
+    "reasons": [
+      "anything happened to you the football thing what football thing training where was it sports hall who was there me and coach and the under fifteens what happened we were doing a drill where you pass and move and i went the wrong way what did the coach say he said wrong cone what did you do then went to the other cone how did you feel my stomach dropped that sounds embarrassing no its just my stomach did that okay i wont label it for you then everyone had to reset because i was in the wrong place what happened after the reset i got it right the next time was that the end of the drill no we did it for another ten minutes and then what coach split us into teams for a match did you play in the match yes what happened at the end we finished and coach said next week we are doing fitness so you were in the sports hall with the coach and under fifteens you went to the wrong cone the group reset you got it right next time and then you played a match before coach told you about next week yeah anything else no thanks leo can i get my bag"
+    ],
+    "sequence_words": [
+      "after",
+      "before",
+      "next",
+      "then"
+    ],
+    "vague_words": [
+      "thing"
+    ],
+    "feelings": [],
+    "feeling_reasons": [],
+    "child_text": [
+      "anything happened to you the football thing what football thing training where was it sports hall who was there me and coach and the under fifteens what happened we were doing a drill where you pass and move and i went the wrong way what did the coach say he said wrong cone what did you do then went to the other cone how did you feel my stomach dropped that sounds embarrassing no its just my stomach did that okay i wont label it for you then everyone had to reset because i was in the wrong place what happened after the reset i got it right the next time was that the end of the drill no we did it for another ten minutes and then what coach split us into teams for a match did you play in the match yes what happened at the end we finished and coach said next week we are doing fitness so you were in the sports hall with the coach and under fifteens you went to the wrong cone the group reset you got it right next time and then you played a match before coach told you about next week yeah anything else no thanks leo can i get my bag"
+    ]
+  },
+  "checked": {
+    "event": "football training drill",
+    "who": {
+      "given": false,
+      "child_words": "",
+      "rejected_claim": "me and coach and the under fifteens"
+    },
+    "where": {
+      "given": false,
+      "child_words": "",
+      "rejected_claim": "sports hall"
+    },
+    "what_happened": {
+      "given": true,
+      "child_words": "anything happened to you the football thing what football thing training where was it sports hall who was there me and coach and the under fifteens what happened we were doing a drill where you pass and move and i went the wrong way what did the coach say he said wrong cone what did you do then went to the other cone how did you feel my stomach dropped that sounds embarrassing no its just my stomach did that okay i wont label it for you then everyone had to reset because i was in the wrong place what happened after the reset i got it right the next time was that the end of the drill no we did it for another ten minutes and then what coach split us into teams for a match did you play in the match yes what happened at the end we finished and coach said next week we are doing fitness so you were in the sports hall with the coach and under fifteens you went to the wrong cone the group reset you got it right next time and then you played a match before coach told you about next week yeah anything else no thanks leo can i get my bag",
+      "rejected_claim": ""
+    },
+    "ending": {
+      "given": false,
+      "child_words": "",
+      "rejected_claim": "we finished and coach said next week we are doing fitness"
+    }
+  },
+  "written": {
+    "summary": "The child told about a football training drill at the sports hall with the coach and under fifteens. They went to the wrong cone, the coach said wrong cone, they reset and got it right next time. They played a match and the coach mentioned next week's fitness session. The child asked for their bag.",
+    "goals": [
+      "Say who was there.",
+      "Say where it happened.",
+      "Say how it ended.",
+      "Name how they felt."
+    ],
+    "focus": [
+      "The child will identify the people present in the event.",
+      "The child will identify the location of the event.",
+      "The child will describe how the event ended.",
+      "The child will name their feelings during the event."
+    ],
+    "prompts": [
+      "Who was there in that?",
+      "Where did that happen?",
+      "How did that end?",
+      "How did you feel in that?"
+    ]
+  }
+}

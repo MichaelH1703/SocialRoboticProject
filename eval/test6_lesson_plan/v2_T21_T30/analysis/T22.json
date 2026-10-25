@@ -1,0 +1,296 @@
+{
+  "labelled": true,
+  "speakers": "auto",
+  "auto_labels": {
+    "sentences": [
+      [
+        "therapist",
+        "Hello Amira."
+      ],
+      [
+        "therapist",
+        "Before we start, I'm going to tell you something that happened to me."
+      ],
+      [
+        "therapist",
+        "Last week my car made a really funny noise, like clunk clunk clunk, on the way to work."
+      ],
+      [
+        "therapist",
+        "I had to stop and phone my friend, and he came and fixed it."
+      ],
+      [
+        "child",
+        "Our car did that!"
+      ],
+      [
+        "therapist",
+        "Did it?"
+      ],
+      [
+        "therapist",
+        "Your car made a noise too?"
+      ],
+      [
+        "child",
+        "No, it stopped."
+      ],
+      [
+        "child",
+        "It goed chug chug and then it stopped."
+      ],
+      [
+        "therapist",
+        "It went chug chug and stopped."
+      ],
+      [
+        "therapist",
+        "Tell me all about it."
+      ],
+      [
+        "child",
+        "It was me and my mum and Theo."
+      ],
+      [
+        "child",
+        "Theo is my baby brother."
+      ],
+      [
+        "therapist",
+        "Your baby brother, Theo."
+      ],
+      [
+        "therapist",
+        "Were you on the motorway?"
+      ],
+      [
+        "child",
+        "Yeah."
+      ],
+      [
+        "therapist",
+        "And then what happened?"
+      ],
+      [
+        "child",
+        "The car stopped because it didn't have no petrol."
+      ],
+      [
+        "child",
+        "Mum said."
+      ],
+      [
+        "therapist",
+        "Oh, it ran out of petrol."
+      ],
+      [
+        "child",
+        "Not petrol, the, um, the battery."
+      ],
+      [
+        "child",
+        "No, the petrol."
+      ],
+      [
+        "child",
+        "It was the petrol."
+      ],
+      [
+        "therapist",
+        "The petrol."
+      ],
+      [
+        "therapist",
+        "So what did you do?"
+      ],
+      [
+        "child",
+        "We had to wait for ages and ages."
+      ],
+      [
+        "child",
+        "Theo was crying in his seat."
+      ],
+      [
+        "therapist",
+        "Oh dear."
+      ],
+      [
+        "child",
+        "Waiting for ages."
+      ],
+      [
+        "child",
+        "I had my tablet but it ran out too."
+      ],
+      [
+        "therapist",
+        "It ran out too!"
+      ],
+      [
+        "therapist",
+        "Did anyone come to help?"
+      ],
+      [
+        "child",
+        "A man came."
+      ],
+      [
+        "child",
+        "He had a yellow coat and a big truck with orange lights on the top."
+      ],
+      [
+        "child",
+        "A man with a yellow coat and a big truck."
+      ],
+      [
+        "therapist",
+        "What did he do?"
+      ],
+      [
+        "child",
+        "He looked in the front bit with a torch."
+      ],
+      [
+        "child",
+        "He looked under the bonnet with a torch, because it was getting dark."
+      ],
+      [
+        "therapist",
+        "What's a bonnet?"
+      ],
+      [
+        "child",
+        "It's the lid at the front of the car where the engine is."
+      ],
+      [
+        "child",
+        "Oh."
+      ],
+      [
+        "therapist",
+        "And how did it all end?"
+      ],
+      [
+        "child",
+        "The big truck putted our car on the back, all up high, and we sat in the front with the man and he drived us home."
+      ],
+      [
+        "therapist",
+        "Wow, in the front of the truck!"
+      ],
+      [
+        "therapist",
+        "So let me see if I've got it."
+      ],
+      [
+        "therapist",
+        "It was you and Mum and Theo."
+      ],
+      [
+        "therapist",
+        "The car went chug chug and stopped, because it didn't have any petrol."
+      ],
+      [
+        "therapist",
+        "You waited for ages, and Theo was crying."
+      ],
+      [
+        "therapist",
+        "A man in a yellow coat came with a big truck, and he looked in the front with a torch."
+      ],
+      [
+        "therapist",
+        "Then the truck put your car on the back and the man drove you all home."
+      ],
+      [
+        "child",
+        "And my tablet ran out."
+      ],
+      [
+        "therapist",
+        "And your tablet ran out too."
+      ],
+      [
+        "therapist",
+        "Thank you for telling me, Amira."
+      ],
+      [
+        "therapist",
+        "Can I see your car?"
+      ]
+    ],
+    "echoes_relabelled": [
+      23,
+      30
+    ]
+  },
+  "labelled_transcript": "Therapist. Hello Amira. Before we start, I'm going to tell you something that happened to me. Last week my car made a really funny noise, like clunk clunk clunk, on the way to work. I had to stop and phone my friend, and he came and fixed it. Child. Our car did that! Therapist. Did it? Your car made a noise too? Child. No, it stopped. It goed chug chug and then it stopped. Therapist. It went chug chug and stopped. Tell me all about it. Child. It was me and my mum and Theo. Theo is my baby brother. Therapist. Your baby brother, Theo. Were you on the motorway? Child. Yeah. Therapist. And then what happened? Child. The car stopped because it didn't have no petrol. Mum said. Therapist. Oh, it ran out of petrol. Child. Not petrol, the, um, the battery. No, the petrol. It was the petrol. Therapist. The petrol. So what did you do? Child. We had to wait for ages and ages. Theo was crying in his seat. Therapist. Oh dear. Child. Waiting for ages. I had my tablet but it ran out too. Therapist. It ran out too! Did anyone come to help? Child. A man came. He had a yellow coat and a big truck with orange lights on the top. A man with a yellow coat and a big truck. Therapist. What did he do? Child. He looked in the front bit with a torch. He looked under the bonnet with a torch, because it was getting dark. Therapist. What's a bonnet? Child. It's the lid at the front of the car where the engine is. Oh. Therapist. And how did it all end? Child. The big truck putted our car on the back, all up high, and we sat in the front with the man and he drived us home. Therapist. Wow, in the front of the truck! So let me see if I've got it. It was you and Mum and Theo. The car went chug chug and stopped, because it didn't have any petrol. You waited for ages, and Theo was crying. A man in a yellow coat came with a big truck, and he looked in the front with a torch. Then the truck put your car on the back and the man drove you all home. Child. And my tablet ran out. Therapist. And your tablet ran out too. Thank you for telling me, Amira. Can I see your car?",
+  "facts": {
+    "child_turns": 13,
+    "mean_words_per_turn": 13.4,
+    "reasons": [
+      "The car stopped because it didn't have no petrol. Mum said.",
+      "He looked in the front bit with a torch. He looked under the bonnet with a torch, because it was getting dark."
+    ],
+    "sequence_words": [
+      "then"
+    ],
+    "vague_words": [],
+    "feelings": [],
+    "feeling_reasons": [],
+    "child_text": [
+      "Our car did that!",
+      "No, it stopped. It goed chug chug and then it stopped.",
+      "It was me and my mum and Theo. Theo is my baby brother.",
+      "Yeah.",
+      "The car stopped because it didn't have no petrol. Mum said.",
+      "Not petrol, the, um, the battery. No, the petrol. It was the petrol.",
+      "We had to wait for ages and ages. Theo was crying in his seat.",
+      "Waiting for ages. I had my tablet but it ran out too.",
+      "A man came. He had a yellow coat and a big truck with orange lights on the top. A man with a yellow coat and a big truck.",
+      "He looked in the front bit with a torch. He looked under the bonnet with a torch, because it was getting dark.",
+      "It's the lid at the front of the car where the engine is. Oh.",
+      "The big truck putted our car on the back, all up high, and we sat in the front with the man and he drived us home.",
+      "And my tablet ran out."
+    ]
+  },
+  "checked": {
+    "event": "Car broke down",
+    "who": {
+      "given": true,
+      "child_words": "It was me and my mum and Theo. Theo is my baby brother.",
+      "rejected_claim": ""
+    },
+    "where": {
+      "given": false,
+      "child_words": "",
+      "rejected_claim": "Yeah. | Yeah."
+    },
+    "what_happened": {
+      "given": true,
+      "child_words": "The car stopped because it didn't have no petrol. Mum said. Not petrol, the, um, the battery. No, the petrol. It was the petrol. We had to wait for ages and ages. Theo was crying in his seat. Waiting for ages. I had my tablet but it ran out too. A man came. He had a yellow coat and a big truck with orange lights on the top. A man with a yellow coat and a big truck. He looked in the front bit with a torch. He looked under the bonnet with a torch, because it was getting dark. It's the lid at the front of the car where the engine is. Oh. The big truck putted our car on the back, all up high, and we sat in the front with the man and he drived us home. And my tablet ran out.",
+      "rejected_claim": ""
+    },
+    "ending": {
+      "given": true,
+      "child_words": "The big truck putted our car on the back, all up high, and we sat in the front with the man and he drived us home. And my tablet ran out.",
+      "rejected_claim": ""
+    }
+  },
+  "written": {
+    "summary": "The child told about their car breaking down. The car stopped because it didn't have petrol. A man in a yellow coat with a big truck came and put their car on the back. They sat in the front with the man and he drove them home. The child's tablet also ran out.",
+    "goals": [
+      "Say where it happened.",
+      "Name how they felt."
+    ],
+    "focus": [
+      "The child will say where the event happened.",
+      "The child will name how they felt during the event."
+    ],
+    "prompts": [
+      "Where did it happen?",
+      "How did you feel about that?"
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "labelled": true,
+  "speakers": "auto",
+  "auto_labels": {
+    "method": "sentences",
+    "segments": [
+      [
+        "therapist",
+        "Hi Noah."
+      ],
+      [
+        "therapist",
+        "How are things?"
+      ],
+      [
+        "therapist",
+        "Do we have to do a story?"
+      ],
+      [
+        "therapist",
+        "We can keep it short."
+      ],
+      [
+        "therapist",
+        "You can choose something that happened recently."
+      ],
+      [
+        "child",
+        "I went to the cinema."
+      ],
+      [
+        "therapist",
+        "All right."
+      ],
+      [
+        "therapist",
+        "I've got a story too."
+      ],
+      [
+        "therapist",
+        "I went to see a film and someone behind me kept kicking the back of my seat."
+      ],
+      [
+        "therapist",
+        "What happened at your cinema trip?"
+      ],
+      [
+        "child",
+        "We saw the new Spider-Man film."
+      ],
+      [
+        "therapist",
+        "Who did you go with?"
+      ],
+      [
+        "child",
+        "My cousin Ethan."
+      ],
+      [
+        "therapist",
+        "Where did you see it?"
+      ],
+      [
+        "child",
+        "The Odeon."
+      ],
+      [
+        "therapist",
+        "What happened when you got there?"
+      ],
+      [
+        "child",
+        "We got tickets on the machine."
+      ],
+      [
+        "child",
+        "The queue was long, so Ethan went to get popcorn while I waited."
+      ],
+      [
+        "therapist",
+        "What happened in the screen?"
+      ],
+      [
+        "child",
+        "The trailers went on forever."
+      ],
+      [
+        "child",
+        "One was for a horror film and it had this really loud bang."
+      ],
+      [
+        "therapist",
+        "How was that for you?"
+      ],
+      [
+        "child",
+        "I jumped."
+      ],
+      [
+        "child",
+        "Nearly dropped my drink."
+      ],
+      [
+        "therapist",
+        "That must have been frightening."
+      ],
+      [
+        "child",
+        "It was just loud."
+      ],
+      [
+        "child",
+        "I wasn't scared."
+      ],
+      [
+        "therapist",
+        "Thanks for telling me."
+      ],
+      [
+        "therapist",
+        "What happened during the film?"
+      ],
+      [
+        "child",
+        "Someone kept checking their phone."
+      ],
+      [
+        "child",
+        "The light was going on and off."
+      ],
+      [
+        "therapist",
+        "Did you say anything?"
+      ],
+      [
+        "child",
+        "No, I moved my head so I couldn't see it."
+      ],
+      [
+        "therapist",
+        "What happened at the end?"
+      ],
+      [
+        "child",
+        "We stayed until the credits finished because there was an extra bit after them."
+      ],
+      [
+        "therapist",
+        "How did you find the film?"
+      ],
+      [
+        "child",
+        "Better than I expected."
+      ],
+      [
+        "child",
+        "The bit with the train was good."
+      ],
+      [
+        "therapist",
+        "You and Ethan went to the Odeon, queued for tickets, watched the trailers and the Spider-Man film, and stayed for the extra scene after the credits."
+      ],
+      [
+        "therapist",
+        "You enjoyed the train scene."
+      ],
+      [
+        "child",
+        "Yeah."
+      ],
+      [
+        "therapist",
+        "Is that enough for today?"
+      ],
+      [
+        "child",
+        "Definitely."
+      ],
+      [
+        "therapist",
+        "Thanks, Noah."
+      ],
+      [
+        "therapist",
+        "We'll finish."
+      ],
+      [
+        "child",
+        "Bye."
+      ]
+    ],
+    "echoes_relabelled": []
+  },
+  "labelled_transcript": "Therapist. Hi Noah. How are things? Do we have to do a story? We can keep it short. You can choose something that happened recently. Child. I went to the cinema. Therapist. All right. I've got a story too. I went to see a film and someone behind me kept kicking the back of my seat. What happened at your cinema trip? Child. We saw the new Spider-Man film. Therapist. Who did you go with? Child. My cousin Ethan. Therapist. Where did you see it? Child. The Odeon. Therapist. What happened when you got there? Child. We got tickets on the machine. The queue was long, so Ethan went to get popcorn while I waited. Therapist. What happened in the screen? Child. The trailers went on forever. One was for a horror film and it had this really loud bang. Therapist. How was that for you? Child. I jumped. Nearly dropped my drink. Therapist. That must have been frightening. Child. It was just loud. I wasn't scared. Therapist. Thanks for telling me. What happened during the film? Child. Someone kept checking their phone. The light was going on and off. Therapist. Did you say anything? Child. No, I moved my head so I couldn't see it. Therapist. What happened at the end? Child. We stayed until the credits finished because there was an extra bit after them. Therapist. How did you find the film? Child. Better than I expected. The bit with the train was good. Therapist. You and Ethan went to the Odeon, queued for tickets, watched the trailers and the Spider-Man film, and stayed for the extra scene after the credits. You enjoyed the train scene. Child. Yeah. Therapist. Is that enough for today? Child. Definitely. Therapist. Thanks, Noah. We'll finish. Child. Bye.",
+  "facts": {
+    "child_turns": 15,
+    "mean_words_per_turn": 7.7,
+    "sequence_words": [
+      "after"
+    ],
+    "vague_words": [],
+    "child_text": [
+      "I went to the cinema.",
+      "We saw the new Spider-Man film.",
+      "My cousin Ethan.",
+      "The Odeon.",
+      "We got tickets on the machine. The queue was long, so Ethan went to get popcorn while I waited.",
+      "The trailers went on forever. One was for a horror film and it had this really loud bang.",
+      "I jumped. Nearly dropped my drink.",
+      "It was just loud. I wasn't scared.",
+      "Someone kept checking their phone. The light was going on and off.",
+      "No, I moved my head so I couldn't see it.",
+      "We stayed until the credits finished because there was an extra bit after them.",
+      "Better than I expected. The bit with the train was good.",
+      "Yeah.",
+      "Definitely.",
+      "Bye."
+    ],
+    "feelings": [],
+    "reasons": [
+      {
+        "child_words": "Because there was an extra bit after them.",
+        "linked": true,
+        "about_feeling": false
+      },
+      {
+        "child_words": "No, I moved my head so I couldn't see it.",
+        "linked": true,
+        "about_feeling": false
+      }
+    ],
+    "feeling_reasons": []
+  },
+  "checked": {
+    "event": "Cinema trip",
+    "who": {
+      "given": true,
+      "child_words": "My cousin Ethan.",
+      "rejected_claim": ""
+    },
+    "where": {
+      "given": true,
+      "child_words": "The Odeon.",
+      "rejected_claim": ""
+    },
+    "what_happened": {
+      "given": true,
+      "child_words": "We got tickets on the machine. The queue was long, so Ethan went to get popcorn while I waited. The trailers went on forever. One was for a horror film and it had this really loud bang. I jumped. Nearly dropped my drink. Someone kept checking their phone. The light was going on and off. No, I moved my head so I couldn't see it. We stayed until the credits finished because there was an extra bit after them.",
+      "rejected_claim": ""
+    },
+    "ending": {
+      "given": true,
+      "child_words": "We stayed until the credits finished because there was an extra bit after them.",
+      "rejected_claim": ""
+    }
+  },
+  "written": {
+    "summary": "The child told about going to the cinema, saw the new Spider-Man film, mentioned their cousin Ethan, the Odeon, got tickets on the machine, the queue was long, Ethan got popcorn, the trailers went on forever, there was a loud bang in a horror trailer, the light went on and off, someone checked their phone, they moved their head to avoid seeing it, stayed until the credits finished because there was an extra bit, the bit with the train was good, and said bye.",
+    "goals": [
+      "Say how they felt."
+    ],
+    "focus": [
+      "The child will say how they felt during an event."
+    ],
+    "prompts": [
+      "How did you feel when it happened?"
+    ]
+  }
+}

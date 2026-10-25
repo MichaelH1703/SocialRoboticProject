@@ -1,0 +1,79 @@
+[Child sim] session B5, llama3.2:3b, temperature 0.3, seed 5
+[Supabase] client_profiles error: {'message': 'Cannot coerce the result to a single JSON object', 'code': 'PGRST116', 'hint': None, 'details': 'The result contains 0 rows'}
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Went bowling.
+[State] Selected event: Went bowling for Mia's birthday
+
+Reachy: That sounds fun. Who did you go with?
+
+[Latency] Turn: 2.73s
+You: Mia. And Ella and stuff.
+
+Reachy: Oh, you went with Mia, Ella, and some friends then. Got any new friends at the bowling alley?
+
+[Latency] Turn: 2.74s
+You: No. Just those ones.
+
+Reachy: Okay. What happened there that day?
+
+[Latency] Turn: 2.42s
+You: Got two strikes. Mia won. I came second.
+
+Reachy: That sounds like a great time, and you scored some good strikes! Anything else special from the bowling night?
+
+[Latency] Turn: 2.66s
+You: Had pizza. Cake afterwards.
+
+Reachy: Yay, that makes it even better. Had yummy food after bowling. Good day all around, wasn't it?
+
+[Latency] Turn: 2.68s
+You: Yeah.
+
+Reachy: That's great to hear, that your day went well. Any part you liked best about the bowling and pizza night?
+
+[Latency] Turn: 2.69s
+You: Cake with candles. Everyone sang Happy Birthday.
+
+Reachy: Having cake with candles sounds like a very special moment indeed. That must have made you feel extra happy!
+
+[Latency] Turn: 2.57s
+You: Happy.
+[Question limit] Dropped: 'Your day was full of fun and sweet moments. Good talking about it today.'
+
+Reachy: Really happy, isn't it?
+
+[Latency] Turn: 2.72s
+You: Yeah.
+
+Reachy: Good to hear that feeling lasted all day long. Any part of the night after you had cake?
+
+[Latency] Turn: 2.56s
+You: I don't know.
+[Question limit] Dropped: 'Were there any last thoughts or feelings about what happened?'
+
+Reachy: Sure, I can help if something from today pops into your head during this short pause. How did everything feel at the end of the bowling adventure with Mia and friends?
+
+[Latency] Turn: 2.87s
+You: Good.
+
+Reachy: That's good to hear. Did anything surprise you about the day at all?
+
+[Latency] Turn: 2.61s
+You: Not really.
+
+Reachy: Got it, glad it felt like a normal fun day for you. It sounds like you had a nice time with Mia and friends. Any other memories from today want to share besides bowling and cake?
+
+[Latency] Turn: 2.91s
+You: Bye.
+
+Reachy: Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+[State] Goodbye heard; confirming before ending.
+[Not spoken] Model's reply, dropped but kept in its history as on the robot: 'Take care, remember to have more fun days soon.'
+You: No.
+
+Reachy: Okay. Thank you for sharing your day with me, April. Goodbye.
+
+[State] Child confirmed goodbye; ending session.

@@ -1,0 +1,40 @@
+W6: unloaded qwen2.5:3b; confirmed none loaded before starting
+    new process pid 372784; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+B6: unloaded qwen2.5:3b, llama3.2:3b; confirmed none loaded before starting
+    new process pid 371076; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+W7: unloaded qwen2.5:3b, llama3.2:3b; confirmed none loaded before starting
+    new process pid 373888; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+B7: unloaded qwen2.5:3b, llama3.2:3b; confirmed none loaded before starting
+    new process pid 368008; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+W8: unloaded qwen2.5:3b, llama3.2:3b; confirmed none loaded before starting
+    new process pid 360684; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+B8: unloaded qwen2.5:3b, llama3.2:3b; confirmed none loaded before starting
+    new process pid 363656; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+W9: unloaded qwen2.5:3b, llama3.2:3b; confirmed none loaded before starting
+    new process pid 373784; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+B9: unloaded qwen2.5:3b, llama3.2:3b; confirmed none loaded before starting
+    new process pid 358840; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+W10: unloaded qwen2.5:3b, llama3.2:3b; confirmed none loaded before starting
+    new process pid 373536; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+B10: unloaded qwen2.5:3b, llama3.2:3b; confirmed none loaded before starting
+    new process pid 365444; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+W11: unloaded qwen2.5:3b, llama3.2:3b; confirmed none loaded before starting
+    new process pid 368596; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+B11: unloaded qwen2.5:3b, llama3.2:3b; confirmed none loaded before starting
+    new process pid 376352; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+W12: unloaded qwen2.5:3b, llama3.2:3b; confirmed none loaded before starting
+    new process pid 376192; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+B12: unloaded qwen2.5:3b, llama3.2:3b; confirmed none loaded before starting
+    new process pid 374392; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+W13: unloaded qwen2.5:3b, llama3.2:3b; confirmed none loaded before starting
+    new process pid 366972; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+B13: unloaded qwen2.5:3b, llama3.2:3b; confirmed none loaded before starting
+    new process pid 373156; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+W14: unloaded qwen2.5:3b, llama3.2:3b; confirmed none loaded before starting
+    new process pid 377340; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+B14: unloaded qwen2.5:3b, llama3.2:3b; confirmed none loaded before starting
+    new process pid 361452; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+W15: unloaded qwen2.5:3b, llama3.2:3b; confirmed none loaded before starting
+    new process pid 376816; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+B15: unloaded qwen2.5:3b, llama3.2:3b; confirmed none loaded before starting
+    new process pid 377500; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none

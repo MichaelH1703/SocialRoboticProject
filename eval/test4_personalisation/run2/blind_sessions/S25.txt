@@ -1,0 +1,45 @@
+Session S25
+
+Reachy (greeting, not coded): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Went bowling.
+Reachy [1]: That sounds fun. What made the bowling session special for you?
+
+You: Mia's birthday.
+Reachy [2]: Got it. And how did she feel at Mia's birthday party?
+
+You: Happy. A bit nervous.
+Reachy [3]: Did anything funny happen during the bowling?
+
+You: No.
+Reachy [4]: Okay, and after you played bowling, what happened next at Mia's party?
+
+You: Had pizza. Cake. Candles.
+Reachy [5]: Sounds like a great time! What did you think of having candles on cake?
+
+You: Good. Fun.
+Reachy [6]: Having fun sounds wonderful!
+
+You: I don't know.
+Reachy [7]: Is there anything particular you want to talk about now, or would you like to share more?
+
+You: Yeah. Got two strikes.
+Reachy [8]: That's exciting. What did it make you feel afterwards?
+
+You: Happy.
+Reachy [9]: Happy is great! Has Mia told anyone else about your bowling adventure at her party?
+
+You: Mia's mum drove me home.
+Reachy [10]: And did Mia or any of the other kids show a special interest in what you and your friends did while bowling?
+
+You: Ella looked over.
+Reachy [11]: It sounds like Ella was interested in your bowling session!
+
+You: Yeah.
+Reachy [12]: Sure, it happened sometimes when we're all together. Did something fun happen after Ella looked at you during the game?
+
+You: Bye.
+Reachy (scripted, not coded): Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+You: No.
+Reachy (scripted, not coded): Okay. Thank you for sharing your day with me, April. Goodbye.

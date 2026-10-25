@@ -1,0 +1,48 @@
+T01	Leaves out: where	Y	Y	hit
+T01	Uses 'because'	Y	Y	hit
+T01	Emotion word: scared	Y	Y	hit
+T01	Emotion word: happy	Y	Y	hit
+T01	False alarm: what happened	N	Y	false alarm
+T01	False alarm: who	N	Y	false alarm
+T02	Leaves out: how it ended	Y	Y	hit
+T02	Uses neither 'because' nor 'so'	Y	N	miss
+T02	Emotion word: excited	Y	Y	hit
+T03	Leaves out: who	Y	Y	hit
+T03	Uses 'so'	Y	Y	hit
+T03	Emotion word: sad	Y	Y	hit
+T03	Emotion word: worried	Y	Y	hit
+T03	False alarm: missing reasons	N	Y	false alarm
+T04	Leaves out: how they felt	Y	Y	hit
+T04	Uses 'because' and 'so'	Y	Y	hit
+T04	Uses no emotion words	Y	Y	hit
+T04	False alarm: what happened	N	Y	false alarm
+T05	Leaves out: where	Y	Y	hit
+T05	Leaves out: how it ended	Y	N	miss
+T05	Uses neither 'because' nor 'so'	Y	N	miss
+T05	Emotion word: angry	Y	Y	hit
+T05	False alarm: who	N	Y	false alarm
+T05	False alarm: what happened	N	Y	false alarm
+T06	Uses 'because'	Y	N	miss
+T06	Emotion word: excited	Y	Y	hit
+T06	Emotion word: scared	Y	Y	hit
+T06	False alarm: missing reasons	N	Y	false alarm
+T06	False alarm: missing linking words	N	Y	false alarm
+T07	Leaves out: what happened	Y	Y	hit
+T07	Uses neither 'because' nor 'so'	Y	N	miss
+T07	Emotion word: happy	Y	Y	hit
+T08	Leaves out: who	Y	N	miss
+T08	Leaves out: how they felt	Y	N	miss
+T08	Uses 'because'	Y	Y	hit
+T08	Uses no emotion words	Y	N	miss
+T08	False alarm: missing reasons	N	Y	false alarm
+T08	False alarm: what happened	N	Y	false alarm
+T09	Leaves out: how it ended	Y	N	miss
+T09	Uses 'so'	Y	Y	hit
+T09	Emotion word: nervous	Y	Y	hit
+T09	Emotion word: proud	Y	Y	hit
+T09	False alarm: what happened	N	Y	false alarm
+T10	Leaves out: who	Y	Y	hit
+T10	Leaves out: where	Y	Y	hit
+T10	Uses neither 'because' nor 'so'	Y	N	miss
+T10	Emotion word: annoyed	Y	Y	hit
+T10	Emotion word: happy	Y	Y	hit

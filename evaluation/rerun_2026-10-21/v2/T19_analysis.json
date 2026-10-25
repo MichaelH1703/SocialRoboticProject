@@ -1,0 +1,263 @@
+{
+  "labelled": true,
+  "speakers": "auto",
+  "auto_labels": {
+    "sentences": [
+      [
+        "therapist",
+        "Hi there."
+      ],
+      [
+        "therapist",
+        "Today we're going to talk about something that really happened to you."
+      ],
+      [
+        "therapist",
+        "I'll go first and then it'll be your turn."
+      ],
+      [
+        "therapist",
+        "On Friday I finished a big puzzle."
+      ],
+      [
+        "therapist",
+        "It took ages, so I was really proud when it was done."
+      ],
+      [
+        "therapist",
+        "I was excited to show my friend."
+      ],
+      [
+        "therapist",
+        "Okay, now it's your turn."
+      ],
+      [
+        "child",
+        "My birthday."
+      ],
+      [
+        "child",
+        "It was my birthday."
+      ],
+      [
+        "therapist",
+        "Your birthday!"
+      ],
+      [
+        "therapist",
+        "Where did you have it?"
+      ],
+      [
+        "child",
+        "At home."
+      ],
+      [
+        "child",
+        "In the garden."
+      ],
+      [
+        "therapist",
+        "At home in the garden."
+      ],
+      [
+        "therapist",
+        "What happened?"
+      ],
+      [
+        "child",
+        "I opened my presents first."
+      ],
+      [
+        "child",
+        "I got a bike."
+      ],
+      [
+        "therapist",
+        "You got a bike!"
+      ],
+      [
+        "therapist",
+        "What happened next?"
+      ],
+      [
+        "child",
+        "I rode it round the garden."
+      ],
+      [
+        "child",
+        "Lots of times."
+      ],
+      [
+        "therapist",
+        "You rode it round the garden lots of times."
+      ],
+      [
+        "therapist",
+        "Who came to your birthday?"
+      ],
+      [
+        "child",
+        "Um."
+      ],
+      [
+        "child",
+        "I don't know."
+      ],
+      [
+        "therapist",
+        "That's okay."
+      ],
+      [
+        "therapist",
+        "How did you feel when you got the bike?"
+      ],
+      [
+        "child",
+        "I don't know."
+      ],
+      [
+        "child",
+        "It's blue."
+      ],
+      [
+        "therapist",
+        "It's blue."
+      ],
+      [
+        "therapist",
+        "You must have been so happy."
+      ],
+      [
+        "therapist",
+        "Then what?"
+      ],
+      [
+        "child",
+        "We had cake because it was my birthday."
+      ],
+      [
+        "therapist",
+        "Chocolate cake."
+      ],
+      [
+        "therapist",
+        "Chocolate cake, because it was your birthday."
+      ],
+      [
+        "therapist",
+        "How did it end?"
+      ],
+      [
+        "child",
+        "I blew out the candles."
+      ],
+      [
+        "child",
+        "Then I went to bed."
+      ],
+      [
+        "therapist",
+        "You blew out the candles and went to bed."
+      ],
+      [
+        "therapist",
+        "Let me say your story back to you."
+      ],
+      [
+        "therapist",
+        "You had your birthday at home in the garden."
+      ],
+      [
+        "therapist",
+        "You opened your presents first and got a blue bike, and you rode it round the garden lots of times."
+      ],
+      [
+        "therapist",
+        "You had chocolate cake because it was your birthday, and at the end you blew out the candles and went to bed."
+      ],
+      [
+        "therapist",
+        "Did I get that right?"
+      ],
+      [
+        "child",
+        "Yeah."
+      ],
+      [
+        "therapist",
+        "Thanks for telling me your story."
+      ],
+      [
+        "therapist",
+        "You did a really great job."
+      ]
+    ],
+    "echoes_relabelled": [
+      13
+    ]
+  },
+  "labelled_transcript": "Therapist. Hi there. Today we're going to talk about something that really happened to you. I'll go first and then it'll be your turn. On Friday I finished a big puzzle. It took ages, so I was really proud when it was done. I was excited to show my friend. Okay, now it's your turn. Child. My birthday. It was my birthday. Therapist. Your birthday! Where did you have it? Child. At home. In the garden. Therapist. At home in the garden. What happened? Child. I opened my presents first. I got a bike. Therapist. You got a bike! What happened next? Child. I rode it round the garden. Lots of times. Therapist. You rode it round the garden lots of times. Who came to your birthday? Child. Um. I don't know. Therapist. That's okay. How did you feel when you got the bike? Child. I don't know. It's blue. Therapist. It's blue. You must have been so happy. Then what? Child. We had cake because it was my birthday. Therapist. Chocolate cake. Chocolate cake, because it was your birthday. How did it end? Child. I blew out the candles. Then I went to bed. Therapist. You blew out the candles and went to bed. Let me say your story back to you. You had your birthday at home in the garden. You opened your presents first and got a blue bike, and you rode it round the garden lots of times. You had chocolate cake because it was your birthday, and at the end you blew out the candles and went to bed. Did I get that right? Child. Yeah. Therapist. Thanks for telling me your story. You did a really great job.",
+  "facts": {
+    "child_turns": 9,
+    "mean_words_per_turn": 6.3,
+    "reasons": [
+      "We had cake because it was my birthday."
+    ],
+    "sequence_words": [
+      "first",
+      "then"
+    ],
+    "vague_words": [],
+    "feelings": [],
+    "feeling_reasons": [],
+    "child_text": [
+      "My birthday. It was my birthday.",
+      "At home. In the garden.",
+      "I opened my presents first. I got a bike.",
+      "I rode it round the garden. Lots of times.",
+      "Um. I don't know.",
+      "I don't know. It's blue.",
+      "We had cake because it was my birthday.",
+      "I blew out the candles. Then I went to bed.",
+      "Yeah."
+    ]
+  },
+  "checked": {
+    "event": "birthday",
+    "who": {
+      "given": false,
+      "child_words": "",
+      "rejected_claim": ""
+    },
+    "where": {
+      "given": true,
+      "child_words": "At home. In the garden.",
+      "rejected_claim": ""
+    },
+    "what_happened": {
+      "given": true,
+      "child_words": "I opened my presents first. I got a bike. I rode it round the garden. Lots of times. We had cake because it was my birthday.",
+      "rejected_claim": ""
+    },
+    "ending": {
+      "given": true,
+      "child_words": "I blew out the candles. Then I went to bed.",
+      "rejected_claim": ""
+    }
+  },
+  "written": {
+    "summary": "The child told about their birthday. They said it was at home in the garden. They opened their presents first and got a bike. They rode the bike around the garden lots of times. They said they don't know the color of the bike but it's blue. They had cake because it was their birthday. They blew out the candles and then went to bed. They said yeah.",
+    "goals": [
+      "Say who was there.",
+      "Name how they felt."
+    ],
+    "focus": [
+      "The child will identify the people present in the event.",
+      "The child will name the feelings experienced during the event."
+    ],
+    "prompts": [
+      "Who was there with you?",
+      "How did you feel about that?"
+    ]
+  }
+}

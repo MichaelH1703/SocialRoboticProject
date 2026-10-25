@@ -1,0 +1,79 @@
+[Child sim] session sci-1 (Had a science test), llama3.2:3b, temperature 0.3, seed 71
+[Isolation] new process pid 218924; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (3.8s)
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Science test.
+[State] Selected event: Had a science test
+
+Reachy: That sounds like an interesting event. What happened during the science test?
+
+[Latency] Turn: 2.70s
+You: Sat next to Ella. No talking.
+
+Reachy: And how did that make you feel, having no one to talk to during the test?
+
+[Latency] Turn: 2.44s
+You: Worried.
+
+Reachy: Feeling worried is understandable. How did the exam go in the end?
+
+[Latency] Turn: 2.51s
+You: Finished time.
+
+Reachy: That's good to hear. Did anything else happen that day besides having a science test and sitting next to Ella?
+
+[Latency] Turn: 2.71s
+You: Break time. Snack with Ella.
+
+Reachy: Snack time with Ella sounds nice. Can you say more about what happened during break?
+
+[Latency] Turn: 2.59s
+You: I don't know.
+
+Reachy: It's okay not to have many details right now. Did anything specific happen during your snack?
+
+[Latency] Turn: 2.57s
+You: Fine.
+
+Reachy: That’s good to hear. Thank you for sharing those moments with me today.
+
+[Latency] Turn: 2.58s
+You: Yeah.
+
+Reachy: Is there anything else from the day you wanted to talk about?
+
+[Latency] Turn: 2.53s
+You: The moon question.
+
+Reachy: What was special about asking or answering the moon question?
+
+[Latency] Turn: 2.49s
+You: Stuck on it.
+
+Reachy: It sounds like that made things a bit tricky. Can you remember what part of the question was stumping you?
+
+[Latency] Turn: 2.60s
+You: Can't remember.
+
+Reachy: Sometimes not remembering can be challenging. Is there anything specific about your day that stands out to you now?
+
+[Latency] Turn: 2.63s
+You: Test results next week.
+
+Reachy: That's something important coming up. Did the test result bring any thoughts or feelings for you?
+
+[Latency] Turn: 2.54s
+You: Bye.
+
+Reachy: Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+[State] Goodbye heard; confirming before ending.
+[Not spoken] Model's reply, dropped but kept in its history as on the robot: 'Bye, take care.'
+You: No.
+
+Reachy: Okay. Thank you for sharing your day with me, April. Goodbye.
+
+[State] Child confirmed goodbye; ending session.

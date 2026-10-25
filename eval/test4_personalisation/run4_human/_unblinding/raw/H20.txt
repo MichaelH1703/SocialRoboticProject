@@ -1,0 +1,66 @@
+[Human] session H20, condition B, "I don't know" at turn 8
+[Isolation] new process pid 87748; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (5.5s)
+[Supabase] client_profiles error: {'message': 'Cannot coerce the result to a single JSON object', 'code': 'PGRST116', 'hint': None, 'details': 'The result contains 0 rows'}
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: yeah. i went bowling
+[State] Selected event: Went bowling for Mia's birthday
+
+Reachy: That sounds fun. Who was there with you when you went bowling?
+
+[Latency] Turn: 2.84s
+You: I was there for Mia's birthday party
+
+Reachy: Oh, that makes it even more special. How did it feel going to the bowling place on such a nice day?
+
+[Latency] Turn: 2.71s
+You: yeah it felt very good
+
+Reachy: It felt very good indeed. What games did you play at the bowling alley?
+
+[Latency] Turn: 2.66s
+You: we just did bowling
+
+Reachy: That sounds simple but fun. How many people were there with you at the bowling alley?
+
+[Latency] Turn: 2.67s
+You: it was me and mia and grace and jess and mia's mum and dad were there too. but they didn't bowl, only me and grace and jess and mia bowled
+
+Reachy: Nice to know more friends joined in the fun. How did it feel playing bowling with your friends?
+
+[Latency] Turn: 2.72s
+You: yeah it felt really good, it was alot of fun
+
+Reachy: It sounds like a wonderful time you had! Was there anything Mia's mum or dad did at the bowling alley?
+
+[Latency] Turn: 2.77s
+You: they bought us all pizza and then Mia's mum had made a cake
+
+Reachy: That's nice to have. Who ate the pizza and cake after bowling?
+
+[Latency] Turn: 2.50s
+You: i dont know
+
+Reachy: Oh, I see. Did you eat with anyone in particular at the party?
+
+[Latency] Turn: 2.64s
+You: yeah we all ate together
+
+Reachy: All of you had a good time together eating the pizza and cake. Did either of the adults join in your bowling games?
+
+[Latency] Turn: 2.61s
+You: no
+
+Reachy: That's okay, it sounds like Mia's mum and dad enjoyed watching everyone have fun instead. How did Mia feel about bowling on her birthday?
+
+[Latency] Turn: 2.79s
+You: she was happy i think
+
+Reachy: Mia was definitely happy with the bowling party on her special day. Thank you for sharing that with me.
+
+[Latency] Turn: 2.62s
+[Human] Ended by the player before Reachy's goodbye.
+[Human] Session over.

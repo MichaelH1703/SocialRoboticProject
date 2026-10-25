@@ -1,0 +1,72 @@
+[Interactive] session I2, typed by a person; 10 model replies, /end to stop
+[Isolation] new process pid 424416; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (3.9s)
+[Interactive] Event titles: Went bowling for Mia's birthday, Had a science test, Fire drill at school, Played netball in PE, Made pasta in food tech
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: yeah i had a science test
+[State] Selected event: Had a science test
+
+Reachy: Interesting. How did that go at school today?
+
+[Latency] Turn: 2.93s
+[Interactive] Reply 1 of 10 saved.
+You: yeah it was really cool
+
+Reachy: That sounds good! Can you tell me more about what was cool about the science test?
+
+[Latency] Turn: 2.62s
+[Interactive] Reply 2 of 10 saved.
+You: yeah i made a homemade volcano with vinegar and baking soda
+[Question limit] Dropped: 'Did anything surprise you?'
+
+Reachy: Oh, that's fun! What happened when you did that experiment?
+
+[Latency] Turn: 2.68s
+[Interactive] Reply 3 of 10 saved.
+You: the foam went everywhere, i coloured it red to look like lava
+
+Reachy: That’s great! And what did it feel like when the foam came out?
+
+[Latency] Turn: 2.63s
+[Interactive] Reply 4 of 10 saved.
+You: i was super happy, i was nervous it was going to fial
+
+Reachy: I see. How were you feeling at first before the experiment started?
+
+[Latency] Turn: 2.64s
+[Interactive] Reply 5 of 10 saved.
+You: nervous
+
+Reachy: Nervous sounds normal. Did anything happen during the test that made you feel differently afterwards?
+
+[Latency] Turn: 2.65s
+[Interactive] Reply 6 of 10 saved.
+You: yeah when it worked i was happy
+
+Reachy: That must have been really exciting! What were some things your teacher or classmates said to make you feel better about the test?
+
+[Latency] Turn: 2.69s
+[Interactive] Reply 7 of 10 saved.
+You: my  teacher said that i did a good job
+
+Reachy: Great to hear your teacher praised you. Anything else happen after the test was over?
+
+[Latency] Turn: 2.69s
+[Interactive] Reply 8 of 10 saved.
+You: i got a ribbon
+
+Reachy: That’s wonderful! Did anyone give you the ribbon or say anything about it?
+
+[Latency] Turn: 2.70s
+[Interactive] Reply 9 of 10 saved.
+You: yeah it was the third place ribbon
+
+Reachy: It sounds like a proud moment. How did that make you feel afterwards?
+
+[Latency] Turn: 2.65s
+[Interactive] Reply 10 of 10 saved.
+[Interactive] Session I2 ended (10 replies), 10 replies saved.
+[Interactive] Database unchanged by the session: True

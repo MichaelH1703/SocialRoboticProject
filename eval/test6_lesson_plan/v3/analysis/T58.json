@@ -1,0 +1,299 @@
+{
+  "labelled": true,
+  "speakers": "auto",
+  "auto_labels": {
+    "method": "pieces",
+    "segments": [
+      [
+        "therapist",
+        "hi lewis hows things"
+      ],
+      [
+        "child",
+        "alright i had to work with someone new yesterday and we had different ideas about how to organise the task so we had to talk it through a bit"
+      ],
+      [
+        "therapist",
+        "what about you anything happen at school"
+      ],
+      [
+        "child",
+        "yeah the science thing"
+      ],
+      [
+        "therapist",
+        "what science thing"
+      ],
+      [
+        "child",
+        "the group presentation"
+      ],
+      [
+        "therapist",
+        "who was in your group"
+      ],
+      [
+        "child",
+        "me ellie and harry and then miss put daniel in as well"
+      ],
+      [
+        "therapist",
+        "where were you doing it"
+      ],
+      [
+        "child",
+        "science room 12"
+      ],
+      [
+        "therapist",
+        "and what were you meant to make"
+      ],
+      [
+        "child",
+        "a powerpoint about renewable energy"
+      ],
+      [
+        "child",
+        "and it had to be five slides minimum but harry did nine for some reason"
+      ],
+      [
+        "therapist",
+        "what happened when you started working"
+      ],
+      [
+        "child",
+        "ellie was doing wind turbines and i was doing solar"
+      ],
+      [
+        "child",
+        "and then daniel he just started changing the font"
+      ],
+      [
+        "therapist",
+        "changing the font yeah it was arial"
+      ],
+      [
+        "child",
+        "and he made it comic sans"
+      ],
+      [
+        "child",
+        "and the titles were different sizes"
+      ],
+      [
+        "child",
+        "and it looked weird"
+      ],
+      [
+        "therapist",
+        "how did that affect you"
+      ],
+      [
+        "child",
+        "i couldnt concentrate cos it kept changing"
+      ],
+      [
+        "child",
+        "and i was trying to read the slide"
+      ],
+      [
+        "therapist",
+        "that must have been really irritating"
+      ],
+      [
+        "child",
+        "it was just distracting"
+      ],
+      [
+        "therapist",
+        "what did you do about it"
+      ],
+      [
+        "child",
+        "i told him can you stop changing it until weve finished the words"
+      ],
+      [
+        "child",
+        "and he said he was making it look better"
+      ],
+      [
+        "therapist",
+        "what happened then"
+      ],
+      [
+        "child",
+        "miss came over and said we needed to agree on one format"
+      ],
+      [
+        "child",
+        "so we picked arial again"
+      ],
+      [
+        "therapist",
+        "was there anything else that happened"
+      ],
+      [
+        "child",
+        "harry had put a picture of a coal power station on my solar slide and i"
+      ],
+      [
+        "child",
+        "had to move it"
+      ],
+      [
+        "therapist",
+        "how did the lesson finish"
+      ],
+      [
+        "child",
+        "the bell went and we saved it to the shared folder"
+      ],
+      [
+        "therapist",
+        "so you were working on renewable energy with ellie harry and daniel"
+      ],
+      [
+        "therapist",
+        "and the font kept changing while you were trying to read the slide"
+      ],
+      [
+        "therapist",
+        "you asked daniel to stop and miss helped you agree on arial"
+      ],
+      [
+        "child",
+        "then you moved the picture and saved the presentation when the bell went"
+      ],
+      [
+        "child",
+        "yeah but it was the picture that took ages not the font"
+      ],
+      [
+        "child",
+        "thanks for correcting me."
+      ],
+      [
+        "therapist",
+        "The picture took longer than the font issue."
+      ],
+      [
+        "therapist",
+        "yeah we'll stop there for today okay"
+      ]
+    ],
+    "echoes_relabelled": []
+  },
+  "labelled_transcript": "Therapist. hi lewis hows things Child. alright i had to work with someone new yesterday and we had different ideas about how to organise the task so we had to talk it through a bit Therapist. what about you anything happen at school Child. yeah the science thing Therapist. what science thing Child. the group presentation Therapist. who was in your group Child. me ellie and harry and then miss put daniel in as well Therapist. where were you doing it Child. science room 12 Therapist. and what were you meant to make Child. a powerpoint about renewable energy and it had to be five slides minimum but harry did nine for some reason Therapist. what happened when you started working Child. ellie was doing wind turbines and i was doing solar and then daniel he just started changing the font Therapist. changing the font yeah it was arial Child. and he made it comic sans and the titles were different sizes and it looked weird Therapist. how did that affect you Child. i couldnt concentrate cos it kept changing and i was trying to read the slide Therapist. that must have been really irritating Child. it was just distracting Therapist. what did you do about it Child. i told him can you stop changing it until weve finished the words and he said he was making it look better Therapist. what happened then Child. miss came over and said we needed to agree on one format so we picked arial again Therapist. was there anything else that happened Child. harry had put a picture of a coal power station on my solar slide and i had to move it Therapist. how did the lesson finish Child. the bell went and we saved it to the shared folder Therapist. so you were working on renewable energy with ellie harry and daniel and the font kept changing while you were trying to read the slide you asked daniel to stop and miss helped you agree on arial Child. then you moved the picture and saved the presentation when the bell went yeah but it was the picture that took ages not the font thanks for correcting me. Therapist. The picture took longer than the font issue. yeah we'll stop there for today okay",
+  "facts": {
+    "child_turns": 15,
+    "mean_words_per_turn": 14.9,
+    "sequence_words": [
+      "then"
+    ],
+    "vague_words": [
+      "thing"
+    ],
+    "child_text": [
+      "alright i had to work with someone new yesterday and we had different ideas about how to organise the task so we had to talk it through a bit",
+      "yeah the science thing",
+      "the group presentation",
+      "me ellie and harry and then miss put daniel in as well",
+      "science room 12",
+      "a powerpoint about renewable energy and it had to be five slides minimum but harry did nine for some reason",
+      "ellie was doing wind turbines and i was doing solar and then daniel he just started changing the font",
+      "and he made it comic sans and the titles were different sizes and it looked weird",
+      "i couldnt concentrate cos it kept changing and i was trying to read the slide",
+      "it was just distracting",
+      "i told him can you stop changing it until weve finished the words and he said he was making it look better",
+      "miss came over and said we needed to agree on one format so we picked arial again",
+      "harry had put a picture of a coal power station on my solar slide and i had to move it",
+      "the bell went and we saved it to the shared folder",
+      "then you moved the picture and saved the presentation when the bell went yeah but it was the picture that took ages not the font thanks for correcting me."
+    ],
+    "feelings": [
+      {
+        "word": "annoyed",
+        "child_words": "i couldnt concentrate cos it kept changing and i was trying to read the slide",
+        "named": false
+      },
+      {
+        "word": "distracted",
+        "child_words": "it was just distracting",
+        "named": false
+      }
+    ],
+    "reasons": [
+      {
+        "child_words": "i couldnt concentrate cos it kept changing",
+        "linked": true,
+        "about_feeling": false
+      },
+      {
+        "child_words": "it was just distracting",
+        "linked": false,
+        "about_feeling": true
+      },
+      {
+        "child_words": "i told him can you stop changing it until weve finished the words",
+        "linked": false,
+        "about_feeling": false
+      },
+      {
+        "child_words": "it was the picture that took ages not the font",
+        "linked": false,
+        "about_feeling": false
+      },
+      {
+        "child_words": "alright i had to work with someone new yesterday and we had different ideas about how to organise the task so we had to talk it through a bit",
+        "linked": true,
+        "about_feeling": false
+      },
+      {
+        "child_words": "miss came over and said we needed to agree on one format so we picked arial again",
+        "linked": true,
+        "about_feeling": false
+      }
+    ],
+    "feeling_reasons": [
+      "it was just distracting"
+    ]
+  },
+  "checked": {
+    "event": "group presentation",
+    "who": {
+      "given": true,
+      "child_words": "me ellie and harry and then miss put daniel in as well",
+      "rejected_claim": ""
+    },
+    "where": {
+      "given": true,
+      "child_words": "science room 12",
+      "rejected_claim": ""
+    },
+    "what_happened": {
+      "given": true,
+      "child_words": "i told him can you stop changing it until weve finished the words and he said he was making it look better miss came over and said we needed to agree on one format so we picked arial again harry had put a picture of a coal power station on my solar slide and i had to move it the bell went and we saved it to the shared folder",
+      "rejected_claim": ""
+    },
+    "ending": {
+      "given": true,
+      "child_words": "then you moved the picture and saved the presentation when the bell went yeah but it was the picture that took ages not the font thanks for correcting me",
+      "rejected_claim": ""
+    }
+  },
+  "written": {
+    "summary": "The child said they had to work with someone new yesterday and they had different ideas about how to organise the task so they had to talk it through a bit. The child mentioned the science thing, the group presentation, and that they were ellie and harry and then miss put daniel in as well. The child talked about the science room 12, a powerpoint about renewable energy that had to be five slides minimum but harry did nine for some reason. The child mentioned ellie was doing wind turbines and they were doing solar and then daniel started changing the font and made it comic sans and the titles were different sizes and it looked weird. The child said they couldn't concentrate because it kept changing and they were trying to read the slide and it was just distracting. The child told daniel to stop changing it until they finished the words and daniel said he was making it look better. Miss came over and said they needed to agree on one format so they picked arial again. Harry had put a picture of a coal power station on the solar slide and the child had to move it. The bell went and they saved it to the shared folder. The child said then you moved the picture and saved the presentation when the bell went yeah but it was the picture that took ages not the font thanks for correcting me.",
+    "goals": [
+      "Name the feeling with a feeling word.",
+      "Use the exact word instead of vague words like 'stuff' or 'thing'."
+    ],
+    "focus": [
+      "The child will name the feeling using a feeling word.",
+      "The child will use the exact word instead of vague words like 'stuff' or 'thing'"
+    ],
+    "prompts": [
+      "What feeling did you have when you did it?",
+      "What exact word did you use for that?"
+    ]
+  }
+}

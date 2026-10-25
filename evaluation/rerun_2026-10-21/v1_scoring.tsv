@@ -1,0 +1,223 @@
+transcript_id	feature	planted	reported	result	evidence	note	confidence	traps_credited
+T01	Leaves out: where	Y	Y	hit	"lack of detail about where the swimming lesson took place"		sure
+T01	Uses 'because'	Y	Y	hit	"scared to jump into the deep end due to its depth"	Reason given in the summary	sure
+T01	Emotion word: scared	Y	Y	hit	"explaining their fear ("scared")"		sure
+T01	Emotion word: happy	Y	Y	hit	"which made them happy"		sure
+T01	False alarm: what happened	N	Y	false alarm	"did not elaborate on what kind of activities or games were played during the lesson"	The child described jumping into the deep end. Same call as the original v1 T01 row	unsure
+T02	Leaves out: how it ended	Y	N	miss		Never mentions the ending	sure
+T02	Uses neither 'because' nor 'so'	Y	N	miss		Never says the child gave no reasons	sure
+T02	Emotion word: excited	Y	Y	hit	"using words like "excited""		sure
+T02	False alarm: who	N	Y	false alarm	"did not clearly communicate the number of people present (only mentioned "lots of people from your class")"	The child said "Lots of people. From my class." The remark is about how many, not who	unsure
+T03	Leaves out: who	Y	Y	hit	"struggled to remember who was with them during recess"		sure
+T03	Uses 'so'	Y	Y	hit	"forgot to put it back ... resulting in forgetting it altogether after hearing the bell"	Causal link given in the summary; garbled	unsure
+T03	Emotion word: sad	Y	Y	hit	"expressed feeling sad and worried"		sure
+T03	Emotion word: worried	Y	Y	hit	"expressed feeling sad and worried"		sure
+T04	Leaves out: how they felt	Y	Y	hit	"Emotional expressions and feelings about making cookies were not detailed"		sure
+T04	Uses 'because' and 'so'	Y	Y	hit	"explaining why they waited ("they were too hot")"		sure
+T04	Uses no emotion words	Y	Y	hit	"they did not express their own feelings or emotions"		sure
+T04	False alarm: what happened	N	Y	false alarm	"did not mention making or baking ingredients (flour, butter)"; "no description of decorating the cookies"	The child described mixing, waiting and eating; section 2 itself says they mentioned flour and butter	unsure
+T05	Leaves out: where	Y	Y	hit	"a lapse in memory regarding where exactly the match took place"		sure
+T05	Leaves out: how it ended	Y	N	miss		Never mentions the ending	sure
+T05	Uses neither 'because' nor 'so'	Y	N	miss		Never says the child gave no reasons	sure
+T05	Emotion word: angry	Y	Y	hit	"The child felt very angry"		sure
+T05	False alarm: what happened	N	Y	false alarm	"did not provide detailed information about specific events or moments during the game, such as ... what happened before scoring or being told off"	The child described the goal, kicking the ball away and being told off	unsure	frustrating
+T06	Uses 'because'	Y	Y	hit	"a bit scared because one moved"		sure
+T06	Emotion word: excited	Y	Y	hit	"felt excited about them"		sure
+T06	Emotion word: scared	Y	Y	hit	"scared by moving snakes"		sure
+T06	False alarm: what happened	N	Y	false alarm	"skipped details on how long they stayed at the zoo, what other exhibits or activities there were"	Control transcript: the child described the lions, snakes, lunch and gift shop	unsure
+T07	Leaves out: what happened	Y	Y	hit	"struggled to recall specific activities at the park"		sure
+T07	Uses neither 'because' nor 'so'	Y	N	miss		Never says the child gave no reasons	sure
+T07	Emotion word: happy	Y	Y	hit	"The child expressed happiness"		sure
+T08	Leaves out: who	Y	N	miss		Never mentions who was there	sure
+T08	Leaves out: how they felt	Y	N	miss		Section 4 talks about the red knee, never says feelings were missing	sure
+T08	Uses 'because'	Y	Y	hit	"identified the cause of their injury (not seeing a stone)"		sure
+T08	Uses no emotion words	Y	N	miss		Never says the child named no feelings	sure
+T08	False alarm: where	N	Y	false alarm	"not recalling specific words or phrases like "path" when describing the setting"	The child gave the setting; the plan's own summary says "on a path outside their house"	unsure
+T09	Leaves out: how it ended	Y	Y	hit	"had difficulty remembering how the assembly concluded"		sure
+T09	Uses 'so'	Y	Y	hit	"saying one line, which resulted in applause"; "nervous due to many mums and dads watching"		sure
+T09	Emotion word: nervous	Y	Y	hit	"feeling nervous before going on stage"		sure
+T09	Emotion word: proud	Y	Y	hit	"recognized pride after receiving applause"		sure
+T09	False alarm: who	N	Y	false alarm	"under-explanation regarding ... if anyone else participated besides themselves and Miss Hart"	The child said who was there	unsure
+T10	Leaves out: who	Y	N	miss		Never mentions who was there	sure
+T10	Leaves out: where	Y	Y	hit	"struggled with recalling the environment where they played"		sure
+T10	Uses neither 'because' nor 'so'	Y	N	miss		Never says the child gave no reasons	sure
+T10	Emotion word: annoyed	Y	Y	hit	"using words like "really annoyed""	Credited only inside a gap ("difficulty describing emotions in more depth"); section 4 calls it frustration	unsure	frustrating
+T10	Emotion word: happy	Y	Y	hit	"Happiness after succeeding was expressed"	"difficulty describing emotions in more depth" not counted as a missing-feelings false alarm (it does not say feelings were missing)	sure
+T11	Leaves out: who	Y	Y	hit	"struggled to recall details about who was at the beach"		sure
+T11	Uses 'so'	Y	N	miss		No reason or linking language credited	unsure
+T11	Emotion word: happy	Y	Y	hit	"felt happy"		sure
+T11	False alarm: how it ended	N	Y	false alarm	"They were unsure about their day's end without prompting"	The child gave the ending (chips in the car, home)	unsure	relieved; excited
+T12	Leaves out: where	Y	Y	hit	"trouble providing more information on where they got the puppy"		sure
+T12	Uses 'because'	Y	Y	hit	"made them feel nervous due to its movement"		sure
+T12	Emotion word: nervous	Y	Y	hit	"made them feel nervous"		sure
+T12	Emotion word: excited	Y	Y	hit	"other than excitement"		sure	happy
+T13	Leaves out: how it ended	Y	N	miss	"showed no specific emotions regarding the final outcome"	About feelings at the end, not that the ending is missing	unsure
+T13	Uses neither 'because' nor 'so'	Y	N	miss		Never says the child gave no reasons	sure
+T13	Emotion word: sad	Y	Y	hit	"("sad", "my knee hurt")"		sure
+T13	False alarm: what happened	N	Y	false alarm	"could not provide details about the second round of the egg and spoon event"	The child described both races	unsure
+T13	False alarm: missing feelings	N	Y	false alarm	"did not describe ... how they felt after falling"	The child said "Sad. My knee hurt." about the fall	unsure
+T14	Leaves out: how they felt	Y	Y	hit	"had trouble describing their feelings and thoughts about visiting the dentist"		sure
+T14	Uses 'because' and 'so'	Y	N	miss		No reason or linking language credited	sure
+T14	Uses no emotion words	Y	N	miss	"later mentioning feeling scared"	Says the opposite: credits "scared", the therapist's word	sure	scared
+T14	False alarm: what happened	N	Y	false alarm	"limited detail provided about what exactly happened during their dental visit"	The child described the chair, the mirror, the hole, the toothbrush and sticker	unsure
+T15	Uses 'so'	Y	Y	hit	"describing their feelings and what made them happy or scared"		unsure
+T15	Emotion word: scared	Y	Y	hit	"made them feel scared"		sure
+T15	Emotion word: happy	Y	Y	hit	"happiness when they saw the baby dinosaur"		sure	embarrassed
+T15	False alarm: what happened	N	Y	false alarm	"Could have provided more details about what activities were done at the cinema"	Control transcript: the child described the film, popcorn and T-rex	unsure
+T15	False alarm: missing reasons	N	Y	false alarm	"Lack of description on why they preferred toast over soup"	A missing-reason claim; the child used "so". The toast/soup is not about the event	unsure
+T16	Leaves out: who	Y	Y	hit	"struggled with ... mentioning who was present during the Lego activity"		sure
+T16	Uses 'because'	Y	N	miss		No reason or linking language credited	sure
+T16	Emotion word: cross	Y	N	miss	"upset initially"	Says "upset" (the therapist's word), not "cross"	unsure	upset
+T16	Emotion word: proud	Y	Y	hit	"proud later"		sure
+T16	False alarm: what happened	N	Y	false alarm	"difficulty recalling specific details about what happened"	General remark, but names what happened	unsure
+T16	False alarm: missing feelings	N	Y	false alarm	"struggled with ... describing their feeling after the tower fell"	The child said they felt cross	unsure
+T17	Leaves out: where	Y	N	miss		Never mentions where	sure
+T17	Leaves out: how it ended	Y	N	miss		Never mentions the ending	sure
+T17	Uses neither 'because' nor 'so'	Y	N	miss		Never says the child gave no reasons	sure
+T17	Emotion word: surprised	Y	Y	hit	"detailed how they felt (surprised)"		sure	excited
+T18	Leaves out: what happened	Y	Y	hit	"difficulty recalling specific activities with animals"		sure
+T18	Uses neither 'because' nor 'so'	Y	N	miss		Never says the child gave no reasons	sure
+T18	Emotion word: bored	Y	Y	hit	"feeling bored during the visit"		sure
+T18	Emotion word: happy	Y	Y	hit	"felt happy"		sure
+T19	Leaves out: who	Y	Y	hit	"Had difficulty providing details about who attended the party"		sure
+T19	Leaves out: how they felt	Y	Y	hit	"Did not recall any specific details or feelings associated with ... receiving the bike"	Section 4 contradicts it (credits happy and proud)	unsure
+T19	Uses 'because'	Y	N	miss		No reason or linking language credited	sure
+T19	Uses no emotion words	Y	N	miss	"acknowledged feeling happy"; "Mentioned being "really proud""	Says the opposite: credits the therapist's words	sure	happy; proud
+T19	False alarm: what happened	N	Y	false alarm	"struggled with sequencing events chronologically at one point (when asked what happened next)"	The child described presents, bike, cake, candles	unsure
+T20	Leaves out: where	Y	Y	hit	"couldn't recall exactly where they were during the fire drill"		sure
+T20	Uses 'so'	Y	Y	hit	"cover their ears out of worry"; "felt worried that it might be a real emergency"		sure
+T20	Emotion word: worried	Y	Y	hit	"felt worried"		sure
+T20	Emotion word: glad	Y	Y	hit	"were glad to return"		sure
+T20	False alarm: missing feelings	N	Y	false alarm	"minimal description of their feelings ... after Mrs Khan counted them"	The child said "glad"	unsure
+T20	False alarm: how it ended	N	Y	false alarm	"minimal description of their ... actions after Mrs Khan counted them out"	The child said how it ended (went back in)	unsure
+T21	Leaves out: who (silent)	Y	N	miss		Never mentions who was there	sure	
+T21	Leaves out: how it ended (asked)	Y	Y	hit	"had difficulty recalling the final event of the haircut"		sure	
+T21	Feeling: dislike (phrase)	Y	Y	hit	"appeared somewhat uncomfortable with loud clippers"		sure	
+T21	Gives a reason	Y	Y	hit	"uncomfortable with loud clippers"; "its noise affected the child's ear"	The reason is implied, and the summary credits the noise remark to the therapist	unsure	
+T22	Leaves out: where (yes-only)	Y	Y	hit	"gaps in explaining details like where they waited (on the side of the road)"	Says where is weak, but the summary also credits "on the motorway" (the therapist's word, a yes-only answer) to the child	unsure	yes-only: motorway
+T22	Leaves out: how they felt (silent)	Y	N	miss	"expressed concern about waiting ... feelings like boredom and anxiety"	Says the opposite: invents feelings	sure	
+T22	Gives a reason	Y	Y	hit	"broke down due to a lack of petrol"		sure	
+T23	Feeling: scared (phrase)	Y	Y	hit	"feeling sad or scared (from not seeing their mother)"		sure	
+T23	Feeling: upset (phrase)	Y	Y	hit	"was crying"; "feeling sad"		sure	
+T23	Feeling: happy (word)	Y	Y	hit	"happy after receiving a hug"		sure	
+T23	Gives a reason	Y	Y	hit	"(from not seeing their mother)"; "as rewards for good behavior"		sure	
+T23	False alarm: what happened	N	Y	false alarm	"difficulty providing more descriptive details about what they saw or did during the time they were alone"	The child described the cakes, crying, the lady and the tannoy	unsure	
+T24	Leaves out: who (yes-only)	Y	N	miss		Never mentions who was there	sure	
+T24	Leaves out: how it ended (silent)	Y	N	miss		Never mentions the ending	sure	
+T24	Feeling: scared (phrase)	Y	Y	hit	"The robot was scary"; "expressed worry about the robot T-rex"		sure	
+T24	Feeling: enjoyment (phrase)	Y	Y	hit	"Their favorite part was seeing the diplodocus"; "showed excitement about seeing the diplodocus"		sure	
+T24	Gives a reason	Y	Y	hit	"The robot was scary due to its large teeth"		sure	
+T24	False alarm: what happened	N	Y	false alarm	"some difficulty remembering items they found during the treasure hunt"	The child named the ammonite and fossil fish	unsure	
+T25	Leaves out: who (asked)	Y	N	miss		Never mentions who was there	sure	
+T25	Leaves out: how it ended (silent)	Y	N	miss		Never mentions the ending	sure	
+T25	Feeling: scared (phrase)	Y	Y	hit	"describe feelings and emotions, such as their heart racing in the dark"		sure	
+T25	Feeling: enjoyment (phrase)	Y	Y	hit	"They liked the part of playing "I Spy" best"		sure	
+T25	Gives a reason	Y	Y	hit	"understanding of safety measures (e.g., not touching hot objects)"; "without a functioning torch"	Reasons implied, not stated as reasons	unsure	
+T25	(not counted) missing feelings	N	N	not counted	"trouble expressing emotions more fully, such as fear or frustration"	Says feelings were not expressed fully, not that there were none; also credits feelings in section 2	unsure	
+T26	Leaves out: how they felt (asked)	Y	N	miss		Credits "emotional engagement" instead	sure	
+T26	Leaves out: where (silent)	Y	N	miss		Never mentions where	sure	
+T26	Gives no reasons	Y	N	miss		Never says the child gave no reasons	sure	trap: melted due to sunlight
+T27	Leaves out: what happened (asked)	Y	Y	hit	"struggled ... when asked what activities they did at the disco"		sure	
+T27	Feeling: enjoyment (phrase)	Y	Y	hit	"a general positive comment ("It was the best one ever")"; "positive feelings"		sure	
+T27	Feeling: sad (word)	Y	Y	hit	"she felt sad when the event ended"		sure	
+T27	Gives a reason	Y	Y	hit	"because it was her best outfit"; "because she wanted it to continue"		sure	
+T27	(not counted) missing feelings	N	N	not counted	"did not respond to some specific questions about her feelings"	Partial remark; section 4 credits her feelings	unsure	
+T28	Leaves out: where (silent)	Y	N	miss		Never mentions where	sure	
+T28	Leaves out: how it ended (silent)	Y	N	miss		Never mentions the ending	sure	
+T28	Feeling: amused (phrase)	Y	Y	hit	"causing laughter"; "felt proud and amused"		sure	
+T28	Feeling: enjoyment (phrase)	Y	N	miss		"it was so fun" is not credited; only "amused" and "proud"	unsure	proud
+T28	Gives no reasons	Y	N	miss		Never says the child gave no reasons	sure	
+T29	Feeling: scared (word)	Y	Y	hit	"describing her fear"		sure	
+T29	Feeling: embarrassed (phrase)	Y	Y	hit	"her fear and embarrassment when explaining that everyone was looking at her"		sure	
+T29	Gives a reason	Y	Y	hit	"embarrassment when explaining that everyone was looking at her"		sure	
+T29	(not counted) missing feelings	N	N	not counted	"Her description could be more detailed about how it affected her emotionally"	Asks for more detail, does not say there were no feelings	sure	
+T30	Leaves out: what happened (asked)	Y	Y	hit	"difficulty recalling specific details about what happened at the wedding"		sure	
+T30	Feeling: enjoyment (phrase)	Y	Y	hit	"the best day ever ... responded with enthusiasm"		sure	
+T30	Gives no reasons	Y	N	miss		Never says the child gave no reasons	sure	excited
+T31	Feeling: dislike of the noise (phrase)	Y	Y	hit	"her ears felt "buzzy" afterward, suggesting some discomfort"	Credited as discomfort, while also saying no emotions are revealed	unsure	
+T31	Gives a reason	Y	Y	hit	"identified specific details that were difficult or confusing for her, such as people talking over the alarm"		unsure	
+T31	False alarm: missing feelings	N	Y	false alarm	"did not elaborate on the emotions she felt"; "The transcript does not reveal any details about Aisha's emotional state"	She said she did not like it	sure	
+T32	Leaves out: how they felt (asked)	Y	Y	hit	"could not clearly describe any feelings of enjoyment or displeasure"		sure	
+T32	Gives no reasons	Y	N	miss		Never says the child gave no reasons	sure	
+T32	False alarm: what happened	N	Y	false alarm	"had difficulty providing a coherent narrative or summarizing the main event"	The child said what happened (wrong bag, took it back)	unsure	
+T33	Feeling: enjoyment (phrase)	Y	Y	hit	"indicating enjoyment of baking with Nan"		sure	
+T33	Gives a reason	Y	Y	hit	"changing the recipe ratio due to limited fridge space ... using the freezer instead"		sure	
+T33	(not counted) missing reasons	N	N	not counted	"could benefit from elaboration like "...because we didn't have enough space in the fridge...""	Implies the freezer reason was missing; she gave it ("because there was a casserole dish")	unsure	
+T34	Feeling: embarrassment (word)	Y	Y	hit	"feeling embarrassed when everyone looked"		sure	
+T34	Gives a reason	Y	N	miss	"struggles to provide reasons for their emotions"; but section 4 "can explain why they felt that way"	Says they gave none, then the opposite	unsure	
+T34	False alarm: why they felt	N	Y	false alarm	"they didn't say why they felt embarrassed"	The child said "Everyone was looking"	sure	
+T35	Feeling: annoyance (word)	Y	Y	hit	"used expressive language ("annoying")"		sure	
+T35	Gives a reason	Y	Y	hit	"frustrating because they were winning"		sure	
+T36	Feeling: annoyed (word)	Y	N	miss	"had difficulty conveying emotions like annoyance or relief directly"; "conflated" annoyed and uncertain	Does not clearly credit annoyance; mentions "some frustration"	unsure	relieved; uncertain
+T36	Gives a reason	Y	Y	hit	"not every task is shared equally, which led to some frustration"		unsure	
+T36	False alarm: missing feelings	N	Y	false alarm	"had difficulty conveying emotions like annoyance or relief directly"	The child said "I was annoyed"	unsure	
+T37	Feeling: disappointed (word)	Y	Y	hit	"showed disappointment when realizing they couldn't buy the locomotive"		sure	
+T37	Gives a reason	Y	Y	hit	"disappointment when realizing they couldn't buy the locomotive"	The reason given is not the child's (looking forward to seeing it)	unsure	
+T37	False alarm: missing feelings	N	Y	false alarm	"Lack of Emotional Language: The child did not use words that conveyed feelings such as disappointment"	The child said "I was disappointed"	sure	
+T38	Leaves out: how they felt (asked)	Y	Y	hit	"no indication that the child could ... express how they felt about the experience"	Section 4 also credits "frightening", the therapist's word	sure	frightened
+T38	Gives a reason	Y	Y	hit	"sensations felt (pain from the drilling noise)"		sure	
+T39	Feeling: dislike (the room) (phrase)	Y	Y	hit	"feeling uncomfortable (horrible)"		sure	
+T39	Feeling: annoyance (the tapping) (phrase)	Y	Y	hit	"annoyed by the cousin's tapping glass"		sure	
+T39	Gives a reason	Y	Y	hit	"leaving early because of school commitments"; "overwhelmed by the sensory information"		sure	
+T39	False alarm: why they felt	N	Y	false alarm	"didn't explain why it was frustrating or angry"	The child said why (wanted the tapping to stop; the smells)	unsure	angry (loosely)
+T40	Feeling: dislike of being late (phrase)	Y	Y	hit	"he "hated being late""		sure	
+T40	Gives a reason	Y	Y	hit	"made him feel left out when everyone had started without him"		sure	
+T41	Feeling: pleased (word)	Y	Y	hit	"expressed satisfaction with successfully getting six bulbs lit"		sure	
+T41	Gives a reason	Y	Y	hit	"satisfaction with successfully getting six bulbs lit"	Reason for the feeling implied	unsure	
+T42	Feeling: anxiety (felt sick) (phrase)	Y	Y	hit	"feeling anxious and sick"	"anxious" matches the planted feeling, so the trap "anxious" is not counted	sure	
+T42	Feeling: confused (word)	Y	N	miss		Never credits confusion	sure	
+T42	Gives a reason	Y	Y	hit	"show some awareness that Niamh might be avoiding them"	Weak; no reason stated as such	unsure	
+T42	(not counted) missing feelings	N	N	not counted	"a lack of clear and direct expression about their feelings regarding Niamh's behavior"	Asks for clearer expression, does not say there were none	unsure	
+T43	Feeling: stomach dropped (body reaction) (phrase)	Y	Y	hit	"("embarrassing" vs. "my stomach did that")"; "showed signs of distress"		sure	embarrassed
+T43	Gives a reason	Y	Y	hit	"going to the wrong cone ... which led to resetting"		sure	
+T44	Feeling: embarrassed (word)	Y	Y	hit	"how they felt during the test (embarrassed)"		sure	
+T44	Gives a reason	Y	Y	hit	"needing glasses due to visual difficulties, and feels embarrassed by the test results"		sure	
+T45	Feeling: enjoyment (phrase)	Y	Y	hit	"found it better than they expected"; "enjoyed a particular scene"		sure	frightened
+T45	Gives a reason	Y	Y	hit	"finding it frightening due to loud noises"	The only reason credited is invented; the child's reasons (stayed for the extra bit, the queue) are not	unsure	
+T46	Feeling: annoyed (word)	Y	Y	hit	"why she felt annoyed"		sure	unfair
+T46	Feeling: dislike (the detention) (phrase)	Y	Y	hit	"which led to her frustration"	Frustration about the detention taken as the same meaning	unsure	
+T46	Gives a reason	Y	N	miss	"had difficulty explaining why she felt annoyed"	Says she did not explain	unsure	
+T46	False alarm: why they felt	N	Y	false alarm	"had difficulty explaining why she felt annoyed"	The child said "I'd done the work. It was just the upload."	sure	
+T47	Feeling: happy (word)	Y	Y	hit	"expressed feeling happy"		sure	overwhelmed
+T47	Gives a reason	Y	Y	hit	"how difficult it was at one point due to rapid flashing lights"		unsure	
+T47	False alarm: why they felt	N	Y	false alarm	"did not provide information about what they enjoyed or disliked specifically"	The child said why she was happy ("I knew nearly all the words")	unsure	
+T48	Feeling: dislike (unannounced changes) (phrase)	Y	Y	hit	"felt anxious when there was no clear communication from staff about the shift"; "frustration"		sure	anxious
+T48	Gives a reason	Y	Y	hit	"trays on the floor which made navigation difficult"		sure	
+T48	False alarm: how it ended	N	Y	false alarm	"little detail provided about ... what happened after lunch"	The child said "We went to form"	unsure	
+T49	Feeling: exhausted (phrase)	Y	Y	hit	"she was "too tired to be stressed""; "experienced physical fatigue"		sure	
+T49	Gives a reason	Y	Y	hit	"The flight started late because the plane didn't arrive on time"		sure	
+T49	False alarm: how it ended	N	Y	false alarm	"did not provide all details about her stepfather driving them home"	The plan quotes her own ending ("my stepdad got the car ... drove us home")	unsure	
+T50	Feeling: relieved (word)	Y	Y	hit	"relief upon finding it"		sure	
+T50	Feeling: worried (word)	Y	Y	hit	"worry about the hamster's safety"		sure	
+T50	Gives a reason	Y	Y	hit	"fear of the cat, worry about the hamster's safety"		sure	terrifying (unsure)
+T50	(not counted) missing feelings	N	N	not counted	"didn't provide more specific information on how he felt during different stages"	Asks for more, does not say there were none	sure	
+T51	Feeling: worried (word)	Y	Y	hit	"They mentioned being worried"		sure	
+T51	Gives a reason	Y	N	miss	"were not clear about their exact concerns"	Says the reason for the worry was unclear	unsure	
+T51	False alarm: why they felt	N	Y	false alarm	"mentioned being worried but were not clear about their exact concerns"	The child said "I didn't know if I was allowed to go in the back room without asking"	unsure	
+T52	Leaves out: how they felt (asked)	Y	Y	hit	"some difficulty in expressing complex emotions or feelings"	Section 4 also credits "irritation", the therapist's word	unsure	irritated
+T52	Gives a reason	Y	N	miss	"cannot fully articulate why it bothered them"	Says the child did not explain	unsure	
+T52	(not counted) why they felt	N	N	not counted	"cannot fully articulate why it bothered them"	The child named no feeling, so not a false "why they felt" (T52 is not in compare.py's EXPLAINED set)	unsure	
+T53	Feeling: stress (face hot) (phrase)	Y	Y	hit	"Her face becoming hot ... indicated physical signs of stress or anxiety"	"stress" matches the planted feeling, so the trap "stressed" is not counted	sure	
+T53	Gives a reason	Y	N	miss	"did not provide additional context on why ... she needed to catch the 24 bus instead of the 24A"	Says no reason, though section 4 credits concern about being late	unsure	
+T53	False alarm: missing reasons	N	Y	false alarm	"did not provide additional context on why she walked to a different stop or why ... the 24 bus instead of the 24A"	The child said "because the 24A goes the long way round"	sure	
+T54	Leaves out: how it ended (asked)	Y	Y	hit	"When asked what happened at the very end, the child could not recall specific events"		sure	
+T54	Leaves out: how they felt (asked)	Y	Y	hit	"did not provide clear emotions or feelings for various events"		sure	
+T54	Gives no reasons	Y	N	miss		Never says the child gave no reasons	sure	
+T55	Feeling: amusement (phrase)	Y	Y	hit	"finding humor in unexpected situations"		sure	
+T55	Feeling: annoyance (phrase)	Y	Y	hit	"expressing annoyance over resource management issues"		sure	
+T55	Gives a reason	Y	Y	hit	"issues with redstone placement and iron usage, leading to mining for more resources"		unsure	
+T55	False alarm: how it ended	N	Y	false alarm	"did not provide specific details about what they did next after saving the world"	The child said they would finish the station next time	unsure	
+T56	Feeling: embarrassed (word)	Y	Y	hit	"seemed embarrassed about sorting clothes incorrectly"		sure	frustrated
+T56	Gives a reason	Y	Y	hit	"embarrassed about sorting clothes incorrectly"		sure	
+T57	Leaves out: how they felt (asked)	Y	Y	hit	"had difficulty describing feelings related to various parts of the visit"		sure	
+T57	Gives no reasons	Y	N	miss		Never says the child gave no reasons	sure	
+T58	Feeling: distracted (phrase)	Y	Y	hit	"making it difficult for Lewis to focus"		sure	irritated (as frustrated)
+T58	Gives a reason	Y	Y	hit	"disrupted by Daniel changing font styles and sizes, making it difficult for Lewis to focus"		sure	
+T58	False alarm: missing feelings	N	Y	false alarm	"Lewis did not explicitly mention any specific emotions related to the situation"	The child said it was distracting and he couldn't concentrate	sure	
+T59	Feeling: worry (stomach tight) (phrase)	Y	Y	hit	"feeling "tight" when struggling"		sure	
+T59	Feeling: pleased (word)	Y	Y	hit	"being "pleased with myself""		sure	
+T59	Gives a reason	Y	Y	hit	"pleased with herself for completing the route"; "tired from arm exercises"		sure	
+T60	Feeling: annoyed (word)	Y	Y	hit	"Ethan felt annoyed about the offside decision"		sure	reason: annoyed because the decision was wrong
+T60	Feeling: disgust (the coffee) (phrase)	Y	N	miss	"used appropriate vocabulary such as "rank" to describe the smell of coffee"	Credited as vocabulary, not as a feeling	unsure	
+T60	Feeling: satisfied with the draw (phrase)	Y	N	miss		Not mentioned	sure	
+T60	Gives a reason	Y	Y	hit	"They parked further away due to full parking"		sure	

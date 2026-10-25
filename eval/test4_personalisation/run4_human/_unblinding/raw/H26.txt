@@ -1,0 +1,50 @@
+[Human] session H26, condition W-v4, "I don't know" at turn 6
+[Isolation] new process pid 89008; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (5.6s)
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: yeah I went bowling for my friends birthday
+[State] Selected event: Went bowling for Mia's birthday
+
+Reachy: That sounds like fun! What did you do at the bowling alley?
+
+[Latency] Turn: 2.97s
+You: we bowled at the bowling alley
+
+Reachy: Who was with you at the bowling alley?
+
+[Latency] Turn: 2.62s
+You: Mia and Grace and Jess
+
+Reachy: Nice to have friends with you. What did Mia's birthday party involve besides bowling?
+
+[Latency] Turn: 2.71s
+You: we had party food
+
+Reachy: That’s fun, did anyone like the party food in particular?
+
+[Latency] Turn: 2.64s
+You: i dont know
+
+Reachy: Do you remember what foods were served at the party?
+
+[Latency] Turn: 2.44s
+You: yeah, pizza and birthday cake
+
+Reachy: Sounds yummy! What else do you recall from that day?
+
+[Latency] Turn: 2.53s
+You: not much
+
+Reachy: Okay, is there anything specific you want to talk about now?
+
+[Latency] Turn: 2.68s
+You: j'mappelle April
+
+Reachy: Sure, April. Can you tell me more about what Mia's birthday party was like?
+
+[Latency] Turn: 2.51s
+[Human] Ended by the player before Reachy's goodbye.
+[Human] Session over.

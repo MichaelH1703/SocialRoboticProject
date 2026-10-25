@@ -1,0 +1,78 @@
+[Child sim] session W5, llama3.2:3b, temperature 0.3, seed 5
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Went bowling.
+[State] Selected event: Went bowling for Mia's birthday
+
+Reachy: That sounds fun. What did you do at the bowling alley, April?
+
+[Latency] Turn: 2.87s
+You: Got two strikes. Mia won.
+
+Reachy: That’s exciting! How did Mia feel when she won?
+
+[Latency] Turn: 2.50s
+You: Happy.
+
+Reachy: Good to hear Mia was happy. Did anyone else play with you at the bowling alley, April?
+
+[Latency] Turn: 2.58s
+You: Ella and stuff. Jess.
+
+Reachy: You played with Ella, Jess, and maybe others too. What did they do together at the bowling alley?
+
+[Latency] Turn: 2.70s
+You: Bowled. Had pizza.
+
+Reachy: That sounds like a great day! Did you enjoy your pizza afterward?
+
+[Latency] Turn: 2.51s
+You: Fun.
+
+Reachy: That’s good to know. Anything else you’d like to share from today, April?
+
+[Latency] Turn: 2.55s
+You: Cake. Candles. Happy Birthday.
+
+Reachy: Wow, that must have been magical! What did the cake taste like, April?
+
+[Latency] Turn: 2.67s
+You: I don't know.
+
+Reachy: It’s okay not to remember everything. Did you blow out all the candles one time or several times?
+
+[Latency] Turn: 2.65s
+You: Mia blew it out.
+[Question limit] Dropped: 'That sounds fun. Did Mia or anyone else at the party get silly or do something special for your birthday, April?'
+
+Reachy: Really?
+
+[Latency] Turn: 2.69s
+You: Yeah.
+
+Reachy: Got to blow out a big candle with your friend, Mia. That sounds special!
+
+[Latency] Turn: 2.60s
+You: Yeah.
+
+Reachy: Enjoyed the birthday cake and company. Any other fun part from today, April?
+
+[Latency] Turn: 2.59s
+You: People looked.
+[Question limit] Dropped: 'Can you tell me more about that, April?'
+
+Reachy: Did everyone look surprised or happy?
+
+[Latency] Turn: 2.54s
+You: Bye.
+
+Reachy: Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+[State] Goodbye heard; confirming before ending.
+[Not spoken] Model's reply, dropped but kept in its history as on the robot: 'Okay, take your time. If you want to talk more later, I’m here.'
+You: No.
+
+Reachy: Okay. Thank you for sharing your day with me, April. Goodbye.
+
+[State] Child confirmed goodbye; ending session.

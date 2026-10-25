@@ -1,0 +1,18 @@
+# Packages for the Reachy client, dashboards and text chat (venv-client).
+# The server (test_reachy_conversation.py) uses the speech-to-speech package
+# in this repo instead: pip install -e .
+python-dotenv
+requests
+numpy
+scipy
+soundfile
+websockets
+supabase
+streamlit
+reachy-mini
+kokoro
+
+# Therapist dashboard audio transcription
+torch
+av
+nano-parakeet

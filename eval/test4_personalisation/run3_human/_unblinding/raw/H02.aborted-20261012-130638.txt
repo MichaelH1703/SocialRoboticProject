@@ -1,0 +1,35 @@
+[Human] session H02, condition W, "I don't know" at turn 9
+[Isolation] new process pid 391796; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (3.7s)
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: yeah went bowling
+[State] Selected event: Went bowling for Mia's birthday
+
+Reachy: Goes bowling sounds fun. Can you tell me who else was there?
+
+[Latency] Turn: 3.08s
+You: me, ellie, grace and jess
+
+Reachy: That's good company. What did you guys do at the bowling alley?
+
+[Latency] Turn: 2.75s
+You: we bowled
+
+Reachy: Did anyone at the bowling alley make you feel a certain way?
+
+[Latency] Turn: 2.55s
+You: wha
+
+Reachy: Were there any games or activities that surprised you or made you laugh?
+
+[Latency] Turn: 2.62s
+Traceback (most recent call last):
+  File "C:\ThesisProject\ReachyVoiceCode\eval\test4_personalisation\run3_human\play.py", line 222, in <module>
+    session_process(sys.argv[2])
+  File "C:\ThesisProject\ReachyVoiceCode\eval\test4_personalisation\run3_human\play.py", line 130, in session_process
+    line = sys.stdin.readline()
+           ^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt

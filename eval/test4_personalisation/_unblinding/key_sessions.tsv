@@ -1,0 +1,11 @@
+label	session_id	condition
+S01	B5	without
+S02	W3	with
+S03	B4	without
+S04	B1	without
+S05	W5	with
+S06	W1	with
+S07	W2	with
+S08	B2	without
+S09	B3	without
+S10	W4	with

@@ -1,0 +1,90 @@
+T21: NOT auto-labelled (labelling failed; the plan used the unlabelled fallback)
+T22: 339/386 words right (87.8%), 54 sentences
+    therapist said, labelled child: Waiting for ages.
+    therapist said, labelled child: A man with a yellow coat and a big truck.
+    therapist said, labelled child: He looked under the bonnet with a torch, because it was getting dark.
+    child said, labelled therapist: What's a bonnet?
+    therapist said, labelled child: It's the lid at the front of the car where the engine is.
+    child said, labelled therapist: Can I see your car?
+T23: 320/349 words right (91.7%), 48 sentences
+    child said, labelled therapist: She said, "Lily is at the front." Everybody heard it.
+    child said, labelled therapist: And the cake.
+    therapist said, labelled child: And you got a face cake.
+    child said, labelled therapist: Do you like the face cakes?
+    therapist said, labelled child: I've never tried one.
+T24: 468/522 words right (89.7%), 76 sentences
+    child said, labelled therapist: Not real lions.
+    therapist said, labelled child: A snail that's turned into a rock.
+    child said, labelled therapist: Do you know what a ammonite is?
+    therapist said, labelled child: I do, I've seen one at the seaside.
+    child said, labelled therapist: We had it in a room with no windows.
+    child said, labelled therapist: Have you been to that museum?
+    therapist said, labelled child: A long time ago. I remember the stone lions.
+    child said, labelled therapist: And it was so cool.
+T25: 342/391 words right (87.5%), 68 sentences
+    therapist said, labelled child: I had to feel around for my towel.
+    therapist said, labelled child: The torch was in the drawer with the batteries.
+    child said, labelled therapist: So we had to find candles.
+    child said, labelled therapist: We played I spy.
+    child said, labelled therapist: Can we play I spy?
+    therapist said, labelled child: The I spy was the best bit.
+    therapist said, labelled child: window?
+    child said, labelled therapist: Now I spy?
+    therapist said, labelled child: Now I spy. You go first.
+T26: 300/346 words right (86.7%), 60 sentences
+    child said, labelled therapist: Up to here.
+    therapist said, labelled child: Wow.
+    child said, labelled therapist: And Ava's boots it went right in the top.
+    therapist said, labelled child: Into the top of her boots.
+    child said, labelled therapist: In the snow.
+    therapist said, labelled child: He fell over on his bum.
+    child said, labelled therapist: Have you got a snowman?
+    therapist said, labelled child: Not this year.
+    child said, labelled therapist: Is that a polar bear?
+    therapist said, labelled child: Yes, that's a polar bear.
+T27: 315/344 words right (91.6%), 56 sentences
+    therapist said, labelled child: It changes colour.
+    child said, labelled therapist: Have you been to a disco?
+    therapist said, labelled child: A long time ago, when I was at school.
+    therapist said, labelled child: It was the best one ever.
+    child said, labelled therapist: And Kayla had a heart.
+T28: 160/340 words right (47.1%), 1 sentences
+    therapist said, labelled child: ok kai so what did you do on saturday
+    therapist said, labelled child: you helped your grandad what did you help him
+    therapist said, labelled child: a red car
+    therapist said, labelled child: a dent ok so how did you wash it
+    therapist said, labelled child: bubbles lovely
+    therapist said, labelled child: he sprayed you
+    therapist said, labelled child: you couldn't stop laughing did you get
+    therapist said, labelled child: who's biscuit
+    therapist said, labelled child: a sausage dog what did biscuit do
+    therapist said, labelled child: in the bucket of bubbles
+    therapist said, labelled child: like a bubble hat
+    therapist said, labelled child: it sounds like it was so fun you must have felt really proud helping your grandad
+    therapist said, labelled child: I've got a cat called pepper
+    therapist said, labelled child: your auntie's got a cat what else happened with the car
+    therapist said, labelled child: the squeegee
+    therapist said, labelled child: squeak ha and then did you
+    therapist said, labelled child: you did the wheels with the brush wow so let me say it back you helped your grandad wash his red car you had a big bucket and a yellow sponge and grandad sprayed you with the hose and you couldn't stop laughing then biscuit jumped in the bucket and got bubbles on his head you did the windows with the squeegee and the wheels with the brush
+    therapist said, labelled child: and it was so fun brilliant kai
+    therapist said, labelled child: yes let's draw biscuit
+T29: 354/380 words right (93.2%), 60 sentences
+    child said, labelled therapist: Does it hurt?
+    therapist said, labelled child: Only a tiny bit now.
+    therapist said, labelled child: What happened?
+    child said, labelled therapist: She gave me a tissue and I had to hold my nose like this. Pinch it.
+T30: 262/333 words right (78.7%), 55 sentences
+    therapist said, labelled child: I went somewhere really fancy at the weekend. I went to a big restaurant for my mum's birthday, and the waiter brought out a cake with sparklers on it.
+    child said, labelled therapist: Sparklers on a cake?
+    therapist said, labelled child: Yes, like little fireworks.
+    child said, labelled therapist: A real castle with a tower.
+    therapist said, labelled child: A real castle with a tower.
+    child said, labelled therapist: They was a bit too big.
+    therapist said, labelled child: A bit too big.
+    child said, labelled therapist: The best ever ever.
+    therapist said, labelled child: The best day ever!
+    therapist said, labelled child: Leo's four.
+    child said, labelled therapist: No, six.
+
+OVERALL, model alone: 2829/3391 words right (83.4%); child's words found 1265/1414 (89.5%); labelled child and really were 1265/1678 (75.4%)
+OVERALL, after echo rule: 2860/3391 words right (84.3%); child's words found 1262/1414 (89.3%); labelled child and really were 1262/1641 (76.9%)

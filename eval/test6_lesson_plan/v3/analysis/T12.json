@@ -1,0 +1,303 @@
+{
+  "labelled": true,
+  "speakers": "auto",
+  "auto_labels": {
+    "method": "sentences",
+    "segments": [
+      [
+        "therapist",
+        "Hi there."
+      ],
+      [
+        "therapist",
+        "Today we're going to talk about something that really happened to you."
+      ],
+      [
+        "therapist",
+        "I'll go first and then it'll be your turn."
+      ],
+      [
+        "therapist",
+        "Last night I baked bread for the first time."
+      ],
+      [
+        "therapist",
+        "The first loaf came out flat, so I tried again, and the second one was perfect."
+      ],
+      [
+        "therapist",
+        "I felt really proud."
+      ],
+      [
+        "therapist",
+        "Okay, now it's your turn."
+      ],
+      [
+        "therapist",
+        "You can choose anything from this week."
+      ],
+      [
+        "child",
+        "We got a puppy!"
+      ],
+      [
+        "therapist",
+        "A puppy!"
+      ],
+      [
+        "therapist",
+        "Tell me about that."
+      ],
+      [
+        "therapist",
+        "Who got the puppy?"
+      ],
+      [
+        "child",
+        "Me and my mum and my sister Ella."
+      ],
+      [
+        "therapist",
+        "You, your mum and your sister Ella."
+      ],
+      [
+        "therapist",
+        "Where did you go to get her?"
+      ],
+      [
+        "child",
+        "I don't know."
+      ],
+      [
+        "therapist",
+        "That's okay."
+      ],
+      [
+        "therapist",
+        "What happened when you met her?"
+      ],
+      [
+        "child",
+        "She licked my face."
+      ],
+      [
+        "child",
+        "She was really small."
+      ],
+      [
+        "therapist",
+        "She licked your face."
+      ],
+      [
+        "therapist",
+        "What did you do?"
+      ],
+      [
+        "child",
+        "I held her."
+      ],
+      [
+        "child",
+        "I was a bit nervous because she was wriggly."
+      ],
+      [
+        "therapist",
+        "You held her, and you were a bit nervous because she was wriggly."
+      ],
+      [
+        "therapist",
+        "What's her name?"
+      ],
+      [
+        "child",
+        "Pepper."
+      ],
+      [
+        "child",
+        "Because she's black and white."
+      ],
+      [
+        "therapist",
+        "Pepper, because she's black and white."
+      ],
+      [
+        "therapist",
+        "Then what happened?"
+      ],
+      [
+        "child",
+        "She sat on my knee."
+      ],
+      [
+        "child",
+        "All the way back."
+      ],
+      [
+        "therapist",
+        "She sat on your knee all the way back."
+      ],
+      [
+        "therapist",
+        "How did you feel about having a puppy?"
+      ],
+      [
+        "child",
+        "Excited."
+      ],
+      [
+        "therapist",
+        "Really excited."
+      ],
+      [
+        "child",
+        "Really excited."
+      ],
+      [
+        "therapist",
+        "That must have made you happy."
+      ],
+      [
+        "therapist",
+        "How did the day end?"
+      ],
+      [
+        "child",
+        "Pepper fell asleep in her new bed."
+      ],
+      [
+        "child",
+        "Pepper fell asleep in her new bed."
+      ],
+      [
+        "therapist",
+        "Let me say your story back to you."
+      ],
+      [
+        "therapist",
+        "You, your mum and your sister Ella got a puppy."
+      ],
+      [
+        "therapist",
+        "She licked your face, and you held her, but you were a bit nervous because she was wriggly."
+      ],
+      [
+        "therapist",
+        "You called her Pepper because she's black and white."
+      ],
+      [
+        "therapist",
+        "She sat on your knee all the way back."
+      ],
+      [
+        "therapist",
+        "You felt really excited, and at the end Pepper fell asleep in her new bed."
+      ],
+      [
+        "therapist",
+        "Did I get that right?"
+      ],
+      [
+        "child",
+        "Yeah."
+      ],
+      [
+        "therapist",
+        "Thanks for telling me your story."
+      ],
+      [
+        "therapist",
+        "You did a really great job."
+      ]
+    ],
+    "echoes_relabelled": [
+      9,
+      35
+    ]
+  },
+  "labelled_transcript": "Therapist. Hi there. Today we're going to talk about something that really happened to you. I'll go first and then it'll be your turn. Last night I baked bread for the first time. The first loaf came out flat, so I tried again, and the second one was perfect. I felt really proud. Okay, now it's your turn. You can choose anything from this week. Child. We got a puppy! Therapist. A puppy! Tell me about that. Who got the puppy? Child. Me and my mum and my sister Ella. Therapist. You, your mum and your sister Ella. Where did you go to get her? Child. I don't know. Therapist. That's okay. What happened when you met her? Child. She licked my face. She was really small. Therapist. She licked your face. What did you do? Child. I held her. I was a bit nervous because she was wriggly. Therapist. You held her, and you were a bit nervous because she was wriggly. What's her name? Child. Pepper. Because she's black and white. Therapist. Pepper, because she's black and white. Then what happened? Child. She sat on my knee. All the way back. Therapist. She sat on your knee all the way back. How did you feel about having a puppy? Child. Excited. Therapist. Really excited. Child. Really excited. Therapist. That must have made you happy. How did the day end? Child. Pepper fell asleep in her new bed. Pepper fell asleep in her new bed. Therapist. Let me say your story back to you. You, your mum and your sister Ella got a puppy. She licked your face, and you held her, but you were a bit nervous because she was wriggly. You called her Pepper because she's black and white. She sat on your knee all the way back. You felt really excited, and at the end Pepper fell asleep in her new bed. Did I get that right? Child. Yeah. Therapist. Thanks for telling me your story. You did a really great job.",
+  "facts": {
+    "child_turns": 11,
+    "mean_words_per_turn": 6.2,
+    "sequence_words": [],
+    "vague_words": [],
+    "child_text": [
+      "We got a puppy!",
+      "Me and my mum and my sister Ella.",
+      "I don't know.",
+      "She licked my face. She was really small.",
+      "I held her. I was a bit nervous because she was wriggly.",
+      "Pepper. Because she's black and white.",
+      "She sat on my knee. All the way back.",
+      "Excited.",
+      "Really excited.",
+      "Pepper fell asleep in her new bed. Pepper fell asleep in her new bed.",
+      "Yeah."
+    ],
+    "feelings": [
+      {
+        "word": "excited",
+        "child_words": "Excited.",
+        "named": true
+      },
+      {
+        "word": "nervous",
+        "child_words": "I was a bit nervous because she was wriggly.",
+        "named": true
+      }
+    ],
+    "reasons": [
+      {
+        "child_words": "because she was wriggly",
+        "linked": true,
+        "about_feeling": false
+      },
+      {
+        "child_words": "because she's black and white",
+        "linked": true,
+        "about_feeling": false
+      }
+    ],
+    "feeling_reasons": []
+  },
+  "checked": {
+    "event": "Getting a puppy",
+    "who": {
+      "given": true,
+      "child_words": "Me and my mum and my sister Ella.",
+      "rejected_claim": ""
+    },
+    "where": {
+      "given": false,
+      "child_words": "",
+      "rejected_claim": ""
+    },
+    "what_happened": {
+      "given": true,
+      "child_words": "She licked my face. She was really small. I held her. I was a bit nervous because she was wriggly. She sat on my knee. All the way back.",
+      "rejected_claim": ""
+    },
+    "ending": {
+      "given": true,
+      "child_words": "Pepper fell asleep in her new bed. Pepper fell asleep in her new bed.",
+      "rejected_claim": ""
+    }
+  },
+  "written": {
+    "summary": "The child told that they got a puppy. The child mentioned me and my mum and my sister Ella. The child said Pepper because she's black and white. The child said Pepper fell asleep in her new bed. The child said yeah.",
+    "goals": [
+      "Say where it happened.",
+      "Say why they felt that way.",
+      "Put events in order with words like 'first' and 'then'."
+    ],
+    "focus": [
+      "The child will describe the location of the event.",
+      "The child will explain their feelings about the event.",
+      "The child will sequence the events in order."
+    ],
+    "prompts": [
+      "Where did it happen?",
+      "Why did you feel that way about it?",
+      "What happened first and then what happened?"
+    ]
+  }
+}

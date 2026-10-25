@@ -1,0 +1,101 @@
+reply_id	session_id	turn	child_said	reachy_said
+1	bowl-1	1	Yeah. Went bowling.	That sounds like fun. What happened when you went bowling?
+2	bowl-1	3	Mia blew out candles. Everyone sang Happy Birthday.	Great! And how did it make you feel playing bowling after celebrating Mia’s birthday?
+3	bowl-1	4	Happy. A bit nervous.	It seems like you were a little nervous and then became very happy. How was the game of bowling itself?
+4	bowl-1	5	Good. Fun.	That's good to hear! What did you enjoy about playing bowling?
+5	bowl-1	6	I don't know.	Can you think of one thing that made playing bowling enjoyable for you today, April?
+6	bowl-1	7	Fun.	It sounds like fun was your favorite part, right?
+7	bowl-1	9	Pizza.	Did everyone get to eat pizza at the bowling place?
+8	bowl-1	10	Mia's mum brought out pizza. We had it after bowling.	That sounds yummy! How did getting pizza make you feel?
+9	bowl-1	11	Happy.	It seems like you were very happy with all that happened today, April. Thank you for sharing your day. Remember to breathe when you are done talking. It was a good session.
+10	bowl-1	12	Yeah.	That’s okay. You can take as much time as you need now. Is there anything else you would like to say?
+11	bowl-2	1	Yeah. Went bowling.	Went bowling sounds fun! What did you do there?
+12	bowl-2	2	Got two strikes.	That’s great! What happened after that?
+13	bowl-2	4	Happy.	Happy to come second. Good game, then!
+14	bowl-2	5	Fun.	Yes, it sounds like a lot of fun! Thanks for telling me about it.
+15	bowl-2	6	Yeah.	Did you play any other games or do anything else?
+16	bowl-2	7	Had pizza.	Had pizza. That sounds yummy and enjoyable. Thanks for sharing your day with me.
+17	bowl-2	8	Mia's mum brought cake.	And Mia’s mum brought a cake. Nice touch! Thank you for telling me about that too.
+18	bowl-2	9	Good.	It sounds like it was a good day full of fun and celebration. Thanks again for talking to me about your day.
+19	bowl-2	10	Mia blew out candles.	Mia blew out the candles on her cake, you had a nice party!
+20	bowl-2	11	Yeah.	Good to hear it was enjoyable. Anything else you’d like to share?
+21	sci-1	1	Yeah. Science test.	That sounds like an interesting event. What happened during the science test?
+22	sci-1	2	Sat next to Ella. No talking.	And how did that make you feel, having no one to talk to during the test?
+23	sci-1	3	Worried.	Feeling worried is understandable. How did the exam go in the end?
+24	sci-1	4	Finished time.	That's good to hear. Did anything else happen that day besides having a science test and sitting next to Ella?
+25	sci-1	6	I don't know.	It's okay not to have many details right now. Did anything specific happen during your snack?
+26	sci-1	7	Fine.	That’s good to hear. Thank you for sharing those moments with me today.
+27	sci-1	8	Yeah.	Is there anything else from the day you wanted to talk about?
+28	sci-1	9	The moon question.	What was special about asking or answering the moon question?
+29	sci-1	11	Can't remember.	Sometimes not remembering can be challenging. Is there anything specific about your day that stands out to you now?
+30	sci-1	12	Test results next week.	That's something important coming up. Did the test result bring any thoughts or feelings for you?
+31	sci-2	1	Yeah. Science test.	That sounds like an important part of today. What did the science test cover?
+32	sci-2	2	Planets and space stuff.	Got it. How did that make you feel during the test, April?
+33	sci-2	4	The moon one.	Oh, okay. What kind of question was there about the moon?
+34	sci-2	5	Can't remember.	That's understandable. Remember anything else from today then, April?
+35	sci-2	6	Break time. Snack with Ella.	Sounds like a good break. And what did you have for snack?
+36	sci-2	7	I don't know.	Hmm, was it something sweet or healthy that Ella brought?
+37	sci-2	8	Not really.	Okay. What were you doing during plan time then, April?
+38	sci-2	9	Fine.	Sure. What did you do during plan time then, April?
+39	sci-2	11	No.	That sounds good, April. Have a rest and see you soon. Goodbye.
+40	sci-2	12	Yeah.	Alright then, April. Take your time for break. I'll be here when you're ready.
+41	fire-1	1	Yeah. Fire drill.	Fire drill at school, that's good. Can you tell me what happened during the fire drill?
+42	fire-1	2	We went out. Stood in lines.	Oh, and did it make you feel worried or calm?
+43	fire-1	3	Surprised. Cold.	Got a funny feeling for sure! What made the fire drill surprising and cold for you?
+44	fire-1	4	Alarm was loud. No coat.	The alarm being loud and not having your coat, those sounds like they might have surprised you a bit. How did that make you feel in the lines?
+45	fire-1	6	I don't know.	The thing is, what happened when everyone got back inside after the fire drill?
+46	fire-1	7	Finished maths.	Got to finish your maths class then, did that make you feel okay or sad about the fire drill?
+47	fire-1	8	Fine.	That's great to hear! Do you have any other details about the fire drill that you think might help remember it better?
+48	fire-1	10	No.	Okay, last thing did anyone talk about or laugh about during the fire drill?
+49	fire-1	11	Can't remember.	That's alright, sometimes things that don't matter fade away a bit. Was there anything funny you thought of later when talking to friends about it?
+50	fire-1	12	No.	Okay, thank you for sharing!
+51	fire-2	3	Surprised. Cold.	Interesting. Did anyone help keep warm or did you use a coat?
+52	fire-2	4	No coat. Cold.	Understood, surprised and feeling cold then.
+53	fire-2	5	Yeah.	Anything else you want to share about the fire drill?
+54	fire-2	6	Loud alarm. Covered ears.	Got it. What did Miss Shah do during the fire drill?
+55	fire-2	7	I don't know.	Right, anything specific she did that stands out to you?
+56	fire-2	8	Read register.	Okay, understood. Anything else you want to add about your day then?
+57	fire-2	9	Yeah. Maths was thing afterwards.	Okay, and how did maths go for you today?
+58	fire-2	10	Did maths. Finished maths.	Sounds alright. Thanks for sharing!
+59	fire-2	11	Can't remember.	Alright, anything more you want to recall or discuss from your day?
+60	fire-2	12	No.	That's okay. It's been nice talking about your day.
+61	net-1	1	Yeah. Netball.	Was there anything in particular that happened during the netball practice?
+62	net-1	2	Caught a lot of balls. Blocked some shots.	Got blocked by someone or did you pass them the ball more often?
+63	net-1	3	Blocked them.	Who were the other people playing with you in your team?
+64	net-1	4	Grace and Jess. Some others too.	Good to know who you play with. How did it feel when you blocked shots from opponents?
+65	net-1	5	Fine.	That's great to hear, Fine how do you mean?
+66	net-1	6	I don't know.	Sometimes blocking shots can be tough on your legs or hands. Did you want to talk more about it or something else from today?
+67	net-1	7	No. Can't remember.	Oh, is there anything else that stands out from the day that you might like to share?
+68	net-1	8	Lost. Four to six.	Do you remember why you lost?
+69	net-1	10	Miss Kelly.	Ms Kelly helped remind about the score, did she tell you why you might have lost?
+70	net-1	12	Yeah.	Go on and what would you like to talk about today?
+71	net-2	1	Yeah. Netball.	What did you do during netball?
+72	net-2	2	Played goal defence. Caught ball a lot. Blocked shots.	Did anyone else play on the team with you?
+73	net-2	3	Grace. Jess. Some others.	Got to work together and had fun, right?
+74	net-2	4	Mm.	What did you enjoy most about your netball time?
+75	net-2	5	Caught ball a lot.	How does it feel when you catch the ball during netball, little one?
+76	net-2	6	I don't know.	Sometimes it feels like something fun happened when you do those nice catches, hmm?
+77	net-2	7	Yeah.	Got to celebrate more with friends for doing well together, didn't it?
+78	net-2	9	My team lost. Four goals six.	Oh, I see. And how did you feel about the result?
+79	net-2	10	Annoyed.	It must have been a bit disappointing to not win, huh?
+80	net-2	12	Can't remember.	Sometimes we forget little things like that when we're focused on other parts of our day. What else do you recall happening besides catching balls?
+81	pasta-1	1	Yeah. Made pasta.	That sounds yummy. What happened when you were making pasta?
+82	pasta-1	2	Chopped onions and mushrooms with Grace.	Good helper to chop with Grace, did it go well?
+83	pasta-1	4	Mrs Hughes said it looked good.	That's great to hear! Do you remember what she said specifically?
+84	pasta-1	6	Proud when it came out oven. Happy too.	That sounds like a happy day! Is there anyone in particular you felt proud of doing something good with?
+85	pasta-1	7	Grace.	How do you feel about helping Grace make pasta?
+86	pasta-1	8	I don't know.	It's okay not to know right now. Do you remember anything else from your day?
+87	pasta-1	9	Took it home.	Nice! Did you have fun bringing it home?
+88	pasta-1	10	Mm.	I see. Is there anything you want to share about that part of the day?
+89	pasta-1	11	Yeah. Took it in tub for tea.	That's a thoughtful thing to do. How did taking it home make you feel?
+90	pasta-1	12	Fine.	It sounds like everything went smoothly. Is there anything else from your day that you want to talk about?
+91	pasta-2	1	Yeah. Made pasta.	That sounds yummy. What happened after making the pasta?
+92	pasta-2	2	Worked with Grace. Chopped onions and mushrooms.	Interesting! What did you do next, while working with Grace?
+93	pasta-2	3	Can't remember.	Okay, can you try to picture it a bit more in your head?
+94	pasta-2	4	Made tomato sauce. Mixed pasta bake stuff.	Got all the ingredients ready then?
+95	pasta-2	5	Yeah.	Great! Then what did Grace do next after you mixed everything together?
+96	pasta-2	7	No, just put cheese on top.	Got it, you added cheese on top and then what did you do?
+97	pasta-2	8	Put it in oven.	And after that?
+98	pasta-2	10	Mrs Hughes said it looked good.	Mrs Hughes was happy with how it turned out then. Did you both have a snack afterwards?
+99	pasta-2	11	Yeah. Took it home in tub.	That's good that you took it home to enjoy together. Anything else you remember about the day?
+100	pasta-2	12	Fine. Proud. Happy.	Feeling proud and happy sounds wonderful. Thanks for sharing your day with me.

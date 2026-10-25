@@ -1,0 +1,273 @@
+{
+  "labelled": true,
+  "speakers": "auto",
+  "auto_labels": {
+    "sentences": [
+      [
+        "therapist",
+        "Morning, Reece."
+      ],
+      [
+        "therapist",
+        "Anything to report?"
+      ],
+      [
+        "child",
+        "The canteen."
+      ],
+      [
+        "therapist",
+        "What happened in the canteen?"
+      ],
+      [
+        "child",
+        "They changed the queue."
+      ],
+      [
+        "therapist",
+        "Where did the queue used to start?"
+      ],
+      [
+        "child",
+        "By the drinks fridge."
+      ],
+      [
+        "therapist",
+        "And where was it moved to?"
+      ],
+      [
+        "child",
+        "The other side of the serving hatch."
+      ],
+      [
+        "therapist",
+        "Who was with you?"
+      ],
+      [
+        "child",
+        "Alfie and Ben."
+      ],
+      [
+        "therapist",
+        "What happened when you got there?"
+      ],
+      [
+        "child",
+        "We stood in the old place."
+      ],
+      [
+        "child",
+        "Then a dinner lady told us to move."
+      ],
+      [
+        "therapist",
+        "What did you do?"
+      ],
+      [
+        "child",
+        "Went round the tables."
+      ],
+      [
+        "child",
+        "Everyone else was going the other way."
+      ],
+      [
+        "therapist",
+        "How was that?"
+      ],
+      [
+        "child",
+        "I couldn't get through."
+      ],
+      [
+        "child",
+        "People had trays and bags and the floor was sticky."
+      ],
+      [
+        "therapist",
+        "Did you manage to get your lunch?"
+      ],
+      [
+        "child",
+        "Eventually."
+      ],
+      [
+        "child",
+        "I had pasta."
+      ],
+      [
+        "therapist",
+        "What happened with Alfie and Ben?"
+      ],
+      [
+        "child",
+        "They were already at a table when I got there."
+      ],
+      [
+        "therapist",
+        "Did you sit with them?"
+      ],
+      [
+        "child",
+        "Yes."
+      ],
+      [
+        "therapist",
+        "How did you feel about the queue changing?"
+      ],
+      [
+        "child",
+        "I hate it when things move and no one tells us."
+      ],
+      [
+        "therapist",
+        "That must have made you anxious."
+      ],
+      [
+        "child",
+        "I don't know if it was anxious."
+      ],
+      [
+        "child",
+        "I just couldn't work out where to go."
+      ],
+      [
+        "therapist",
+        "Thanks for explaining the difference."
+      ],
+      [
+        "therapist",
+        "What happened after lunch?"
+      ],
+      [
+        "child",
+        "We went to form."
+      ],
+      [
+        "therapist",
+        "Was the queue back to normal the next day?"
+      ],
+      [
+        "child",
+        "I don't know."
+      ],
+      [
+        "child",
+        "I had packed lunch."
+      ],
+      [
+        "therapist",
+        "Let's check the story."
+      ],
+      [
+        "therapist",
+        "You arrived at the canteen with Alfie and Ben, stood where the queue used to be, and were told to move it to the other side of the serving hatch."
+      ],
+      [
+        "therapist",
+        "You worked your way through the tables, got pasta and sat with your friends before going to form."
+      ],
+      [
+        "child",
+        "Yeah."
+      ],
+      [
+        "therapist",
+        "Anything else?"
+      ],
+      [
+        "child",
+        "They should put a sign up."
+      ],
+      [
+        "therapist",
+        "That's a clear suggestion."
+      ],
+      [
+        "therapist",
+        "Thank you, Reece."
+      ],
+      [
+        "therapist",
+        "Bye."
+      ]
+    ],
+    "echoes_relabelled": []
+  },
+  "labelled_transcript": "Therapist. Morning, Reece. Anything to report? Child. The canteen. Therapist. What happened in the canteen? Child. They changed the queue. Therapist. Where did the queue used to start? Child. By the drinks fridge. Therapist. And where was it moved to? Child. The other side of the serving hatch. Therapist. Who was with you? Child. Alfie and Ben. Therapist. What happened when you got there? Child. We stood in the old place. Then a dinner lady told us to move. Therapist. What did you do? Child. Went round the tables. Everyone else was going the other way. Therapist. How was that? Child. I couldn't get through. People had trays and bags and the floor was sticky. Therapist. Did you manage to get your lunch? Child. Eventually. I had pasta. Therapist. What happened with Alfie and Ben? Child. They were already at a table when I got there. Therapist. Did you sit with them? Child. Yes. Therapist. How did you feel about the queue changing? Child. I hate it when things move and no one tells us. Therapist. That must have made you anxious. Child. I don't know if it was anxious. I just couldn't work out where to go. Therapist. Thanks for explaining the difference. What happened after lunch? Child. We went to form. Therapist. Was the queue back to normal the next day? Child. I don't know. I had packed lunch. Therapist. Let's check the story. You arrived at the canteen with Alfie and Ben, stood where the queue used to be, and were told to move it to the other side of the serving hatch. You worked your way through the tables, got pasta and sat with your friends before going to form. Child. Yeah. Therapist. Anything else? Child. They should put a sign up. Therapist. That's a clear suggestion. Thank you, Reece. Bye.",
+  "facts": {
+    "child_turns": 17,
+    "mean_words_per_turn": 6.9,
+    "reasons": [],
+    "sequence_words": [
+      "then"
+    ],
+    "vague_words": [
+      "things"
+    ],
+    "feelings": [],
+    "feeling_reasons": [],
+    "child_text": [
+      "The canteen.",
+      "They changed the queue.",
+      "By the drinks fridge.",
+      "The other side of the serving hatch.",
+      "Alfie and Ben.",
+      "We stood in the old place. Then a dinner lady told us to move.",
+      "Went round the tables. Everyone else was going the other way.",
+      "I couldn't get through. People had trays and bags and the floor was sticky.",
+      "Eventually. I had pasta.",
+      "They were already at a table when I got there.",
+      "Yes.",
+      "I hate it when things move and no one tells us.",
+      "I don't know if it was anxious. I just couldn't work out where to go.",
+      "We went to form.",
+      "I don't know. I had packed lunch.",
+      "Yeah.",
+      "They should put a sign up."
+    ]
+  },
+  "checked": {
+    "event": "Canteen queue change",
+    "who": {
+      "given": true,
+      "child_words": "Alfie and Ben.",
+      "rejected_claim": ""
+    },
+    "where": {
+      "given": true,
+      "child_words": "The canteen.",
+      "rejected_claim": ""
+    },
+    "what_happened": {
+      "given": true,
+      "child_words": "We stood in the old place. Then a dinner lady told us to move. Went round the tables. Everyone else was going the other way. I couldn't get through. People had trays and bags and the floor was sticky. Eventually. I had pasta. They were already at a table when I got there. We went to form.",
+      "rejected_claim": ""
+    },
+    "ending": {
+      "given": false,
+      "child_words": "",
+      "rejected_claim": "They should put a sign up. | They should put a sign up."
+    }
+  },
+  "written": {
+    "summary": "The child told about the canteen queue change. The child said they stood in the old place then a dinner lady told them to move. The child said they went round the tables but couldn't get through because people had trays and bags and the floor was sticky. The child said they had pasta and they were already at a table when they got there. The child said they had packed lunch and they should put a sign up.",
+    "goals": [
+      "Say how it ended.",
+      "Name how they felt.",
+      "Give a reason, using 'because' or 'so'.",
+      "Use the exact word instead of vague words like 'stuff' or 'thing'."
+    ],
+    "focus": [
+      "The child will say how the event ended.",
+      "The child will name how they felt during the event.",
+      "The child will give a reason using 'because' or 'so'.",
+      "The child will use the exact word instead of vague words."
+    ],
+    "prompts": [
+      "How did it end?",
+      "How did you feel about that?",
+      "What was the exact word for that?"
+    ]
+  }
+}

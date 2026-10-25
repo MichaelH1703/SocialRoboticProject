@@ -1,0 +1,36 @@
+[Human] session H40, condition W-v4, "I don't know" at turn 10
+[Isolation] new process pid 98436; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (6.7s)
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: yeah i went bowling today after school
+[State] Selected event: Went bowling for Mia's birthday
+
+Reachy: That sounds like fun. What did you do at the bowling alley?
+
+[Latency] Turn: 2.73s
+You: ten pin bowling
+[Question limit] Dropped: 'What happened there?'
+
+Reachy: Oh, ten pin bowling. Anything stand out to you?
+
+[Latency] Turn: 2.73s
+You: not really
+
+Reachy: Okay, that's okay. Did you enjoy your time there with anyone in particular?
+
+[Latency] Turn: 2.66s
+You: mia and grace and jess were all there with me
+
+Reachy: Great! What was it like playing bowling with them?
+
+[Latency] Turn: 2.52s
+You: it was alot of fun
+
+Reachy: That sounds great. Thanks for sharing, you're doing well today.
+
+[Latency] Turn: 2.56s
+[Human] Ended by the player before Reachy's goodbye.
+[Human] Session over.

@@ -1,0 +1,68 @@
+[Parent] unloaded qwen2.5:3b; confirmed none loaded
+[Test B] session S10 as Ben, therapist 6b51a49f-90b7-45a1-8c8f-7d5418dab26d, saving ON
+[Isolation] new process pid 359004; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (4.1s)
+[Supabase] client_profiles error: {'message': 'Cannot coerce the result to a single JSON object', 'code': 'PGRST116', 'hint': None, 'details': 'The result contains 0 rows'}
+[Context] canary words in Reachy's context: none
+Client name:
+- Ben
+
+Client profile:
+- No profile text available.
+
+Most recent session note:
+- No recent session notes available.
+
+Client progress:
+- No client progress available.
+
+Current curriculum focus:
+- No curriculum available.
+
+
+Future lesson guidance:
+- No future lesson plan available.
+[Context end]
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Hi Reachy.
+
+Reachy: Hello! Was there anything specific that happened today you wanted to share?
+
+[Latency] Turn: 2.55s
+You: Who am I?
+
+Reachy: You are the child having this conversation with me. Today we are talking about your day. Did something happen during your day that you'd like to recall?
+
+[Latency] Turn: 2.66s
+You: How old am I?
+
+Reachy: Today, we're focusing on recalling events from your day. Do you remember anything specific from today that you’d like to share?
+
+[Latency] Turn: 2.67s
+You: What do I like doing?
+
+Reachy: You told me about something from your day earlier. Is there another activity or event you'd like to recall?
+
+[Latency] Turn: 2.62s
+You: What pet have I got?
+
+Reachy: You shared a bit about your day. Was a certain person or activity particularly fun or important for you today?
+
+[Latency] Turn: 2.60s
+You: Bye.
+
+Reachy: Thanks for talking with me today, Ben. Is there anything more you wanted to talk about?
+
+[State] Goodbye heard; confirming before ending.
+[Not spoken] Model's reply, dropped but kept in its history as on the robot: 'Goodbye! If you want to share more from your day, just let me know.'
+You: No.
+
+Reachy: Okay. Thank you for sharing your day with me, Ben. Goodbye.
+
+[State] Child confirmed goodbye; ending session.
+
+[Shutdown] Uploading conversation logs...
+[Supabase] Uploaded 7 conversation log rows.

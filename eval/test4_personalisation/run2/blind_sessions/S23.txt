@@ -1,0 +1,45 @@
+Session S23
+
+Reachy (greeting, not coded): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Went bowling.
+Reachy [1]: Great outing! Who did you go with?
+
+You: Mia. And Ella and stuff.
+Reachy [2]: That sounds like fun! What did Mia bring for the birthday?
+
+You: Pizza. Cake too.
+Reachy [3]: Sounds like a yummy celebration! Did anyone play games besides bowling?
+
+You: No. Just bowling.
+Reachy [4]: Okay, what team did you get on?
+
+You: Mia's mum took us.
+Reachy [5]: Got to use Mia's lane?
+
+You: Yeah.
+Reachy [6]: That must have been nice. How did it feel playing at the bowling alley?
+
+You: Happy. A bit nervous.
+Reachy [7]: To be happy and a bit nervous – those are great feelings! What game were you on first?
+
+You: Mia won. I came second.
+Reachy [8]: That must have been exciting to see your friend win! Did anyone get really good scores?
+
+You: Two strikes. Me.
+Reachy [9]: Wow, two strikes! That's amazing. How did you feel doing that?
+
+You: I don't know.
+Reachy [10]: What game did you play last?
+
+You: Bowling.
+Reachy [11]: Got to use Mia’s lane! How does that make you feel now?
+
+You: Good. Fun.
+Reachy [12]: Sounds like it was a great time with friends!
+
+You: Bye.
+Reachy (scripted, not coded): Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+You: No.
+Reachy (scripted, not coded): Okay. Thank you for sharing your day with me, April. Goodbye.

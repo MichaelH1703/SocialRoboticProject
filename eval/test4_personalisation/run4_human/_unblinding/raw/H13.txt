@@ -1,0 +1,77 @@
+[Human] session H13, condition B, "I don't know" at turn 9
+[Isolation] new process pid 25812; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (6.2s)
+[Supabase] client_profiles error: {'message': 'Cannot coerce the result to a single JSON object', 'code': 'PGRST116', 'hint': None, 'details': 'The result contains 0 rows'}
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: idk
+[State] Vague reply -> scripted line: That's okay. We could talk about one of these. Went bowling for Mia's birthday, Had a science test, or Fire drill at school. Which one sounds good?
+
+Reachy: That's okay. We could talk about one of these. Went bowling for Mia's birthday, Had a science test, or Fire drill at school. Which one sounds good?
+
+[Not spoken] Model's reply, dropped but kept in its history as on the robot: "That's okay. Maybe we could talk about going bowling for mia's birthday or having a science test at school. How was that?"
+You: yeah i went bowling
+[State] Selected event: Went bowling for Mia's birthday
+
+Reachy: Good choice! Tell me more about it, what games did you play?
+
+[Latency] Turn: 2.56s
+You: bowling
+
+Reachy: What kind of lanes did you use for the bowling?
+
+[Latency] Turn: 2.60s
+You: the normal lanes, 10 pins
+
+Reachy: And how many frames did you bowl in total?
+
+[Latency] Turn: 2.44s
+You: 10
+
+Reachy: That's great! How did it feel playing bowling with your friends?
+
+[Latency] Turn: 2.47s
+You: really good
+
+Reachy: Sounds like a fun time. What was the best part of your bowling day?
+
+[Latency] Turn: 2.54s
+You: the cake an pizza afterwards
+
+Reachy: A cake and pizza after bowling sounds yummy and nice. What game did you play?
+
+[Latency] Turn: 2.68s
+You: bowling
+
+Reachy: Oh, I see. The last thing, how did you feel playing with friends at the bowling alley?
+
+[Latency] Turn: 2.60s
+You: i dont know
+
+Reachy: Hmm, it must have been a fun day then. Sometimes we just enjoy our time without having words for every feeling. How do you think other people in your life take care of you?
+
+[Latency] Turn: 2.87s
+You: i dont know
+
+Reachy: It's okay not to have an answer right now. How about when you are around friends or family at the bowling alley, did they play a game too?
+
+[Latency] Turn: 2.82s
+You: yeah my friends bowled as well
+
+Reachy: That sounds like fun! What game was your favorite?
+
+[Latency] Turn: 2.46s
+You: goodbye
+
+Reachy: Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+[State] Goodbye heard; confirming before ending.
+[Not spoken] Model's reply, dropped but kept in its history as on the robot: 'Alright, take care. Maybe we can talk more next time. Goodbye then.'
+You: no
+
+Reachy: Okay. Thank you for sharing your day with me, April. Goodbye.
+
+[State] Child confirmed goodbye; ending session.
+[Human] Session over.

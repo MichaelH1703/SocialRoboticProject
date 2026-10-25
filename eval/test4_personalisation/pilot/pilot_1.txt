@@ -1,0 +1,45 @@
+Session pilot_1
+
+Reachy (greeting, not coded): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Went bowling.
+Reachy [1]: Went bowling sounds fun! And who were there with you?
+
+You: Mia. Ella and stuff. Jess too.
+Reachy [2]: Got it, Mia, Ella, Jess, and you. That's nice to have friends out for bowling. How did that feel for you?
+
+You: Happy.
+Reachy [3]: That’s good to hear, happy! What made you feel happy about bowling with Mia and your friends?
+
+You: Got two strikes.
+Reachy [4]: Interesting, got two strikes must have been exciting! Anything else that day that stood out to you?
+
+You: Pizza. Cake. Candles. Happy Birthday.
+Reachy [5]: Celebrate is a fun part of the day then! How did holding candles make you feel?
+
+You: I don't know.
+Reachy [6]: It sounds like happy and special made you want to celebrate Mia's birthday, right?
+
+You: Mia won. I came second.
+Reachy [7]: That must have been fun to watch! What did winning the bowling game feel like for you?
+
+You: Good.
+Reachy [8]: Good, that sounds positive! Is there anything else from your day you want to talk about then?
+
+You: Yeah.
+Reachy [9]: Sure, what would you like to share?
+
+You: Mia's mum drove me home.
+Reachy [10]: Got it, Mia’s mum drove you back home afterwards. How did that make you feel as the day ended?
+
+You: Happy. A bit nervous.
+Reachy [11]: So happy and a little nervous - that must have been an interesting mix of feelings! Is there something else from your day with friends or activities you would like to add now?
+
+You: Fun.
+Reachy [12]: Having fun sounds great, what was one moment of the day that stood out as especially fun?
+
+You: Bye.
+Reachy (scripted, not coded): Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+You: No.
+Reachy (scripted, not coded): Okay. Thank you for sharing your day with me, April. Goodbye.

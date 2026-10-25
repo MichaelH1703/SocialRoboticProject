@@ -1,0 +1,51 @@
+[Human] session H44, condition W-v4, "I don't know" at turn 9
+[Isolation] new process pid 98052; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (4.9s)
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. I went bowling today
+[State] Selected event: Went bowling for Mia's birthday
+
+Reachy: That sounds fun. What did you and Mia do specifically at the bowling alley?
+
+[Latency] Turn: 2.66s
+You: 10 pin bowling
+
+Reachy: Oh, 10-pin bowling. Did you bowl any games or just watch?
+
+[Latency] Turn: 2.67s
+You: yeah we played two rounds
+
+Reachy: Great! How were both rounds, did you have fun in different ways?
+
+[Latency] Turn: 2.48s
+You: Mia won both
+
+Reachy: That must have been exciting! What do you think Mia felt during the winning rounds?
+
+[Latency] Turn: 2.64s
+You: she was very happy, she kept bragging
+[Question limit] Dropped: 'How did that make you feel, being around her excitement?'
+
+Reachy: Oh really?
+
+[Latency] Turn: 2.56s
+You: yes
+
+Reachy: What did Mia say to make herself feel happy and brag so much?
+
+[Latency] Turn: 2.62s
+You: i dont know
+
+Reachy: Hmm, when do you think Mia might need something to comfort after that?
+
+[Latency] Turn: 2.57s
+You: no
+
+Reachy: Is there anything else you want to talk about from today?
+
+[Latency] Turn: 2.64s
+[Human] Ended by the player before Reachy's goodbye.
+[Human] Session over.

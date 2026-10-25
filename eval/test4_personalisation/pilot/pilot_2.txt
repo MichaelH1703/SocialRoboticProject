@@ -1,0 +1,45 @@
+Session pilot_2
+
+Reachy (greeting, not coded): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Went bowling.
+Reachy [1]: Where did you go bowling?
+
+You: Bowling place in town.
+Reachy [2]: You went bowling at the bowling place in town. How many people were there?
+
+You: Mia and four others.
+Reachy [3]: You had Mia and four other friends bowling together. What did you do at the bowling place?
+
+You: Got two strikes.
+Reachy [4]: You got two strikes while bowling, didn't you?
+
+You: Yeah.
+Reachy [5]: That sounds fun! How did it make you feel going bowling with Mia and your friends?
+
+You: I don't know.
+Reachy [6]: It must have felt pretty good to bowl well with friends, yes?
+
+You: Good.
+Reachy [7]: Bowl well made it sound exciting, right?
+
+You: No.
+Reachy [8]: Not so much today when bowling. How was that feeling?
+
+You: Happy.
+Reachy [9]: Happy sounds good too! What did you do after you got those two strikes?
+
+You: Had pizza.
+Reachy [10]: After your bowling score, what else did you have besides pizza?
+
+You: Cake with candles.
+Reachy [11]: And then you had cake and perhaps some candles on it for a special moment. How was that experience?
+
+You: Happy.
+Reachy [12]: It sounds like having happy moments made it all even better!
+
+You: Bye.
+Reachy (scripted, not coded): Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+You: No.
+Reachy (scripted, not coded): Okay. Thank you for sharing your day with me, April. Goodbye.

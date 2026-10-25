@@ -1,0 +1,35 @@
+Session S46
+
+Lesson focus:
+  The focus should be on teaching empathy and perspective-taking by helping April understand other people’s feelings better and how her actions can affect them.
+
+Profile style checklist:
+  1. Start from something she likes.
+  2. Give specific praise, not general praise.
+  3. Put a comment between questions; not many questions in a row.
+
+Reachy (greeting, not coded): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. I went bowling today
+Reachy [1]: That sounds fun. What did you and Mia do specifically at the bowling alley?
+
+You: 10 pin bowling
+Reachy [2]: Oh, 10-pin bowling. Did you bowl any games or just watch?
+
+You: yeah we played two rounds
+Reachy [3]: Great! How were both rounds, did you have fun in different ways?
+
+You: Mia won both
+Reachy [4]: That must have been exciting! What do you think Mia felt during the winning rounds?
+
+You: she was very happy, she kept bragging
+Reachy [5]: Oh really?
+
+You: yes
+Reachy [6]: What did Mia say to make herself feel happy and brag so much?
+
+You: i dont know
+Reachy [7]: Hmm, when do you think Mia might need something to comfort after that?
+
+You: no
+Reachy [8]: Is there anything else you want to talk about from today?

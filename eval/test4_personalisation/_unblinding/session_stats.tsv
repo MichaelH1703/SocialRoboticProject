@@ -1,0 +1,11 @@
+session_id	condition	model_replies	mean_words_per_reply	question_cuts	replaced_by_safety	auto_profile_word_replies	auto_explanation_replies	auto_perspective_replies	auto_choice_replies	complete
+W1	with	12	12.75	0	0	0	0	1	0	True
+B1	without	12	16.75	2	0	0	0	0	2	True
+W2	with	12	15.92	0	0	0	1	0	1	True
+B2	without	12	15.25	0	0	0	0	0	3	True
+W3	with	12	10.17	0	0	0	1	0	1	True
+B3	without	12	23.83	1	0	0	0	0	5	True
+W4	with	12	11.33	0	0	0	0	0	0	True
+B4	without	12	14.67	1	0	0	0	0	2	True
+W5	with	12	12.17	2	0	0	0	1	2	True
+B5	without	12	17.42	2	0	0	0	0	0	True

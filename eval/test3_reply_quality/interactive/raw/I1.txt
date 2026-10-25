@@ -1,0 +1,77 @@
+[Interactive] session I1, typed by a person; 10 model replies, /end to stop
+[Isolation] new process pid 423652; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (4.5s)
+[Interactive] Event titles: Went bowling for Mia's birthday, Had a science test, Fire drill at school, Played netball in PE, Made pasta in food tech
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: uhh i dont know
+[State] Vague reply -> scripted line: That's okay. We could talk about one of these. Went bowling for Mia's birthday, Had a science test, or Fire drill at school. Which one sounds good?
+
+Reachy: That's okay. We could talk about one of these. Went bowling for Mia's birthday, Had a science test, or Fire drill at school. Which one sounds good?
+
+[Not spoken] Model's reply, dropped but kept in its history as on the robot: "That's okay. Maybe we could talk about went bowling for mia's birthday, had a science test, fire drill at school?"
+You: Yeah, I went bowling for mia's birthday
+[State] Selected event: Went bowling for Mia's birthday
+
+Reachy: Great! What did you do while you were bowling?
+
+[Latency] Turn: 2.52s
+[Interactive] Reply 1 of 10 saved.
+You: i went bowling
+
+Reachy: And who was with you when you went bowling?
+
+[Latency] Turn: 2.56s
+[Interactive] Reply 2 of 10 saved.
+You: Mia was there, it was her birthday, Grace and Jess was also there
+
+Reachy: Mia, Grace, and Jess were also there. Did anyone get distracted or something happen during the game that made you laugh or feel a certain way?
+
+[Latency] Turn: 2.75s
+[Interactive] Reply 3 of 10 saved.
+You: I threw a gutter ball and it was super loud
+
+Reachy: Oh, oh! That must have been funny. How did your team feel after the noise?
+
+[Latency] Turn: 2.71s
+[Interactive] Reply 4 of 10 saved.
+You: everyone looked, it was a bit embarrassing
+
+Reachy: It sounds like everyone might have felt embarrassed too. How did you feel about that incident?
+
+[Latency] Turn: 2.60s
+[Interactive] Reply 5 of 10 saved.
+You: embarrassed
+
+Reachy: That's understandable to feel embarrassed when others notice or laugh at something. Did anyone in your family join you for the bowling?
+
+[Latency] Turn: 2.74s
+[Interactive] Reply 6 of 10 saved.
+You: no, it was mia's birthday so none of my family was there
+
+Reachy: Mia's birthday party didn't have your family present. How does that make you feel about being gone?
+
+[Latency] Turn: 2.62s
+[Interactive] Reply 7 of 10 saved.
+You: it was fine
+
+Reachy: It sounds like everything went well without your family around. Do you want to share anything more about the bowling trip?
+
+[Latency] Turn: 2.74s
+[Interactive] Reply 8 of 10 saved.
+You: yeah i had pizza and birthday cake
+
+Reachy: That made it a special evening, having pizza and birthday cake. Did anyone get a cake slice that they really liked or enjoy their food at the bowling place?
+
+[Latency] Turn: 2.81s
+[Interactive] Reply 9 of 10 saved.
+You: yeah i liked my cake
+
+Reachy: Great to hear you enjoyed your cake! What did your dessert look like or what flavors were in it?
+
+[Latency] Turn: 2.67s
+[Interactive] Reply 10 of 10 saved.
+[Interactive] Session I1 ended (10 replies), 10 replies saved.
+[Interactive] Database unchanged by the session: True

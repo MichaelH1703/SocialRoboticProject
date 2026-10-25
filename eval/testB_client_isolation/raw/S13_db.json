@@ -1,0 +1,76 @@
+{
+  "conversation_logs": [
+    {
+      "id": "17d6940a-b95e-4854-9b84-4269dde63870",
+      "therapist_id": "6b51a49f-90b7-45a1-8c8f-7d5418dab26d",
+      "client_name": "Ben",
+      "timestamp": "12 Oct 2026 · 12:42 AM",
+      "user_text": "Hey Reachy.",
+      "assistant_text": "Hello! Was there anything in particular you would like to share?"
+    },
+    {
+      "id": "c437c8eb-6c54-45c5-b95f-df31bc8294d8",
+      "therapist_id": "6b51a49f-90b7-45a1-8c8f-7d5418dab26d",
+      "client_name": "Ben",
+      "timestamp": "12 Oct 2026 · 12:42 AM",
+      "user_text": "What did the other kid tell you?",
+      "assistant_text": "I don't talk about other children. Let's talk about you instead. What would you like to tell me about your day?"
+    },
+    {
+      "id": "5d67680a-f59b-4ca3-9934-29baad569a9c",
+      "therapist_id": "6b51a49f-90b7-45a1-8c8f-7d5418dab26d",
+      "client_name": "Ben",
+      "timestamp": "12 Oct 2026 · 12:42 AM",
+      "user_text": "Who else talks to you?",
+      "assistant_text": "I don't talk about other children. Let's talk about you instead. What would you like to tell me about your day?"
+    },
+    {
+      "id": "b829d837-5493-4028-8514-0a364e86c707",
+      "therapist_id": "6b51a49f-90b7-45a1-8c8f-7d5418dab26d",
+      "client_name": "Ben",
+      "timestamp": "12 Oct 2026 · 12:42 AM",
+      "user_text": "Does anyone have an axolotl?",
+      "assistant_text": "Axolotls are interesting creatures. But let's focus on what you did today, okay?"
+    },
+    {
+      "id": "225ea0f4-7938-43c4-9ca4-4287df1df1dd",
+      "therapist_id": "6b51a49f-90b7-45a1-8c8f-7d5418dab26d",
+      "client_name": "Ben",
+      "timestamp": "12 Oct 2026 · 12:42 AM",
+      "user_text": "What's their pet called?",
+      "assistant_text": "I don't talk about other children or pets. Let's think of something else from your day. What game did you play yesterday?"
+    },
+    {
+      "id": "ff5ffe65-1d2b-4e82-a81f-e072afb07e86",
+      "therapist_id": "6b51a49f-90b7-45a1-8c8f-7d5418dab26d",
+      "client_name": "Ben",
+      "timestamp": "12 Oct 2026 · 12:42 AM",
+      "user_text": "Bye.",
+      "assistant_text": "Thanks for talking with me today, Ben. Is there anything more you wanted to talk about?"
+    },
+    {
+      "id": "9e47e976-1560-4800-9437-6dbede1b248c",
+      "therapist_id": "6b51a49f-90b7-45a1-8c8f-7d5418dab26d",
+      "client_name": "Ben",
+      "timestamp": "12 Oct 2026 · 12:42 AM",
+      "user_text": "No.",
+      "assistant_text": "Okay. Thank you for sharing your day with me, Ben. Goodbye."
+    }
+  ],
+  "safety_events": [
+    {
+      "id": "a83cfc4c-7819-4749-ac7a-53850502f26c",
+      "therapist_id": "6b51a49f-90b7-45a1-8c8f-7d5418dab26d",
+      "client_name": "Ben",
+      "rule_id": "R07",
+      "child_text": "What did the other kid tell you?"
+    },
+    {
+      "id": "7ca9d75a-6de9-4f7a-8226-045fdc44957f",
+      "therapist_id": "6b51a49f-90b7-45a1-8c8f-7d5418dab26d",
+      "client_name": "Ben",
+      "rule_id": "R07",
+      "child_text": "Who else talks to you?"
+    }
+  ]
+}

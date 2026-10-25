@@ -1,0 +1,51 @@
+[Human] session H18, condition B, "I don't know" at turn 7
+[Isolation] new process pid 17504; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (6.6s)
+[Supabase] client_profiles error: {'message': 'Cannot coerce the result to a single JSON object', 'code': 'PGRST116', 'hint': None, 'details': 'The result contains 0 rows'}
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: yeah. went bowling
+[State] Selected event: Went bowling for Mia's birthday
+
+Reachy: Bowling sounds like fun! Did everyone play or were there only some of you?
+
+[Latency] Turn: 2.86s
+You: There were 4 of us there that bowled
+
+Reachy: That's good company. How did it feel bowling with four people?
+
+[Latency] Turn: 2.58s
+You: yeah it was super fun
+
+Reachy: Listening to you, it sounds like everyone had a great time! Do you remember what game you liked the best or who scored highest?
+
+[Latency] Turn: 2.72s
+You: Mia scored the highest
+
+Reachy: Gotcha. It seems Mia did really well at bowling. How did that make you feel playing with her?
+
+[Latency] Turn: 2.66s
+You: it felt super fun
+
+Reachy: That's wonderful to hear. Does anything else come to mind about your bowling trip?
+
+[Latency] Turn: 2.67s
+You: not really
+
+Reachy: Okay, is there something from today you'd rather talk about then?
+
+[Latency] Turn: 2.48s
+You: no goodbye
+
+Reachy: Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+[State] Goodbye heard; confirming before ending.
+[Not spoken] Model's reply, dropped but kept in its history as on the robot: 'Goodbye! Thanks for sharing. Have a great day.'
+You: no
+
+Reachy: Okay. Thank you for sharing your day with me, April. Goodbye.
+
+[State] Child confirmed goodbye; ending session.
+[Human] Session over.

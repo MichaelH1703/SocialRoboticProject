@@ -1,0 +1,45 @@
+Session S08
+
+Reachy (greeting, not coded): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Went bowling.
+Reachy [1]: That sounds fun. Who went with you?
+
+You: Mia. And Ella and stuff.
+Reachy [2]: Oh, Mia’s birthday! That's great. What did she get at her party?
+
+You: Cake. With candles.
+Reachy [3]: Your cake sounds yummy. What games did you play there?
+
+You: Bowling. Got two strikes.
+Reachy [4]: That must have been exciting! How were you feeling during the bowling?
+
+You: Happy. A bit nervous.
+Reachy [5]: Nervous and happy is a good mix. Did anyone get hurt or feel upset at your party?
+
+You: No. Everyone had fun.
+Reachy [6]: That's wonderful to hear. Did you see anything funny happen during the bowling?
+
+You: Can't remember.
+Reachy [7]: Oh, no worries. There are always things we can talk about from our day. What else would you like to share?
+
+You: I don't know.
+Reachy [8]: It sounds like the fun of your birthday got everything clear in your mind! If you feel like it, what part was most special or memorable for you today?
+
+You: Singing Happy Birthday.
+Reachy [9]: That makes a nice memory. What did you sing?
+
+You: Happy Birthday. Really loud.
+Reachy [10]: The happy birthday song must have made your party even more special. Did anything else stand out to you from today?
+
+You: Pizza.
+Reachy [11]: Enjoying pizza sounds delicious! Was it a homemade or a restaurant pizza?
+
+You: Restaurant pizza.
+Reachy [12]: Thanks for sharing, April. It was nice talking about your day with you today. You had a great birthday party.
+
+You: Bye.
+Reachy (scripted, not coded): Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+You: No.
+Reachy (scripted, not coded): Okay. Thank you for sharing your day with me, April. Goodbye.

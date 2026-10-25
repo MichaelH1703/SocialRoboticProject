@@ -1,0 +1,324 @@
+{
+  "labelled": true,
+  "speakers": "auto",
+  "auto_labels": {
+    "method": "sentences",
+    "segments": [
+      [
+        "therapist",
+        "Hi Farah."
+      ],
+      [
+        "therapist",
+        "How has your week been?"
+      ],
+      [
+        "child",
+        "Not bad."
+      ],
+      [
+        "therapist",
+        "I've got a little story from my week."
+      ],
+      [
+        "therapist",
+        "I went to get the bus on Tuesday and realised I'd left my travel card in my other coat."
+      ],
+      [
+        "therapist",
+        "I had to use my phone instead."
+      ],
+      [
+        "child",
+        "I use my phone sometimes."
+      ],
+      [
+        "therapist",
+        "What happened for you this week?"
+      ],
+      [
+        "child",
+        "We had a group thing in English."
+      ],
+      [
+        "therapist",
+        "What sort of group thing?"
+      ],
+      [
+        "child",
+        "A presentation about a book."
+      ],
+      [
+        "therapist",
+        "Which book were you working on?"
+      ],
+      [
+        "child",
+        "The Boy at the Back of the Class."
+      ],
+      [
+        "therapist",
+        "Who was in your group?"
+      ],
+      [
+        "child",
+        "Me, Ruby, Jayden and Tom."
+      ],
+      [
+        "therapist",
+        "How did you decide what each person would do?"
+      ],
+      [
+        "child",
+        "Miss told us."
+      ],
+      [
+        "child",
+        "I had the bit about the characters."
+      ],
+      [
+        "therapist",
+        "Where were you when you worked on it?"
+      ],
+      [
+        "child",
+        "In English."
+      ],
+      [
+        "child",
+        "In the classroom."
+      ],
+      [
+        "therapist",
+        "Tell me what happened when you started."
+      ],
+      [
+        "child",
+        "Ruby was making the slides and Jayden was writing the notes."
+      ],
+      [
+        "child",
+        "Tom said he wasn't doing the speaking bit."
+      ],
+      [
+        "therapist",
+        "What did you do when he said that?"
+      ],
+      [
+        "child",
+        "I said everyone has to do something."
+      ],
+      [
+        "child",
+        "Then he said he would do the title slide."
+      ],
+      [
+        "therapist",
+        "How was that for you?"
+      ],
+      [
+        "child",
+        "I was annoyed because it was supposed to be shared out equally."
+      ],
+      [
+        "therapist",
+        "You were annoyed that the jobs weren't being shared equally."
+      ],
+      [
+        "child",
+        "Yeah."
+      ],
+      [
+        "child",
+        "I didn't want to do all the talking as well."
+      ],
+      [
+        "therapist",
+        "What happened when you got to the presentation?"
+      ],
+      [
+        "child",
+        "We did it on Thursday."
+      ],
+      [
+        "child",
+        "Tom read the title and then I did my part."
+      ],
+      [
+        "therapist",
+        "Did the others speak too?"
+      ],
+      [
+        "child",
+        "Ruby did two slides."
+      ],
+      [
+        "child",
+        "Jayden read the ending."
+      ],
+      [
+        "therapist",
+        "What happened at the end of the presentation?"
+      ],
+      [
+        "child",
+        "Miss said we'd covered the main points."
+      ],
+      [
+        "child",
+        "Then we sat down."
+      ],
+      [
+        "therapist",
+        "That must have been a relief after all that uncertainty."
+      ],
+      [
+        "child",
+        "I wasn't uncertain."
+      ],
+      [
+        "child",
+        "I was annoyed at Tom."
+      ],
+      [
+        "child",
+        "Thanks for correcting me."
+      ],
+      [
+        "therapist",
+        "You said you were annoyed about how the jobs were divided, not uncertain."
+      ],
+      [
+        "therapist",
+        "Let me check the story: you were in an English group with Ruby, Jayden and Tom, preparing a presentation on The Boy at the Back of the Class."
+      ],
+      [
+        "therapist",
+        "You challenged Tom when he didn't want to speak, and everyone ended up presenting some of the work on Thursday."
+      ],
+      [
+        "child",
+        "Miss said you'd covered the main points."
+      ],
+      [
+        "child",
+        "Yes."
+      ],
+      [
+        "therapist",
+        "Is there anything else you'd like to add?"
+      ],
+      [
+        "child",
+        "No, that's it."
+      ],
+      [
+        "therapist",
+        "Thanks, Farah."
+      ],
+      [
+        "therapist",
+        "We'll finish there."
+      ],
+      [
+        "child",
+        "Bye."
+      ]
+    ],
+    "echoes_relabelled": []
+  },
+  "labelled_transcript": "Therapist. Hi Farah. How has your week been? Child. Not bad. Therapist. I've got a little story from my week. I went to get the bus on Tuesday and realised I'd left my travel card in my other coat. I had to use my phone instead. Child. I use my phone sometimes. Therapist. What happened for you this week? Child. We had a group thing in English. Therapist. What sort of group thing? Child. A presentation about a book. Therapist. Which book were you working on? Child. The Boy at the Back of the Class. Therapist. Who was in your group? Child. Me, Ruby, Jayden and Tom. Therapist. How did you decide what each person would do? Child. Miss told us. I had the bit about the characters. Therapist. Where were you when you worked on it? Child. In English. In the classroom. Therapist. Tell me what happened when you started. Child. Ruby was making the slides and Jayden was writing the notes. Tom said he wasn't doing the speaking bit. Therapist. What did you do when he said that? Child. I said everyone has to do something. Then he said he would do the title slide. Therapist. How was that for you? Child. I was annoyed because it was supposed to be shared out equally. Therapist. You were annoyed that the jobs weren't being shared equally. Child. Yeah. I didn't want to do all the talking as well. Therapist. What happened when you got to the presentation? Child. We did it on Thursday. Tom read the title and then I did my part. Therapist. Did the others speak too? Child. Ruby did two slides. Jayden read the ending. Therapist. What happened at the end of the presentation? Child. Miss said we'd covered the main points. Then we sat down. Therapist. That must have been a relief after all that uncertainty. Child. I wasn't uncertain. I was annoyed at Tom. Thanks for correcting me. Therapist. You said you were annoyed about how the jobs were divided, not uncertain. Let me check the story: you were in an English group with Ruby, Jayden and Tom, preparing a presentation on The Boy at the Back of the Class. You challenged Tom when he didn't want to speak, and everyone ended up presenting some of the work on Thursday. Child. Miss said you'd covered the main points. Yes. Therapist. Is there anything else you'd like to add? Child. No, that's it. Therapist. Thanks, Farah. We'll finish there. Child. Bye.",
+  "facts": {
+    "child_turns": 19,
+    "mean_words_per_turn": 8.6,
+    "sequence_words": [
+      "then"
+    ],
+    "vague_words": [
+      "something",
+      "thing"
+    ],
+    "child_text": [
+      "Not bad.",
+      "I use my phone sometimes.",
+      "We had a group thing in English.",
+      "A presentation about a book.",
+      "The Boy at the Back of the Class.",
+      "Me, Ruby, Jayden and Tom.",
+      "Miss told us. I had the bit about the characters.",
+      "In English. In the classroom.",
+      "Ruby was making the slides and Jayden was writing the notes. Tom said he wasn't doing the speaking bit.",
+      "I said everyone has to do something. Then he said he would do the title slide.",
+      "I was annoyed because it was supposed to be shared out equally.",
+      "Yeah. I didn't want to do all the talking as well.",
+      "We did it on Thursday. Tom read the title and then I did my part.",
+      "Ruby did two slides. Jayden read the ending.",
+      "Miss said we'd covered the main points. Then we sat down.",
+      "I wasn't uncertain. I was annoyed at Tom. Thanks for correcting me.",
+      "Miss said you'd covered the main points. Yes.",
+      "No, that's it.",
+      "Bye."
+    ],
+    "feelings": [
+      {
+        "word": "annoyed",
+        "child_words": "I was annoyed because it was supposed to be shared out equally.",
+        "named": true
+      }
+    ],
+    "reasons": [
+      {
+        "child_words": "I was annoyed because it was supposed to be shared out equally.",
+        "linked": true,
+        "about_feeling": true
+      },
+      {
+        "child_words": "I wasn't uncertain. I was annoyed at Tom.",
+        "linked": false,
+        "about_feeling": true
+      }
+    ],
+    "feeling_reasons": [
+      "I was annoyed because it was supposed to be shared out equally.",
+      "I wasn't uncertain. I was annoyed at Tom."
+    ]
+  },
+  "checked": {
+    "event": "Group presentation",
+    "who": {
+      "given": true,
+      "child_words": "Me, Ruby, Jayden and Tom.",
+      "rejected_claim": ""
+    },
+    "where": {
+      "given": false,
+      "child_words": "",
+      "rejected_claim": "In English. In the classroom. | In English. In the classroom."
+    },
+    "what_happened": {
+      "given": true,
+      "child_words": "Ruby was making the slides and Jayden was writing the notes. Tom said he wasn't doing the speaking bit. I said everyone has to do something. Then he said he would do the title slide. We did it on Thursday. Tom read the title and then I did my part. Ruby did two slides. Jayden read the ending.",
+      "rejected_claim": ""
+    },
+    "ending": {
+      "given": true,
+      "child_words": "Miss said we'd covered the main points. Then we sat down.",
+      "rejected_claim": ""
+    }
+  },
+  "written": {
+    "summary": "The child told that they had a group presentation in English about the book The Boy at the Back of the Class. They mentioned that they, Ruby, Jayden and Tom worked together. The child had the part about the characters, Ruby made the slides, Jayden read the ending and Tom read the title. The child was annoyed at Tom and said everyone should do something. They did the presentation on Thursday and Miss said they covered the main points.",
+    "goals": [
+      "Say where it happened.",
+      "Use the exact word instead of vague words like 'stuff' or 'thing'."
+    ],
+    "focus": [
+      "The child will say where the event happened.",
+      "The child will use exact words instead of vague words like 'stuff' or 'thing'."
+    ],
+    "prompts": [
+      "Where did it happen?",
+      "What was it exactly?"
+    ]
+  }
+}

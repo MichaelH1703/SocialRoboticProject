@@ -1,0 +1,76 @@
+[Child sim] session W3, llama3.2:3b, temperature 0.3, seed 3
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Went bowling.
+[State] Selected event: Went bowling for Mia's birthday
+
+Reachy: Bowling sounds fun. What did you do there?
+
+[Latency] Turn: 2.83s
+You: Got two strikes. Mia won.
+
+Reachy: That's exciting! So, what happened next at the bowling alley?
+
+[Latency] Turn: 2.58s
+You: Had pizza. Then cake.
+
+Reachy: Great! Did anyone else join in for pizza and cake?
+
+[Latency] Turn: 2.49s
+You: Mia's mum took us. And other girls.
+
+Reachy: Nice. What did you all talk about or do after eating?
+
+[Latency] Turn: 2.51s
+You: Sang Happy Birthday.
+
+Reachy: That was nice to sing! What did Mia say on her birthday?
+
+[Latency] Turn: 2.50s
+You: I don't know.
+
+Reachy: Did she tell you anything special during the cake time?
+
+[Latency] Turn: 2.62s
+You: Mia blew out candles.
+
+Reachy: Got ice cream after that, right?
+
+[Latency] Turn: 2.46s
+You: No. Just cake.
+
+Reachy: Okay, just cake then. What else did you notice at the bowling alley and birthday party?
+
+[Latency] Turn: 2.61s
+You: People looked.
+
+Reachy: What did people look like when you were there?
+
+[Latency] Turn: 2.45s
+You: They were looking.
+
+Reachy: How did that make you feel?
+
+[Latency] Turn: 2.43s
+You: Nervous.
+
+Reachy: It sounds like you felt a little nervous. What made you feel that way?
+
+[Latency] Turn: 2.54s
+You: Just was.
+
+Reachy: You just felt it at the moment, is that right?
+
+[Latency] Turn: 2.62s
+You: Bye.
+
+Reachy: Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+[State] Goodbye heard; confirming before ending.
+[Not spoken] Model's reply, dropped but kept in its history as on the robot: 'Okay, take your time. We can chat another day if you want to go over something from today more.'
+You: No.
+
+Reachy: Okay. Thank you for sharing your day with me, April. Goodbye.
+
+[State] Child confirmed goodbye; ending session.

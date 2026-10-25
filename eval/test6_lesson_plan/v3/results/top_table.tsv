@@ -1,0 +1,212 @@
+T01	Leaves out: where	Y	Y	hit
+T01	Uses 'because'	Y	Y	hit
+T01	Emotion word: scared	Y	Y	hit
+T01	Emotion word: happy	Y	Y	hit
+T01	False alarm: why they felt	N	Y	false alarm
+T02	Leaves out: how it ended	Y	Y	hit
+T02	Uses neither 'because' nor 'so'	Y	Y	hit
+T02	Emotion word: excited	Y	Y	hit
+T03	Leaves out: who	Y	Y	hit
+T03	Uses 'so'	Y	Y	hit
+T03	Emotion word: sad	Y	Y	hit
+T03	Emotion word: worried	Y	N	miss
+T03	False alarm: why they felt	N	Y	false alarm
+T04	Leaves out: how they felt	Y	Y	hit
+T04	Uses 'because' and 'so'	Y	Y	hit
+T04	Uses no emotion words	Y	Y	hit
+T05	Leaves out: where	Y	Y	hit
+T05	Leaves out: how it ended	Y	Y	hit
+T05	Uses neither 'because' nor 'so'	Y	Y	hit
+T05	Emotion word: angry	Y	Y	hit
+T06	Uses 'because'	Y	Y	hit
+T06	Emotion word: excited	Y	Y	hit
+T06	Emotion word: scared	Y	Y	hit
+T07	Leaves out: what happened	Y	N	miss
+T07	Uses neither 'because' nor 'so'	Y	Y	hit
+T07	Emotion word: happy	Y	Y	hit
+T08	Leaves out: who	Y	Y	hit
+T08	Leaves out: how they felt	Y	Y	hit
+T08	Uses 'because'	Y	Y	hit
+T08	Uses no emotion words	Y	Y	hit
+T09	Leaves out: how it ended	Y	Y	hit
+T09	Uses 'so'	Y	Y	hit
+T09	Emotion word: nervous	Y	Y	hit
+T09	Emotion word: proud	Y	Y	hit
+T09	False alarm: why they felt	N	Y	false alarm
+T10	Leaves out: who	Y	Y	hit
+T10	Leaves out: where	Y	Y	hit
+T10	Uses neither 'because' nor 'so'	Y	Y	hit
+T10	Emotion word: annoyed	Y	Y	hit
+T10	Emotion word: happy	Y	Y	hit
+T11	Leaves out: who	Y	Y	hit
+T11	Uses 'so'	Y	Y	hit
+T11	Emotion word: happy	Y	Y	hit
+T11	False alarm: why they felt	N	Y	false alarm
+T12	Leaves out: where	Y	Y	hit
+T12	Uses 'because'	Y	Y	hit
+T12	Emotion word: nervous	Y	Y	hit
+T12	Emotion word: excited	Y	Y	hit
+T12	False alarm: why they felt	N	Y	false alarm
+T13	Leaves out: how it ended	Y	Y	hit
+T13	Uses neither 'because' nor 'so'	Y	Y	hit
+T13	Emotion word: sad	Y	Y	hit
+T14	Leaves out: how they felt	Y	Y	hit
+T14	Uses 'because' and 'so'	Y	Y	hit
+T14	Uses no emotion words	Y	Y	hit
+T14	False alarm: where	N	Y	false alarm
+T15	Uses 'so'	Y	Y	hit
+T15	Emotion word: scared	Y	Y	hit
+T15	Emotion word: happy	Y	N	miss
+T16	Leaves out: who	Y	Y	hit
+T16	Uses 'because'	Y	Y	hit
+T16	Emotion word: cross	Y	Y	hit
+T16	Emotion word: proud	Y	Y	hit
+T16	False alarm: why they felt	N	Y	false alarm
+T17	Leaves out: where	Y	Y	hit
+T17	Leaves out: how it ended	Y	Y	hit
+T17	Uses neither 'because' nor 'so'	Y	Y	hit
+T17	Emotion word: surprised	Y	Y	hit
+T18	Leaves out: what happened	Y	N	miss
+T18	Uses neither 'because' nor 'so'	Y	Y	hit
+T18	Emotion word: bored	Y	Y	hit
+T18	Emotion word: happy	Y	Y	hit
+T19	Leaves out: who	Y	Y	hit
+T19	Leaves out: how they felt	Y	Y	hit
+T19	Uses 'because'	Y	Y	hit
+T19	Uses no emotion words	Y	Y	hit
+T20	Leaves out: where	Y	Y	hit
+T20	Uses 'so'	Y	Y	hit
+T20	Emotion word: worried	Y	Y	hit
+T20	Emotion word: glad	Y	Y	hit
+T20	False alarm: why they felt	N	Y	false alarm
+T21	Leaves out: who (silent)	Y	Y	hit
+T21	Leaves out: how it ended (asked)	Y	N	miss
+T21	Feeling: dislike (phrase)	Y	Y	hit
+T21	Gives a reason	Y	N	miss
+T21	False alarm: where	N	Y	false alarm
+T22	Leaves out: where (yes-only)	Y	Y	hit
+T22	Leaves out: how they felt (silent)	Y	Y	hit
+T22	Gives a reason	Y	Y	hit
+T23	Feeling: scared (phrase)	Y	Y	hit
+T23	Feeling: upset (phrase)	Y	N	miss
+T23	Feeling: happy (word)	Y	Y	hit
+T23	Gives a reason	Y	Y	hit
+T23	False alarm: why they felt	N	Y	false alarm
+T24	Leaves out: who (yes-only)	Y	Y	hit
+T24	Leaves out: how it ended (silent)	Y	Y	hit
+T24	Feeling: scared (phrase)	Y	N	miss
+T24	Feeling: enjoyment (phrase)	Y	N	miss
+T24	Gives a reason	Y	Y	hit
+T25	Leaves out: who (asked)	Y	Y	hit
+T25	Leaves out: how it ended (silent)	Y	Y	hit
+T25	Feeling: scared (phrase)	Y	Y	hit
+T25	Feeling: enjoyment (phrase)	Y	N	miss
+T25	Gives a reason	Y	Y	hit
+T26	Leaves out: how they felt (asked)	Y	Y	hit
+T26	Leaves out: where (silent)	Y	Y	hit
+T26	Gives no reasons	Y	N	miss
+T27	Leaves out: what happened (asked)	Y	N	miss
+T27	Feeling: enjoyment (phrase)	Y	N	miss
+T27	Feeling: sad (word)	Y	Y	hit
+T27	Gives a reason	Y	Y	hit
+T28	Leaves out: where (silent)	Y	Y	hit
+T28	Leaves out: how it ended (silent)	Y	Y	hit
+T28	Feeling: amused (phrase)	Y	Y	hit
+T28	Feeling: enjoyment (phrase)	Y	N	miss
+T28	Gives no reasons	Y	Y	hit
+T29	Feeling: scared (word)	Y	Y	hit
+T29	Feeling: embarrassed (phrase)	Y	N	miss
+T29	Gives a reason	Y	Y	hit
+T30	Leaves out: what happened (asked)	Y	N	miss
+T30	Feeling: enjoyment (phrase)	Y	Y	hit
+T30	Gives no reasons	Y	Y	hit
+T31	Feeling: dislike of the noise (phrase)	Y	Y	hit
+T31	Gives a reason	Y	Y	hit
+T31	False alarm: why they felt	N	Y	false alarm
+T32	Leaves out: how they felt (asked)	Y	Y	hit
+T32	Gives no reasons	Y	Y	hit
+T33	Feeling: enjoyment (phrase)	Y	Y	hit
+T33	Gives a reason	Y	Y	hit
+T33	False alarm: why they felt	N	Y	false alarm
+T34	Feeling: embarrassment (word)	Y	Y	hit
+T34	Gives a reason	Y	Y	hit
+T34	False alarm: why they felt	N	Y	false alarm
+T35	Feeling: annoyance (word)	Y	Y	hit
+T35	Gives a reason	Y	Y	hit
+T36	Feeling: annoyed (word)	Y	Y	hit
+T36	Gives a reason	Y	Y	hit
+T36	False alarm: where	N	Y	false alarm
+T37	Feeling: disappointed (word)	Y	Y	hit
+T37	Gives a reason	Y	Y	hit
+T37	False alarm: who	N	Y	false alarm
+T38	Leaves out: how they felt (asked)	Y	N	miss
+T38	Gives a reason	Y	Y	hit
+T38	False alarm: how it ended	N	Y	false alarm
+T39	Feeling: dislike (the room) (phrase)	Y	N	miss
+T39	Feeling: annoyance (the tapping) (phrase)	Y	N	miss
+T39	Gives a reason	Y	Y	hit
+T39	False alarm: missing feelings	N	Y	false alarm
+T40	Feeling: dislike of being late (phrase)	Y	N	miss
+T40	Gives a reason	Y	Y	hit
+T40	False alarm: who	N	Y	false alarm
+T41	Feeling: pleased (word)	Y	Y	hit
+T41	Gives a reason	Y	Y	hit
+T41	False alarm: where	N	Y	false alarm
+T42	Feeling: anxiety (felt sick) (phrase)	Y	N	miss
+T42	Feeling: confused (word)	Y	Y	hit
+T42	Gives a reason	Y	Y	hit
+T42	False alarm: how it ended	N	Y	false alarm
+T43	Feeling: stomach dropped (body reaction) (phrase)	Y	Y	hit
+T43	Gives a reason	Y	Y	hit
+T44	Feeling: embarrassed (word)	Y	Y	hit
+T44	Gives a reason	Y	Y	hit
+T44	False alarm: why they felt	N	Y	false alarm
+T45	Feeling: enjoyment (phrase)	Y	N	miss
+T45	Gives a reason	Y	Y	hit
+T45	False alarm: missing feelings	N	Y	false alarm
+T46	Feeling: annoyed (word)	Y	Y	hit
+T46	Feeling: dislike (the detention) (phrase)	Y	N	miss
+T46	Gives a reason	Y	Y	hit
+T47	Feeling: happy (word)	Y	Y	hit
+T47	Gives a reason	Y	Y	hit
+T48	Feeling: dislike (unannounced changes) (phrase)	Y	Y	hit
+T48	Gives a reason	Y	Y	hit
+T48	False alarm: how it ended	N	Y	false alarm
+T49	Feeling: exhausted (phrase)	Y	Y	hit
+T49	Gives a reason	Y	Y	hit
+T49	False alarm: where	N	Y	false alarm
+T49	False alarm: why they felt	N	Y	false alarm
+T50	Feeling: relieved (word)	Y	Y	hit
+T50	Feeling: worried (word)	Y	Y	hit
+T50	Gives a reason	Y	Y	hit
+T51	Feeling: worried (word)	Y	Y	hit
+T51	Gives a reason	Y	Y	hit
+T52	Leaves out: how they felt (asked)	Y	Y	hit
+T52	Gives a reason	Y	Y	hit
+T52	False alarm: where	N	Y	false alarm
+T53	Feeling: stress (face hot) (phrase)	Y	Y	hit
+T53	Gives a reason	Y	Y	hit
+T53	False alarm: who	N	Y	false alarm
+T53	False alarm: reasons not linked	N	Y	false alarm
+T53	False alarm: why they felt	N	Y	false alarm
+T54	Leaves out: how it ended (asked)	Y	Y	hit
+T54	Leaves out: how they felt (asked)	Y	Y	hit
+T54	Gives no reasons	Y	Y	hit
+T55	Feeling: amusement (phrase)	Y	Y	hit
+T55	Feeling: annoyance (phrase)	Y	Y	hit
+T55	Gives a reason	Y	Y	hit
+T55	False alarm: why they felt	N	Y	false alarm
+T56	Feeling: embarrassed (word)	Y	Y	hit
+T56	Gives a reason	Y	Y	hit
+T57	Leaves out: how they felt (asked)	Y	Y	hit
+T57	Gives no reasons	Y	Y	hit
+T58	Feeling: distracted (phrase)	Y	Y	hit
+T58	Gives a reason	Y	Y	hit
+T59	Feeling: worry (stomach tight) (phrase)	Y	Y	hit
+T59	Feeling: pleased (word)	Y	Y	hit
+T59	Gives a reason	Y	Y	hit
+T60	Feeling: annoyed (word)	Y	N	miss
+T60	Feeling: disgust (the coffee) (phrase)	Y	N	miss
+T60	Feeling: satisfied with the draw (phrase)	Y	N	miss
+T60	Gives a reason	Y	Y	hit
+T60	False alarm: missing feelings	N	Y	false alarm

@@ -1,0 +1,11 @@
+session_id	complete	model_replies	mean_words_per_reply	question_cuts	replaced_by_safety	idk_turn	child_sim_notes	log_lines
+bowl-1	True	12	14.83	2	0	6	0	0
+bowl-2	True	12	13.67	1	0	12	0	0
+sci-1	True	12	15.08	0	0	6	0	0
+sci-2	True	12	11.58	0	0	7	0	0
+fire-1	True	12	16.33	2	0	6	0	0
+fire-2	True	12	9.17	1	0	7	1	0
+net-1	True	12	14.33	2	0	6	0	0
+net-2	True	12	12.5	1	0	6	1	0
+pasta-1	True	12	13.08	1	0	8	0	0
+pasta-2	True	12	11.5	2	0	6	9	0

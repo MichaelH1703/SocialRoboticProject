@@ -1,0 +1,322 @@
+{
+  "labelled": true,
+  "speakers": "auto",
+  "auto_labels": {
+    "method": "sentences",
+    "segments": [
+      [
+        "therapist",
+        "Hi Imogen."
+      ],
+      [
+        "therapist",
+        "Did anything interesting happen recently?"
+      ],
+      [
+        "child",
+        "We went to my auntie's wedding."
+      ],
+      [
+        "therapist",
+        "Oh, a wedding."
+      ],
+      [
+        "therapist",
+        "I've got a story of my own first."
+      ],
+      [
+        "therapist",
+        "I went to a friend's birthday meal last month and there were so many people talking that I had to ask them to repeat the menu."
+      ],
+      [
+        "therapist",
+        "Weddings are louder than that."
+      ],
+      [
+        "therapist",
+        "They can be."
+      ],
+      [
+        "therapist",
+        "What was the wedding like for you?"
+      ],
+      [
+        "child",
+        "There was music."
+      ],
+      [
+        "child",
+        "And people kept coming up to me."
+      ],
+      [
+        "therapist",
+        "Who was there with you?"
+      ],
+      [
+        "child",
+        "Mum, Dad, my brother, Auntie Saira and loads of relatives."
+      ],
+      [
+        "therapist",
+        "Where was it held?"
+      ],
+      [
+        "child",
+        "At this hotel near Leicester."
+      ],
+      [
+        "child",
+        "I don't know what it was called."
+      ],
+      [
+        "therapist",
+        "What happened when you arrived?"
+      ],
+      [
+        "child",
+        "We had to wait in this room."
+      ],
+      [
+        "child",
+        "The chairs were gold and the lights were really bright."
+      ],
+      [
+        "child",
+        "There was perfume everywhere."
+      ],
+      [
+        "therapist",
+        "That sounds like a lot of sensory information all at once."
+      ],
+      [
+        "child",
+        "It was horrible."
+      ],
+      [
+        "child",
+        "I could smell about four different perfumes and one smelled like cleaning spray."
+      ],
+      [
+        "therapist",
+        "What did you do?"
+      ],
+      [
+        "child",
+        "I went outside for a bit."
+      ],
+      [
+        "therapist",
+        "Did anyone come with you?"
+      ],
+      [
+        "child",
+        "My brother came out after me."
+      ],
+      [
+        "therapist",
+        "What happened when he came out?"
+      ],
+      [
+        "child",
+        "He asked if I was all right."
+      ],
+      [
+        "child",
+        "I said I wanted some air."
+      ],
+      [
+        "therapist",
+        "Did you stay outside?"
+      ],
+      [
+        "child",
+        "Until Mum came and said they were starting the meal."
+      ],
+      [
+        "therapist",
+        "What happened at the meal?"
+      ],
+      [
+        "child",
+        "We sat at round tables."
+      ],
+      [
+        "child",
+        "I was next to my cousin, who kept tapping his glass with a spoon."
+      ],
+      [
+        "therapist",
+        "How was that for you?"
+      ],
+      [
+        "child",
+        "I wanted to throw the spoon out the window."
+      ],
+      [
+        "child",
+        "I didn't, obviously."
+      ],
+      [
+        "therapist",
+        "You were really angry with your cousin."
+      ],
+      [
+        "child",
+        "I didn't say angry."
+      ],
+      [
+        "child",
+        "I wanted the tapping to stop."
+      ],
+      [
+        "therapist",
+        "You're right."
+      ],
+      [
+        "therapist",
+        "I shouldn't decide the feeling for you."
+      ],
+      [
+        "therapist",
+        "What happened after the meal?"
+      ],
+      [
+        "child",
+        "There was dancing."
+      ],
+      [
+        "child",
+        "I stayed by the table and watched."
+      ],
+      [
+        "therapist",
+        "Did you join in at all?"
+      ],
+      [
+        "child",
+        "No."
+      ],
+      [
+        "therapist",
+        "And how did the day end?"
+      ],
+      [
+        "child",
+        "We left before the cake because my brother had college in the morning."
+      ],
+      [
+        "therapist",
+        "So you went to the hotel wedding with your family, went outside for air when the room felt unpleasant, sat through the meal with your cousin tapping his glass, watched the dancing and left before the cake."
+      ],
+      [
+        "child",
+        "Yeah."
+      ],
+      [
+        "therapist",
+        "Thanks for talking it through with me."
+      ],
+      [
+        "therapist",
+        "Can we do something else next time?"
+      ],
+      [
+        "child",
+        "Of course."
+      ],
+      [
+        "therapist",
+        "We'll decide together next time."
+      ]
+    ],
+    "echoes_relabelled": []
+  },
+  "labelled_transcript": "Therapist. Hi Imogen. Did anything interesting happen recently? Child. We went to my auntie's wedding. Therapist. Oh, a wedding. I've got a story of my own first. I went to a friend's birthday meal last month and there were so many people talking that I had to ask them to repeat the menu. Weddings are louder than that. They can be. What was the wedding like for you? Child. There was music. And people kept coming up to me. Therapist. Who was there with you? Child. Mum, Dad, my brother, Auntie Saira and loads of relatives. Therapist. Where was it held? Child. At this hotel near Leicester. I don't know what it was called. Therapist. What happened when you arrived? Child. We had to wait in this room. The chairs were gold and the lights were really bright. There was perfume everywhere. Therapist. That sounds like a lot of sensory information all at once. Child. It was horrible. I could smell about four different perfumes and one smelled like cleaning spray. Therapist. What did you do? Child. I went outside for a bit. Therapist. Did anyone come with you? Child. My brother came out after me. Therapist. What happened when he came out? Child. He asked if I was all right. I said I wanted some air. Therapist. Did you stay outside? Child. Until Mum came and said they were starting the meal. Therapist. What happened at the meal? Child. We sat at round tables. I was next to my cousin, who kept tapping his glass with a spoon. Therapist. How was that for you? Child. I wanted to throw the spoon out the window. I didn't, obviously. Therapist. You were really angry with your cousin. Child. I didn't say angry. I wanted the tapping to stop. Therapist. You're right. I shouldn't decide the feeling for you. What happened after the meal? Child. There was dancing. I stayed by the table and watched. Therapist. Did you join in at all? Child. No. Therapist. And how did the day end? Child. We left before the cake because my brother had college in the morning. Therapist. So you went to the hotel wedding with your family, went outside for air when the room felt unpleasant, sat through the meal with your cousin tapping his glass, watched the dancing and left before the cake. Child. Yeah. Therapist. Thanks for talking it through with me. Can we do something else next time? Child. Of course. Therapist. We'll decide together next time.",
+  "facts": {
+    "child_turns": 18,
+    "mean_words_per_turn": 9.9,
+    "sequence_words": [
+      "after",
+      "before",
+      "next"
+    ],
+    "vague_words": [],
+    "child_text": [
+      "We went to my auntie's wedding.",
+      "There was music. And people kept coming up to me.",
+      "Mum, Dad, my brother, Auntie Saira and loads of relatives.",
+      "At this hotel near Leicester. I don't know what it was called.",
+      "We had to wait in this room. The chairs were gold and the lights were really bright. There was perfume everywhere.",
+      "It was horrible. I could smell about four different perfumes and one smelled like cleaning spray.",
+      "I went outside for a bit.",
+      "My brother came out after me.",
+      "He asked if I was all right. I said I wanted some air.",
+      "Until Mum came and said they were starting the meal.",
+      "We sat at round tables. I was next to my cousin, who kept tapping his glass with a spoon.",
+      "I wanted to throw the spoon out the window. I didn't, obviously.",
+      "I didn't say angry. I wanted the tapping to stop.",
+      "There was dancing. I stayed by the table and watched.",
+      "No.",
+      "We left before the cake because my brother had college in the morning.",
+      "Yeah.",
+      "Of course."
+    ],
+    "feelings": [],
+    "reasons": [
+      {
+        "child_words": "I wanted some air.",
+        "linked": false,
+        "about_feeling": true
+      },
+      {
+        "child_words": "I wanted the tapping to stop.",
+        "linked": false,
+        "about_feeling": true
+      },
+      {
+        "child_words": "We left before the cake because my brother had college in the morning.",
+        "linked": true,
+        "about_feeling": false
+      }
+    ],
+    "feeling_reasons": [
+      "I wanted some air.",
+      "I wanted the tapping to stop."
+    ]
+  },
+  "checked": {
+    "event": "Auntie's wedding",
+    "who": {
+      "given": true,
+      "child_words": "Mum, Dad, my brother, Auntie Saira and loads of relatives.",
+      "rejected_claim": ""
+    },
+    "where": {
+      "given": true,
+      "child_words": "At this hotel near Leicester. I don't know what it was called.",
+      "rejected_claim": ""
+    },
+    "what_happened": {
+      "given": true,
+      "child_words": "We went to my auntie's wedding. There was music. And people kept coming up to me. We had to wait in this room. The chairs were gold and the lights were really bright. There was perfume everywhere. It was horrible. I could smell about four different perfumes and one smelled like cleaning spray. I went outside for a bit. My brother came out after me. He asked if I was all right. I said I wanted some air. Until Mum came and said they were starting the meal. We sat at round tables. I was next to my cousin, who kept tapping his glass with a spoon. I wanted to throw the spoon out the window. I didn't, obviously. There was dancing. I stayed by the table and watched. We left before the cake because my brother had college in the morning.",
+      "rejected_claim": ""
+    },
+    "ending": {
+      "given": true,
+      "child_words": "We left before the cake because my brother had college in the morning.",
+      "rejected_claim": ""
+    }
+  },
+  "written": {
+    "summary": "The child told about going to their auntie's wedding. They mentioned there was music, people came up to them, and they were with their family and relatives at a hotel near Leicester. They described waiting in a room with gold chairs and bright lights, and they noticed perfume and cleaning spray smells. They went outside, their brother joined them, and they sat at a round table next to their cousin who tapped his glass. They did not say angry and wanted the tapping to stop. They stayed by the table during dancing and left before the cake because their brother had college in the morning.",
+    "goals": [
+      "Say how they felt."
+    ],
+    "focus": [
+      "The child will say how they felt during an event."
+    ],
+    "prompts": [
+      "How did you feel when it happened?"
+    ]
+  }
+}

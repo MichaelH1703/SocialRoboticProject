@@ -1,0 +1,55 @@
+[Human] session H49, condition W-v4, "I don't know" at turn 8
+[Isolation] new process pid 92092; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (5.4s)
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: yeah. went bowling
+[State] Selected event: Went bowling for Mia's birthday
+
+Reachy: Bowling sounds fun! Who joined you there?
+
+[Latency] Turn: 2.96s
+You: mia and grace and jess
+
+Reachy: Mia, Grace, and Jess were there together at the bowling alley. That's a nice group of friends to have. What did you all do?
+
+[Latency] Turn: 2.82s
+You: we all bowled together
+
+Reachy: Great! What was your favorite part about bowling with them?
+
+[Latency] Turn: 2.64s
+You: i got two strikes
+
+Reachy: That sounds amazing, getting two strikes is really impressive! How did that make you feel?
+
+[Latency] Turn: 2.52s
+You: excited and happ
+
+Reachy: Excited and happy are good feelings for getting such a great score! Is there anyone in particular you enjoyed bowling with today?
+
+[Latency] Turn: 2.57s
+You: Mia, it was her birthday
+
+Reachy: So Mia's birthday made the bowling trip extra special. How did playing together help celebrate her day?
+
+[Latency] Turn: 2.83s
+You: it was her birthday party, so we had cake and pizza afterwards
+
+Reachy: That sounds like a wonderful way to celebrate! Do you remember what Mia said or how she felt after your game of bowling?
+
+[Latency] Turn: 2.78s
+You: i dont know
+
+Reachy: It's okay not to know right now. Did anything in particular stand out about her day at the party?
+
+[Latency] Turn: 2.82s
+You: no
+
+Reachy: No worries, it's normal not to recall everything. How was everyone else today, Mia included?
+
+[Latency] Turn: 2.70s
+[Human] Ended by the player before Reachy's goodbye.
+[Human] Session over.

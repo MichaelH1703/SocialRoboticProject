@@ -1,0 +1,43 @@
+{
+  "session": "S12",
+  "client_name": "Ben",
+  "therapist_id": "6b51a49f-90b7-45a1-8c8f-7d5418dab26d",
+  "ended_by_goodbye": true,
+  "context_canary_hits": [],
+  "log_rows_in_memory": 7,
+  "safety_events_fired": 0,
+  "turns": [
+    {
+      "ben": null,
+      "reachy": "Hi, it's nice to see you. Did you have something from your day you wanted to talk about?"
+    },
+    {
+      "ben": "Hi.",
+      "reachy": "Hello! What happened that may be worth talking about today?"
+    },
+    {
+      "ben": "I've got a pet in a tank.",
+      "reachy": "Oh, interesting! What did you do with your pet when you had time?"
+    },
+    {
+      "ben": "What's in the tank?",
+      "reachy": "What sorts of things or animals are in the tank where you have a pet?"
+    },
+    {
+      "ben": "Is it a fish or an axolotl?",
+      "reachy": "Did anything you did with your pet make you feel happy or excited today?"
+    },
+    {
+      "ben": "What's its name?",
+      "reachy": "Do you like your pet and what does it look like, Ben?"
+    },
+    {
+      "ben": "Bye.",
+      "reachy": "Thanks for talking with me today, Ben. Is there anything more you wanted to talk about?"
+    },
+    {
+      "ben": "No.",
+      "reachy": "Okay. Thank you for sharing your day with me, Ben. Goodbye."
+    }
+  ]
+}

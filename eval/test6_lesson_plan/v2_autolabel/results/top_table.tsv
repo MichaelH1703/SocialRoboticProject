@@ -1,0 +1,80 @@
+T01	Leaves out: where	Y	Y	hit
+T01	Uses 'because'	Y	Y	hit
+T01	Emotion word: scared	Y	Y	hit
+T01	Emotion word: happy	Y	Y	hit
+T01	False alarm: missing reasons	N	Y	false alarm
+T02	Leaves out: how it ended	Y	Y	hit
+T02	Uses neither 'because' nor 'so'	Y	Y	hit
+T02	Emotion word: excited	Y	Y	hit
+T03	Leaves out: who	Y	Y	hit
+T03	Uses 'so'	Y	Y	hit
+T03	Emotion word: sad	Y	Y	hit
+T03	Emotion word: worried	Y	N	miss
+T03	False alarm: missing reasons	N	Y	false alarm
+T04	Leaves out: how they felt	Y	Y	hit
+T04	Uses 'because' and 'so'	Y	Y	hit
+T04	Uses no emotion words	Y	Y	hit
+T05	Leaves out: where	Y	Y	hit
+T05	Leaves out: how it ended	Y	Y	hit
+T05	Uses neither 'because' nor 'so'	Y	Y	hit
+T05	Emotion word: angry	Y	Y	hit
+T06	Uses 'because'	Y	Y	hit
+T06	Emotion word: excited	Y	Y	hit
+T06	Emotion word: scared	Y	Y	hit
+T07	Leaves out: what happened	Y	N	miss
+T07	Uses neither 'because' nor 'so'	Y	Y	hit
+T07	Emotion word: happy	Y	Y	hit
+T08	Leaves out: who	Y	Y	hit
+T08	Leaves out: how they felt	Y	Y	hit
+T08	Uses 'because'	Y	Y	hit
+T08	Uses no emotion words	Y	Y	hit
+T09	Leaves out: how it ended	Y	Y	hit
+T09	Uses 'so'	Y	Y	hit
+T09	Emotion word: nervous	Y	Y	hit
+T09	Emotion word: proud	Y	Y	hit
+T09	False alarm: missing reasons	N	Y	false alarm
+T10	Leaves out: who	Y	Y	hit
+T10	Leaves out: where	Y	Y	hit
+T10	Uses neither 'because' nor 'so'	Y	Y	hit
+T10	Emotion word: annoyed	Y	Y	hit
+T10	Emotion word: happy	Y	Y	hit
+T11	Leaves out: who	Y	Y	hit
+T11	Uses 'so'	Y	Y	hit
+T11	Emotion word: happy	Y	Y	hit
+T11	False alarm: missing reasons	N	Y	false alarm
+T12	Leaves out: where	Y	Y	hit
+T12	Uses 'because'	Y	Y	hit
+T12	Emotion word: nervous	Y	Y	hit
+T12	Emotion word: excited	Y	Y	hit
+T13	Leaves out: how it ended	Y	Y	hit
+T13	Uses neither 'because' nor 'so'	Y	Y	hit
+T13	Emotion word: sad	Y	Y	hit
+T14	Leaves out: how they felt	Y	Y	hit
+T14	Uses 'because' and 'so'	Y	Y	hit
+T14	Uses no emotion words	Y	Y	hit
+T14	False alarm: where	N	Y	false alarm
+T15	Uses 'so'	Y	Y	hit
+T15	Emotion word: scared	Y	Y	hit
+T15	Emotion word: happy	Y	Y	hit
+T15	False alarm: missing reasons	N	Y	false alarm
+T16	Leaves out: who	Y	Y	hit
+T16	Uses 'because'	Y	Y	hit
+T16	Emotion word: cross	Y	Y	hit
+T16	Emotion word: proud	Y	Y	hit
+T16	False alarm: missing reasons	N	Y	false alarm
+T17	Leaves out: where	Y	Y	hit
+T17	Leaves out: how it ended	Y	Y	hit
+T17	Uses neither 'because' nor 'so'	Y	Y	hit
+T17	Emotion word: surprised	Y	Y	hit
+T18	Leaves out: what happened	Y	N	miss
+T18	Uses neither 'because' nor 'so'	Y	Y	hit
+T18	Emotion word: bored	Y	Y	hit
+T18	Emotion word: happy	Y	Y	hit
+T19	Leaves out: who	Y	Y	hit
+T19	Leaves out: how they felt	Y	Y	hit
+T19	Uses 'because'	Y	Y	hit
+T19	Uses no emotion words	Y	Y	hit
+T20	Leaves out: where	Y	Y	hit
+T20	Uses 'so'	Y	Y	hit
+T20	Emotion word: worried	Y	Y	hit
+T20	Emotion word: glad	Y	Y	hit

@@ -1,0 +1,50 @@
+Session S60
+
+Lesson focus:
+  The focus should be on teaching empathy and perspective-taking by helping April understand other people’s feelings better and how her actions can affect them.
+
+Profile style checklist:
+  1. Start from something she likes.
+  2. Give specific praise, not general praise.
+  3. Put a comment between questions; not many questions in a row.
+
+Reachy (greeting, not coded): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: idk
+Reachy (scripted, not coded): That's okay. We could talk about one of these. Went bowling for Mia's birthday, Had a science test, or Fire drill at school. Which one sounds good?
+
+You: yeah i went bowling
+Reachy [1]: Good choice! Tell me more about it, what games did you play?
+
+You: bowling
+Reachy [2]: What kind of lanes did you use for the bowling?
+
+You: the normal lanes, 10 pins
+Reachy [3]: And how many frames did you bowl in total?
+
+You: 10
+Reachy [4]: That's great! How did it feel playing bowling with your friends?
+
+You: really good
+Reachy [5]: Sounds like a fun time. What was the best part of your bowling day?
+
+You: the cake an pizza afterwards
+Reachy [6]: A cake and pizza after bowling sounds yummy and nice. What game did you play?
+
+You: bowling
+Reachy [7]: Oh, I see. The last thing, how did you feel playing with friends at the bowling alley?
+
+You: i dont know
+Reachy [8]: Hmm, it must have been a fun day then. Sometimes we just enjoy our time without having words for every feeling. How do you think other people in your life take care of you?
+
+You: i dont know
+Reachy [9]: It's okay not to have an answer right now. How about when you are around friends or family at the bowling alley, did they play a game too?
+
+You: yeah my friends bowled as well
+Reachy [10]: That sounds like fun! What game was your favorite?
+
+You: goodbye
+Reachy (scripted, not coded): Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+You: no
+Reachy (scripted, not coded): Okay. Thank you for sharing your day with me, April. Goodbye.

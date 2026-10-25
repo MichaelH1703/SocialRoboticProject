@@ -1,0 +1,45 @@
+Session sci-2
+
+Reachy (greeting, not rated): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Science test.
+Reachy (reply 31): That sounds like an important part of today. What did the science test cover?
+
+You: Planets and space stuff.
+Reachy (reply 32): Got it. How did that make you feel during the test, April?
+
+You: Worried.
+Reachy (not picked for rating): I see. Worried about what specifically, April?
+
+You: The moon one.
+Reachy (reply 33): Oh, okay. What kind of question was there about the moon?
+
+You: Can't remember.
+Reachy (reply 34): That's understandable. Remember anything else from today then, April?
+
+You: Break time. Snack with Ella.
+Reachy (reply 35): Sounds like a good break. And what did you have for snack?
+
+You: I don't know.
+Reachy (reply 36): Hmm, was it something sweet or healthy that Ella brought?
+
+You: Not really.
+Reachy (reply 37): Okay. What were you doing during plan time then, April?
+
+You: Fine.
+Reachy (reply 38): Sure. What did you do during plan time then, April?
+
+You: Did my homework.
+Reachy (not picked for rating): Great job on finishing your homework, April. Is there anything else you want to share from today's day?
+
+You: No.
+Reachy (reply 39): That sounds good, April. Have a rest and see you soon. Goodbye.
+
+You: Yeah.
+Reachy (reply 40): Alright then, April. Take your time for break. I'll be here when you're ready.
+
+You: Bye.
+Reachy (scripted, not rated): Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+You: No.
+Reachy (scripted, not rated): Okay. Thank you for sharing your day with me, April. Goodbye.

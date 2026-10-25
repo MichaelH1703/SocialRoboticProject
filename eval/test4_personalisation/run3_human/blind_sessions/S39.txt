@@ -1,0 +1,27 @@
+Session S39
+
+Reachy (greeting, not coded): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: yeah. went bowling
+Reachy [1]: Bowling sounds fun. Who was there with you?
+
+You: mia was there
+Reachy [2]: Great! And how did you feel after bowling, anything in particular?
+
+You: after?
+Reachy [3]: After bowling. What do you remember feeling or thinking?
+
+You: after bowling, i was very tired
+Reachy [4]: Oh, being very tired sounds like a nice way to end your day. Anything else?
+
+You: i dont know
+Reachy [5]: Do you think about anything specific that happened at the bowling alley?
+
+You: i got a strike
+Reachy [6]: That must have been exciting! What did it feel like?
+
+You: i was super happy
+Reachy [7]: Super happy sounds wonderful. Anything else from your day that you remember clearly?
+
+You: not really
+Reachy [8]: It’s okay to not have many details sometimes. That's perfectly fine.

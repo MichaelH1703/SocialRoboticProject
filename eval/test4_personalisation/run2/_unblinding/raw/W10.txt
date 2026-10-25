@@ -1,0 +1,80 @@
+[Child sim] session W10, llama3.2:3b, temperature 0.3, seed 10, "I don't know" at turn 6
+[Isolation] new process pid 373536; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (4.6s)
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Went bowling.
+[State] Selected event: Went bowling for Mia's birthday
+
+Reachy: Bowling sounds fun. What did you and your friends do there?
+
+[Latency] Turn: 2.72s
+You: Had pizza. Then cake.
+
+Reachy: Pizza and cake, that's a good start to the evening. Did anything special happen during the games?
+
+[Latency] Turn: 2.47s
+You: Mia won. I came second.
+
+Reachy: That must have been exciting! What happened in the game where Mia was winning?
+
+[Latency] Turn: 2.46s
+You: Got two strikes.
+
+Reachy: Wow, that's a great score! Do you remember how she hit it with her bowling ball?
+
+[Latency] Turn: 2.62s
+You: Can't remember.
+
+Reachy: No problem remembering now. How did it make you feel to come in second?
+
+[Latency] Turn: 2.58s
+[Child sim] forced "I don't know" at turn 6; Reachy's line before it asked a question
+You: I don't know.
+
+Reachy: Sometimes not knowing can mean feeling curious or happy for your friend. What made you feel that way?
+
+[Latency] Turn: 2.63s
+You: Mia was happy. Everyone sang Happy Birthday.
+
+Reachy: That's wonderful, having friends celebrate together! What did it make you think of when you saw them singing and cheering for Mia?
+
+[Latency] Turn: 2.62s
+You: Happy birthday thing.
+
+Reachy: What do you remember about seeing others sing "Happy Birthday" to Mia?
+
+[Latency] Turn: 2.74s
+You: People looked over.
+
+Reachy: Got it, people looked around. How did that make you feel during the game and celebration?
+
+[Latency] Turn: 2.60s
+You: A bit nervous.
+
+Reachy: Nervous makes sense when celebrating something special! Do you remember what made you nervous specifically?
+
+[Latency] Turn: 2.62s
+You: Yeah. Everyone was looking.
+
+Reachy: Everyone watching could be a little overwhelming, but also exciting to feel part of the celebration. What do you think about that feeling?
+
+[Latency] Turn: 2.71s
+You: Good.
+
+Reachy: Good is right! There's lots to talk about and even more fun in your day. Is there anything else you'd like to add or change before we finish our practice session today?
+
+[Latency] Turn: 2.80s
+You: Bye.
+
+Reachy: Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+[State] Goodbye heard; confirming before ending.
+[Not spoken] Model's reply, dropped but kept in its history as on the robot: 'Bye, take care. Thank you for sharing your day with me. Have a great rest of your evening!'
+You: No.
+
+Reachy: Okay. Thank you for sharing your day with me, April. Goodbye.
+
+[State] Child confirmed goodbye; ending session.

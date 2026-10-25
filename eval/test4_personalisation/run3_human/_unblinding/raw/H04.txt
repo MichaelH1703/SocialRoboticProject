@@ -1,0 +1,66 @@
+[Human] session H04, condition W, "I don't know" at turn 6
+[Isolation] new process pid 391096; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (3.7s)
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. went bowling
+[State] Selected event: Went bowling for Mia's birthday
+
+Reachy: Bowling sounds fun. Can you tell me who was there with you?
+
+[Latency] Turn: 2.91s
+You: Grace, Mia, Jess, Ella
+
+Reachy: That's good friends you had with you. What did Grace do at the bowling alley?
+
+[Latency] Turn: 2.74s
+You: she was bowling in my lane with me
+[Question limit] Dropped: 'Did she have fun? How about Mia and the others? Did they play any games as well?'
+
+Reachy: Oh really?
+
+[Latency] Turn: 2.74s
+You: yes
+
+Reachy: Did anything funny happen during the game?
+
+[Latency] Turn: 2.54s
+You: yeah, i through a gutter ball that went in and out of the gutter
+
+Reachy: That’s something to think about. How did it make you feel playing that way?
+
+[Latency] Turn: 2.57s
+You: i dont know
+
+Reachy: I see. Can you remember more details about what happened during bowling?
+
+[Latency] Turn: 2.61s
+You: we had birthday cake
+
+Reachy: That sounds nice. Did you like the game better or the cake?
+
+[Latency] Turn: 2.59s
+You: the cake
+
+Reachy: Got it. What color was the cake?
+
+[Latency] Turn: 2.47s
+You: it was pink
+
+Reachy: Pink is pretty, didn't it taste good too?
+
+[Latency] Turn: 2.56s
+You: yeah haha, it tasted very good
+
+Reachy: That's great to hear! Do you remember what Grace did at the bowling alley besides playing?
+
+[Latency] Turn: 2.70s
+You: not really
+
+Reachy: Sure, tell me more about what she might have done then.
+
+[Latency] Turn: 2.63s
+[Human] Ended by the player before Reachy's goodbye.
+[Human] Session over.

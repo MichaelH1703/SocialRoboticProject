@@ -1,0 +1,80 @@
+[Child sim] session pasta-1 (Made pasta in food tech), llama3.2:3b, temperature 0.3, seed 101
+[Isolation] new process pid 234180; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (3.8s)
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Made pasta.
+[State] Selected event: Made pasta in food tech
+[Question limit] Dropped: 'Who was there with you?'
+
+Reachy: That sounds yummy. What happened when you were making pasta?
+
+[Latency] Turn: 2.73s
+You: Chopped onions and mushrooms with Grace.
+
+Reachy: Good helper to chop with Grace, did it go well?
+
+[Latency] Turn: 2.38s
+You: Fine. Sauce stuck a bit.
+
+Reachy: That's tricky sometimes. How did things work out in the end?
+
+[Latency] Turn: 2.56s
+You: Mrs Hughes said it looked good.
+
+Reachy: That's great to hear! Do you remember what she said specifically?
+
+[Latency] Turn: 2.48s
+You: Can't remember.
+
+Reachy: Don't worry about it now. Is there anything else you'd like to share from your day?
+
+[Latency] Turn: 2.70s
+You: Proud when it came out oven. Happy too.
+
+Reachy: That sounds like a happy day! Is there anyone in particular you felt proud of doing something good with?
+
+[Latency] Turn: 2.60s
+You: Grace.
+
+Reachy: How do you feel about helping Grace make pasta?
+
+[Latency] Turn: 2.52s
+You: I don't know.
+
+Reachy: It's okay not to know right now. Do you remember anything else from your day?
+
+[Latency] Turn: 2.55s
+You: Took it home.
+
+Reachy: Nice! Did you have fun bringing it home?
+
+[Latency] Turn: 2.51s
+You: Mm.
+
+Reachy: I see. Is there anything you want to share about that part of the day?
+
+[Latency] Turn: 2.64s
+You: Yeah. Took it in tub for tea.
+
+Reachy: That's a thoughtful thing to do. How did taking it home make you feel?
+
+[Latency] Turn: 2.56s
+You: Fine.
+
+Reachy: It sounds like everything went smoothly. Is there anything else from your day that you want to talk about?
+
+[Latency] Turn: 2.77s
+You: Bye.
+
+Reachy: Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+[State] Goodbye heard; confirming before ending.
+[Not spoken] Model's reply, dropped but kept in its history as on the robot: 'Okay, take care. If you think of something later, we can always talk again.'
+You: No.
+
+Reachy: Okay. Thank you for sharing your day with me, April. Goodbye.
+
+[State] Child confirmed goodbye; ending session.

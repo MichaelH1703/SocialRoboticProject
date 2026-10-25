@@ -1,0 +1,45 @@
+Session S05
+
+Reachy (greeting, not coded): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Went bowling.
+Reachy [1]: That sounds fun. What did you do at the bowling alley, April?
+
+You: Got two strikes. Mia won.
+Reachy [2]: That’s exciting! How did Mia feel when she won?
+
+You: Happy.
+Reachy [3]: Good to hear Mia was happy. Did anyone else play with you at the bowling alley, April?
+
+You: Ella and stuff. Jess.
+Reachy [4]: You played with Ella, Jess, and maybe others too. What did they do together at the bowling alley?
+
+You: Bowled. Had pizza.
+Reachy [5]: That sounds like a great day! Did you enjoy your pizza afterward?
+
+You: Fun.
+Reachy [6]: That’s good to know. Anything else you’d like to share from today, April?
+
+You: Cake. Candles. Happy Birthday.
+Reachy [7]: Wow, that must have been magical! What did the cake taste like, April?
+
+You: I don't know.
+Reachy [8]: It’s okay not to remember everything. Did you blow out all the candles one time or several times?
+
+You: Mia blew it out.
+Reachy [9]: Really?
+
+You: Yeah.
+Reachy [10]: Got to blow out a big candle with your friend, Mia. That sounds special!
+
+You: Yeah.
+Reachy [11]: Enjoyed the birthday cake and company. Any other fun part from today, April?
+
+You: People looked.
+Reachy [12]: Did everyone look surprised or happy?
+
+You: Bye.
+Reachy (scripted, not coded): Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+You: No.
+Reachy (scripted, not coded): Okay. Thank you for sharing your day with me, April. Goodbye.

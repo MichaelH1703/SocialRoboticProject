@@ -1,0 +1,26 @@
+Session S73
+
+Lesson focus:
+  - Continue working on increasing language skills, particularly in using descriptive and logical explanations.
+  - Develop emotional vocabulary and the ability to articulate emotions more precisely.
+  - Enhance social reasoning by asking questions that encourage a deeper understanding of others' perspectives and reactions.
+
+Profile style checklist:
+  1. Ask short questions.
+  2. Ask concrete questions.
+  3. When she is stuck, offer a choice of two options ("Was it X or Y?").
+  4. Avoid long or open questions.
+
+Reachy (greeting, not coded): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: went bowling
+Reachy [1]: Bowling sounds fun! Who went with you and what did you do there?
+
+You: Mia, Grace and Jess were there, we did ten pin bowling there
+Reachy [2]: That's great! What happened next at the bowling alley?
+
+You: We had pizza and birthday cake
+Reachy [3]: Oh wow, that must have been delicious. Anything else you want to share from your day?
+
+You: not really
+Reachy [4]: Okay, it sounds like everything is all done with today's story then. Thanks for sharing!

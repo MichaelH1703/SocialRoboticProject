@@ -1,0 +1,299 @@
+{
+  "labelled": true,
+  "speakers": "auto",
+  "auto_labels": {
+    "sentences": [
+      [
+        "therapist",
+        "Hello, Ben."
+      ],
+      [
+        "therapist",
+        "What would you like to tell me about today?"
+      ],
+      [
+        "child",
+        "Dunno."
+      ],
+      [
+        "therapist",
+        "That's okay."
+      ],
+      [
+        "therapist",
+        "We can take a bit of time."
+      ],
+      [
+        "therapist",
+        "I've brought the who, where, what happened planner, if that's useful."
+      ],
+      [
+        "therapist",
+        "Anything happen at the weekend?"
+      ],
+      [
+        "child",
+        "Went somewhere."
+      ],
+      [
+        "therapist",
+        "Was that somewhere at home or out?"
+      ],
+      [
+        "child",
+        "Out."
+      ],
+      [
+        "therapist",
+        "What sort of place did you go to?"
+      ],
+      [
+        "child",
+        "The chippy."
+      ],
+      [
+        "therapist",
+        "The chippy."
+      ],
+      [
+        "therapist",
+        "Who went with you?"
+      ],
+      [
+        "child",
+        "Dad."
+      ],
+      [
+        "therapist",
+        "What happened there?"
+      ],
+      [
+        "child",
+        "He ordered."
+      ],
+      [
+        "therapist",
+        "And what did you do while he ordered?"
+      ],
+      [
+        "child",
+        "Stood there."
+      ],
+      [
+        "therapist",
+        "Were you waiting for food, or had you already got it?"
+      ],
+      [
+        "child",
+        "Waiting."
+      ],
+      [
+        "therapist",
+        "What did you have?"
+      ],
+      [
+        "child",
+        "Sausage and chips."
+      ],
+      [
+        "therapist",
+        "Did you eat them there or take them home?"
+      ],
+      [
+        "child",
+        "Home."
+      ],
+      [
+        "therapist",
+        "How did it go?"
+      ],
+      [
+        "child",
+        "By car."
+      ],
+      [
+        "therapist",
+        "I meant, what was it like for you?"
+      ],
+      [
+        "child",
+        "Dunno."
+      ],
+      [
+        "therapist",
+        "That's fine."
+      ],
+      [
+        "therapist",
+        "Was there anything you particularly liked or disliked?"
+      ],
+      [
+        "child",
+        "No."
+      ],
+      [
+        "therapist",
+        "Did anything unexpected happen?"
+      ],
+      [
+        "child",
+        "The man gave Dad the wrong bag."
+      ],
+      [
+        "therapist",
+        "Oh, what was in the wrong bag?"
+      ],
+      [
+        "child",
+        "Fish."
+      ],
+      [
+        "therapist",
+        "Was it your order that was mixed up?"
+      ],
+      [
+        "child",
+        "Dad's."
+      ],
+      [
+        "therapist",
+        "He checked it."
+      ],
+      [
+        "therapist",
+        "What did Dad do then?"
+      ],
+      [
+        "child",
+        "Took it back to the counter."
+      ],
+      [
+        "therapist",
+        "And what happened after that?"
+      ],
+      [
+        "child",
+        "Got the right one."
+      ],
+      [
+        "therapist",
+        "You and Dad went to the chippy, Dad ordered while you waited, and the man gave him the wrong bag with fish in it."
+      ],
+      [
+        "therapist",
+        "Dad took it back to the counter and got the right one."
+      ],
+      [
+        "child",
+        "Yeah."
+      ],
+      [
+        "therapist",
+        "Does that sound like the main bits?"
+      ],
+      [
+        "child",
+        "Mm."
+      ],
+      [
+        "therapist",
+        "Anything else you want to add?"
+      ],
+      [
+        "child",
+        "Can I go now?"
+      ],
+      [
+        "therapist",
+        "Yes."
+      ],
+      [
+        "therapist",
+        "Thanks for telling me about it, Ben."
+      ],
+      [
+        "therapist",
+        "We'll finish there."
+      ],
+      [
+        "child",
+        "Bye."
+      ]
+    ],
+    "echoes_relabelled": []
+  },
+  "labelled_transcript": "Therapist. Hello, Ben. What would you like to tell me about today? Child. Dunno. Therapist. That's okay. We can take a bit of time. I've brought the who, where, what happened planner, if that's useful. Anything happen at the weekend? Child. Went somewhere. Therapist. Was that somewhere at home or out? Child. Out. Therapist. What sort of place did you go to? Child. The chippy. Therapist. The chippy. Who went with you? Child. Dad. Therapist. What happened there? Child. He ordered. Therapist. And what did you do while he ordered? Child. Stood there. Therapist. Were you waiting for food, or had you already got it? Child. Waiting. Therapist. What did you have? Child. Sausage and chips. Therapist. Did you eat them there or take them home? Child. Home. Therapist. How did it go? Child. By car. Therapist. I meant, what was it like for you? Child. Dunno. Therapist. That's fine. Was there anything you particularly liked or disliked? Child. No. Therapist. Did anything unexpected happen? Child. The man gave Dad the wrong bag. Therapist. Oh, what was in the wrong bag? Child. Fish. Therapist. Was it your order that was mixed up? Child. Dad's. Therapist. He checked it. What did Dad do then? Child. Took it back to the counter. Therapist. And what happened after that? Child. Got the right one. Therapist. You and Dad went to the chippy, Dad ordered while you waited, and the man gave him the wrong bag with fish in it. Dad took it back to the counter and got the right one. Child. Yeah. Therapist. Does that sound like the main bits? Child. Mm. Therapist. Anything else you want to add? Child. Can I go now? Therapist. Yes. Thanks for telling me about it, Ben. We'll finish there. Child. Bye.",
+  "facts": {
+    "child_turns": 22,
+    "mean_words_per_turn": 2.1,
+    "reasons": [],
+    "sequence_words": [],
+    "vague_words": [],
+    "feelings": [],
+    "feeling_reasons": [],
+    "child_text": [
+      "Dunno.",
+      "Went somewhere.",
+      "Out.",
+      "The chippy.",
+      "Dad.",
+      "He ordered.",
+      "Stood there.",
+      "Waiting.",
+      "Sausage and chips.",
+      "Home.",
+      "By car.",
+      "Dunno.",
+      "No.",
+      "The man gave Dad the wrong bag.",
+      "Fish.",
+      "Dad's.",
+      "Took it back to the counter.",
+      "Got the right one.",
+      "Yeah.",
+      "Mm.",
+      "Can I go now?",
+      "Bye."
+    ]
+  },
+  "checked": {
+    "event": "Visit to the chippy",
+    "who": {
+      "given": true,
+      "child_words": "Dad",
+      "rejected_claim": ""
+    },
+    "where": {
+      "given": true,
+      "child_words": "The chippy",
+      "rejected_claim": ""
+    },
+    "what_happened": {
+      "given": true,
+      "child_words": "He ordered. Stood there. Waiting. Sausage and chips. The man gave Dad the wrong bag. Fish. Took it back to the counter. Got the right one",
+      "rejected_claim": ""
+    },
+    "ending": {
+      "given": true,
+      "child_words": "Can I go now? Bye",
+      "rejected_claim": ""
+    }
+  },
+  "written": {
+    "summary": "The child told that they went somewhere and went out. They mentioned the chippy and dad. Dad ordered sausage and chips. They went home by car. The man gave dad the wrong bag with fish. Dad took it back to the counter and got the right one. The child asked if they could go now and said bye.",
+    "goals": [
+      "Name how they felt.",
+      "Give a reason, using 'because' or 'so'.",
+      "Put events in order with words like 'first' and 'then'."
+    ],
+    "focus": [
+      "The child will name how they felt during an event.",
+      "The child will give a reason for an event using 'because' or 'so'.",
+      "The child will put events in order using words like 'first' and 'then'."
+    ],
+    "prompts": [
+      "How did you feel when it happened?",
+      "What happened first, and then what happened?"
+    ]
+  }
+}

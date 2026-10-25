@@ -1,0 +1,76 @@
+[Child sim] session W4, llama3.2:3b, temperature 0.3, seed 4
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Went bowling.
+[State] Selected event: Went bowling for Mia's birthday
+
+Reachy: Bowling sounds fun. What did you and who go bowling with?
+
+[Latency] Turn: 2.85s
+You: Mia. And Ella and stuff. Jess too.
+
+Reachy: Oh, and who went bowling with them that day?
+
+[Latency] Turn: 2.64s
+You: Mia's mum took us.
+
+Reachy: Got it. How was Mia's mum when she took you bowling?
+
+[Latency] Turn: 2.56s
+You: Nice.
+
+Reachy: That's good to hear. What happened next at the bowling alley?
+
+[Latency] Turn: 2.56s
+You: Had pizza. Then cake.
+
+Reachy: Sounds like a yummy day! What did you do after eating pizza and cake?
+
+[Latency] Turn: 2.57s
+You: I don't know.
+
+Reachy: What did Mia do after having pizza and cake that day?
+
+[Latency] Turn: 2.53s
+You: Blow out candles.
+
+Reachy: Fun birthday tradition! Did anyone play games at the bowling alley?
+
+[Latency] Turn: 2.49s
+You: Bowling. Got two strikes.
+
+Reachy: That's great! What else did you enjoy about going bowling with Mia?
+
+[Latency] Turn: 2.44s
+You: Good. Fun.
+
+Reachy: Good to hear it was a fun day indeed.
+
+[Latency] Turn: 2.43s
+You: Yeah.
+
+Reachy: Okay, there's always another time to talk if you want to share more later.
+
+[Latency] Turn: 2.71s
+You: Mm.
+
+Reachy: That's okay. Maybe we can try talking about your favourite part of the bowling adventure.
+
+[Latency] Turn: 2.57s
+You: Cake.
+
+Reachy: Sounds delicious! What did Mia get for cake?
+
+[Latency] Turn: 2.45s
+You: Bye.
+
+Reachy: Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+[State] Goodbye heard; confirming before ending.
+[Not spoken] Model's reply, dropped but kept in its history as on the robot: 'Goodbye, take care. We can talk more another time if you feel like it.'
+You: No.
+
+Reachy: Okay. Thank you for sharing your day with me, April. Goodbye.
+
+[State] Child confirmed goodbye; ending session.

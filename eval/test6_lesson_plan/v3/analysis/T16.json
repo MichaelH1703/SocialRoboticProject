@@ -1,0 +1,300 @@
+{
+  "labelled": true,
+  "speakers": "auto",
+  "auto_labels": {
+    "method": "sentences",
+    "segments": [
+      [
+        "therapist",
+        "Hi there."
+      ],
+      [
+        "therapist",
+        "Today we're going to talk about something that really happened to you."
+      ],
+      [
+        "therapist",
+        "I'll go first and then it'll be your turn."
+      ],
+      [
+        "therapist",
+        "On Tuesday my car wouldn't start, so I had to get the bus to work."
+      ],
+      [
+        "therapist",
+        "I was a bit upset about it."
+      ],
+      [
+        "therapist",
+        "Okay, now it's your turn."
+      ],
+      [
+        "child",
+        "I built a Lego tower."
+      ],
+      [
+        "therapist",
+        "A Lego tower!"
+      ],
+      [
+        "therapist",
+        "Where did you build it?"
+      ],
+      [
+        "child",
+        "In my bedroom."
+      ],
+      [
+        "child",
+        "On the floor."
+      ],
+      [
+        "therapist",
+        "On your bedroom floor."
+      ],
+      [
+        "therapist",
+        "Tell me what happened."
+      ],
+      [
+        "child",
+        "It got really tall."
+      ],
+      [
+        "child",
+        "Taller than me."
+      ],
+      [
+        "therapist",
+        "Taller than you!"
+      ],
+      [
+        "therapist",
+        "Who was with you?"
+      ],
+      [
+        "child",
+        "Um."
+      ],
+      [
+        "child",
+        "I don't know."
+      ],
+      [
+        "therapist",
+        "That's okay."
+      ],
+      [
+        "therapist",
+        "What happened next?"
+      ],
+      [
+        "child",
+        "It fell down because I bumped it."
+      ],
+      [
+        "child",
+        "All the bricks went everywhere."
+      ],
+      [
+        "therapist",
+        "It fell down because you bumped it."
+      ],
+      [
+        "therapist",
+        "How did you feel?"
+      ],
+      [
+        "child",
+        "Cross."
+      ],
+      [
+        "therapist",
+        "Really cross."
+      ],
+      [
+        "therapist",
+        "Really cross."
+      ],
+      [
+        "therapist",
+        "I'd be upset too."
+      ],
+      [
+        "therapist",
+        "What did you do?"
+      ],
+      [
+        "child",
+        "I built it again."
+      ],
+      [
+        "child",
+        "Even taller."
+      ],
+      [
+        "therapist",
+        "You built it again, even taller."
+      ],
+      [
+        "therapist",
+        "How did you feel about that?"
+      ],
+      [
+        "child",
+        "Proud."
+      ],
+      [
+        "therapist",
+        "Do you like Lego?"
+      ],
+      [
+        "child",
+        "I love Lego."
+      ],
+      [
+        "therapist",
+        "What happened after that?"
+      ],
+      [
+        "child",
+        "I took a photo of it."
+      ],
+      [
+        "child",
+        "Then I had to tidy up for bed."
+      ],
+      [
+        "therapist",
+        "You took a photo, and then you tidied up for bed."
+      ],
+      [
+        "therapist",
+        "What a happy ending."
+      ],
+      [
+        "therapist",
+        "Let me say your story back to you."
+      ],
+      [
+        "therapist",
+        "You built a Lego tower on your bedroom floor, and it got taller than you."
+      ],
+      [
+        "therapist",
+        "It fell down because you bumped it, and the bricks went everywhere."
+      ],
+      [
+        "therapist",
+        "You felt really cross."
+      ],
+      [
+        "therapist",
+        "Then you built it again, even taller, and you felt proud."
+      ],
+      [
+        "therapist",
+        "You took a photo of it, and then you had to tidy up for bed."
+      ],
+      [
+        "therapist",
+        "Did I get that right?"
+      ],
+      [
+        "child",
+        "Yeah."
+      ],
+      [
+        "therapist",
+        "Thanks for telling me your story."
+      ],
+      [
+        "therapist",
+        "You did a really great job."
+      ]
+    ],
+    "echoes_relabelled": [
+      26
+    ]
+  },
+  "labelled_transcript": "Therapist. Hi there. Today we're going to talk about something that really happened to you. I'll go first and then it'll be your turn. On Tuesday my car wouldn't start, so I had to get the bus to work. I was a bit upset about it. Okay, now it's your turn. Child. I built a Lego tower. Therapist. A Lego tower! Where did you build it? Child. In my bedroom. On the floor. Therapist. On your bedroom floor. Tell me what happened. Child. It got really tall. Taller than me. Therapist. Taller than you! Who was with you? Child. Um. I don't know. Therapist. That's okay. What happened next? Child. It fell down because I bumped it. All the bricks went everywhere. Therapist. It fell down because you bumped it. How did you feel? Child. Cross. Therapist. Really cross. Really cross. I'd be upset too. What did you do? Child. I built it again. Even taller. Therapist. You built it again, even taller. How did you feel about that? Child. Proud. Therapist. Do you like Lego? Child. I love Lego. Therapist. What happened after that? Child. I took a photo of it. Then I had to tidy up for bed. Therapist. You took a photo, and then you tidied up for bed. What a happy ending. Let me say your story back to you. You built a Lego tower on your bedroom floor, and it got taller than you. It fell down because you bumped it, and the bricks went everywhere. You felt really cross. Then you built it again, even taller, and you felt proud. You took a photo of it, and then you had to tidy up for bed. Did I get that right? Child. Yeah. Therapist. Thanks for telling me your story. You did a really great job.",
+  "facts": {
+    "child_turns": 11,
+    "mean_words_per_turn": 5.5,
+    "sequence_words": [
+      "then"
+    ],
+    "vague_words": [],
+    "child_text": [
+      "I built a Lego tower.",
+      "In my bedroom. On the floor.",
+      "It got really tall. Taller than me.",
+      "Um. I don't know.",
+      "It fell down because I bumped it. All the bricks went everywhere.",
+      "Cross.",
+      "I built it again. Even taller.",
+      "Proud.",
+      "I love Lego.",
+      "I took a photo of it. Then I had to tidy up for bed.",
+      "Yeah."
+    ],
+    "feelings": [
+      {
+        "word": "annoyed",
+        "child_words": "Cross",
+        "named": true
+      },
+      {
+        "word": "proud",
+        "child_words": "Proud",
+        "named": true
+      }
+    ],
+    "reasons": [
+      {
+        "child_words": "It fell down because I bumped it.",
+        "linked": true,
+        "about_feeling": false
+      }
+    ],
+    "feeling_reasons": []
+  },
+  "checked": {
+    "event": "Building a Lego tower",
+    "who": {
+      "given": false,
+      "child_words": "",
+      "rejected_claim": "Um. I don't know. | Um. I don't know."
+    },
+    "where": {
+      "given": true,
+      "child_words": "In my bedroom. On the floor.",
+      "rejected_claim": ""
+    },
+    "what_happened": {
+      "given": true,
+      "child_words": "It got really tall. Taller than me. It fell down because I bumped it. All the bricks went everywhere. I built it again. Even taller.",
+      "rejected_claim": ""
+    },
+    "ending": {
+      "given": true,
+      "child_words": "I took a photo of it. Then I had to tidy up for bed.",
+      "rejected_claim": ""
+    }
+  },
+  "written": {
+    "summary": "The child told that they built a Lego tower in their bedroom on the floor. It got really tall, taller than them, then fell down because they bumped it. All the bricks went everywhere. They built it again, even taller, and felt proud. They love Lego, took a photo of it, then had to tidy up for bed.",
+    "goals": [
+      "Say who was there.",
+      "Say why they felt that way."
+    ],
+    "focus": [
+      "The child will identify who was present in the event.",
+      "The child will explain their feelings about the event."
+    ],
+    "prompts": [
+      "Who was there with you?",
+      "Did you feel happy about that?"
+    ]
+  }
+}

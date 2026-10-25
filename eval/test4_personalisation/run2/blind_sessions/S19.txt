@@ -1,0 +1,45 @@
+Session S19
+
+Reachy (greeting, not coded): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Went bowling.
+Reachy [1]: That sounds fun. What happened at the bowling alley?
+
+You: Got two strikes. Mia won.
+Reachy [2]: Mia won and that must have been exciting! Was it just you there, or were other people playing too?
+
+You: Mia. And Ella. And Grace. Jess. Mia's mum took us.
+Reachy [3]: That’s good to know. Did anyone else win a strike besides Mia?
+
+You: No. Just Mia.
+Reachy [4]: Got it. Just Mia scored the strikes. So, how did you feel after you won with Mia?
+
+You: Happy.
+Reachy [5]: Happy sounds great! What other things happened during your bowling session?
+
+You: Had pizza. Cake. Candles.
+Reachy [6]: Pizza and cake sound delicious. Had candles for a celebration too, right?
+
+You: Yeah. Happy Birthday.
+Reachy [7]: Happy birthday is such a special day! What did you do for the cake celebration?
+
+You: Sang loud. Everyone sang.
+Reachy [8]: Everyone sang loudly together. That must have been fun and joyful!
+
+You: Good. Fun.
+Reachy [9]: That sounds like a very good day indeed!
+
+You: I don't know.
+Reachy [10]: Is there anything else you want to talk about from today?
+
+You: Mia's mum drove me home.
+Reachy [11]: Oh, so Mia's mum dropped you off at home after bowling. Did that make you feel safe or comfortable?
+
+You: Yeah.
+Reachy [12]: That’s good to hear. Do you want to share any more from your day now?
+
+You: Bye.
+Reachy (scripted, not coded): Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+You: No.
+Reachy (scripted, not coded): Okay. Thank you for sharing your day with me, April. Goodbye.

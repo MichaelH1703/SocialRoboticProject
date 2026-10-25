@@ -1,0 +1,76 @@
+[Child sim] session W1, llama3.2:3b, temperature 0.3, seed 1
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Went bowling.
+[State] Selected event: Went bowling for Mia's birthday
+
+Reachy: Golfing sounds fun! What did you do first at the bowling alley?
+
+[Latency] Turn: 2.87s
+You: Had pizza.
+
+Reachy: That's good. Then what happened next?
+
+[Latency] Turn: 2.56s
+You: Mia blew out candles.
+
+Reachy: And then how were you feeling during that time?
+
+[Latency] Turn: 2.50s
+You: Happy. A bit nervous.
+
+Reachy: Got happy about Mia's special birthday, didn't it?
+
+[Latency] Turn: 2.48s
+You: Yeah. Good.
+
+Reachy: That sounds lovely and a bit scary too sometimes. What did you do at the bowling alley then?
+
+[Latency] Turn: 2.65s
+You: I don't know.
+
+Reachy: Did anyone else join you for bowling?
+
+[Latency] Turn: 2.46s
+You: Mia's mum took us. And Ella, Grace and Jess.
+
+Reachy: That made it more fun with friends, didn't it?
+
+[Latency] Turn: 2.45s
+You: Fun.
+
+Reachy: Had pizza, Mia blowing out candles—sounds like a special day! What did you all do at the bowling alley?
+
+[Latency] Turn: 2.67s
+You: Bowled. Got two strikes.
+
+Reachy: That sounds exciting and lucky. How did they feel after getting the strikes?
+
+[Latency] Turn: 2.69s
+You: Mia won. I came second.
+
+Reachy: Nice to see a friendly competition and fun result! What else did you do together at the bowling alley besides bowling?
+
+[Latency] Turn: 2.60s
+You: Sang Happy Birthday.
+
+Reachy: That's a happy way to celebrate Mia’s special day. Had fun times, right?
+
+[Latency] Turn: 2.68s
+You: Good.
+
+Reachy: Sounds like it was a great outing. Is there anything else you want to add about today's events?
+
+[Latency] Turn: 2.77s
+You: Bye.
+
+Reachy: Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+[State] Goodbye heard; confirming before ending.
+[Not spoken] Model's reply, dropped but kept in its history as on the robot: 'Take care! If you think of anything, feel free to talk more next time. Have a good day.'
+You: No.
+
+Reachy: Okay. Thank you for sharing your day with me, April. Goodbye.
+
+[State] Child confirmed goodbye; ending session.

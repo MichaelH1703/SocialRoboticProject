@@ -1,0 +1,34 @@
+Isolation check, run 3, finished 2026-10-12 13:53
+
+H01: unloaded qwen2.5:3b; confirmed none loaded before starting
+    new process pid 382112; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+H02: unloaded qwen2.5:3b; confirmed none loaded before starting
+    new process pid 389436; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+H03: unloaded qwen2.5:3b; confirmed none loaded before starting
+    new process pid 395976; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+H04: unloaded qwen2.5:3b; confirmed none loaded before starting
+    new process pid 391096; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+H05: unloaded qwen2.5:3b; confirmed none loaded before starting
+    new process pid 388804; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+H06: unloaded qwen2.5:3b; confirmed none loaded before starting
+    new process pid 402536; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+H07: unloaded qwen2.5:3b; confirmed none loaded before starting
+    new process pid 403820; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+H08: unloaded qwen2.5:3b; confirmed none loaded before starting
+    new process pid 403776; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+H09: unloaded qwen2.5:3b; confirmed none loaded before starting
+    new process pid 409660; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+H10: unloaded qwen2.5:3b; confirmed none loaded before starting
+    new process pid 411820; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+
+April's database rows (all tables the robot reads or writes):
+  conversation_logs: before 0 rows, md5 - | after 0 rows, md5 -
+  session_notes: before 1 rows, md5 5929f783f5307a28017f9191c2e07bef | after 1 rows, md5 5929f783f5307a28017f9191c2e07bef
+  client_profiles: before 1 rows, md5 d05c5cac0994a64b15668519b4392d0f | after 1 rows, md5 d05c5cac0994a64b15668519b4392d0f
+  daily_recap_sessions: before 1 rows, md5 06ba1caf473914fcec48b68b2223f142 | after 1 rows, md5 06ba1caf473914fcec48b68b2223f142
+  recount_event_prompts: before 6 rows, md5 38e5b7fb9f4631fcc860c4038a52b1f0 | after 6 rows, md5 38e5b7fb9f4631fcc860c4038a52b1f0
+  client_progress: before 0 rows, md5 - | after 0 rows, md5 -
+  client_curriculum: before 0 rows, md5 - | after 0 rows, md5 -
+  safety_events: before 0 rows, md5 - | after 0 rows, md5 -
+
+Unchanged by the run: True

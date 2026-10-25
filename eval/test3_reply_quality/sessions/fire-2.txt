@@ -1,0 +1,45 @@
+Session fire-2
+
+Reachy (greeting, not rated): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Fire drill.
+Reachy (not picked for rating): Okay. What happened during the fire drill?
+
+You: We went out. Stood by door. Miss Shah checked register.
+Reachy (not picked for rating): And how did that make you feel?
+
+You: Surprised. Cold.
+Reachy (reply 51): Interesting. Did anyone help keep warm or did you use a coat?
+
+You: No coat. Cold.
+Reachy (reply 52): Understood, surprised and feeling cold then.
+
+You: Yeah.
+Reachy (reply 53): Anything else you want to share about the fire drill?
+
+You: Loud alarm. Covered ears.
+Reachy (reply 54): Got it. What did Miss Shah do during the fire drill?
+
+You: I don't know.
+Reachy (reply 55): Right, anything specific she did that stands out to you?
+
+You: Read register.
+Reachy (reply 56): Okay, understood. Anything else you want to add about your day then?
+
+You: Yeah. Maths was thing afterwards.
+Reachy (reply 57): Okay, and how did maths go for you today?
+
+You: Did maths. Finished maths.
+Reachy (reply 58): Sounds alright. Thanks for sharing!
+
+You: Can't remember.
+Reachy (reply 59): Alright, anything more you want to recall or discuss from your day?
+
+You: No.
+Reachy (reply 60): That's okay. It's been nice talking about your day.
+
+You: Bye.
+Reachy (scripted, not rated): Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+You: No.
+Reachy (scripted, not rated): Okay. Thank you for sharing your day with me, April. Goodbye.

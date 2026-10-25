@@ -1,0 +1,30 @@
+1. **Narrative Summary:**
+   - The child described a scenario where they fell off their scooter while riding down the path outside their house. They hit a stone because they didn't see it coming, which resulted in them falling on their knee. As a result, they got a plaster and went inside.
+
+2. **Communication Strengths:**
+   - The child demonstrated good problem-solving skills by describing what happened when they fell.
+   - They provided specific details about the scooter's speed, the path being outside their house, hitting a stone, and getting a plaster. 
+   - The child showed emotional understanding by stating that "My knee was red," which indicates an awareness of the injury.
+
+3. **Communication Gaps:**
+   - There were some gaps in describing specific details like the exact reason why they didn't see the stone.
+   - The child could provide more about how quickly they fell and whether there were any other injuries apart from the knee.
+
+4. **Emotional Understanding:**
+   - The child showed initial confusion with "Um" when asked to describe their feelings, but eventually provided a clear answer indicating fear and pain ("My knee was red").
+   - They described getting help (getting a plaster) and feeling relief afterward ("I got a plaster and went inside").
+
+5. **Recommended Future Lesson Focus:**
+   - Improving the child's ability to provide detailed descriptions of events.
+   - Enhancing their problem-solving skills, particularly focusing on identifying potential risks like obstacles or unanticipated situations while riding scooters.
+
+6. **Suggested Reachy Prompts (simple, natural, child-friendly):**
+
+- "Can you tell me more about how fast you were going when you fell?"
+- "What was the stone like? Was it big or small?" 
+- "How did you know there was a stone ahead of you?"
+- "What made you feel better after falling?"
+- "Tell me what you saw on your way down the hill."
+- "Can you draw a picture of where you fell and write about what happened next?"
+
+These prompts are designed to support both therapist-led sessions and future interactions with the socially assistive robot, encouraging the child to expand their descriptions and problem-solving skills.

@@ -1,0 +1,286 @@
+{
+  "labelled": true,
+  "speakers": "auto",
+  "auto_labels": {
+    "method": "sentences",
+    "segments": [
+      [
+        "therapist",
+        "Hi there."
+      ],
+      [
+        "therapist",
+        "Today we're going to talk about something that really happened to you."
+      ],
+      [
+        "therapist",
+        "I'll go first and then it'll be your turn."
+      ],
+      [
+        "therapist",
+        "Last week I went to the hairdresser."
+      ],
+      [
+        "therapist",
+        "I was a bit worried because I wanted it really short, but it looked great."
+      ],
+      [
+        "therapist",
+        "Okay, now it's your turn."
+      ],
+      [
+        "child",
+        "I went to the dentist."
+      ],
+      [
+        "therapist",
+        "The dentist."
+      ],
+      [
+        "therapist",
+        "Who took you?"
+      ],
+      [
+        "child",
+        "My dad."
+      ],
+      [
+        "child",
+        "He had to go too."
+      ],
+      [
+        "therapist",
+        "Your dad took you, and he had to go too."
+      ],
+      [
+        "therapist",
+        "Where's the dentist?"
+      ],
+      [
+        "child",
+        "In town."
+      ],
+      [
+        "child",
+        "Next to the library."
+      ],
+      [
+        "therapist",
+        "In town, next to the library."
+      ],
+      [
+        "therapist",
+        "What happened there?"
+      ],
+      [
+        "child",
+        "I sat in the big chair."
+      ],
+      [
+        "child",
+        "It goes up and down."
+      ],
+      [
+        "therapist",
+        "The big chair goes up and down."
+      ],
+      [
+        "therapist",
+        "Then what happened?"
+      ],
+      [
+        "child",
+        "She looked at my teeth with a mirror."
+      ],
+      [
+        "child",
+        "She counted them."
+      ],
+      [
+        "therapist",
+        "She counted your teeth."
+      ],
+      [
+        "therapist",
+        "Lots of people feel scared at the dentist."
+      ],
+      [
+        "therapist",
+        "How did you feel?"
+      ],
+      [
+        "child",
+        "I don't know."
+      ],
+      [
+        "therapist",
+        "That's okay."
+      ],
+      [
+        "therapist",
+        "Were you nervous at all?"
+      ],
+      [
+        "child",
+        "I don't know."
+      ],
+      [
+        "child",
+        "She had a funny hat."
+      ],
+      [
+        "therapist",
+        "A funny hat!"
+      ],
+      [
+        "therapist",
+        "What happened after she counted your teeth?"
+      ],
+      [
+        "child",
+        "I have to brush more because one has a hole."
+      ],
+      [
+        "child",
+        "So I got a new toothbrush."
+      ],
+      [
+        "therapist",
+        "You need to brush more because one has a hole, so you got a new toothbrush."
+      ],
+      [
+        "therapist",
+        "How did the visit end?"
+      ],
+      [
+        "child",
+        "I got a sticker."
+      ],
+      [
+        "child",
+        "Then we went to the café."
+      ],
+      [
+        "therapist",
+        "A sticker, and then the café."
+      ],
+      [
+        "therapist",
+        "Let me say your story back to you."
+      ],
+      [
+        "therapist",
+        "Your dad took you to the dentist in town, next to the library."
+      ],
+      [
+        "therapist",
+        "You sat in the big chair that goes up and down, and the dentist counted your teeth with a mirror."
+      ],
+      [
+        "therapist",
+        "She had a funny hat."
+      ],
+      [
+        "therapist",
+        "One tooth has a hole, so you need to brush more, and you got a new toothbrush."
+      ],
+      [
+        "therapist",
+        "At the end you got a sticker and went to the café."
+      ],
+      [
+        "therapist",
+        "Did I get that right?"
+      ],
+      [
+        "child",
+        "Yeah."
+      ],
+      [
+        "therapist",
+        "Thanks for telling me your story."
+      ],
+      [
+        "therapist",
+        "You did a really great job."
+      ]
+    ],
+    "echoes_relabelled": [
+      7
+    ]
+  },
+  "labelled_transcript": "Therapist. Hi there. Today we're going to talk about something that really happened to you. I'll go first and then it'll be your turn. Last week I went to the hairdresser. I was a bit worried because I wanted it really short, but it looked great. Okay, now it's your turn. Child. I went to the dentist. Therapist. The dentist. Who took you? Child. My dad. He had to go too. Therapist. Your dad took you, and he had to go too. Where's the dentist? Child. In town. Next to the library. Therapist. In town, next to the library. What happened there? Child. I sat in the big chair. It goes up and down. Therapist. The big chair goes up and down. Then what happened? Child. She looked at my teeth with a mirror. She counted them. Therapist. She counted your teeth. Lots of people feel scared at the dentist. How did you feel? Child. I don't know. Therapist. That's okay. Were you nervous at all? Child. I don't know. She had a funny hat. Therapist. A funny hat! What happened after she counted your teeth? Child. I have to brush more because one has a hole. So I got a new toothbrush. Therapist. You need to brush more because one has a hole, so you got a new toothbrush. How did the visit end? Child. I got a sticker. Then we went to the café. Therapist. A sticker, and then the café. Let me say your story back to you. Your dad took you to the dentist in town, next to the library. You sat in the big chair that goes up and down, and the dentist counted your teeth with a mirror. She had a funny hat. One tooth has a hole, so you need to brush more, and you got a new toothbrush. At the end you got a sticker and went to the café. Did I get that right? Child. Yeah. Therapist. Thanks for telling me your story. You did a really great job.",
+  "facts": {
+    "child_turns": 10,
+    "mean_words_per_turn": 7.8,
+    "sequence_words": [
+      "next",
+      "then"
+    ],
+    "vague_words": [],
+    "child_text": [
+      "I went to the dentist.",
+      "My dad. He had to go too.",
+      "In town. Next to the library.",
+      "I sat in the big chair. It goes up and down.",
+      "She looked at my teeth with a mirror. She counted them.",
+      "I don't know.",
+      "I don't know. She had a funny hat.",
+      "I have to brush more because one has a hole. So I got a new toothbrush.",
+      "I got a sticker. Then we went to the café.",
+      "Yeah."
+    ],
+    "feelings": [],
+    "reasons": [
+      {
+        "child_words": "I have to brush more because one has a hole.",
+        "linked": true,
+        "about_feeling": false
+      },
+      {
+        "child_words": "So I got a new toothbrush.",
+        "linked": true,
+        "about_feeling": false
+      }
+    ],
+    "feeling_reasons": []
+  },
+  "checked": {
+    "event": "Dentist visit",
+    "who": {
+      "given": true,
+      "child_words": "My dad. He had to go too.",
+      "rejected_claim": ""
+    },
+    "where": {
+      "given": false,
+      "child_words": "",
+      "rejected_claim": "In town. Next to the library. | In town. Next to the library."
+    },
+    "what_happened": {
+      "given": true,
+      "child_words": "I sat in the big chair. It goes up and down. She looked at my teeth with a mirror. She counted them. I have to brush more because one has a hole. So I got a new toothbrush. I got a sticker. Then we went to the café.",
+      "rejected_claim": ""
+    },
+    "ending": {
+      "given": true,
+      "child_words": "I got a sticker. Then we went to the café.",
+      "rejected_claim": ""
+    }
+  },
+  "written": {
+    "summary": "The child told that they went to the dentist. Their dad went too. They went to town next to the library. The child sat in the big chair that goes up and down. The dentist looked at their teeth with a mirror and counted them. The child didn't know. The dentist had a funny hat. The child has to brush more because one tooth has a hole. They got a new toothbrush and a sticker. Then they went to the café. The child said yeah.",
+    "goals": [
+      "Say where it happened.",
+      "Say how they felt."
+    ],
+    "focus": [
+      "The child will describe the location of the event.",
+      "The child will describe their emotions during the event."
+    ],
+    "prompts": [
+      "Where did it happen?",
+      "How did you feel about that?"
+    ]
+  }
+}

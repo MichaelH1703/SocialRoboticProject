@@ -1,0 +1,82 @@
+[Child sim] session B6, llama3.2:3b, temperature 0.3, seed 6, "I don't know" at turn 6
+[Isolation] new process pid 371076; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (4.6s)
+[Supabase] client_profiles error: {'message': 'Cannot coerce the result to a single JSON object', 'code': 'PGRST116', 'hint': None, 'details': 'The result contains 0 rows'}
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Went bowling.
+[State] Selected event: Went bowling for Mia's birthday
+
+Reachy: You went bowling. Who was with you?
+
+[Latency] Turn: 2.55s
+You: Mia. And Ella and stuff.
+
+Reachy: You were at the bowling alley with Mia, Ella, and others. How did that make you feel?
+
+[Latency] Turn: 2.47s
+You: Happy. A bit nervous.
+
+Reachy: Sounds like you felt happy but also a little nervous. What happened next after going bowling?
+
+[Latency] Turn: 2.49s
+You: Had pizza. Then cake.
+
+Reachy: You had pizza and then cake afterward. How did that round of the day make you feel?
+
+[Latency] Turn: 2.73s
+You: Good. Fun.
+
+Reachy: It sounds like it was a fun time for you. Was there anything else you want to share about your bowling day?
+
+[Latency] Turn: 2.65s
+[Child sim] forced "I don't know" at turn 6; Reachy's line before it asked a question
+You: I don't know.
+
+Reachy: Is there something specific you remember from the day that you'd like to talk more about, April?
+
+[Latency] Turn: 2.64s
+You: Mia's birthday. Everyone sang Happy Birthday.
+
+Reachy: Everyone including Mia sang "Happy Birthday" at the bowling alley. How did hearing that make you feel?
+
+[Latency] Turn: 2.63s
+You: Good.
+
+Reachy: Hearing everyone sing "Happy Birthday" must have made you really happy, April. Is there anything else from your day you'd like to talk about now?
+
+[Latency] Turn: 2.87s
+You: Mia's mum drove me home.
+[Question limit] Dropped: 'Feelings?'
+
+Reachy: Your mom drove you back home after the bowling. How did that go?
+
+[Latency] Turn: 2.68s
+You: Can't remember.
+
+Reachy: It sounds like you're trying to recall more details from today, April. Was there anything else you wanted to share about your bowling day or how it made you feel?
+
+[Latency] Turn: 2.90s
+You: Yeah.
+
+Reachy: Sure, do you want to add something about the bowling trip or explain how it felt for you that day?
+
+[Latency] Turn: 2.65s
+You: Nervous.
+
+Reachy: You also felt nervous during the bowling trip. How does that make you feel now recalling those feeling, April?
+
+[Latency] Turn: 2.64s
+You: Bye.
+
+Reachy: Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+[State] Goodbye heard; confirming before ending.
+[Not spoken] Model's reply, dropped but kept in its history as on the robot: 'Okay, take care, April. Thank you for sharing your day with me today.'
+You: No.
+
+Reachy: Okay. Thank you for sharing your day with me, April. Goodbye.
+
+[State] Child confirmed goodbye; ending session.

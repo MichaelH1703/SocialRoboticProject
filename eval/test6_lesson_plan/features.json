@@ -1,0 +1,334 @@
+{
+  "_note": "Planted features, fixed 2026-10-11 before any transcript was run through the generator. 'omits' = story parts the CHILD never gives (who, where, what happened, how they felt, how it ended). 'because' / 'so' = whether the CHILD uses that word as a linking word. 'emotions' = every emotion word the CHILD uses (empty = none). The therapist's words never count. 'therapist_traps' are linking and emotion words only the therapist says (her own story, her recasts), recorded to check whether the analysis credits them to the child. They are not scored features.",
+  "T01": {
+    "event": "swimming lesson",
+    "omits": [
+      "where"
+    ],
+    "because": true,
+    "so": false,
+    "emotions": [
+      "scared",
+      "happy"
+    ],
+    "therapist_traps": [
+      "so",
+      "silly",
+      "nervous"
+    ]
+  },
+  "T02": {
+    "event": "friend's birthday party",
+    "omits": [
+      "how it ended"
+    ],
+    "because": false,
+    "so": false,
+    "emotions": [
+      "excited"
+    ],
+    "therapist_traps": [
+      "because",
+      "so",
+      "happy",
+      "thrilled"
+    ]
+  },
+  "T03": {
+    "event": "lost coat at school",
+    "omits": [
+      "who"
+    ],
+    "because": false,
+    "so": true,
+    "emotions": [
+      "sad",
+      "worried"
+    ],
+    "therapist_traps": [
+      "because",
+      "upset"
+    ]
+  },
+  "T04": {
+    "event": "baking cookies with grandma",
+    "omits": [
+      "how they felt"
+    ],
+    "because": true,
+    "so": true,
+    "emotions": [],
+    "therapist_traps": [
+      "annoyed",
+      "happy"
+    ]
+  },
+  "T05": {
+    "event": "football match",
+    "omits": [
+      "where",
+      "how it ended"
+    ],
+    "because": false,
+    "so": false,
+    "emotions": [
+      "angry"
+    ],
+    "therapist_traps": [
+      "because",
+      "so",
+      "happy",
+      "frustrating"
+    ]
+  },
+  "T06": {
+    "event": "trip to the zoo",
+    "omits": [],
+    "because": true,
+    "so": false,
+    "emotions": [
+      "excited",
+      "scared"
+    ],
+    "therapist_traps": [
+      "so",
+      "surprised",
+      "nervous"
+    ]
+  },
+  "T07": {
+    "event": "walk in the park with the dog",
+    "omits": [
+      "what happened"
+    ],
+    "because": false,
+    "so": false,
+    "emotions": [
+      "happy"
+    ],
+    "therapist_traps": [
+      "because",
+      "so",
+      "grumpy",
+      "cheerful"
+    ]
+  },
+  "T08": {
+    "event": "fell off scooter",
+    "omits": [
+      "who",
+      "how they felt"
+    ],
+    "because": true,
+    "so": false,
+    "emotions": [],
+    "therapist_traps": [
+      "so",
+      "upset",
+      "because",
+      "frightened"
+    ]
+  },
+  "T09": {
+    "event": "class assembly performance",
+    "omits": [
+      "how it ended"
+    ],
+    "because": false,
+    "so": true,
+    "emotions": [
+      "nervous",
+      "proud"
+    ],
+    "therapist_traps": [
+      "because",
+      "relieved",
+      "delighted"
+    ]
+  },
+  "T10": {
+    "event": "playing a new video game",
+    "omits": [
+      "who",
+      "where"
+    ],
+    "because": false,
+    "so": false,
+    "emotions": [
+      "annoyed",
+      "happy"
+    ],
+    "therapist_traps": [
+      "so",
+      "because",
+      "cross",
+      "frustrating"
+    ]
+  },
+  "_note_T11_T20": "T11-T20 were added 2026-10-11 as a held-out set, after v2 had been run on T01-T10 and before v2's ending check was changed. Same rules as '_note'. Fixed before any of them was run through a generator.",
+  "T11": {
+    "event": "trip to the beach",
+    "omits": [
+      "who"
+    ],
+    "because": false,
+    "so": true,
+    "emotions": [
+      "happy"
+    ],
+    "therapist_traps": [
+      "because",
+      "worried",
+      "relieved",
+      "excited"
+    ]
+  },
+  "T12": {
+    "event": "getting a puppy",
+    "omits": [
+      "where"
+    ],
+    "because": true,
+    "so": false,
+    "emotions": [
+      "nervous",
+      "excited"
+    ],
+    "therapist_traps": [
+      "so",
+      "proud",
+      "happy"
+    ]
+  },
+  "T13": {
+    "event": "sports day",
+    "omits": [
+      "how it ended"
+    ],
+    "because": false,
+    "so": false,
+    "emotions": [
+      "sad"
+    ],
+    "therapist_traps": [
+      "because",
+      "so",
+      "silly",
+      "upset"
+    ]
+  },
+  "T14": {
+    "event": "going to the dentist",
+    "omits": [
+      "how they felt"
+    ],
+    "because": true,
+    "so": true,
+    "emotions": [],
+    "therapist_traps": [
+      "worried",
+      "scared",
+      "nervous"
+    ]
+  },
+  "T15": {
+    "event": "dinosaur film at the cinema",
+    "omits": [],
+    "because": false,
+    "so": true,
+    "emotions": [
+      "scared",
+      "happy"
+    ],
+    "therapist_traps": [
+      "because",
+      "embarrassed",
+      "frightened"
+    ]
+  },
+  "T16": {
+    "event": "building a Lego tower",
+    "omits": [
+      "who"
+    ],
+    "because": true,
+    "so": false,
+    "emotions": [
+      "cross",
+      "proud"
+    ],
+    "therapist_traps": [
+      "so",
+      "upset",
+      "happy"
+    ]
+  },
+  "T17": {
+    "event": "losing a tooth",
+    "omits": [
+      "where",
+      "how it ended"
+    ],
+    "because": false,
+    "so": false,
+    "emotions": [
+      "surprised"
+    ],
+    "therapist_traps": [
+      "because",
+      "so",
+      "worried",
+      "excited"
+    ]
+  },
+  "T18": {
+    "event": "school trip to a farm",
+    "omits": [
+      "what happened"
+    ],
+    "because": false,
+    "so": false,
+    "emotions": [
+      "bored",
+      "happy"
+    ],
+    "therapist_traps": [
+      "because",
+      "so",
+      "excited"
+    ]
+  },
+  "T19": {
+    "event": "birthday at home",
+    "omits": [
+      "who",
+      "how they felt"
+    ],
+    "because": true,
+    "so": false,
+    "emotions": [],
+    "therapist_traps": [
+      "so",
+      "proud",
+      "excited",
+      "happy"
+    ]
+  },
+  "T20": {
+    "event": "fire drill at school",
+    "omits": [
+      "where"
+    ],
+    "because": false,
+    "so": true,
+    "emotions": [
+      "worried",
+      "glad"
+    ],
+    "therapist_traps": [
+      "because",
+      "embarrassed",
+      "nervous"
+    ]
+  }
+}

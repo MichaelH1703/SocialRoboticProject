@@ -1,0 +1,291 @@
+{
+  "labelled": true,
+  "speakers": "auto",
+  "auto_labels": {
+    "method": "sentences",
+    "segments": [
+      [
+        "therapist",
+        "Hi, Yasmin."
+      ],
+      [
+        "therapist",
+        "What would you like to talk about today?"
+      ],
+      [
+        "child",
+        "The climbing session, I suppose."
+      ],
+      [
+        "therapist",
+        "Tell me about it."
+      ],
+      [
+        "child",
+        "I went swimming on Sunday, and I got water up my nose when I tried to turn at the end of the pool."
+      ],
+      [
+        "child",
+        "It wasn't my finest moment."
+      ],
+      [
+        "child",
+        "We had to do a route without using the blue holds."
+      ],
+      [
+        "therapist",
+        "Who was there with you?"
+      ],
+      [
+        "child",
+        "My instructor, Rob, and two other people from the Tuesday group."
+      ],
+      [
+        "therapist",
+        "Where was the session?"
+      ],
+      [
+        "child",
+        "At the climbing centre in Leeds."
+      ],
+      [
+        "child",
+        "The indoor one by the retail park."
+      ],
+      [
+        "therapist",
+        "How did the route work?"
+      ],
+      [
+        "child",
+        "The blue holds were taped off."
+      ],
+      [
+        "child",
+        "You could use the green ones and the red ones, but not the blue ones."
+      ],
+      [
+        "child",
+        "Rob said it was to make us plan where our feet went."
+      ],
+      [
+        "therapist",
+        "What happened when you tried it?"
+      ],
+      [
+        "child",
+        "I got to the middle and couldn't reach the next green hold."
+      ],
+      [
+        "child",
+        "I tried moving my left foot up, but it kept slipping."
+      ],
+      [
+        "therapist",
+        "What was that like for you?"
+      ],
+      [
+        "child",
+        "My stomach went all tight."
+      ],
+      [
+        "child",
+        "I thought I was going to have to come down without finishing it."
+      ],
+      [
+        "therapist",
+        "That sounds frightening."
+      ],
+      [
+        "therapist",
+        "What did you do next?"
+      ],
+      [
+        "child",
+        "I went back down one hold and put my foot on the red one instead."
+      ],
+      [
+        "child",
+        "Then I could reach."
+      ],
+      [
+        "therapist",
+        "So you changed your foot placement and found another way up."
+      ],
+      [
+        "therapist",
+        "How did you feel when you got to the top?"
+      ],
+      [
+        "child",
+        "Properly pleased with myself."
+      ],
+      [
+        "child",
+        "I didn't think I'd manage it."
+      ],
+      [
+        "therapist",
+        "What happened after you'd finished the route?"
+      ],
+      [
+        "child",
+        "Rob said I could try it again if I wanted, but I said no because my arms were tired."
+      ],
+      [
+        "therapist",
+        "And how did the session end?"
+      ],
+      [
+        "child",
+        "We did stretches and then everyone got their bags."
+      ],
+      [
+        "therapist",
+        "Let me check the order."
+      ],
+      [
+        "child",
+        "Rob set the route with the blue holds out of use."
+      ],
+      [
+        "therapist",
+        "You struggled at the middle, moved your foot to a red hold, and reached the top."
+      ],
+      [
+        "child",
+        "You felt pleased with yourself, but your arms were tired, so you didn't repeat it."
+      ],
+      [
+        "therapist",
+        "Then you all stretched and got your bags."
+      ],
+      [
+        "therapist",
+        "That's it."
+      ],
+      [
+        "therapist",
+        "Is there another detail you'd like to add?"
+      ],
+      [
+        "child",
+        "No."
+      ],
+      [
+        "therapist",
+        "Thanks, Yasmin."
+      ],
+      [
+        "therapist",
+        "We'll finish there."
+      ],
+      [
+        "child",
+        "Can I book the same slot next Tuesday?"
+      ]
+    ],
+    "echoes_relabelled": []
+  },
+  "labelled_transcript": "Therapist. Hi, Yasmin. What would you like to talk about today? Child. The climbing session, I suppose. Therapist. Tell me about it. Child. I went swimming on Sunday, and I got water up my nose when I tried to turn at the end of the pool. It wasn't my finest moment. We had to do a route without using the blue holds. Therapist. Who was there with you? Child. My instructor, Rob, and two other people from the Tuesday group. Therapist. Where was the session? Child. At the climbing centre in Leeds. The indoor one by the retail park. Therapist. How did the route work? Child. The blue holds were taped off. You could use the green ones and the red ones, but not the blue ones. Rob said it was to make us plan where our feet went. Therapist. What happened when you tried it? Child. I got to the middle and couldn't reach the next green hold. I tried moving my left foot up, but it kept slipping. Therapist. What was that like for you? Child. My stomach went all tight. I thought I was going to have to come down without finishing it. Therapist. That sounds frightening. What did you do next? Child. I went back down one hold and put my foot on the red one instead. Then I could reach. Therapist. So you changed your foot placement and found another way up. How did you feel when you got to the top? Child. Properly pleased with myself. I didn't think I'd manage it. Therapist. What happened after you'd finished the route? Child. Rob said I could try it again if I wanted, but I said no because my arms were tired. Therapist. And how did the session end? Child. We did stretches and then everyone got their bags. Therapist. Let me check the order. Child. Rob set the route with the blue holds out of use. Therapist. You struggled at the middle, moved your foot to a red hold, and reached the top. Child. You felt pleased with yourself, but your arms were tired, so you didn't repeat it. Therapist. Then you all stretched and got your bags. That's it. Is there another detail you'd like to add? Child. No. Therapist. Thanks, Yasmin. We'll finish there. Child. Can I book the same slot next Tuesday?",
+  "facts": {
+    "child_turns": 15,
+    "mean_words_per_turn": 15.6,
+    "sequence_words": [
+      "next",
+      "then"
+    ],
+    "vague_words": [],
+    "child_text": [
+      "The climbing session, I suppose.",
+      "I went swimming on Sunday, and I got water up my nose when I tried to turn at the end of the pool. It wasn't my finest moment. We had to do a route without using the blue holds.",
+      "My instructor, Rob, and two other people from the Tuesday group.",
+      "At the climbing centre in Leeds. The indoor one by the retail park.",
+      "The blue holds were taped off. You could use the green ones and the red ones, but not the blue ones. Rob said it was to make us plan where our feet went.",
+      "I got to the middle and couldn't reach the next green hold. I tried moving my left foot up, but it kept slipping.",
+      "My stomach went all tight. I thought I was going to have to come down without finishing it.",
+      "I went back down one hold and put my foot on the red one instead. Then I could reach.",
+      "Properly pleased with myself. I didn't think I'd manage it.",
+      "Rob said I could try it again if I wanted, but I said no because my arms were tired.",
+      "We did stretches and then everyone got their bags.",
+      "Rob set the route with the blue holds out of use.",
+      "You felt pleased with yourself, but your arms were tired, so you didn't repeat it.",
+      "No.",
+      "Can I book the same slot next Tuesday?"
+    ],
+    "feelings": [
+      {
+        "word": "tight",
+        "child_words": "My stomach went all tight. I thought I was going to have to come down without finishing it.",
+        "named": false
+      },
+      {
+        "word": "pleased",
+        "child_words": "Properly pleased with myself. I didn't think I'd manage it.",
+        "named": true
+      }
+    ],
+    "reasons": [
+      {
+        "child_words": "Rob said it was to make us plan where our feet went.",
+        "linked": false,
+        "about_feeling": false
+      },
+      {
+        "child_words": "I thought I was going to have to come down without finishing it.",
+        "linked": false,
+        "about_feeling": true
+      },
+      {
+        "child_words": "Rob said I could try it again if I wanted, but I said no because my arms were tired.",
+        "linked": true,
+        "about_feeling": true
+      },
+      {
+        "child_words": "You felt pleased with yourself, but your arms were tired, so you didn't repeat it.",
+        "linked": true,
+        "about_feeling": true
+      }
+    ],
+    "feeling_reasons": [
+      "I thought I was going to have to come down without finishing it.",
+      "Rob said I could try it again if I wanted, but I said no because my arms were tired.",
+      "You felt pleased with yourself, but your arms were tired, so you didn't repeat it."
+    ]
+  },
+  "checked": {
+    "event": "Climbing session",
+    "who": {
+      "given": true,
+      "child_words": "My instructor, Rob, and two other people from the Tuesday group.",
+      "rejected_claim": ""
+    },
+    "where": {
+      "given": true,
+      "child_words": "At the climbing centre in Leeds. The indoor one by the retail park.",
+      "rejected_claim": ""
+    },
+    "what_happened": {
+      "given": true,
+      "child_words": "I got to the middle and couldn't reach the next green hold. I tried moving my left foot up, but it kept slipping. My stomach went all tight. I thought I was going to have to come down without finishing it. I went back down one hold and put my foot on the red one instead. Then I could reach. Properly pleased with myself. I didn't think I'd manage it. Rob said I could try it again if I wanted, but I said no because my arms were tired.",
+      "rejected_claim": ""
+    },
+    "ending": {
+      "given": true,
+      "child_words": "We did stretches and then everyone got their bags.",
+      "rejected_claim": ""
+    }
+  },
+  "written": {
+    "summary": "The child told about a climbing session, mentioning they went swimming on Sunday and got water up their nose. They described a climbing route without using the blue holds, and how they managed to complete it after adjusting their foot placement. The child also mentioned Rob, the instructor, and asked if they could book the same slot next Tuesday.",
+    "goals": [
+      "Add more detail to each part of the recount."
+    ],
+    "focus": [
+      "Add more detail to each part of the recount."
+    ],
+    "prompts": [
+      "What did you do next after that?"
+    ]
+  }
+}

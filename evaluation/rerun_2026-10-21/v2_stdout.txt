@@ -1,0 +1,67 @@
+
+### v2 (qwen3:8b), started 2026-10-21 17:52:14 on MichaelsLaptop
+- before first transcript, ollama ps: qwen2.5:3b 100% GPU
+- T01: ok, start 2026-10-21 17:52:17, end 2026-10-21 17:52:54 (38s), speakers auto, input identical to original v2 run
+  - ollama ps: qwen3:8b 100% GPU
+- T02: ok, start 2026-10-21 17:52:56, end 2026-10-21 17:53:38 (42s), speakers auto, input identical to original v2 run
+- T03: ok, start 2026-10-21 17:53:38, end 2026-10-21 17:54:14 (36s), speakers auto, input identical to original v2 run
+- T04: ok, start 2026-10-21 17:54:14, end 2026-10-21 17:54:48 (34s), speakers auto, input identical to original v2 run
+- T05: ok, start 2026-10-21 17:54:48, end 2026-10-21 17:55:30 (42s), speakers auto, input identical to original v2 run
+- T06: ok, start 2026-10-21 17:55:30, end 2026-10-21 17:56:03 (34s), speakers auto, input identical to original v2 run
+- T07: ok, start 2026-10-21 17:56:03, end 2026-10-21 17:56:43 (39s), speakers auto, input identical to original v2 run
+- T08: ok, start 2026-10-21 17:56:43, end 2026-10-21 17:57:23 (41s), speakers auto, input identical to original v2 run
+- T09: ok, start 2026-10-21 17:57:23, end 2026-10-21 17:58:01 (38s), speakers auto, input identical to original v2 run
+- T10: ok, start 2026-10-21 17:58:01, end 2026-10-21 17:58:40 (39s), speakers auto, input identical to original v2 run
+- T11: ok, start 2026-10-21 17:58:40, end 2026-10-21 17:59:17 (37s), speakers auto, input identical to original v2 run
+- T12: ok, start 2026-10-21 17:59:17, end 2026-10-21 17:59:52 (35s), speakers auto, input identical to original v2 run
+- T13: ok, start 2026-10-21 17:59:52, end 2026-10-21 18:00:34 (42s), speakers auto, input identical to original v2 run
+- T14: ok, start 2026-10-21 18:00:34, end 2026-10-21 18:01:16 (42s), speakers auto, input identical to original v2 run
+- T15: ok, start 2026-10-21 18:01:16, end 2026-10-21 18:01:51 (35s), speakers auto, input identical to original v2 run
+- T16: ok, start 2026-10-21 18:01:51, end 2026-10-21 18:02:29 (38s), speakers auto, input identical to original v2 run
+- T17: ok, start 2026-10-21 18:02:29, end 2026-10-21 18:03:08 (39s), speakers auto, input identical to original v2 run
+- T18: ok, start 2026-10-21 18:03:08, end 2026-10-21 18:03:47 (39s), speakers auto, input identical to original v2 run
+- T19: ok, start 2026-10-21 18:03:47, end 2026-10-21 18:04:21 (34s), speakers auto, input identical to original v2 run
+- T20: ok, start 2026-10-21 18:04:21, end 2026-10-21 18:05:02 (41s), speakers auto, input identical to original v2 run
+- T21: ok, start 2026-10-21 18:05:02, end 2026-10-21 18:05:30 (28s), speakers none, input identical to original v2 run
+- T22: ok, start 2026-10-21 18:05:30, end 2026-10-21 18:06:09 (39s), speakers auto, input identical to original v2 run
+- T23: ok, start 2026-10-21 18:06:09, end 2026-10-21 18:06:47 (38s), speakers auto, input identical to original v2 run
+- T24: ok, start 2026-10-21 18:06:47, end 2026-10-21 18:07:37 (50s), speakers auto, input identical to original v2 run
+- T25: ok, start 2026-10-21 18:07:37, end 2026-10-21 18:08:28 (51s), speakers auto, input identical to original v2 run
+- T26: ok, start 2026-10-21 18:08:28, end 2026-10-21 18:09:11 (42s), speakers auto, input identical to original v2 run
+- T27: ok, start 2026-10-21 18:09:11, end 2026-10-21 18:09:48 (38s), speakers auto, input identical to original v2 run
+- T28: ok, start 2026-10-21 18:09:48, end 2026-10-21 18:10:35 (46s), speakers auto, input identical to original v2 run
+- T29: ok, start 2026-10-21 18:10:35, end 2026-10-21 18:11:13 (38s), speakers auto, input identical to original v2 run
+- T30: ok, start 2026-10-21 18:11:13, end 2026-10-21 18:11:51 (38s), speakers auto, input identical to original v2 run
+  - ollama ps: qwen3:8b 100% GPU
+- T31: ok, start 2026-10-21 18:11:53, end 2026-10-21 18:12:43 (50s), speakers auto, input identical to original v2 run
+- T32: ok, start 2026-10-21 18:12:43, end 2026-10-21 18:13:20 (37s), speakers auto, input identical to original v2 run
+- T33: ok, start 2026-10-21 18:13:20, end 2026-10-21 18:14:07 (48s), speakers auto, input identical to original v2 run
+- T34: ok, start 2026-10-21 18:14:07, end 2026-10-21 18:14:50 (43s), speakers auto, input identical to original v2 run
+- T35: ok, start 2026-10-21 18:14:50, end 2026-10-21 18:15:28 (38s), speakers none, input identical to original v2 run
+- T36: ok, start 2026-10-21 18:15:28, end 2026-10-21 18:16:11 (43s), speakers auto, input identical to original v2 run
+- T37: ok, start 2026-10-21 18:16:11, end 2026-10-21 18:16:56 (45s), speakers auto, input identical to original v2 run
+- T38: ok, start 2026-10-21 18:16:56, end 2026-10-21 18:17:27 (31s), speakers auto, input identical to original v2 run
+- T39: ok, start 2026-10-21 18:17:27, end 2026-10-21 18:18:06 (39s), speakers auto, input identical to original v2 run
+- T40: ok, start 2026-10-21 18:18:06, end 2026-10-21 18:18:49 (43s), speakers auto, input identical to original v2 run
+- T41: ok, start 2026-10-21 18:18:49, end 2026-10-21 18:19:28 (39s), speakers auto, input identical to original v2 run
+- T42: ok, start 2026-10-21 18:19:28, end 2026-10-21 18:20:14 (46s), speakers auto, input identical to original v2 run
+- T43: ok, start 2026-10-21 18:20:14, end 2026-10-21 18:20:55 (41s), speakers auto, input identical to original v2 run
+- T44: ok, start 2026-10-21 18:20:55, end 2026-10-21 18:21:28 (33s), speakers auto, input identical to original v2 run
+- T45: ok, start 2026-10-21 18:21:28, end 2026-10-21 18:22:04 (36s), speakers auto, input identical to original v2 run
+- T46: ok, start 2026-10-21 18:22:04, end 2026-10-21 18:22:45 (42s), speakers auto, input identical to original v2 run
+- T47: ok, start 2026-10-21 18:22:45, end 2026-10-21 18:23:24 (39s), speakers auto, input identical to original v2 run
+- T48: ok, start 2026-10-21 18:23:24, end 2026-10-21 18:24:06 (42s), speakers auto, input identical to original v2 run
+- T49: ok, start 2026-10-21 18:24:06, end 2026-10-21 18:24:49 (42s), speakers auto, input identical to original v2 run
+- T50: ok, start 2026-10-21 18:24:49, end 2026-10-21 18:25:23 (35s), speakers auto, input identical to original v2 run
+- T51: ok, start 2026-10-21 18:25:23, end 2026-10-21 18:26:00 (36s), speakers auto, input identical to original v2 run
+- T52: ok, start 2026-10-21 18:26:00, end 2026-10-21 18:26:34 (34s), speakers auto, input identical to original v2 run
+- T53: ok, start 2026-10-21 18:26:34, end 2026-10-21 18:27:09 (35s), speakers auto, input identical to original v2 run
+- T54: ok, start 2026-10-21 18:27:09, end 2026-10-21 18:27:52 (43s), speakers auto, input identical to original v2 run
+- T55: ok, start 2026-10-21 18:27:52, end 2026-10-21 18:28:31 (39s), speakers auto, input identical to original v2 run
+- T56: ok, start 2026-10-21 18:28:31, end 2026-10-21 18:29:12 (42s), speakers auto, input identical to original v2 run
+- T57: ok, start 2026-10-21 18:29:12, end 2026-10-21 18:29:48 (35s), speakers auto, input identical to original v2 run
+- T58: ok, start 2026-10-21 18:29:48, end 2026-10-21 18:30:20 (32s), speakers auto, input identical to original v2 run
+- T59: ok, start 2026-10-21 18:30:20, end 2026-10-21 18:30:55 (36s), speakers auto, input identical to original v2 run
+- T60: ok, start 2026-10-21 18:30:55, end 2026-10-21 18:31:34 (38s), speakers auto, input identical to original v2 run
+  - ollama ps: qwen3:8b 100% GPU
+### v2 finished 2026-10-21 18:31:36

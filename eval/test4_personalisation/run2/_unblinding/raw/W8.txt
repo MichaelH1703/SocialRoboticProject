@@ -1,0 +1,81 @@
+[Child sim] session W8, llama3.2:3b, temperature 0.3, seed 8, "I don't know" at turn 9
+[Isolation] new process pid 360684; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (4.4s)
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Went bowling.
+[State] Selected event: Went bowling for Mia's birthday
+
+Reachy: That sounds fun. Who was there with you?
+
+[Latency] Turn: 2.68s
+You: Mia. And Ella and stuff. Jess too.
+
+Reachy: Great! So, what did Mia do at the bowling alley?
+
+[Latency] Turn: 2.38s
+You: Blowed out candles.
+
+Reachy: Oh wow, that must have been special. What else happened there?
+
+[Latency] Turn: 2.52s
+You: Had pizza. Cake with candles. Everyone sang Happy Birthday.
+
+Reachy: That sounds like a lot of fun! Anything in particular that stands out from the day?
+
+[Latency] Turn: 2.52s
+You: Got two strikes.
+
+Reachy: That’s impressive! Who were you playing with at the bowling alley?
+
+[Latency] Turn: 2.54s
+You: Mia won. I came second.
+
+Reachy: Got third place! That must have been exciting. Any other fun moments during the day?
+
+[Latency] Turn: 2.53s
+You: People looked over.
+
+Reachy: Interesting. Did anyone give you advice or was talking to you there?
+
+[Latency] Turn: 2.55s
+You: No one said anything.
+
+Reachy: Okay, thanks for sharing about your bowling day. Good luck Mia on her birthday!
+
+[Latency] Turn: 2.55s
+[Child sim] forced "I don't know" at turn 9; Reachy's line before it did not ask a question
+You: I don't know.
+[Question limit] Dropped: 'Could things be a bit clearer in your mind?'
+
+Reachy: Is something not quite right when it comes to this experience?
+
+[Latency] Turn: 2.63s
+You: Yeah.
+
+Reachy: Is there anything you want to talk more about now, or do you feel ready for a short break?
+
+[Latency] Turn: 2.53s
+You: No.
+
+Reachy: That’s okay. Sometimes it helps just to share what feels important.
+
+[Latency] Turn: 2.46s
+You: Mia's mum drove me home.
+
+Reachy: Got dropped off by Mia’s mum at the end. Anything else you’d like to add about your bowling day?
+
+[Latency] Turn: 2.67s
+You: Bye.
+
+Reachy: Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+[State] Goodbye heard; confirming before ending.
+[Not spoken] Model's reply, dropped but kept in its history as on the robot: 'Alright, take care on your way home.'
+You: No.
+
+Reachy: Okay. Thank you for sharing your day with me, April. Goodbye.
+
+[State] Child confirmed goodbye; ending session.

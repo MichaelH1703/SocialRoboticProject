@@ -1,0 +1,45 @@
+Session bowl-1
+
+Reachy (greeting, not rated): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Went bowling.
+Reachy (reply 1): That sounds like fun. What happened when you went bowling?
+
+You: Got two strikes. Mia won.
+Reachy (not picked for rating): Oh, that's good! Can you tell me more about what Mia did?
+
+You: Mia blew out candles. Everyone sang Happy Birthday.
+Reachy (reply 2): Great! And how did it make you feel playing bowling after celebrating Mia’s birthday?
+
+You: Happy. A bit nervous.
+Reachy (reply 3): It seems like you were a little nervous and then became very happy. How was the game of bowling itself?
+
+You: Good. Fun.
+Reachy (reply 4): That's good to hear! What did you enjoy about playing bowling?
+
+You: I don't know.
+Reachy (reply 5): Can you think of one thing that made playing bowling enjoyable for you today, April?
+
+You: Fun.
+Reachy (reply 6): It sounds like fun was your favorite part, right?
+
+You: Yeah.
+Reachy (not picked for rating): That’s perfectly fine. Is there anything else from today you want to talk about?
+
+You: Pizza.
+Reachy (reply 7): Did everyone get to eat pizza at the bowling place?
+
+You: Mia's mum brought out pizza. We had it after bowling.
+Reachy (reply 8): That sounds yummy! How did getting pizza make you feel?
+
+You: Happy.
+Reachy (reply 9): It seems like you were very happy with all that happened today, April. Thank you for sharing your day. Remember to breathe when you are done talking. It was a good session.
+
+You: Yeah.
+Reachy (reply 10): That’s okay. You can take as much time as you need now. Is there anything else you would like to say?
+
+You: Bye.
+Reachy (scripted, not rated): Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+You: No.
+Reachy (scripted, not rated): Okay. Thank you for sharing your day with me, April. Goodbye.

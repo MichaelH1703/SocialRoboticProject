@@ -1,0 +1,81 @@
+[Child sim] session W7, llama3.2:3b, temperature 0.3, seed 7, "I don't know" at turn 9
+[Isolation] new process pid 373888; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (4.4s)
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Went bowling.
+[State] Selected event: Went bowling for Mia's birthday
+[Question limit] Dropped: 'What happened at the bowling alley?'
+
+Reachy: How did that go for you?
+
+[Latency] Turn: 2.70s
+You: Got two strikes. Mia won.
+
+Reachy: That sounds fun! What else happened at the bowling alley?
+
+[Latency] Turn: 2.39s
+You: Had pizza. Cake afterwards.
+
+Reachy: And what about before they started bowling, how did it feel?
+
+[Latency] Turn: 2.50s
+You: Nervous.
+
+Reachy: Nervous is a good feeling before something exciting happens, isn't it?
+
+[Latency] Turn: 2.53s
+You: No. Just was.
+
+Reachy: Why do you think you might have felt nervous about bowling, then?
+
+[Latency] Turn: 2.55s
+You: Can't remember.
+
+Reachy: It's okay to not remember everything all the time. What did you like most about the day?
+
+[Latency] Turn: 2.63s
+You: Good.
+
+Reachy: What was good about it?
+
+[Latency] Turn: 2.42s
+You: Cake.
+
+Reachy: Getting a yummy cake sounds so nice! How do you feel now sharing that?
+
+[Latency] Turn: 2.73s
+[Child sim] forced "I don't know" at turn 9; Reachy's line before it asked a question
+You: I don't know.
+
+Reachy: It's alright not to have all the answers right away. That's fine.
+
+[Latency] Turn: 2.46s
+You: Yeah.
+
+Reachy: Do you want to share how you felt about getting that cake, or is there something else you'd like to talk about?
+
+[Latency] Turn: 2.65s
+You: Happy.
+
+Reachy: That's a happy feeling! How was your trip bowling making you feel throughout the day?
+
+[Latency] Turn: 2.61s
+You: Fun.
+
+Reachy: Fun sounds great right now. Any other parts of your day that felt fun or special?
+
+[Latency] Turn: 2.73s
+You: Bye.
+
+Reachy: Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+[State] Goodbye heard; confirming before ending.
+[Not spoken] Model's reply, dropped but kept in its history as on the robot: 'Okay, byeee then. Have a good one!'
+You: No.
+
+Reachy: Okay. Thank you for sharing your day with me, April. Goodbye.
+
+[State] Child confirmed goodbye; ending session.

@@ -1,0 +1,292 @@
+{
+  "labelled": true,
+  "speakers": "auto",
+  "auto_labels": {
+    "method": "sentences",
+    "segments": [
+      [
+        "therapist",
+        "Hi, Finlay."
+      ],
+      [
+        "therapist",
+        "How have you been?"
+      ],
+      [
+        "child",
+        "All right."
+      ],
+      [
+        "child",
+        "I tried something new last weekend."
+      ],
+      [
+        "child",
+        "I went to a pottery class, and my bowl came out wonky."
+      ],
+      [
+        "child",
+        "I still quite like it."
+      ],
+      [
+        "therapist",
+        "Have you done anything different lately?"
+      ],
+      [
+        "child",
+        "I did a shift at the charity shop."
+      ],
+      [
+        "therapist",
+        "Tell me about your shift."
+      ],
+      [
+        "child",
+        "It was Saturday."
+      ],
+      [
+        "child",
+        "I was meant to start at ten."
+      ],
+      [
+        "therapist",
+        "Who were you working with?"
+      ],
+      [
+        "child",
+        "Priya."
+      ],
+      [
+        "child",
+        "She's the manager on Saturdays."
+      ],
+      [
+        "therapist",
+        "What were you doing?"
+      ],
+      [
+        "child",
+        "Sorting donations."
+      ],
+      [
+        "child",
+        "There were about six bags of clothes and two boxes of books when I got there."
+      ],
+      [
+        "therapist",
+        "What happened first?"
+      ],
+      [
+        "child",
+        "Priya showed me the labels for the rails."
+      ],
+      [
+        "child",
+        "Trousers on one, tops on another."
+      ],
+      [
+        "child",
+        "I put a jumper on the wrong rail and she moved it."
+      ],
+      [
+        "therapist",
+        "How did you find that?"
+      ],
+      [
+        "child",
+        "I was embarrassed."
+      ],
+      [
+        "child",
+        "I thought I'd messed it up straight away."
+      ],
+      [
+        "therapist",
+        "What happened next?"
+      ],
+      [
+        "child",
+        "A man brought in a bag with a broken mug in it."
+      ],
+      [
+        "child",
+        "It had a crack all the way down the side."
+      ],
+      [
+        "therapist",
+        "What did you do with that?"
+      ],
+      [
+        "child",
+        "I asked Priya, because I wasn't sure if we could take it."
+      ],
+      [
+        "child",
+        "She said no and put it in the rubbish."
+      ],
+      [
+        "therapist",
+        "You checked with Priya rather than guessing."
+      ],
+      [
+        "therapist",
+        "Did anything else happen during the shift?"
+      ],
+      [
+        "child",
+        "I did the books after lunch."
+      ],
+      [
+        "child",
+        "There was a whole set of old railway books."
+      ],
+      [
+        "child",
+        "I wanted to look through them, but I was supposed to be sorting them by category."
+      ],
+      [
+        "therapist",
+        "That sounds frustrating, having to leave the books alone when you wanted to look at them."
+      ],
+      [
+        "child",
+        "A bit."
+      ],
+      [
+        "child",
+        "I did look at the titles while I was stacking them."
+      ],
+      [
+        "therapist",
+        "How did your shift finish?"
+      ],
+      [
+        "child",
+        "Priya said I could go at three because the back room was tidy."
+      ],
+      [
+        "therapist",
+        "So you started at ten, sorted clothes and books, checked with Priya about the broken mug, and she let you leave at three when the back room was tidy."
+      ],
+      [
+        "child",
+        "Yeah."
+      ],
+      [
+        "therapist",
+        "Is there anything else you want me to know about it?"
+      ],
+      [
+        "child",
+        "No, that's it."
+      ],
+      [
+        "therapist",
+        "Thanks, Finlay."
+      ],
+      [
+        "therapist",
+        "You've given me a good sequence of what happened."
+      ],
+      [
+        "therapist",
+        "Can we finish five minutes early?"
+      ]
+    ],
+    "echoes_relabelled": []
+  },
+  "labelled_transcript": "Therapist. Hi, Finlay. How have you been? Child. All right. I tried something new last weekend. I went to a pottery class, and my bowl came out wonky. I still quite like it. Therapist. Have you done anything different lately? Child. I did a shift at the charity shop. Therapist. Tell me about your shift. Child. It was Saturday. I was meant to start at ten. Therapist. Who were you working with? Child. Priya. She's the manager on Saturdays. Therapist. What were you doing? Child. Sorting donations. There were about six bags of clothes and two boxes of books when I got there. Therapist. What happened first? Child. Priya showed me the labels for the rails. Trousers on one, tops on another. I put a jumper on the wrong rail and she moved it. Therapist. How did you find that? Child. I was embarrassed. I thought I'd messed it up straight away. Therapist. What happened next? Child. A man brought in a bag with a broken mug in it. It had a crack all the way down the side. Therapist. What did you do with that? Child. I asked Priya, because I wasn't sure if we could take it. She said no and put it in the rubbish. Therapist. You checked with Priya rather than guessing. Did anything else happen during the shift? Child. I did the books after lunch. There was a whole set of old railway books. I wanted to look through them, but I was supposed to be sorting them by category. Therapist. That sounds frustrating, having to leave the books alone when you wanted to look at them. Child. A bit. I did look at the titles while I was stacking them. Therapist. How did your shift finish? Child. Priya said I could go at three because the back room was tidy. Therapist. So you started at ten, sorted clothes and books, checked with Priya about the broken mug, and she let you leave at three when the back room was tidy. Child. Yeah. Therapist. Is there anything else you want me to know about it? Child. No, that's it. Therapist. Thanks, Finlay. You've given me a good sequence of what happened. Can we finish five minutes early?",
+  "facts": {
+    "child_turns": 14,
+    "mean_words_per_turn": 14.9,
+    "sequence_words": [
+      "after"
+    ],
+    "vague_words": [
+      "something"
+    ],
+    "child_text": [
+      "All right. I tried something new last weekend. I went to a pottery class, and my bowl came out wonky. I still quite like it.",
+      "I did a shift at the charity shop.",
+      "It was Saturday. I was meant to start at ten.",
+      "Priya. She's the manager on Saturdays.",
+      "Sorting donations. There were about six bags of clothes and two boxes of books when I got there.",
+      "Priya showed me the labels for the rails. Trousers on one, tops on another. I put a jumper on the wrong rail and she moved it.",
+      "I was embarrassed. I thought I'd messed it up straight away.",
+      "A man brought in a bag with a broken mug in it. It had a crack all the way down the side.",
+      "I asked Priya, because I wasn't sure if we could take it. She said no and put it in the rubbish.",
+      "I did the books after lunch. There was a whole set of old railway books. I wanted to look through them, but I was supposed to be sorting them by category.",
+      "A bit. I did look at the titles while I was stacking them.",
+      "Priya said I could go at three because the back room was tidy.",
+      "Yeah.",
+      "No, that's it."
+    ],
+    "feelings": [
+      {
+        "word": "embarrassed",
+        "child_words": "I was embarrassed. I thought I'd messed it up straight away.",
+        "named": true
+      },
+      {
+        "word": "frustrated",
+        "child_words": "A bit. I did look at the titles while I was stacking them.",
+        "named": false
+      }
+    ],
+    "reasons": [
+      {
+        "child_words": "I was embarrassed",
+        "linked": false,
+        "about_feeling": true
+      },
+      {
+        "child_words": "I wasn't sure if we could take it",
+        "linked": false,
+        "about_feeling": false
+      },
+      {
+        "child_words": "because the back room was tidy",
+        "linked": true,
+        "about_feeling": false
+      }
+    ],
+    "feeling_reasons": [
+      "I was embarrassed"
+    ]
+  },
+  "checked": {
+    "event": "Charity shop shift",
+    "who": {
+      "given": true,
+      "child_words": "Priya. She's the manager on Saturdays.",
+      "rejected_claim": ""
+    },
+    "where": {
+      "given": true,
+      "child_words": "I did a shift at the charity shop.",
+      "rejected_claim": ""
+    },
+    "what_happened": {
+      "given": true,
+      "child_words": "Sorting donations. There were about six bags of clothes and two boxes of books when I got there. Priya showed me the labels for the rails. Trousers on one, tops on another. I put a jumper on the wrong rail and she moved it. A man brought in a bag with a broken mug in it. It had a crack all the way down the side. I asked Priya, because I wasn't sure if we could take it. She said no and put it in the rubbish. I did the books after lunch. There was a whole set of old railway books. I wanted to look through them, but I was supposed to be sorting them by category. A bit. I did look at the titles while I was stacking them.",
+      "rejected_claim": ""
+    },
+    "ending": {
+      "given": true,
+      "child_words": "Priya said I could go at three because the back room was tidy.",
+      "rejected_claim": ""
+    }
+  },
+  "written": {
+    "summary": "The child told about trying something new last weekend, going to a pottery class, and doing a shift at the charity shop. The child mentioned sorting donations, putting a jumper on the wrong rail, a man bringing in a broken mug, sorting books by category, and being allowed to leave at three.",
+    "goals": [
+      "Use the exact word instead of vague words like 'stuff' or 'thing'."
+    ],
+    "focus": [
+      "Use exact words instead of vague words like 'stuff' or 'thing'"
+    ],
+    "prompts": [
+      "What did you do with it?"
+    ]
+  }
+}

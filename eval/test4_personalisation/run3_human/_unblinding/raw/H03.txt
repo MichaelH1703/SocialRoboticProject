@@ -1,0 +1,80 @@
+[Human] session H03, condition W, "I don't know" at turn 8
+[Isolation] new process pid 395976; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (3.9s)
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah, I went bowling
+[State] Selected event: Went bowling for Mia's birthday
+
+Reachy: Good game. What happened during that time?
+
+[Latency] Turn: 2.80s
+You: I came second out of everyone at the party
+
+Reachy: That's fun! Can you tell me more about what you played at the party?
+
+[Latency] Turn: 2.64s
+You: we bowled
+
+Reachy: Bowling sounds like a lot of fun. What did it feel like for you during that time?
+
+[Latency] Turn: 2.73s
+You: yeah it was super fun
+
+Reachy: That's great to hear! How did you and your friends feel after bowling?
+
+[Latency] Turn: 2.50s
+You: i was very tired
+
+Reachy: Oh, were there any funny moments or games at the party besides bowling?
+
+[Latency] Turn: 2.64s
+You: we all sang happy birthday
+
+Reachy: Singing together must have been really nice. Did anyone get surprised today?
+
+[Latency] Turn: 2.72s
+You: no
+
+Reachy: Okay, that's okay. Do you remember what else happened during your time there besides bowling and singing?
+
+[Latency] Turn: 2.80s
+You: i dont know
+
+Reachy: It sounds like everything is fresh in your mind now. Could you think about the other activities or games at the party then?
+
+[Latency] Turn: 2.61s
+You: not really
+
+Reachy: Got it. Is there anything that stood out more to you besides bowling and singing?
+
+[Latency] Turn: 2.68s
+You: no
+
+Reachy: Alright, remember how we talked. What did you feel like during your bowling session?
+
+[Latency] Turn: 2.69s
+You: i was super happy
+
+Reachy: That's wonderful to hear! How were you feeling after the party ended?
+
+[Latency] Turn: 2.61s
+You: i was tired
+
+Reachy: Okay, that sounds good. Thanks for sharing about your day with me.
+
+[Latency] Turn: 2.65s
+You: bye
+
+Reachy: Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+[State] Goodbye heard; confirming before ending.
+[Not spoken] Model's reply, dropped but kept in its history as on the robot: 'Goodbye, take care.'
+You: no
+
+Reachy: Okay. Thank you for sharing your day with me, April. Goodbye.
+
+[State] Child confirmed goodbye; ending session.
+[Human] Session over.

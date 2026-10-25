@@ -1,0 +1,44 @@
+T21	Leaves out: who (silent)	Y	Y	hit
+T21	Leaves out: how it ended (asked)	Y	Y	hit
+T21	Feeling: dislike (phrase)	Y	N	miss
+T21	Gives a reason	Y	N	miss
+T21	False alarm: what happened	N	Y	false alarm
+T22	Leaves out: where (yes-only)	Y	Y	hit
+T22	Leaves out: how they felt (silent)	Y	Y	hit
+T22	Gives a reason	Y	Y	hit
+T23	Feeling: scared (phrase)	Y	N	miss
+T23	Feeling: upset (phrase)	Y	N	miss
+T23	Feeling: happy (word)	Y	Y	hit
+T23	Gives a reason	Y	Y	hit
+T24	Leaves out: who (yes-only)	Y	Y	hit
+T24	Leaves out: how it ended (silent)	Y	Y	hit
+T24	Feeling: scared (phrase)	Y	N	miss
+T24	Feeling: enjoyment (phrase)	Y	N	miss
+T24	Gives a reason	Y	Y	hit
+T24	False alarm: missing feelings	N	Y	false alarm
+T25	Leaves out: who (asked)	Y	Y	hit
+T25	Leaves out: how it ended (silent)	Y	Y	hit
+T25	Feeling: scared (phrase)	Y	N	miss
+T25	Feeling: enjoyment (phrase)	Y	N	miss
+T25	Gives a reason	Y	Y	hit
+T25	False alarm: missing feelings	N	Y	false alarm
+T26	Leaves out: how they felt (asked)	Y	Y	hit
+T26	Leaves out: where (silent)	Y	Y	hit
+T26	Gives no reasons	Y	Y	hit
+T27	Leaves out: what happened (asked)	Y	N	miss
+T27	Feeling: enjoyment (phrase)	Y	Y	hit
+T27	Feeling: sad (word)	Y	Y	hit
+T27	Gives a reason	Y	Y	hit
+T28	Leaves out: where (silent)	Y	Y	hit
+T28	Leaves out: how it ended (silent)	Y	Y	hit
+T28	Feeling: amused (phrase)	Y	Y	hit
+T28	Feeling: enjoyment (phrase)	Y	Y	hit
+T28	Gives no reasons	Y	Y	hit
+T29	Feeling: scared (word)	Y	Y	hit
+T29	Feeling: embarrassed (phrase)	Y	N	miss
+T29	Gives a reason	Y	Y	hit
+T29	False alarm: missing reasons	N	Y	false alarm
+T30	Leaves out: what happened (asked)	Y	N	miss
+T30	Feeling: enjoyment (phrase)	Y	N	miss
+T30	Gives no reasons	Y	Y	hit
+T30	False alarm: missing feelings	N	Y	false alarm

@@ -1,0 +1,56 @@
+Session S83
+
+Lesson focus:
+  - Continue working on increasing language skills, particularly in using descriptive and logical explanations.
+  - Develop emotional vocabulary and the ability to articulate emotions more precisely.
+  - Enhance social reasoning by asking questions that encourage a deeper understanding of others' perspectives and reactions.
+
+Profile style checklist:
+  1. Ask short questions.
+  2. Ask concrete questions.
+  3. When she is stuck, offer a choice of two options ("Was it X or Y?").
+  4. Avoid long or open questions.
+
+Reachy (greeting, not coded): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah, I went bowling
+Reachy [1]: Good game. What happened during that time?
+
+You: I came second out of everyone at the party
+Reachy [2]: That's fun! Can you tell me more about what you played at the party?
+
+You: we bowled
+Reachy [3]: Bowling sounds like a lot of fun. What did it feel like for you during that time?
+
+You: yeah it was super fun
+Reachy [4]: That's great to hear! How did you and your friends feel after bowling?
+
+You: i was very tired
+Reachy [5]: Oh, were there any funny moments or games at the party besides bowling?
+
+You: we all sang happy birthday
+Reachy [6]: Singing together must have been really nice. Did anyone get surprised today?
+
+You: no
+Reachy [7]: Okay, that's okay. Do you remember what else happened during your time there besides bowling and singing?
+
+You: i dont know
+Reachy [8]: It sounds like everything is fresh in your mind now. Could you think about the other activities or games at the party then?
+
+You: not really
+Reachy [9]: Got it. Is there anything that stood out more to you besides bowling and singing?
+
+You: no
+Reachy [10]: Alright, remember how we talked. What did you feel like during your bowling session?
+
+You: i was super happy
+Reachy [11]: That's wonderful to hear! How were you feeling after the party ended?
+
+You: i was tired
+Reachy [12]: Okay, that sounds good. Thanks for sharing about your day with me.
+
+You: bye
+Reachy (scripted, not coded): Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+You: no
+Reachy (scripted, not coded): Okay. Thank you for sharing your day with me, April. Goodbye.

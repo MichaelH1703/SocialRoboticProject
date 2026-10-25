@@ -1,0 +1,58 @@
+[Human] session H41, condition B, "I don't know" at turn 9
+[Isolation] new process pid 102324; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (5.4s)
+[Supabase] client_profiles error: {'message': 'Cannot coerce the result to a single JSON object', 'code': 'PGRST116', 'hint': None, 'details': 'The result contains 0 rows'}
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: yeah. went bowling today
+[State] Selected event: Went bowling for Mia's birthday
+
+Reachy: That sounds fun. Who did you go bowling with?
+
+[Latency] Turn: 2.51s
+You: Grace and Mia and Jess
+[Question limit] Dropped: 'How did they feel?'
+
+Reachy: Great! What was it like playing bowling with Grace, Mia, and Jess together?
+
+[Latency] Turn: 2.67s
+You: it was a lot of fun
+
+Reachy: How did everyone feel while they were bowling together?
+
+[Latency] Turn: 2.45s
+You: i dont know how everyone else felt
+
+Reachy: Sure, tell me more about your feelings during the bowling trip.
+
+[Latency] Turn: 2.71s
+You: it was fun, until we sang happy birthday then it was super loud
+
+Reachy: Oh, I see. What do you remember feeling when you started singing Happy Birthday?
+
+[Latency] Turn: 2.54s
+You: it was overwhelming
+
+Reachy: That must have been quite loud and exciting. How did that make you feel?
+
+[Latency] Turn: 2.68s
+You: overwhelmed it was scary
+
+Reachy: I see. Do you remember what made you feel scared or overwhelmed?
+
+[Latency] Turn: 2.63s
+You: the sound, it was super loud
+[Question limit] Dropped: 'What happened next that you can recall?'
+
+Reachy: The noise seemed very loud, didn't it?
+
+[Latency] Turn: 2.66s
+You: yes
+
+Reachy: Did something in particular seem especially exciting to you during the bowling trip?
+
+[Latency] Turn: 2.53s
+[Human] Ended by the player before Reachy's goodbye.
+[Human] Session over.

@@ -1,0 +1,45 @@
+Session S21
+
+Reachy (greeting, not coded): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Went bowling.
+Reachy [1]: Went bowling sounds fun. What did you and Mia do there?
+
+You: Got two strikes. Had pizza.
+Reachy [2]: That sounds like a great time. Did anyone else go with you?
+
+You: Mia's mum took us. And Ella and Grace and Jess.
+Reachy [3]: Glad to hear everyone was together. How did Mia feel while bowling?
+
+You: Happy.
+Reachy [4]: Feeling happy is great! Thanks for telling me about it.
+
+You: Yeah.
+Reachy [5]: I see. Is there anything specific you want to talk about now?
+
+You: Mia won.
+Reachy [6]: That must have been exciting. How did it make Mia feel afterwards?
+
+You: Happy again.
+Reachy [7]: Feeling happy again is nice to hear. Do these outings with friends make you look forward to your day?
+
+You: I don't know.
+Reachy [8]: It's okay not to know now. Sometimes big events like birthdays can be hard. Are there any other things from today that stand out for you?
+
+You: Cake.
+Reachy [9]: Enjoying a cake sounds yummy. Did Mia make it?
+
+You: No.
+Reachy [10]: That's okay. Just sharing what sticks in your mind. Do you have any more thoughts about today?
+
+You: Good day.
+Reachy [11]: Sounds like a good ending to the day, then. Thank you for talking with me.
+
+You: Mia's mum drove me home.
+Reachy [12]: That was thoughtful of Mia's mum. Do you ever feel happy when friends take care of each other?
+
+You: Bye.
+Reachy (scripted, not coded): Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+You: No.
+Reachy (scripted, not coded): Okay. Thank you for sharing your day with me, April. Goodbye.

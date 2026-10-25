@@ -1,0 +1,1358 @@
+[
+  {
+    "session": "H01",
+    "condition": "without",
+    "greeting": "Hi, it's nice to see you. Did you have something from your day you wanted to talk about?",
+    "turns": [
+      {
+        "turn": 1,
+        "child": "umm not really",
+        "kind": "scripted",
+        "reply": "That's okay. We could talk about one of these. Went bowling for Mia's birthday, Had a science test, or Fire drill at school. Which one sounds good?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "\"That’s okay, maybe we could talk about went bowling for mia's birthday, had a science test, fire drill at school?\"",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 2,
+        "child": "yeah i went bowlingfor mia's birthday",
+        "kind": "model",
+        "reply": "Good. What did you think of bowling for Mia's birthday?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 3,
+        "child": "it was fun, i came third.",
+        "kind": "model",
+        "reply": "That sounds like it was a lot of fun. Do you remember who else was there?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 4,
+        "child": "yeah Mia, Jane, Frances, Erin were all there and Mia's mum was there as well",
+        "kind": "model",
+        "reply": "Got it. And how did you feel during the bowling game?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 5,
+        "child": "nervous when everyone looked at us",
+        "kind": "model",
+        "reply": "Nervous is a normal feeling when playing for others. What happened next after you came third?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 6,
+        "child": "we all sang happy birthday",
+        "kind": "model",
+        "reply": "That’s great to hear. Did anyone else get an award or prize that day?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 7,
+        "child": "i dont know",
+        "kind": "model",
+        "reply": "Oh, interesting then. How did the day end for you?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 8,
+        "child": "Mia's mum drove me home",
+        "kind": "model",
+        "reply": "Sounds like a nice way to end the day. Thank you for sharing your story today.",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 9,
+        "child": "goodbye",
+        "kind": "scripted",
+        "reply": "Thanks for talking with me today, April. Is there anything more you wanted to talk about?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "'Goodbye for now. Take care.'",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 10,
+        "child": "no",
+        "kind": "scripted",
+        "reply": "Okay. Thank you for sharing your day with me, April. Goodbye.",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      }
+    ],
+    "complete": true
+  },
+  {
+    "session": "H02",
+    "condition": "with",
+    "greeting": "Hi, it's nice to see you. Did you have something from your day you wanted to talk about?",
+    "turns": [
+      {
+        "turn": 1,
+        "child": "Yeah. Went bowling",
+        "kind": "model",
+        "reply": "Gave Mia what fun! What happened when you were at the bowling alley?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 2,
+        "child": "we did some bowling",
+        "kind": "model",
+        "reply": "And what did you and Mia do together there?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 3,
+        "child": "bowled",
+        "kind": "model",
+        "reply": "What game did you guys bowl first, or any other fun things happen there?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 4,
+        "child": "bowling",
+        "kind": "model",
+        "reply": "Fun! Did anyone score better than you did?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 5,
+        "child": "yeah i came second",
+        "kind": "model",
+        "reply": "That sounds amazing. What were the scores like?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 6,
+        "child": "Mia scored 300, i scored 192",
+        "kind": "model",
+        "reply": "Oh wow, that's really close! Great job though. Did you celebrate your score together?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 7,
+        "child": "Yeah, i told her she did well",
+        "kind": "model",
+        "reply": "That’s nice to hear. What did Mia say when you told her about your score?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 8,
+        "child": "she bragged that she won",
+        "kind": "model",
+        "reply": "She seemed proud of herself, didn't she?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 9,
+        "child": "yeah i guess so",
+        "kind": "model",
+        "reply": "Good job working together, having fun, and celebrating!",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 10,
+        "child": "thanks",
+        "kind": "model",
+        "reply": "You're welcome. Have a nice day ahead!",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 11,
+        "child": "is that all",
+        "kind": "model",
+        "reply": "That's great to hear about your bowling session. Do you have any more details or would you like to talk about something different?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 12,
+        "child": "we also sang happy birthday",
+        "kind": "model",
+        "reply": "Singing \"Happy Birthday\" must have made the day extra special, didn't it?",
+        "question_cut": "'What did Mia do while singing?'",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 13,
+        "child": "yeah",
+        "kind": "model",
+        "reply": "That's wonderful! What did Mia say while she sang or after?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 14,
+        "child": "she was quite, it was her birthday",
+        "kind": "model",
+        "reply": "She sure knows how to make birthdays merry! Did you both enjoy the evening together?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 15,
+        "child": "yeah it was alot of fun",
+        "kind": "model",
+        "reply": "That's great to hear. Have a good day!",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 16,
+        "child": "bye",
+        "kind": "scripted",
+        "reply": "Thanks for talking with me today, April. Is there anything more you wanted to talk about?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "'Goodbye, take care!'",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 17,
+        "child": "no",
+        "kind": "scripted",
+        "reply": "Okay. Thank you for sharing your day with me, April. Goodbye.",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      }
+    ],
+    "complete": true
+  },
+  {
+    "session": "H03",
+    "condition": "with",
+    "greeting": "Hi, it's nice to see you. Did you have something from your day you wanted to talk about?",
+    "turns": [
+      {
+        "turn": 1,
+        "child": "Yeah, I went bowling",
+        "kind": "model",
+        "reply": "Good game. What happened during that time?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 2,
+        "child": "I came second out of everyone at the party",
+        "kind": "model",
+        "reply": "That's fun! Can you tell me more about what you played at the party?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 3,
+        "child": "we bowled",
+        "kind": "model",
+        "reply": "Bowling sounds like a lot of fun. What did it feel like for you during that time?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 4,
+        "child": "yeah it was super fun",
+        "kind": "model",
+        "reply": "That's great to hear! How did you and your friends feel after bowling?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 5,
+        "child": "i was very tired",
+        "kind": "model",
+        "reply": "Oh, were there any funny moments or games at the party besides bowling?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 6,
+        "child": "we all sang happy birthday",
+        "kind": "model",
+        "reply": "Singing together must have been really nice. Did anyone get surprised today?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 7,
+        "child": "no",
+        "kind": "model",
+        "reply": "Okay, that's okay. Do you remember what else happened during your time there besides bowling and singing?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 8,
+        "child": "i dont know",
+        "kind": "model",
+        "reply": "It sounds like everything is fresh in your mind now. Could you think about the other activities or games at the party then?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 9,
+        "child": "not really",
+        "kind": "model",
+        "reply": "Got it. Is there anything that stood out more to you besides bowling and singing?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 10,
+        "child": "no",
+        "kind": "model",
+        "reply": "Alright, remember how we talked. What did you feel like during your bowling session?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 11,
+        "child": "i was super happy",
+        "kind": "model",
+        "reply": "That's wonderful to hear! How were you feeling after the party ended?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 12,
+        "child": "i was tired",
+        "kind": "model",
+        "reply": "Okay, that sounds good. Thanks for sharing about your day with me.",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 13,
+        "child": "bye",
+        "kind": "scripted",
+        "reply": "Thanks for talking with me today, April. Is there anything more you wanted to talk about?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "'Goodbye, take care.'",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 14,
+        "child": "no",
+        "kind": "scripted",
+        "reply": "Okay. Thank you for sharing your day with me, April. Goodbye.",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      }
+    ],
+    "complete": true
+  },
+  {
+    "session": "H04",
+    "condition": "with",
+    "greeting": "Hi, it's nice to see you. Did you have something from your day you wanted to talk about?",
+    "turns": [
+      {
+        "turn": 1,
+        "child": "Yeah. went bowling",
+        "kind": "model",
+        "reply": "Bowling sounds fun. Can you tell me who was there with you?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 2,
+        "child": "Grace, Mia, Jess, Ella",
+        "kind": "model",
+        "reply": "That's good friends you had with you. What did Grace do at the bowling alley?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 3,
+        "child": "she was bowling in my lane with me",
+        "kind": "model",
+        "reply": "Oh really?",
+        "question_cut": "'Did she have fun? How about Mia and the others? Did they play any games as well?'",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 4,
+        "child": "yes",
+        "kind": "model",
+        "reply": "Did anything funny happen during the game?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 5,
+        "child": "yeah, i through a gutter ball that went in and out of the gutter",
+        "kind": "model",
+        "reply": "That’s something to think about. How did it make you feel playing that way?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 6,
+        "child": "i dont know",
+        "kind": "model",
+        "reply": "I see. Can you remember more details about what happened during bowling?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 7,
+        "child": "we had birthday cake",
+        "kind": "model",
+        "reply": "That sounds nice. Did you like the game better or the cake?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 8,
+        "child": "the cake",
+        "kind": "model",
+        "reply": "Got it. What color was the cake?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 9,
+        "child": "it was pink",
+        "kind": "model",
+        "reply": "Pink is pretty, didn't it taste good too?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 10,
+        "child": "yeah haha, it tasted very good",
+        "kind": "model",
+        "reply": "That's great to hear! Do you remember what Grace did at the bowling alley besides playing?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 11,
+        "child": "not really",
+        "kind": "model",
+        "reply": "Sure, tell me more about what she might have done then.",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      }
+    ],
+    "complete": false
+  },
+  {
+    "session": "H05",
+    "condition": "without",
+    "greeting": "Hi, it's nice to see you. Did you have something from your day you wanted to talk about?",
+    "turns": [
+      {
+        "turn": 1,
+        "child": "Yeah. went bowling",
+        "kind": "model",
+        "reply": "That sounds fun! Did anyone else go with you?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 2,
+        "child": "it was Mia's birthday",
+        "kind": "model",
+        "reply": "Oh, that’s right. How did it make you feel going there for her birthday?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 3,
+        "child": "it was super fun",
+        "kind": "model",
+        "reply": "It sounds like a lot of joy! Was the bowling alley far from your home?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 4,
+        "child": "i dont know",
+        "kind": "model",
+        "reply": "Do you remember how your mommy or daddy drove to get there?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 5,
+        "child": "we went there right after school. Mia's mum drove us",
+        "kind": "model",
+        "reply": "That’s good to know. Did you have a ball that you liked playing with better than the others?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 6,
+        "child": "yeah it was pink",
+        "kind": "model",
+        "reply": "What made the pink ball your favorite?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 7,
+        "child": "the colour",
+        "kind": "model",
+        "reply": "What fun activities did you do at the bowling alley, if anything?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 8,
+        "child": "we had cake",
+        "kind": "model",
+        "reply": "That’s a nice treat! Did Mia enjoy their birthday party too?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 9,
+        "child": "yeah",
+        "kind": "model",
+        "reply": "Great to hear that everyone had a good time. How did it feel when Mia received her birthday present?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 10,
+        "child": "she was happy",
+        "kind": "model",
+        "reply": "It sounds like Mia and everyone else had a very special day together!",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 11,
+        "child": "bye",
+        "kind": "scripted",
+        "reply": "Thanks for talking with me today, April. Is there anything more you wanted to talk about?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "'Goodbye for now. Take care!'",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 12,
+        "child": "no",
+        "kind": "scripted",
+        "reply": "Okay. Thank you for sharing your day with me, April. Goodbye.",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      }
+    ],
+    "complete": true
+  },
+  {
+    "session": "H06",
+    "condition": "with",
+    "greeting": "Hi, it's nice to see you. Did you have something from your day you wanted to talk about?",
+    "turns": [
+      {
+        "turn": 1,
+        "child": "Yeah. Went bowling",
+        "kind": "model",
+        "reply": "That sounds like fun. Where did you go bowling?",
+        "question_cut": "'Who was with you?'",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 2,
+        "child": "at superlanes",
+        "kind": "model",
+        "reply": "At SuperLanes. Was anyone else there with you?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 3,
+        "child": "yeah it was Mia's Birthday party",
+        "kind": "model",
+        "reply": "Mia had a birthday party too. Did you have any special treats or games while you were there?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 4,
+        "child": "we had pizza and cake",
+        "kind": "model",
+        "reply": "That sounds yummy! And what game did you play at SuperLanes?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 5,
+        "child": "there was a bunch or arcade machines",
+        "kind": "model",
+        "reply": "What kind of games did you play on the arcades, do you remember?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 6,
+        "child": "there was a hunting game with fake guns",
+        "kind": "model",
+        "reply": "Oh really?",
+        "question_cut": "'How fun! What happened next after playing those games in the arcade?'",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 7,
+        "child": "yeah",
+        "kind": "model",
+        "reply": "That sounds like it could be fun. What did you think about Mia having her birthday party at SuperLanes?",
+        "question_cut": "'Did everything go well there?'",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 8,
+        "child": "i liked it alot",
+        "kind": "model",
+        "reply": "That's great to hear! Did anyone have a favorite part of the party or games?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 9,
+        "child": "I think Mia liked the bowling best, she won",
+        "kind": "model",
+        "reply": "That's wonderful hearing that. Did you all laugh or play together during the bowling game?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 10,
+        "child": "yeah, i came second",
+        "kind": "model",
+        "reply": "Nice to know! What did you feel when Mia won and how did it make you feel?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 11,
+        "child": "happy",
+        "kind": "model",
+        "reply": "To hear you were happy, that's good to know. Did anyone laugh at you for coming in second?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 12,
+        "child": "no",
+        "kind": "model",
+        "reply": "Good to hear no one laughed at you. That's nice. Thank you for sharing your day with me.",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      }
+    ],
+    "complete": false
+  },
+  {
+    "session": "H07",
+    "condition": "without",
+    "greeting": "Hi, it's nice to see you. Did you have something from your day you wanted to talk about?",
+    "turns": [
+      {
+        "turn": 1,
+        "child": "Yeah. Went bowling",
+        "kind": "model",
+        "reply": "Goes well. Who was there with you at the bowling?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 2,
+        "child": "Mia and grace and jess",
+        "kind": "model",
+        "reply": "That's great. Where did you go Bowling?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 3,
+        "child": "SuperLanes",
+        "kind": "model",
+        "reply": "Right, SuperLanes. How were you feeling during the bowling?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 4,
+        "child": "Happy",
+        "kind": "model",
+        "reply": "Happy is good to feel. What happened when you were there, anything fun or surprising?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 5,
+        "child": "yeah the bowling was fun",
+        "kind": "model",
+        "reply": "Sounds like a lot of fun! Did you win any games?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 6,
+        "child": "no, i came second",
+        "kind": "model",
+        "reply": "Coming in second can still be very good. What did that feel like for you?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 7,
+        "child": "yeah i was happy to come second",
+        "kind": "model",
+        "reply": "That's okay and happy, to come second too! Anything else from your day of bowling?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 8,
+        "child": "no",
+        "kind": "model",
+        "reply": "Alright, it sounds like a lovely experience. Thanks for sharing about your day.",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      }
+    ],
+    "complete": false
+  },
+  {
+    "session": "H08",
+    "condition": "without",
+    "greeting": "Hi, it's nice to see you. Did you have something from your day you wanted to talk about?",
+    "turns": [
+      {
+        "turn": 1,
+        "child": "Yeah. Went bowling",
+        "kind": "model",
+        "reply": "Goes well with a fun birthday! Who was there?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 2,
+        "child": "yeah, it was Mia's birthday, i can't remember who else was there",
+        "kind": "model",
+        "reply": "That sounds nice! What other details do you remember about that trip to the bowling alley?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 3,
+        "child": "we had pizza and cake",
+        "kind": "model",
+        "reply": "Pizza and cake sound yummy. Did anyone play games or talk much during your time at the bowling alley?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 4,
+        "child": "yeah we talked a bunch",
+        "kind": "model",
+        "reply": "That sounds nice talking! How did you feel during that trip to the bowling alley?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 5,
+        "child": "happy",
+        "kind": "model",
+        "reply": "Happy is good to hear! Do you have any more details about what made you happy?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 6,
+        "child": "i dont know",
+        "kind": "model",
+        "reply": "It's okay if it's not much. Sometimes big things can start with small moments. How else did the trip feel?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 7,
+        "child": "it was a bit nervous when everyone was singing happy birthday, all the other lanes were looking at us",
+        "kind": "model",
+        "reply": "Nervous and excited sounds like fun! What happened next after you started bowling?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 8,
+        "child": "i came second",
+        "kind": "model",
+        "reply": "Coming in second is great! How did that make you feel?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 9,
+        "child": "proud",
+        "kind": "model",
+        "reply": "Proud! That's wonderful to hear. Do you have any final thoughts about your bowling trip?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 10,
+        "child": "no",
+        "kind": "model",
+        "reply": "Having a happy day at Mia's birthday party must be really special. Is there anything else you want to talk about today?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      }
+    ],
+    "complete": false
+  },
+  {
+    "session": "H09",
+    "condition": "with",
+    "greeting": "Hi, it's nice to see you. Did you have something from your day you wanted to talk about?",
+    "turns": [
+      {
+        "turn": 1,
+        "child": "yeah. went bowling",
+        "kind": "model",
+        "reply": "Bowling sounds fun. Who was there with you?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 2,
+        "child": "mia was there",
+        "kind": "model",
+        "reply": "Great! And how did you feel after bowling, anything in particular?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 3,
+        "child": "after?",
+        "kind": "model",
+        "reply": "After bowling. What do you remember feeling or thinking?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 4,
+        "child": "after bowling, i was very tired",
+        "kind": "model",
+        "reply": "Oh, being very tired sounds like a nice way to end your day. Anything else?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 5,
+        "child": "i dont know",
+        "kind": "model",
+        "reply": "Do you think about anything specific that happened at the bowling alley?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 6,
+        "child": "i got a strike",
+        "kind": "model",
+        "reply": "That must have been exciting! What did it feel like?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 7,
+        "child": "i was super happy",
+        "kind": "model",
+        "reply": "Super happy sounds wonderful. Anything else from your day that you remember clearly?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 8,
+        "child": "not really",
+        "kind": "model",
+        "reply": "It’s okay to not have many details sometimes. That's perfectly fine.",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      }
+    ],
+    "complete": false
+  },
+  {
+    "session": "H10",
+    "condition": "without",
+    "greeting": "Hi, it's nice to see you. Did you have something from your day you wanted to talk about?",
+    "turns": [
+      {
+        "turn": 1,
+        "child": "yeah. went bowling",
+        "kind": "model",
+        "reply": "Bowling sounds like fun! Who did you go with?",
+        "question_cut": "'What happened next? How did it feel?'",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 2,
+        "child": "mia and grace and jess and ella",
+        "kind": "model",
+        "reply": "That's a good group of friends for bowling together, didn't it?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 3,
+        "child": "yeah",
+        "kind": "model",
+        "reply": "Did everyone have a good time?",
+        "question_cut": "'How do you feel today after going bowling?'",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 4,
+        "child": "i think so",
+        "kind": "model",
+        "reply": "What happened next after you went bowling with your friends?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 5,
+        "child": "we had pizza and birthday cake",
+        "kind": "model",
+        "reply": "That sounds like a yummy celebration! What did you all eat for dinner?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 6,
+        "child": "pizza...",
+        "kind": "model",
+        "reply": "And what kinds of treats did they have?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 7,
+        "child": "cake",
+        "kind": "model",
+        "reply": "What kind of cake did they have?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 8,
+        "child": "it was icecream cake",
+        "kind": "model",
+        "reply": "Oh, that must have been delightful! What did you all do after eating the ice cream cake?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 9,
+        "child": "i dont know",
+        "kind": "model",
+        "reply": "Do you remember if there were any special songs or games played at the bowling party?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 10,
+        "child": "yeah we sang happy birthday",
+        "kind": "model",
+        "reply": "That's great to hear. Did anything else stand out as special about the day, like finding something fun while you were bowling?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 11,
+        "child": "i dont know",
+        "kind": "model",
+        "reply": "It sounds like everything was exciting and filled with happy memories! Can you think of one small thing that felt especially good or funny from today?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 12,
+        "child": "i got two strikes",
+        "kind": "model",
+        "reply": "Getting two strikes must have been really cool and exciting! What about when you're bowling, do you like scoring points, trying to go higher, or trying for specific numbers?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 13,
+        "child": "no",
+        "kind": "model",
+        "reply": "It sounds like bowling was all about having fun with your friends, Mia, Grace, Jess, and Ella. Getting two strikes is something special though! Do you think you can find another little detail from the day that stands out to you, no matter how small it might be?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "",
+        "log": [],
+        "child_sim": []
+      },
+      {
+        "turn": 14,
+        "child": "bye",
+        "kind": "scripted",
+        "reply": "Thanks for talking with me today, April. Is there anything more you wanted to talk about?",
+        "question_cut": "",
+        "replaced_original": "",
+        "not_spoken": "'Okay, have a good day! If you want to come back and share more about your day, just do so. Take care!'",
+        "log": [],
+        "child_sim": []
+      }
+    ],
+    "complete": false
+  }
+]

@@ -1,0 +1,270 @@
+{
+  "labelled": true,
+  "speakers": "auto",
+  "auto_labels": {
+    "sentences": [
+      [
+        "therapist",
+        "Hi there."
+      ],
+      [
+        "therapist",
+        "Today we're going to talk about something that really happened at school."
+      ],
+      [
+        "therapist",
+        "I'll go first and then it'll be your turn."
+      ],
+      [
+        "therapist",
+        "Last week I sang in a choir concert because my friend asked me to join."
+      ],
+      [
+        "therapist",
+        "I forgot one line, but nobody noticed, and I felt relieved."
+      ],
+      [
+        "therapist",
+        "Okay, now it's your turn."
+      ],
+      [
+        "child",
+        "Assembly."
+      ],
+      [
+        "child",
+        "We did an assembly."
+      ],
+      [
+        "therapist",
+        "An assembly."
+      ],
+      [
+        "therapist",
+        "Who was in it?"
+      ],
+      [
+        "child",
+        "My class."
+      ],
+      [
+        "child",
+        "And Miss Hart."
+      ],
+      [
+        "therapist",
+        "Your class and Miss Hart."
+      ],
+      [
+        "therapist",
+        "Where was it?"
+      ],
+      [
+        "child",
+        "In the hall."
+      ],
+      [
+        "therapist",
+        "In the hall."
+      ],
+      [
+        "therapist",
+        "What happened?"
+      ],
+      [
+        "child",
+        "We did a play."
+      ],
+      [
+        "child",
+        "About the seasons."
+      ],
+      [
+        "therapist",
+        "A play about the seasons."
+      ],
+      [
+        "therapist",
+        "What did you do?"
+      ],
+      [
+        "child",
+        "I was summer."
+      ],
+      [
+        "child",
+        "I had a sun hat."
+      ],
+      [
+        "therapist",
+        "You were summer with a sun hat."
+      ],
+      [
+        "therapist",
+        "How did you feel before you went on?"
+      ],
+      [
+        "child",
+        "Nervous."
+      ],
+      [
+        "child",
+        "Lots of mums and dads."
+      ],
+      [
+        "therapist",
+        "Nervous, with lots of mums and dads watching."
+      ],
+      [
+        "therapist",
+        "What happened next?"
+      ],
+      [
+        "child",
+        "I said my line, so everyone clapped."
+      ],
+      [
+        "therapist",
+        "You said your line, so everyone clapped."
+      ],
+      [
+        "therapist",
+        "How did that make you feel?"
+      ],
+      [
+        "child",
+        "Proud."
+      ],
+      [
+        "therapist",
+        "Proud."
+      ],
+      [
+        "therapist",
+        "You must have been delighted."
+      ],
+      [
+        "therapist",
+        "And how did the assembly finish?"
+      ],
+      [
+        "child",
+        "Can't remember."
+      ],
+      [
+        "therapist",
+        "That's okay."
+      ],
+      [
+        "therapist",
+        "Let me say your story back to you."
+      ],
+      [
+        "therapist",
+        "Your class did an assembly in the hall with Miss Hart."
+      ],
+      [
+        "therapist",
+        "It was a play about the seasons, and you were summer with a sun hat."
+      ],
+      [
+        "therapist",
+        "You felt nervous because lots of mums and dads were watching, then you said your line, so everyone clapped, and you felt proud."
+      ],
+      [
+        "therapist",
+        "Did I get that right?"
+      ],
+      [
+        "child",
+        "Yeah."
+      ],
+      [
+        "therapist",
+        "Thanks for telling me your story."
+      ],
+      [
+        "therapist",
+        "You did a really great job."
+      ]
+    ],
+    "echoes_relabelled": [
+      8,
+      15
+    ]
+  },
+  "labelled_transcript": "Therapist. Hi there. Today we're going to talk about something that really happened at school. I'll go first and then it'll be your turn. Last week I sang in a choir concert because my friend asked me to join. I forgot one line, but nobody noticed, and I felt relieved. Okay, now it's your turn. Child. Assembly. We did an assembly. Therapist. An assembly. Who was in it? Child. My class. And Miss Hart. Therapist. Your class and Miss Hart. Where was it? Child. In the hall. Therapist. In the hall. What happened? Child. We did a play. About the seasons. Therapist. A play about the seasons. What did you do? Child. I was summer. I had a sun hat. Therapist. You were summer with a sun hat. How did you feel before you went on? Child. Nervous. Lots of mums and dads. Therapist. Nervous, with lots of mums and dads watching. What happened next? Child. I said my line, so everyone clapped. Therapist. You said your line, so everyone clapped. How did that make you feel? Child. Proud. Therapist. Proud. You must have been delighted. And how did the assembly finish? Child. Can't remember. Therapist. That's okay. Let me say your story back to you. Your class did an assembly in the hall with Miss Hart. It was a play about the seasons, and you were summer with a sun hat. You felt nervous because lots of mums and dads were watching, then you said your line, so everyone clapped, and you felt proud. Did I get that right? Child. Yeah. Therapist. Thanks for telling me your story. You did a really great job.",
+  "facts": {
+    "child_turns": 10,
+    "mean_words_per_turn": 4.5,
+    "reasons": [
+      "I said my line, so everyone clapped."
+    ],
+    "sequence_words": [],
+    "vague_words": [],
+    "feelings": [
+      {
+        "word": "nervous",
+        "child_words": "Nervous. Lots of mums and dads."
+      },
+      {
+        "word": "proud",
+        "child_words": "Proud."
+      }
+    ],
+    "feeling_reasons": [],
+    "child_text": [
+      "Assembly. We did an assembly.",
+      "My class. And Miss Hart.",
+      "In the hall.",
+      "We did a play. About the seasons.",
+      "I was summer. I had a sun hat.",
+      "Nervous. Lots of mums and dads.",
+      "I said my line, so everyone clapped.",
+      "Proud.",
+      "Can't remember.",
+      "Yeah."
+    ]
+  },
+  "checked": {
+    "event": "school assembly",
+    "who": {
+      "given": true,
+      "child_words": "My class. And Miss Hart.",
+      "rejected_claim": ""
+    },
+    "where": {
+      "given": true,
+      "child_words": "In the hall.",
+      "rejected_claim": ""
+    },
+    "what_happened": {
+      "given": true,
+      "child_words": "We did a play. About the seasons.",
+      "rejected_claim": ""
+    },
+    "ending": {
+      "given": false,
+      "child_words": "",
+      "rejected_claim": "Can't remember."
+    }
+  },
+  "written": {
+    "summary": "The child told about an assembly. The child said they did an assembly. The child said their class and Miss Hart were there. The child said they were in the hall. The child said they did a play about the seasons. The child said they were summer and had a sun hat. The child said they were nervous. The child said there were lots of mums and dads. The child said they said their line and everyone clapped. The child said they felt proud. The child said they can't remember. The child said yeah.",
+    "goals": [
+      "Say how it ended.",
+      "Say why they felt that way.",
+      "Put events in order with words like 'first' and 'then'."
+    ],
+    "focus": [
+      "The child will say how the event ended.",
+      "The child will say why they felt that way.",
+      "The child will put events in order using 'first' and 'then'."
+    ],
+    "prompts": [
+      "What happened at the end of it?",
+      "Why did you feel that way about it?",
+      "What did you do first and then what did you do?"
+    ]
+  }
+}

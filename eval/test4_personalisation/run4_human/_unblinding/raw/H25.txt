@@ -1,0 +1,82 @@
+[Human] session H25, condition W-v2, "I don't know" at turn 10
+[Isolation] new process pid 97288; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (5.6s)
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: yeah i went bowling today
+[State] Selected event: Went bowling for Mia's birthday
+
+Reachy: That sounds fun. What did you do at the bowling alley?
+
+[Latency] Turn: 2.89s
+You: we had a party, it was Mia's birthday
+[Question limit] Dropped: 'Who else was there?'
+
+Reachy: Oh really?
+
+[Latency] Turn: 2.53s
+You: yes
+
+Reachy: Who else from your life was there?
+
+[Latency] Turn: 2.45s
+You: my friends Jess and Grace were there as well
+
+Reachy: Got it. And how did you feel at the birthday party?
+
+[Latency] Turn: 2.59s
+You: it was fun
+
+Reachy: That's great to hear! How did they make the party fun for you?
+
+[Latency] Turn: 2.67s
+You: what?
+
+Reachy: How did Jess and Grace make the party enjoyable for you?
+
+[Latency] Turn: 2.73s
+You: i dont know
+
+Reachy: Can you remember what games or activities you played at the bowling alley?
+
+[Latency] Turn: 2.55s
+You: yeah we did bowling and we played ski ball as well
+[Question limit] Dropped: 'Did anything special happen?'
+
+Reachy: What happened next after playing those games?
+
+[Latency] Turn: 2.50s
+You: we had pizza and birthday cake
+
+Reachy: Sounds delicious! And then what did you do?
+
+[Latency] Turn: 2.59s
+You: Mia's mum drove me home
+
+Reachy: And how did you feel when you went home?
+
+[Latency] Turn: 2.73s
+You: tired
+
+Reachy: That’s understandable. Did anyone in your family come to pick you up?
+
+[Latency] Turn: 2.52s
+You: no, Mia's mum drove me home
+
+Reachy: Got it. And that made you tired as well. Thank you for sharing about your day!
+
+[Latency] Turn: 2.74s
+You: goodbye
+
+Reachy: Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+[State] Goodbye heard; confirming before ending.
+[Not spoken] Model's reply, dropped but kept in its history as on the robot: 'Goodbye, take care.'
+You: no
+
+Reachy: Okay. Thank you for sharing your day with me, April. Goodbye.
+
+[State] Child confirmed goodbye; ending session.
+[Human] Session over.

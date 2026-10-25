@@ -1,0 +1,96 @@
+[Human] session H02, condition W, "I don't know" at turn 9
+[Isolation] new process pid 389436; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (3.9s)
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Went bowling
+[State] Selected event: Went bowling for Mia's birthday
+
+Reachy: Gave Mia what fun! What happened when you were at the bowling alley?
+
+[Latency] Turn: 2.87s
+You: we did some bowling
+
+Reachy: And what did you and Mia do together there?
+
+[Latency] Turn: 2.61s
+You: bowled
+
+Reachy: What game did you guys bowl first, or any other fun things happen there?
+
+[Latency] Turn: 2.52s
+You: bowling
+
+Reachy: Fun! Did anyone score better than you did?
+
+[Latency] Turn: 2.44s
+You: yeah i came second
+
+Reachy: That sounds amazing. What were the scores like?
+
+[Latency] Turn: 2.58s
+You: Mia scored 300, i scored 192
+
+Reachy: Oh wow, that's really close! Great job though. Did you celebrate your score together?
+
+[Latency] Turn: 2.60s
+You: Yeah, i told her she did well
+
+Reachy: That’s nice to hear. What did Mia say when you told her about your score?
+
+[Latency] Turn: 2.66s
+You: she bragged that she won
+
+Reachy: She seemed proud of herself, didn't she?
+
+[Latency] Turn: 2.53s
+You: yeah i guess so
+
+Reachy: Good job working together, having fun, and celebrating!
+
+[Latency] Turn: 2.78s
+You: thanks
+
+Reachy: You're welcome. Have a nice day ahead!
+
+[Latency] Turn: 2.45s
+You: is that all
+
+Reachy: That's great to hear about your bowling session. Do you have any more details or would you like to talk about something different?
+
+[Latency] Turn: 2.69s
+You: we also sang happy birthday
+[Question limit] Dropped: 'What did Mia do while singing?'
+
+Reachy: Singing "Happy Birthday" must have made the day extra special, didn't it?
+
+[Latency] Turn: 2.64s
+You: yeah
+
+Reachy: That's wonderful! What did Mia say while she sang or after?
+
+[Latency] Turn: 2.84s
+You: she was quite, it was her birthday
+
+Reachy: She sure knows how to make birthdays merry! Did you both enjoy the evening together?
+
+[Latency] Turn: 2.67s
+You: yeah it was alot of fun
+
+Reachy: That's great to hear. Have a good day!
+
+[Latency] Turn: 2.58s
+You: bye
+
+Reachy: Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+[State] Goodbye heard; confirming before ending.
+[Not spoken] Model's reply, dropped but kept in its history as on the robot: 'Goodbye, take care!'
+You: no
+
+Reachy: Okay. Thank you for sharing your day with me, April. Goodbye.
+
+[State] Child confirmed goodbye; ending session.
+[Human] Session over.

@@ -1,0 +1,247 @@
+{
+  "labelled": true,
+  "speakers": "auto",
+  "auto_labels": {
+    "method": "pieces",
+    "segments": [
+      [
+        "therapist",
+        "hi jayden come and sit down"
+      ],
+      [
+        "therapist",
+        "ok so today we're going to do some talking about things that happened"
+      ],
+      [
+        "therapist",
+        "did anything happen at the weekend"
+      ],
+      [
+        "child",
+        "um um I got my I got my hair cut"
+      ],
+      [
+        "therapist",
+        "look oh wow let me see its really short"
+      ],
+      [
+        "child",
+        "yeah its short at the sides and spiky on the top"
+      ],
+      [
+        "therapist",
+        "so tell me about it"
+      ],
+      [
+        "child",
+        "where did you at the hair shop"
+      ],
+      [
+        "child",
+        "the one by the um the chippy"
+      ],
+      [
+        "child",
+        "no by the bakery"
+      ],
+      [
+        "therapist",
+        "the one by the bakery"
+      ],
+      [
+        "therapist",
+        "the one by the bakery ok and what happened"
+      ],
+      [
+        "child",
+        "I sat in the big chair and it goes up and up like a like a rocket"
+      ],
+      [
+        "therapist",
+        "it went up like a rocket"
+      ],
+      [
+        "child",
+        "and there was a cape thing with dinosaurs on it"
+      ],
+      [
+        "therapist",
+        "a dinosaur cape cool"
+      ],
+      [
+        "therapist",
+        "what else then"
+      ],
+      [
+        "child",
+        "the scissors went snip snip and it tickled my ear"
+      ],
+      [
+        "therapist",
+        "it tickled your ear yeah"
+      ],
+      [
+        "child",
+        "and then the buzzy thing on my neck"
+      ],
+      [
+        "therapist",
+        "the buzzy thing"
+      ],
+      [
+        "child",
+        "the clippers"
+      ],
+      [
+        "child",
+        "I didn't like the buzzy thing"
+      ],
+      [
+        "child",
+        "it was too loud on my ear too loud"
+      ],
+      [
+        "therapist",
+        "mm hm you must have felt really grown up sitting in the big chair"
+      ],
+      [
+        "child",
+        "do you got a hair cut me not this week maybe soon"
+      ],
+      [
+        "therapist",
+        "you should get the dinosaur cape maybe I will"
+      ],
+      [
+        "therapist",
+        "so then what happened at the end"
+      ],
+      [
+        "child",
+        "um I don't know you don't know"
+      ],
+      [
+        "therapist",
+        "ok can you remember what happened when it was all finished"
+      ],
+      [
+        "child",
+        "can I do the stickers now in a minute"
+      ],
+      [
+        "therapist",
+        "tell me one more thing about"
+      ],
+      [
+        "child",
+        "the hair shop"
+      ],
+      [
+        "child",
+        "there was a telly on the wall with cartoons"
+      ],
+      [
+        "therapist",
+        "on a telly with cartoons brilliant"
+      ],
+      [
+        "therapist",
+        "ok let's do stickers"
+      ],
+      [
+        "child",
+        "can I have the dinosaur one"
+      ]
+    ],
+    "echoes_relabelled": [
+      20
+    ]
+  },
+  "labelled_transcript": "Therapist. hi jayden come and sit down ok so today we're going to do some talking about things that happened did anything happen at the weekend Child. um um I got my I got my hair cut Therapist. look oh wow let me see its really short Child. yeah its short at the sides and spiky on the top Therapist. so tell me about it Child. where did you at the hair shop the one by the um the chippy no by the bakery Therapist. the one by the bakery the one by the bakery ok and what happened Child. I sat in the big chair and it goes up and up like a like a rocket Therapist. it went up like a rocket Child. and there was a cape thing with dinosaurs on it Therapist. a dinosaur cape cool what else then Child. the scissors went snip snip and it tickled my ear Therapist. it tickled your ear yeah Child. and then the buzzy thing on my neck Therapist. the buzzy thing Child. the clippers I didn't like the buzzy thing it was too loud on my ear too loud Therapist. mm hm you must have felt really grown up sitting in the big chair Child. do you got a hair cut me not this week maybe soon Therapist. you should get the dinosaur cape maybe I will so then what happened at the end Child. um I don't know you don't know Therapist. ok can you remember what happened when it was all finished Child. can I do the stickers now in a minute Therapist. tell me one more thing about Child. the hair shop there was a telly on the wall with cartoons Therapist. on a telly with cartoons brilliant ok let's do stickers Child. can I have the dinosaur one",
+  "facts": {
+    "child_turns": 13,
+    "mean_words_per_turn": 11.3,
+    "sequence_words": [
+      "then"
+    ],
+    "vague_words": [
+      "thing"
+    ],
+    "child_text": [
+      "um um I got my I got my hair cut",
+      "yeah its short at the sides and spiky on the top",
+      "where did you at the hair shop the one by the um the chippy no by the bakery",
+      "I sat in the big chair and it goes up and up like a like a rocket",
+      "and there was a cape thing with dinosaurs on it",
+      "the scissors went snip snip and it tickled my ear",
+      "and then the buzzy thing on my neck",
+      "the clippers I didn't like the buzzy thing it was too loud on my ear too loud",
+      "do you got a hair cut me not this week maybe soon",
+      "um I don't know you don't know",
+      "can I do the stickers now in a minute",
+      "the hair shop there was a telly on the wall with cartoons",
+      "can I have the dinosaur one"
+    ],
+    "feelings": [
+      {
+        "word": "annoyed",
+        "child_words": "the clippers I didn't like the buzzy thing it was too loud on my ear too loud",
+        "named": false
+      }
+    ],
+    "reasons": [
+      {
+        "child_words": "the clippers I didn't like the buzzy thing it was too loud on my ear too loud",
+        "linked": false,
+        "about_feeling": true
+      }
+    ],
+    "feeling_reasons": [
+      "the clippers I didn't like the buzzy thing it was too loud on my ear too loud"
+    ]
+  },
+  "checked": {
+    "event": "hair cut",
+    "who": {
+      "given": false,
+      "child_words": "",
+      "rejected_claim": "the cape thing with dinosaurs on it | yeah its short at the sides and spiky on the top"
+    },
+    "where": {
+      "given": false,
+      "child_words": "",
+      "rejected_claim": "the hair shop the one by the bakery | where did you at the hair shop the one by the um the chippy no by the bakery"
+    },
+    "what_happened": {
+      "given": true,
+      "child_words": "I sat in the big chair and it goes up and up like a like a rocket and there was a cape thing with dinosaurs on it the scissors went snip snip and it tickled my ear and then the buzzy thing on my neck the clippers I didn't like the buzzy thing it was too loud on my ear too loud",
+      "rejected_claim": ""
+    },
+    "ending": {
+      "given": true,
+      "child_words": "can I have the dinosaur one",
+      "rejected_claim": ""
+    }
+  },
+  "written": {
+    "summary": "The child told about getting their hair cut, describing it as short at the sides and spiky on the top. They mentioned sitting in a big chair, the scissors making a snip snip sound, and the clippers being too loud. The child also talked about a cape with dinosaurs, a telly with cartoons, and asked if they could do the stickers now.",
+    "goals": [
+      "Say who was there.",
+      "Say where it happened.",
+      "Name the feeling with a feeling word.",
+      "Link a reason with 'because' or 'so'."
+    ],
+    "focus": [
+      "The child will say who was there.",
+      "The child will say where it happened.",
+      "The child will name the feeling with a feeling word.",
+      "The child will link a reason with 'because' or 'so'."
+    ],
+    "prompts": [
+      "Who was with you in that?",
+      "Where did that happen?",
+      "How did you feel in that?",
+      "Why did that happen?"
+    ]
+  }
+}

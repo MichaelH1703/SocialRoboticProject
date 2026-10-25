@@ -1,0 +1,21 @@
+-- Undo setup_versions.py's additions (v2-v4). restore_titles.sql puts the removed titles back.
+BEGIN;
+DELETE FROM recount_event_prompts WHERE id IN ('8316ae81-ca0a-449b-bff4-11dcb6bf2d7d', 'a1170d0f-9475-439e-a23f-0db019ed9152', 'a12f0ec2-3d77-4e11-914e-974f0e74de29');
+DELETE FROM daily_recap_sessions WHERE id = 19;
+DELETE FROM session_notes WHERE id = '259d8a2d-1a6d-4ca4-a2a0-4faee16205e7';
+DELETE FROM client_profiles WHERE id = '7026fb4b-b8d0-4fc4-ab7d-c6ddec978e36';
+DELETE FROM clients WHERE id = '8dc417db-4286-4d7d-9f83-8537ba0d57ff';
+DELETE FROM auth.users WHERE id = '49ed6e18-fb8a-4244-a1fc-4f0d7deeb47b';
+DELETE FROM recount_event_prompts WHERE id IN ('6c698633-24cb-4fc5-9229-438fb595dc7d', '15395e80-9230-47ff-969f-869a5b8e6535', 'f3e2e624-99e1-4c69-b7bc-0db250bbceb2');
+DELETE FROM daily_recap_sessions WHERE id = 20;
+DELETE FROM session_notes WHERE id = '37a49ede-51e7-420b-a566-2ac456676802';
+DELETE FROM client_profiles WHERE id = 'b4d6cd4e-0e18-42ac-97a1-bc558903727e';
+DELETE FROM clients WHERE id = 'bcc0f0e6-15c2-49d1-915f-b1b9b5bb596a';
+DELETE FROM auth.users WHERE id = '14c155d7-1e2e-4aeb-be4c-a31520cc9f77';
+DELETE FROM recount_event_prompts WHERE id IN ('b76e6378-87a2-4020-8e62-0c7dd5244a8c', '2e67da2d-943e-4158-aff1-a7aaf9dfcfec', '75344b9f-f35c-4473-babc-a69e1b882990');
+DELETE FROM daily_recap_sessions WHERE id = 21;
+DELETE FROM session_notes WHERE id = '398dee61-e537-4927-9c03-9ce1925cd013';
+DELETE FROM client_profiles WHERE id = '779f0440-5150-4d68-b79f-32a3f9266456';
+DELETE FROM clients WHERE id = '7c00d7b7-0956-4413-8fc2-6edd7bff7080';
+DELETE FROM auth.users WHERE id = '61587c31-3e14-4a95-aea4-beb00c25e118';
+COMMIT;

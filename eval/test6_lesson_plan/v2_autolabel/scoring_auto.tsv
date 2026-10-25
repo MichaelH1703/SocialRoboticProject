@@ -1,0 +1,82 @@
+transcript_id	feature	planted	reported	result	evidence (plan, sections 1-4)	note
+T01	Leaves out: where	Y	Y	hit	Did not say where it happened.	
+T01	Uses 'because'	Y	Y	hit	Gave a reason: "I didn't want to because it was really deep."	
+T01	Emotion word: scared	Y	Y	hit	Named feelings: scared, happy	
+T01	Emotion word: happy	Y	Y	hit	Named feelings: scared, happy	
+T01	False alarm?: why they felt	N	?	JUDGE	Did not say why they felt that way.	JUDGE: did the child give a reason for a feeling?
+T02	Leaves out: how it ended	Y	Y	hit	Did not say how it ended.	
+T02	Uses neither 'because' nor 'so'	Y	Y	hit	Did not give any reasons (no "because" or "so").	
+T02	Emotion word: excited	Y	Y	hit	Named feelings: excited	
+T03	Leaves out: who	Y	Y	hit	Did not say who was there.	
+T03	Uses 'so'	Y	Y	hit	Gave a reason: "The bell went, so I went inside."	
+T03	Emotion word: sad	Y	Y	hit	Named feelings: sad	
+T03	Emotion word: worried	Y	N	miss		
+T03	False alarm?: why they felt	N	?	JUDGE	Did not say why they felt that way.	JUDGE: did the child give a reason for a feeling?
+T04	Leaves out: how they felt	Y	Y	hit	Did not name any feelings.	
+T04	Uses 'because' and 'so'	Y	Y	hit	Gave a reason: "Then what? I did the mixing because Grandma said I'm good at it."; Gave a reason: "We put them in the oven. They were too hot, so we waited."	
+T04	Uses no emotion words	Y	Y	hit	Did not name any feelings.	
+T04	(not scored)					'then' is not the child's word
+T05	Leaves out: where	Y	Y	hit	Did not say where it happened.	
+T05	Leaves out: how it ended	Y	Y	hit	Did not say how it ended.	
+T05	Uses neither 'because' nor 'so'	Y	Y	hit	Did not give any reasons (no "because" or "so").	
+T05	Emotion word: angry	Y	Y	hit	Named feelings: angry	
+T06	Uses 'because'	Y	Y	hit	Gave a reason: "Scared. A bit scared because one moved."	
+T06	Emotion word: excited	Y	Y	hit	Named feelings: excited, scared	
+T06	Emotion word: scared	Y	Y	hit	Named feelings: excited, scared	
+T07	Leaves out: what happened	Y	N	miss		
+T07	Uses neither 'because' nor 'so'	Y	Y	hit	Did not give any reasons (no "because" or "so").	
+T07	Emotion word: happy	Y	Y	hit	Named feelings: happy	
+T08	Leaves out: who	Y	Y	hit	Did not say who was there.	
+T08	Leaves out: how they felt	Y	Y	hit	Did not name any feelings.	
+T08	Uses 'because'	Y	Y	hit	Gave a reason: "I hit a stone because I didn't see it."	
+T08	Uses no emotion words	Y	Y	hit	Did not name any feelings.	
+T09	Leaves out: how it ended	Y	Y	hit	Did not say how it ended.	
+T09	Uses 'so'	Y	Y	hit	Gave a reason: "I said my line, so everyone clapped."	
+T09	Emotion word: nervous	Y	Y	hit	Named feelings: nervous, proud	
+T09	Emotion word: proud	Y	Y	hit	Named feelings: nervous, proud	
+T09	False alarm?: why they felt	N	?	JUDGE	Did not say why they felt that way.	JUDGE: did the child give a reason for a feeling?
+T10	Leaves out: who	Y	Y	hit	Did not say who was there.	
+T10	Leaves out: where	Y	Y	hit	Did not say where it happened.	
+T10	Uses neither 'because' nor 'so'	Y	Y	hit	Did not give any reasons (no "because" or "so").	
+T10	Emotion word: annoyed	Y	Y	hit	Named feelings: annoyed, happy	
+T10	Emotion word: happy	Y	Y	hit	Named feelings: annoyed, happy	
+T11	Leaves out: who	Y	Y	hit	Did not say who was there.	
+T11	Uses 'so'	Y	Y	hit	Gave a reason: "The sea came in, so it got washed away."	
+T11	Emotion word: happy	Y	Y	hit	Named feelings: happy	
+T11	False alarm?: why they felt	N	?	JUDGE	Did not say why they felt that way.	JUDGE: did the child give a reason for a feeling?
+T12	Leaves out: where	Y	Y	hit	Did not say where it happened.	
+T12	Uses 'because'	Y	Y	hit	Gave a reason: "I held her. I was a bit nervous because she was wriggly."; Gave a reason: "Pepper. Because she's black and white."	
+T12	Emotion word: nervous	Y	Y	hit	Named feelings: nervous, excited	
+T12	Emotion word: excited	Y	Y	hit	Named feelings: nervous, excited	
+T13	Leaves out: how it ended	Y	Y	hit	Did not say how it ended.	
+T13	Uses neither 'because' nor 'so'	Y	Y	hit	Did not give any reasons (no "because" or "so").	
+T13	Emotion word: sad	Y	Y	hit	Named feelings: sad	
+T14	Leaves out: how they felt	Y	Y	hit	Did not name any feelings.	
+T14	Uses 'because' and 'so'	Y	Y	hit	Gave a reason: "I have to brush more because one has a hole. So I got a new toothbrush."	
+T14	Uses no emotion words	Y	Y	hit	Did not name any feelings.	
+T14	False alarm: where	N	Y	false alarm	Did not say where it happened.	CHECK the child gave it
+T15	Uses 'so'	Y	Y	hit	Gave a reason: "A T-rex came out. It was really loud, so I hid behind my hands."	
+T15	Emotion word: scared	Y	Y	hit	Named feelings: scared, happy	
+T15	Emotion word: happy	Y	Y	hit	Named feelings: scared, happy	
+T15	False alarm?: why they felt	N	?	JUDGE	Did not say why they felt that way.	JUDGE: did the child give a reason for a feeling?
+T16	Leaves out: who	Y	Y	hit	Did not say who was there.	
+T16	Uses 'because'	Y	Y	hit	Gave a reason: "It fell down because I bumped it. All the bricks went everywhere."	
+T16	Emotion word: cross	Y	Y	hit	Named feelings: cross, proud	
+T16	Emotion word: proud	Y	Y	hit	Named feelings: cross, proud	
+T16	False alarm?: why they felt	N	?	JUDGE	Did not say why they felt that way.	JUDGE: did the child give a reason for a feeling?
+T17	Leaves out: where	Y	Y	hit	Did not say where it happened.	
+T17	Leaves out: how it ended	Y	Y	hit	Did not say how it ended.	
+T17	Uses neither 'because' nor 'so'	Y	Y	hit	Did not give any reasons (no "because" or "so").	
+T17	Emotion word: surprised	Y	Y	hit	Named feelings: surprised	
+T18	Leaves out: what happened	Y	N	miss		
+T18	Uses neither 'because' nor 'so'	Y	Y	hit	Did not give any reasons (no "because" or "so").	
+T18	Emotion word: bored	Y	Y	hit	Named feelings: bored, happy	
+T18	Emotion word: happy	Y	Y	hit	Named feelings: bored, happy	
+T19	Leaves out: who	Y	Y	hit	Did not say who was there.	
+T19	Leaves out: how they felt	Y	Y	hit	Did not name any feelings.	
+T19	Uses 'because'	Y	Y	hit	Gave a reason: "We had cake because it was my birthday."	
+T19	Uses no emotion words	Y	Y	hit	Did not name any feelings.	
+T20	Leaves out: where	Y	Y	hit	Did not say where it happened.	
+T20	Uses 'so'	Y	Y	hit	Gave a reason: "It was really loud, so I put my hands on my ears."; Gave a reason: "She said it was just practice. So we went back in. I was glad."	
+T20	Emotion word: worried	Y	Y	hit	Named feelings: worried, glad	
+T20	Emotion word: glad	Y	Y	hit	Named feelings: worried, glad	

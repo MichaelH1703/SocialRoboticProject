@@ -1,0 +1,69 @@
+{
+  "conversation_logs": [
+    {
+      "id": "3191d02a-a1d7-4835-9429-f9339b38ac83",
+      "therapist_id": "6b51a49f-90b7-45a1-8c8f-7d5418dab26d",
+      "client_name": "Ben",
+      "timestamp": "12 Oct 2026 · 12:34 AM",
+      "user_text": "Hello.",
+      "assistant_text": "Hello! Could you tell me more about what happened today?"
+    },
+    {
+      "id": "1a31a218-57fc-4593-ac0a-fb9a3774ac36",
+      "therapist_id": "6b51a49f-90b7-45a1-8c8f-7d5418dab26d",
+      "client_name": "Ben",
+      "timestamp": "12 Oct 2026 · 12:34 AM",
+      "user_text": "Guess what pet I have.",
+      "assistant_text": "Oh, that’s fun! What's the name of your pet and where did you meet them?"
+    },
+    {
+      "id": "2be8dec8-a3c4-4c5a-b8f1-5afe1839c90a",
+      "therapist_id": "6b51a49f-90b7-45a1-8c8f-7d5418dab26d",
+      "client_name": "Ben",
+      "timestamp": "12 Oct 2026 · 12:34 AM",
+      "user_text": "Is it a dog or something else?",
+      "assistant_text": "It sounds interesting. Was this at home, school, or somewhere else?"
+    },
+    {
+      "id": "71066ab7-64fc-434a-be29-0492bb565328",
+      "therapist_id": "6b51a49f-90b7-45a1-8c8f-7d5418dab26d",
+      "client_name": "Ben",
+      "timestamp": "12 Oct 2026 · 12:34 AM",
+      "user_text": "What do you know about me?",
+      "assistant_text": "That's a question for your speech teacher, so you could ask them. I'm here to hear about your day. What would you like to tell me?"
+    },
+    {
+      "id": "c0d1675d-e361-454e-9146-0c5f71cf7000",
+      "therapist_id": "6b51a49f-90b7-45a1-8c8f-7d5418dab26d",
+      "client_name": "Ben",
+      "timestamp": "12 Oct 2026 · 12:34 AM",
+      "user_text": "What's my pet's name?",
+      "assistant_text": "Sure! Can you share what you know about your pet’s name and how you got it?"
+    },
+    {
+      "id": "736cb0bb-390e-4ede-9777-324a1ecbbeb3",
+      "therapist_id": "6b51a49f-90b7-45a1-8c8f-7d5418dab26d",
+      "client_name": "Ben",
+      "timestamp": "12 Oct 2026 · 12:34 AM",
+      "user_text": "Bye.",
+      "assistant_text": "Thanks for talking with me today, Ben. Is there anything more you wanted to talk about?"
+    },
+    {
+      "id": "0cb7761e-6d6e-44f6-8f88-fdf092095a70",
+      "therapist_id": "6b51a49f-90b7-45a1-8c8f-7d5418dab26d",
+      "client_name": "Ben",
+      "timestamp": "12 Oct 2026 · 12:34 AM",
+      "user_text": "No.",
+      "assistant_text": "Okay. Thank you for sharing your day with me, Ben. Goodbye."
+    }
+  ],
+  "safety_events": [
+    {
+      "id": "8b25f27a-33e4-4fbe-9750-6ecc49b03496",
+      "therapist_id": "6b51a49f-90b7-45a1-8c8f-7d5418dab26d",
+      "client_name": "Ben",
+      "rule_id": "R06",
+      "child_text": "What do you know about me?"
+    }
+  ]
+}

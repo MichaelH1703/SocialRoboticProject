@@ -1,0 +1,85 @@
+[Child sim] session W6, llama3.2:3b, temperature 0.3, seed 6, "I don't know" at turn 6
+[Isolation] new process pid 372784; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (4.2s)
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Went bowling.
+[State] Selected event: Went bowling for Mia's birthday
+[Question limit] Dropped: 'What was the game like?'
+
+Reachy: That sounds like fun. What happened when you went bowling?
+
+[Latency] Turn: 2.75s
+You: Got two strikes. Mia won.
+
+Reachy: Nice! What did Mia do that was special?
+
+[Latency] Turn: 2.36s
+You: Blow out candles.
+[Question limit] Dropped: 'That must have been exciting.'
+
+Reachy: Oh, got to blow out the candles on her cake?
+
+[Latency] Turn: 2.60s
+You: Yeah.
+[Question limit] Dropped: 'Was it exciting or happy?'
+
+Reachy: And how did you feel after blowing out the candles?
+
+[Latency] Turn: 2.59s
+You: Happy.
+
+Reachy: That sounds really happy!
+
+[Latency] Turn: 2.43s
+[Child sim] forced "I don't know" at turn 6; Reachy's line before it did not ask a question
+You: I don't know.
+[Question limit] Dropped: 'Can you tell me more about why you felt happy then?'
+
+Reachy: Sometimes people find it hard to explain feelings fully, is that right?
+
+[Latency] Turn: 2.78s
+You: Good. Fun.
+
+Reachy: And do you think Mia felt the same way you did when she blew out the candles?
+
+[Latency] Turn: 2.62s
+You: Mia's mum drove me home.
+[Question limit] Dropped: 'Did you have any fun things happen during that drive?'
+
+Reachy: Got your ride home from Mia's?
+
+[Latency] Turn: 2.77s
+You: Yeah.
+
+Reachy: Good to have a ride home after bowling. Did you do anything special on the way back?
+
+[Latency] Turn: 2.63s
+You: Had pizza.
+
+Reachy: That sounds yummy! What kind of pizza did you get?
+
+[Latency] Turn: 2.44s
+You: Can't remember.
+
+Reachy: It's okay, sometimes it takes time to think about every detail. Do you remember what you wore?
+
+[Latency] Turn: 2.60s
+You: Wore same thing.
+
+Reachy: Did you see anyone special on the way home, like a friend or family member?
+
+[Latency] Turn: 2.60s
+You: Bye.
+
+Reachy: Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+[State] Goodbye heard; confirming before ending.
+[Not spoken] Model's reply, dropped but kept in its history as on the robot: 'Alright then, is there anything else you wanted to share about your day?'
+You: No.
+
+Reachy: Okay. Thank you for sharing your day with me, April. Goodbye.
+
+[State] Child confirmed goodbye; ending session.

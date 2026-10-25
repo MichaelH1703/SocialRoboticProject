@@ -1,0 +1,45 @@
+Session S24
+
+Reachy (greeting, not coded): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Went bowling.
+Reachy [1]: How did that go for you?
+
+You: Got two strikes. Mia won.
+Reachy [2]: That sounds fun! What else happened at the bowling alley?
+
+You: Had pizza. Cake afterwards.
+Reachy [3]: And what about before they started bowling, how did it feel?
+
+You: Nervous.
+Reachy [4]: Nervous is a good feeling before something exciting happens, isn't it?
+
+You: No. Just was.
+Reachy [5]: Why do you think you might have felt nervous about bowling, then?
+
+You: Can't remember.
+Reachy [6]: It's okay to not remember everything all the time. What did you like most about the day?
+
+You: Good.
+Reachy [7]: What was good about it?
+
+You: Cake.
+Reachy [8]: Getting a yummy cake sounds so nice! How do you feel now sharing that?
+
+You: I don't know.
+Reachy [9]: It's alright not to have all the answers right away. That's fine.
+
+You: Yeah.
+Reachy [10]: Do you want to share how you felt about getting that cake, or is there something else you'd like to talk about?
+
+You: Happy.
+Reachy [11]: That's a happy feeling! How was your trip bowling making you feel throughout the day?
+
+You: Fun.
+Reachy [12]: Fun sounds great right now. Any other parts of your day that felt fun or special?
+
+You: Bye.
+Reachy (scripted, not coded): Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+You: No.
+Reachy (scripted, not coded): Okay. Thank you for sharing your day with me, April. Goodbye.

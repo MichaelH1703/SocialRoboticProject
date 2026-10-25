@@ -1,0 +1,81 @@
+[Child sim] session fire-2 (Fire drill at school), llama3.2:3b, temperature 0.3, seed 82
+[Isolation] new process pid 235316; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (3.8s)
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Fire drill.
+[State] Selected event: Fire drill at school
+[Question limit] Dropped: 'Who was there?'
+
+Reachy: Okay. What happened during the fire drill?
+
+[Latency] Turn: 2.71s
+[Child sim] attempt 1 rejected (too long): 'We went out to the field and stood in lines. Miss Shah read the register.'
+You: We went out. Stood by door. Miss Shah checked register.
+
+Reachy: And how did that make you feel?
+
+[Latency] Turn: 2.35s
+You: Surprised. Cold.
+
+Reachy: Interesting. Did anyone help keep warm or did you use a coat?
+
+[Latency] Turn: 2.58s
+You: No coat. Cold.
+
+Reachy: Understood, surprised and feeling cold then.
+
+[Latency] Turn: 2.55s
+You: Yeah.
+
+Reachy: Anything else you want to share about the fire drill?
+
+[Latency] Turn: 2.49s
+You: Loud alarm. Covered ears.
+
+Reachy: Got it. What did Miss Shah do during the fire drill?
+
+[Latency] Turn: 2.46s
+You: I don't know.
+
+Reachy: Right, anything specific she did that stands out to you?
+
+[Latency] Turn: 2.47s
+You: Read register.
+
+Reachy: Okay, understood. Anything else you want to add about your day then?
+
+[Latency] Turn: 2.55s
+You: Yeah. Maths was thing afterwards.
+
+Reachy: Okay, and how did maths go for you today?
+
+[Latency] Turn: 2.55s
+You: Did maths. Finished maths.
+
+Reachy: Sounds alright. Thanks for sharing!
+
+[Latency] Turn: 2.40s
+You: Can't remember.
+
+Reachy: Alright, anything more you want to recall or discuss from your day?
+
+[Latency] Turn: 2.56s
+You: No.
+
+Reachy: That's okay. It's been nice talking about your day.
+
+[Latency] Turn: 2.54s
+You: Bye.
+
+Reachy: Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+[State] Goodbye heard; confirming before ending.
+[Not spoken] Model's reply, dropped but kept in its history as on the robot: 'Goodbye, take care.'
+You: No.
+
+Reachy: Okay. Thank you for sharing your day with me, April. Goodbye.
+
+[State] Child confirmed goodbye; ending session.

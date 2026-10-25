@@ -1,0 +1,282 @@
+{
+  "labelled": true,
+  "speakers": "auto",
+  "auto_labels": {
+    "sentences": [
+      [
+        "therapist",
+        "Hi Kian."
+      ],
+      [
+        "therapist",
+        "Anything you'd like to tell me about?"
+      ],
+      [
+        "child",
+        "The science trip."
+      ],
+      [
+        "child",
+        "I've got a story too."
+      ],
+      [
+        "child",
+        "I visited a museum once and followed the map the wrong way round, so I ended up back at the entrance."
+      ],
+      [
+        "therapist",
+        "What happened on your trip?"
+      ],
+      [
+        "child",
+        "We went to the science museum in Manchester."
+      ],
+      [
+        "therapist",
+        "Who went with you?"
+      ],
+      [
+        "child",
+        "Our science teacher, Mr Bell, and two other teachers."
+      ],
+      [
+        "child",
+        "Everyone in Year 8."
+      ],
+      [
+        "therapist",
+        "What was the first thing you did there?"
+      ],
+      [
+        "child",
+        "We had to put our bags in the lockers."
+      ],
+      [
+        "child",
+        "Mine was number 108."
+      ],
+      [
+        "therapist",
+        "What did you see after that?"
+      ],
+      [
+        "child",
+        "There was a room with a big floor map of the Moon."
+      ],
+      [
+        "child",
+        "You could walk on it and it showed all the craters."
+      ],
+      [
+        "therapist",
+        "What happened while you were in that room?"
+      ],
+      [
+        "child",
+        "People were walking across the map and the floor was shaking a bit because the display had moving parts underneath."
+      ],
+      [
+        "child",
+        "I was trying to find the Apollo 11 landing site."
+      ],
+      [
+        "therapist",
+        "Did you find it?"
+      ],
+      [
+        "child",
+        "Yes, it was marked near the Sea of Tranquillity."
+      ],
+      [
+        "child",
+        "Apollo 11 landed on 20 July 1969."
+      ],
+      [
+        "child",
+        "Neil Armstrong went down the ladder first, then Buzz Aldrin."
+      ],
+      [
+        "therapist",
+        "You know the history well."
+      ],
+      [
+        "therapist",
+        "What happened after the Moon room?"
+      ],
+      [
+        "child",
+        "We went to the electricity section."
+      ],
+      [
+        "child",
+        "There was a hand crank that lit up a row of bulbs."
+      ],
+      [
+        "therapist",
+        "It needed more force if you tried to light all of them at once."
+      ],
+      [
+        "therapist",
+        "Did you have a go?"
+      ],
+      [
+        "child",
+        "Yes."
+      ],
+      [
+        "child",
+        "I got six bulbs on."
+      ],
+      [
+        "child",
+        "The boy behind me got four."
+      ],
+      [
+        "therapist",
+        "How did you feel about that?"
+      ],
+      [
+        "child",
+        "Pleased."
+      ],
+      [
+        "child",
+        "It worked properly when I turned it faster."
+      ],
+      [
+        "therapist",
+        "You were pleased that you got all six bulbs lit."
+      ],
+      [
+        "child",
+        "Yes."
+      ],
+      [
+        "therapist",
+        "What happened at the end of the visit?"
+      ],
+      [
+        "child",
+        "We had lunch and then got back on the coach."
+      ],
+      [
+        "therapist",
+        "Did anything else happen on the coach?"
+      ],
+      [
+        "child",
+        "The driver put the radio on."
+      ],
+      [
+        "child",
+        "It was some station with adverts."
+      ],
+      [
+        "therapist",
+        "So you visited the science museum, explored the Moon map, found the Apollo 11 site, tried the hand-crank display and got six bulbs lit."
+      ],
+      [
+        "therapist",
+        "You had lunch before getting back on the coach."
+      ],
+      [
+        "child",
+        "Yeah."
+      ],
+      [
+        "therapist",
+        "Is there anything you'd change about the visit?"
+      ],
+      [
+        "child",
+        "No."
+      ],
+      [
+        "child",
+        "I wanted longer in the electricity section."
+      ],
+      [
+        "therapist",
+        "Thanks, Kian."
+      ],
+      [
+        "therapist",
+        "That's a good place to finish."
+      ],
+      [
+        "child",
+        "Okay."
+      ]
+    ],
+    "echoes_relabelled": []
+  },
+  "labelled_transcript": "Therapist. Hi Kian. Anything you'd like to tell me about? Child. The science trip. I've got a story too. I visited a museum once and followed the map the wrong way round, so I ended up back at the entrance. Therapist. What happened on your trip? Child. We went to the science museum in Manchester. Therapist. Who went with you? Child. Our science teacher, Mr Bell, and two other teachers. Everyone in Year 8. Therapist. What was the first thing you did there? Child. We had to put our bags in the lockers. Mine was number 108. Therapist. What did you see after that? Child. There was a room with a big floor map of the Moon. You could walk on it and it showed all the craters. Therapist. What happened while you were in that room? Child. People were walking across the map and the floor was shaking a bit because the display had moving parts underneath. I was trying to find the Apollo 11 landing site. Therapist. Did you find it? Child. Yes, it was marked near the Sea of Tranquillity. Apollo 11 landed on 20 July 1969. Neil Armstrong went down the ladder first, then Buzz Aldrin. Therapist. You know the history well. What happened after the Moon room? Child. We went to the electricity section. There was a hand crank that lit up a row of bulbs. Therapist. It needed more force if you tried to light all of them at once. Did you have a go? Child. Yes. I got six bulbs on. The boy behind me got four. Therapist. How did you feel about that? Child. Pleased. It worked properly when I turned it faster. Therapist. You were pleased that you got all six bulbs lit. Child. Yes. Therapist. What happened at the end of the visit? Child. We had lunch and then got back on the coach. Therapist. Did anything else happen on the coach? Child. The driver put the radio on. It was some station with adverts. Therapist. So you visited the science museum, explored the Moon map, found the Apollo 11 site, tried the hand-crank display and got six bulbs lit. You had lunch before getting back on the coach. Child. Yeah. Therapist. Is there anything you'd change about the visit? Child. No. I wanted longer in the electricity section. Therapist. Thanks, Kian. That's a good place to finish. Child. Okay.",
+  "facts": {
+    "child_turns": 16,
+    "mean_words_per_turn": 13.4,
+    "reasons": [
+      "The science trip. I've got a story too. I visited a museum once and followed the map the wrong way round, so I ended up back at the entrance.",
+      "People were walking across the map and the floor was shaking a bit because the display had moving parts underneath. I was trying to find the Apollo 11 landing site."
+    ],
+    "sequence_words": [
+      "first",
+      "then"
+    ],
+    "vague_words": [],
+    "feelings": [],
+    "feeling_reasons": [],
+    "child_text": [
+      "The science trip. I've got a story too. I visited a museum once and followed the map the wrong way round, so I ended up back at the entrance.",
+      "We went to the science museum in Manchester.",
+      "Our science teacher, Mr Bell, and two other teachers. Everyone in Year 8.",
+      "We had to put our bags in the lockers. Mine was number 108.",
+      "There was a room with a big floor map of the Moon. You could walk on it and it showed all the craters.",
+      "People were walking across the map and the floor was shaking a bit because the display had moving parts underneath. I was trying to find the Apollo 11 landing site.",
+      "Yes, it was marked near the Sea of Tranquillity. Apollo 11 landed on 20 July 1969. Neil Armstrong went down the ladder first, then Buzz Aldrin.",
+      "We went to the electricity section. There was a hand crank that lit up a row of bulbs.",
+      "Yes. I got six bulbs on. The boy behind me got four.",
+      "Pleased. It worked properly when I turned it faster.",
+      "Yes.",
+      "We had lunch and then got back on the coach.",
+      "The driver put the radio on. It was some station with adverts.",
+      "Yeah.",
+      "No. I wanted longer in the electricity section.",
+      "Okay."
+    ]
+  },
+  "checked": {
+    "event": "science trip",
+    "who": {
+      "given": true,
+      "child_words": "Our science teacher, Mr Bell, and two other teachers. Everyone in Year 8.",
+      "rejected_claim": ""
+    },
+    "where": {
+      "given": true,
+      "child_words": "We went to the science museum in Manchester.",
+      "rejected_claim": ""
+    },
+    "what_happened": {
+      "given": true,
+      "child_words": "We had to put our bags in the lockers. Mine was number 108. There was a room with a big floor map of the Moon. You could walk on it and it showed all the craters. People were walking across the map and the floor was shaking a bit because the display had moving parts underneath. I was trying to find the Apollo 11 landing site. Yes, it was marked near the Sea of Tranquillity. Apollo 11 landed on 20 July 1969. Neil Armstrong went down the ladder first, then Buzz Aldrin. We went to the electricity section. There was a hand crank that lit up a row of bulbs. I got six bulbs on. The boy behind me got four. Pleased. It worked properly when I turned it faster. We had lunch and then got back on the coach. The driver put the radio on. It was some station with adverts.",
+      "rejected_claim": ""
+    },
+    "ending": {
+      "given": true,
+      "child_words": "We had lunch and then got back on the coach. The driver put the radio on. It was some station with adverts.",
+      "rejected_claim": ""
+    }
+  },
+  "written": {
+    "summary": "The child told about a science trip to a museum in Manchester with their Year 8 class and two teachers. They mentioned a floor map of the Moon where they tried to find the Apollo 11 landing site and a hand crank that lit up bulbs. The child also talked about the coach ride and the driver playing adverts on the radio.",
+    "goals": [
+      "Name how they felt."
+    ],
+    "focus": [
+      "The child will name how they felt during an event."
+    ],
+    "prompts": [
+      "How did you feel when it happened?"
+    ]
+  }
+}

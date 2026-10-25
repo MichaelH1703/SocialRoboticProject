@@ -1,0 +1,63 @@
+[Human] session H22, condition W-v1, "I don't know" at turn 7
+[Isolation] new process pid 89152; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (6.6s)
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: yeah. went bowling
+[State] Selected event: Went bowling for Mia's birthday
+[Question limit] Dropped: 'Who was with you?'
+
+Reachy: Bowling sounds like fun! What did you do there?
+
+[Latency] Turn: 2.69s
+You: it was Mia's birthday
+
+Reachy: Oh, so it was for someone else's birthday. Did anyone join you for bowling then?
+
+[Latency] Turn: 2.66s
+You: yeah Grace and Jess were there as well
+
+Reachy: Good to see friends joining you. What did you all do during your bowling session?
+
+[Latency] Turn: 2.68s
+You: we bowled and then there was pizza aswell
+
+Reachy: That sounds like a great day. Did you enjoy playing bowling and eating pizza with Grace and Jess?
+
+[Latency] Turn: 2.58s
+You: yes
+
+Reachy: That's wonderful to hear! What game did you play specifically during bowling?
+
+[Latency] Turn: 2.66s
+You: bowling
+
+Reachy: Which pins knocked down?
+
+[Latency] Turn: 2.52s
+You: i dont know
+
+Reachy: Maybe you can remember what number of pins were still standing when it was your turn.
+
+[Latency] Turn: 2.55s
+You: i had alot of turns
+
+Reachy: That sounds like a lot! How did playing bowling make you feel that day?
+
+[Latency] Turn: 2.64s
+You: goodbye
+
+Reachy: Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+[State] Goodbye heard; confirming before ending.
+[Not spoken] Model's reply, dropped but kept in its history as on the robot: 'Okay, have a good day!'
+You: end
+[State] Goodbye withdrawn; continuing.
+
+Reachy: Thanks for sharing your day with me. It was good talking about it. Goodbye!
+
+[Latency] Turn: 2.55s
+[Human] Ended by the player before Reachy's goodbye.
+[Human] Session over.

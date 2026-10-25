@@ -1,0 +1,11 @@
+Model: qwen3:8b
+T21: plan saved (31s, speakers none)
+T22: plan saved (39s, speakers auto)
+T23: plan saved (38s, speakers auto)
+T24: plan saved (51s, speakers auto)
+T25: plan saved (51s, speakers auto)
+T26: plan saved (42s, speakers auto)
+T27: plan saved (38s, speakers auto)
+T28: plan saved (47s, speakers auto)
+T29: plan saved (38s, speakers auto)
+T30: plan saved (39s, speakers auto)

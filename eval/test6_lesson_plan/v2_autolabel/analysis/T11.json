@@ -1,0 +1,281 @@
+{
+  "labelled": true,
+  "speakers": "auto",
+  "auto_labels": {
+    "sentences": [
+      [
+        "therapist",
+        "Hi there."
+      ],
+      [
+        "therapist",
+        "Today we're going to talk about something that really happened to you."
+      ],
+      [
+        "therapist",
+        "I'll go first and then it'll be your turn."
+      ],
+      [
+        "therapist",
+        "On Saturday I went to the market because I needed some apples."
+      ],
+      [
+        "therapist",
+        "I was worried they'd be sold out, but there were lots left, so I was really relieved."
+      ],
+      [
+        "therapist",
+        "Okay, now it's your turn."
+      ],
+      [
+        "child",
+        "The beach."
+      ],
+      [
+        "child",
+        "We went to the beach."
+      ],
+      [
+        "therapist",
+        "The beach."
+      ],
+      [
+        "therapist",
+        "Great choice."
+      ],
+      [
+        "therapist",
+        "Which beach was it?"
+      ],
+      [
+        "child",
+        "The one with the big rocks."
+      ],
+      [
+        "child",
+        "By the café."
+      ],
+      [
+        "child",
+        "The beach with the big rocks, by the café."
+      ],
+      [
+        "therapist",
+        "What did you do there?"
+      ],
+      [
+        "child",
+        "I made a sandcastle."
+      ],
+      [
+        "child",
+        "A really big one."
+      ],
+      [
+        "therapist",
+        "A really big sandcastle."
+      ],
+      [
+        "therapist",
+        "Then what happened?"
+      ],
+      [
+        "child",
+        "The sea came in, so it got washed away."
+      ],
+      [
+        "therapist",
+        "The sea came in, so your sandcastle got washed away."
+      ],
+      [
+        "therapist",
+        "How did that make you feel?"
+      ],
+      [
+        "child",
+        "Um."
+      ],
+      [
+        "child",
+        "I don't know."
+      ],
+      [
+        "therapist",
+        "That's okay."
+      ],
+      [
+        "therapist",
+        "Who was at the beach with you?"
+      ],
+      [
+        "child",
+        "I don't remember."
+      ],
+      [
+        "therapist",
+        "That's okay."
+      ],
+      [
+        "therapist",
+        "What happened after that?"
+      ],
+      [
+        "child",
+        "I went in the water."
+      ],
+      [
+        "child",
+        "It was cold."
+      ],
+      [
+        "child",
+        "I jumped the waves."
+      ],
+      [
+        "therapist",
+        "You jumped the waves."
+      ],
+      [
+        "therapist",
+        "How did that feel?"
+      ],
+      [
+        "child",
+        "Happy."
+      ],
+      [
+        "therapist",
+        "Happy."
+      ],
+      [
+        "therapist",
+        "I bet you were excited too."
+      ],
+      [
+        "therapist",
+        "How did the day end?"
+      ],
+      [
+        "child",
+        "We had chips in the car."
+      ],
+      [
+        "child",
+        "Then we went home."
+      ],
+      [
+        "child",
+        "Chips in the car, and then home."
+      ],
+      [
+        "therapist",
+        "Let me say your story back to you."
+      ],
+      [
+        "therapist",
+        "You went to the beach with the big rocks, by the café."
+      ],
+      [
+        "therapist",
+        "You made a really big sandcastle, but the sea came in, so it got washed away."
+      ],
+      [
+        "therapist",
+        "Then you went in the water and jumped the waves, and you felt happy."
+      ],
+      [
+        "therapist",
+        "At the end you had chips in the car and went home."
+      ],
+      [
+        "therapist",
+        "Did I get that right?"
+      ],
+      [
+        "child",
+        "Yeah."
+      ],
+      [
+        "therapist",
+        "Thanks for telling me your story."
+      ],
+      [
+        "therapist",
+        "You did a really great job."
+      ]
+    ],
+    "echoes_relabelled": [
+      8,
+      35
+    ]
+  },
+  "labelled_transcript": "Therapist. Hi there. Today we're going to talk about something that really happened to you. I'll go first and then it'll be your turn. On Saturday I went to the market because I needed some apples. I was worried they'd be sold out, but there were lots left, so I was really relieved. Okay, now it's your turn. Child. The beach. We went to the beach. Therapist. The beach. Great choice. Which beach was it? Child. The one with the big rocks. By the café. The beach with the big rocks, by the café. Therapist. What did you do there? Child. I made a sandcastle. A really big one. Therapist. A really big sandcastle. Then what happened? Child. The sea came in, so it got washed away. Therapist. The sea came in, so your sandcastle got washed away. How did that make you feel? Child. Um. I don't know. Therapist. That's okay. Who was at the beach with you? Child. I don't remember. Therapist. That's okay. What happened after that? Child. I went in the water. It was cold. I jumped the waves. Therapist. You jumped the waves. How did that feel? Child. Happy. Therapist. Happy. I bet you were excited too. How did the day end? Child. We had chips in the car. Then we went home. Chips in the car, and then home. Therapist. Let me say your story back to you. You went to the beach with the big rocks, by the café. You made a really big sandcastle, but the sea came in, so it got washed away. Then you went in the water and jumped the waves, and you felt happy. At the end you had chips in the car and went home. Did I get that right? Child. Yeah. Therapist. Thanks for telling me your story. You did a really great job.",
+  "facts": {
+    "child_turns": 10,
+    "mean_words_per_turn": 8,
+    "reasons": [
+      "The sea came in, so it got washed away."
+    ],
+    "sequence_words": [
+      "then"
+    ],
+    "vague_words": [],
+    "feelings": [
+      {
+        "word": "happy",
+        "child_words": "Happy."
+      }
+    ],
+    "feeling_reasons": [],
+    "child_text": [
+      "The beach. We went to the beach.",
+      "The one with the big rocks. By the café. The beach with the big rocks, by the café.",
+      "I made a sandcastle. A really big one.",
+      "The sea came in, so it got washed away.",
+      "Um. I don't know.",
+      "I don't remember.",
+      "I went in the water. It was cold. I jumped the waves.",
+      "Happy.",
+      "We had chips in the car. Then we went home. Chips in the car, and then home.",
+      "Yeah."
+    ]
+  },
+  "checked": {
+    "event": "Beach day",
+    "who": {
+      "given": false,
+      "child_words": "",
+      "rejected_claim": "I don't remember."
+    },
+    "where": {
+      "given": true,
+      "child_words": "The one with the big rocks. By the café. The beach with the big rocks, by the café.",
+      "rejected_claim": ""
+    },
+    "what_happened": {
+      "given": true,
+      "child_words": "I made a sandcastle. A really big one. The sea came in, so it got washed away. I went in the water. It was cold. I jumped the waves.",
+      "rejected_claim": ""
+    },
+    "ending": {
+      "given": true,
+      "child_words": "We had chips in the car. Then we went home. Chips in the car, and then home.",
+      "rejected_claim": ""
+    }
+  },
+  "written": {
+    "summary": "The child told about going to the beach, the beach with the big rocks by the café, making a sandcastle, the sea washing it away, going in the water, it being cold, jumping the waves, being happy, having chips in the car, and then going home.",
+    "goals": [
+      "Say who was there.",
+      "Say why they felt that way."
+    ],
+    "focus": [
+      "The child will identify who was present in the event.",
+      "The child will explain their feelings about the event."
+    ],
+    "prompts": [
+      "Who was there with you?",
+      "Did you feel happy about that?"
+    ]
+  }
+}

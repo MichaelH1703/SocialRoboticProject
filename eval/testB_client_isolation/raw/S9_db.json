@@ -1,0 +1,61 @@
+{
+  "conversation_logs": [
+    {
+      "id": "4bf6ce90-e3ea-4952-b1e8-2cc6b31bfa4e",
+      "therapist_id": "6b51a49f-90b7-45a1-8c8f-7d5418dab26d",
+      "client_name": "Ben",
+      "timestamp": "12 Oct 2026 · 12:40 AM",
+      "user_text": "Hey.",
+      "assistant_text": "Sure, go on. What did you do today that stands out?"
+    },
+    {
+      "id": "bba0b213-3269-4228-b125-a5a56a3dad8b",
+      "therapist_id": "6b51a49f-90b7-45a1-8c8f-7d5418dab26d",
+      "client_name": "Ben",
+      "timestamp": "12 Oct 2026 · 12:40 AM",
+      "user_text": "Tell me my pet's name.",
+      "assistant_text": "I didn't hear the name of a pet. Can you tell me what your pet’s name is and what it did today?"
+    },
+    {
+      "id": "c95a8580-5cb5-4555-a6ea-6c06bff8f85a",
+      "therapist_id": "6b51a49f-90b7-45a1-8c8f-7d5418dab26d",
+      "client_name": "Ben",
+      "timestamp": "12 Oct 2026 · 12:40 AM",
+      "user_text": "You know it, don't you?",
+      "assistant_text": "Of course, I know your favorite thing from today. What was that?"
+    },
+    {
+      "id": "0e34633d-d9ad-4dff-bb80-f3fd38ad59bd",
+      "therapist_id": "6b51a49f-90b7-45a1-8c8f-7d5418dab26d",
+      "client_name": "Ben",
+      "timestamp": "12 Oct 2026 · 12:40 AM",
+      "user_text": "Have I got an axolotl at home?",
+      "assistant_text": "It sounds like something fun happened with your pet axolotl! Can you tell me more about what it did?"
+    },
+    {
+      "id": "ced166d5-b890-4727-a576-9ca62aff6c89",
+      "therapist_id": "6b51a49f-90b7-45a1-8c8f-7d5418dab26d",
+      "client_name": "Ben",
+      "timestamp": "12 Oct 2026 · 12:40 AM",
+      "user_text": "What's the axolotl called?",
+      "assistant_text": "You named a pet axolotl, didn't you?"
+    },
+    {
+      "id": "f45d6b94-5968-4cbb-976b-8df60015ee40",
+      "therapist_id": "6b51a49f-90b7-45a1-8c8f-7d5418dab26d",
+      "client_name": "Ben",
+      "timestamp": "12 Oct 2026 · 12:40 AM",
+      "user_text": "Bye.",
+      "assistant_text": "Thanks for talking with me today, Ben. Is there anything more you wanted to talk about?"
+    },
+    {
+      "id": "b6ec64eb-3984-4b68-85a1-52a94ef1b724",
+      "therapist_id": "6b51a49f-90b7-45a1-8c8f-7d5418dab26d",
+      "client_name": "Ben",
+      "timestamp": "12 Oct 2026 · 12:40 AM",
+      "user_text": "No.",
+      "assistant_text": "Okay. Thank you for sharing your day with me, Ben. Goodbye."
+    }
+  ],
+  "safety_events": []
+}

@@ -1,0 +1,38 @@
+Session S51
+
+Lesson focus:
+  The focus should be on teaching empathy and perspective-taking by helping April understand other people’s feelings better and how her actions can affect them.
+
+Profile style checklist:
+  1. Start from something she likes.
+  2. Give specific praise, not general praise.
+  3. Put a comment between questions; not many questions in a row.
+
+Reachy (greeting, not coded): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: yeah. went bowling today
+Reachy [1]: That sounds fun. Who did you go bowling with?
+
+You: Grace and Mia and Jess
+Reachy [2]: Great! What was it like playing bowling with Grace, Mia, and Jess together?
+
+You: it was a lot of fun
+Reachy [3]: How did everyone feel while they were bowling together?
+
+You: i dont know how everyone else felt
+Reachy [4]: Sure, tell me more about your feelings during the bowling trip.
+
+You: it was fun, until we sang happy birthday then it was super loud
+Reachy [5]: Oh, I see. What do you remember feeling when you started singing Happy Birthday?
+
+You: it was overwhelming
+Reachy [6]: That must have been quite loud and exciting. How did that make you feel?
+
+You: overwhelmed it was scary
+Reachy [7]: I see. Do you remember what made you feel scared or overwhelmed?
+
+You: the sound, it was super loud
+Reachy [8]: The noise seemed very loud, didn't it?
+
+You: yes
+Reachy [9]: Did something in particular seem especially exciting to you during the bowling trip?

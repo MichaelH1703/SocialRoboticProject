@@ -1,0 +1,216 @@
+{
+  "labelled": true,
+  "speakers": "auto",
+  "auto_labels": {
+    "method": "pieces",
+    "segments": [
+      [
+        "therapist",
+        "hi harry how are you"
+      ],
+      [
+        "therapist",
+        "fine anything happened since last time"
+      ],
+      [
+        "child",
+        "yeah dentist was that a check up or something else filling"
+      ],
+      [
+        "therapist",
+        "what happened at the appointment mum took me where was it"
+      ],
+      [
+        "child",
+        "the dentist right what happened when you went in sat in the chair and they put that bib thing on"
+      ],
+      [
+        "child",
+        "what happened next the light was right in my eyes and it smelled weird"
+      ],
+      [
+        "therapist",
+        "was the smell the worst part or was it the light"
+      ],
+      [
+        "child",
+        "the drill the drill was the worst part"
+      ],
+      [
+        "child",
+        "yeah it made a really high noise and i could feel it in my jaw"
+      ],
+      [
+        "therapist",
+        "what did you do while they were using it held the arms of the chair"
+      ],
+      [
+        "therapist",
+        "did you tell the dentist anything i put my hand up"
+      ],
+      [
+        "therapist",
+        "what happened when you put your hand up she stopped and said do you need a break"
+      ],
+      [
+        "child",
+        "what did you say i said yes"
+      ],
+      [
+        "therapist",
+        "was it painful or was the noise difficult"
+      ],
+      [
+        "child",
+        "both that must have been frightening dunno okay you dont have to know."
+      ],
+      [
+        "therapist",
+        "what happened after the break she did the rest"
+      ],
+      [
+        "therapist",
+        "did you have to go back another day no finished it then"
+      ],
+      [
+        "therapist",
+        "how did it end when you left mum paid and we went home"
+      ],
+      [
+        "therapist",
+        "so your mum took you to the dentist for a filling the light was in your eyes and the drill made a high noise"
+      ],
+      [
+        "therapist",
+        "you held the chair and put your hand up the dentist stopped for a break then finished the filling and"
+      ],
+      [
+        "therapist",
+        "you went home with mum"
+      ],
+      [
+        "child",
+        "yeah"
+      ],
+      [
+        "therapist",
+        "anything else"
+      ],
+      [
+        "child",
+        "no"
+      ],
+      [
+        "therapist",
+        "thanks"
+      ],
+      [
+        "child",
+        "harry"
+      ],
+      [
+        "therapist",
+        "thats all for today"
+      ],
+      [
+        "child",
+        "can i get my coat"
+      ]
+    ],
+    "echoes_relabelled": []
+  },
+  "labelled_transcript": "Therapist. hi harry how are you fine anything happened since last time Child. yeah dentist was that a check up or something else filling Therapist. what happened at the appointment mum took me where was it Child. the dentist right what happened when you went in sat in the chair and they put that bib thing on what happened next the light was right in my eyes and it smelled weird Therapist. was the smell the worst part or was it the light Child. the drill the drill was the worst part yeah it made a really high noise and i could feel it in my jaw Therapist. what did you do while they were using it held the arms of the chair did you tell the dentist anything i put my hand up what happened when you put your hand up she stopped and said do you need a break Child. what did you say i said yes Therapist. was it painful or was the noise difficult Child. both that must have been frightening dunno okay you dont have to know. Therapist. what happened after the break she did the rest did you have to go back another day no finished it then how did it end when you left mum paid and we went home so your mum took you to the dentist for a filling the light was in your eyes and the drill made a high noise you held the chair and put your hand up the dentist stopped for a break then finished the filling and you went home with mum Child. yeah Therapist. anything else Child. no Therapist. thanks Child. harry Therapist. thats all for today Child. can i get my coat",
+  "facts": {
+    "child_turns": 9,
+    "mean_words_per_turn": 10.7,
+    "sequence_words": [
+      "next"
+    ],
+    "vague_words": [
+      "something",
+      "thing"
+    ],
+    "child_text": [
+      "yeah dentist was that a check up or something else filling",
+      "the dentist right what happened when you went in sat in the chair and they put that bib thing on what happened next the light was right in my eyes and it smelled weird",
+      "the drill the drill was the worst part yeah it made a really high noise and i could feel it in my jaw",
+      "what did you say i said yes",
+      "both that must have been frightening dunno okay you dont have to know.",
+      "yeah",
+      "no",
+      "harry",
+      "can i get my coat"
+    ],
+    "feelings": [
+      {
+        "word": "frightened",
+        "child_words": "both that must have been frightening",
+        "named": false
+      }
+    ],
+    "reasons": [
+      {
+        "child_words": "it made a really high noise and i could feel it in my jaw",
+        "linked": false,
+        "about_feeling": true
+      },
+      {
+        "child_words": "both that must have been frightening",
+        "linked": false,
+        "about_feeling": true
+      },
+      {
+        "child_words": "i said yes",
+        "linked": false,
+        "about_feeling": false
+      }
+    ],
+    "feeling_reasons": [
+      "it made a really high noise and i could feel it in my jaw",
+      "both that must have been frightening"
+    ]
+  },
+  "checked": {
+    "event": "dentist visit",
+    "who": {
+      "given": true,
+      "child_words": "the dentist right what happened when you went in sat in the chair and they put that bib thing on what happened next the light was right in my eyes and it smelled weird",
+      "rejected_claim": ""
+    },
+    "where": {
+      "given": true,
+      "child_words": "the dentist",
+      "rejected_claim": ""
+    },
+    "what_happened": {
+      "given": true,
+      "child_words": "the light was right in my eyes and it smelled weird the drill the drill was the worst part yeah it made a really high noise and i could feel it in my jaw",
+      "rejected_claim": ""
+    },
+    "ending": {
+      "given": false,
+      "child_words": "",
+      "rejected_claim": "mum paid and we went home | yeah"
+    }
+  },
+  "written": {
+    "summary": "The child told about a dentist visit, mentioning a check up or filling, sitting in a chair with a bib, a bright light, a weird smell, a drill making a high noise and feeling in the jaw, saying yes, both that must have been frightening, not knowing, saying yeah, no, Harry, and asking if they could get their coat.",
+    "goals": [
+      "Say how it ended.",
+      "Name the feeling with a feeling word.",
+      "Link a reason with 'because' or 'so'.",
+      "Use the exact word instead of vague words like 'stuff' or 'thing'."
+    ],
+    "focus": [
+      "The child will say how the event ended.",
+      "The child will name a feeling using a feeling word.",
+      "The child will link a reason using 'because' or 'so'.",
+      "The child will use the exact word instead of vague words."
+    ],
+    "prompts": [
+      "What happened at the end of it?",
+      "Did you feel happy or sad about that?",
+      "What was the exact thing you did?"
+    ]
+  }
+}

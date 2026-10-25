@@ -1,0 +1,303 @@
+{
+  "labelled": true,
+  "speakers": "auto",
+  "auto_labels": {
+    "sentences": [
+      [
+        "therapist",
+        "Hello, George."
+      ],
+      [
+        "therapist",
+        "What shall we talk about today?"
+      ],
+      [
+        "child",
+        "The train."
+      ],
+      [
+        "therapist",
+        "The train."
+      ],
+      [
+        "therapist",
+        "Tell me what happened."
+      ],
+      [
+        "child",
+        "I went to Birmingham on the train with my uncle."
+      ],
+      [
+        "therapist",
+        "Which station did you leave from?"
+      ],
+      [
+        "child",
+        "Coventry."
+      ],
+      [
+        "therapist",
+        "What time was your train?"
+      ],
+      [
+        "child",
+        "10:17."
+      ],
+      [
+        "child",
+        "It was the CrossCountry one."
+      ],
+      [
+        "therapist",
+        "What happened on the journey?"
+      ],
+      [
+        "child",
+        "It stopped at Birmingham International first, then Birmingham New Street."
+      ],
+      [
+        "child",
+        "The display said platform four, but the train was on platform three when we got there."
+      ],
+      [
+        "therapist",
+        "Was that confusing?"
+      ],
+      [
+        "child",
+        "No."
+      ],
+      [
+        "child",
+        "The display changed."
+      ],
+      [
+        "therapist",
+        "It happens."
+      ],
+      [
+        "therapist",
+        "What did you do when you got to New Street?"
+      ],
+      [
+        "child",
+        "Went through the barriers."
+      ],
+      [
+        "therapist",
+        "Who was with you then?"
+      ],
+      [
+        "child",
+        "My uncle."
+      ],
+      [
+        "child",
+        "I've already said."
+      ],
+      [
+        "therapist",
+        "You have, sorry."
+      ],
+      [
+        "therapist",
+        "What happened after the barriers?"
+      ],
+      [
+        "child",
+        "We went to the model railway shop."
+      ],
+      [
+        "therapist",
+        "What did you look at there?"
+      ],
+      [
+        "child",
+        "Hornby locomotives."
+      ],
+      [
+        "child",
+        "They had a Class 47 in blue and grey."
+      ],
+      [
+        "therapist",
+        "The real Class 47 was built from 1962 onwards, and there were 512 of them originally."
+      ],
+      [
+        "therapist",
+        "You know a lot about those trains."
+      ],
+      [
+        "therapist",
+        "What happened in the shop?"
+      ],
+      [
+        "child",
+        "I found the one I wanted."
+      ],
+      [
+        "child",
+        "It was £89.99, which is cheaper than some of the limited editions."
+      ],
+      [
+        "therapist",
+        "Did you buy it?"
+      ],
+      [
+        "child",
+        "No."
+      ],
+      [
+        "child",
+        "I haven't got that much money."
+      ],
+      [
+        "therapist",
+        "How did you feel about leaving it there?"
+      ],
+      [
+        "child",
+        "I was disappointed."
+      ],
+      [
+        "child",
+        "I'd been looking forward to seeing it."
+      ],
+      [
+        "therapist",
+        "You were disappointed because you couldn't buy the locomotive you'd found."
+      ],
+      [
+        "child",
+        "Yes."
+      ],
+      [
+        "therapist",
+        "What happened next?"
+      ],
+      [
+        "child",
+        "We got lunch."
+      ],
+      [
+        "child",
+        "A cheese sandwich and a bottle of water."
+      ],
+      [
+        "therapist",
+        "And how did the trip end?"
+      ],
+      [
+        "child",
+        "We got the 15:42 back to Coventry."
+      ],
+      [
+        "therapist",
+        "So you travelled from Coventry to Birmingham with your uncle, visited the model railway shop, found a locomotive you wanted but didn't buy it, and returned on the 15:42 train."
+      ],
+      [
+        "child",
+        "Correct."
+      ],
+      [
+        "child",
+        "Anything I've missed?"
+      ],
+      [
+        "child",
+        "The train back was a Voyager, not a Meridian."
+      ],
+      [
+        "therapist",
+        "Thanks for the correction."
+      ],
+      [
+        "therapist",
+        "We'll stop there."
+      ],
+      [
+        "child",
+        "Okay."
+      ]
+    ],
+    "echoes_relabelled": [
+      3
+    ]
+  },
+  "labelled_transcript": "Therapist. Hello, George. What shall we talk about today? Child. The train. Therapist. The train. Tell me what happened. Child. I went to Birmingham on the train with my uncle. Therapist. Which station did you leave from? Child. Coventry. Therapist. What time was your train? Child. 10:17. It was the CrossCountry one. Therapist. What happened on the journey? Child. It stopped at Birmingham International first, then Birmingham New Street. The display said platform four, but the train was on platform three when we got there. Therapist. Was that confusing? Child. No. The display changed. Therapist. It happens. What did you do when you got to New Street? Child. Went through the barriers. Therapist. Who was with you then? Child. My uncle. I've already said. Therapist. You have, sorry. What happened after the barriers? Child. We went to the model railway shop. Therapist. What did you look at there? Child. Hornby locomotives. They had a Class 47 in blue and grey. Therapist. The real Class 47 was built from 1962 onwards, and there were 512 of them originally. You know a lot about those trains. What happened in the shop? Child. I found the one I wanted. It was £89.99, which is cheaper than some of the limited editions. Therapist. Did you buy it? Child. No. I haven't got that much money. Therapist. How did you feel about leaving it there? Child. I was disappointed. I'd been looking forward to seeing it. Therapist. You were disappointed because you couldn't buy the locomotive you'd found. Child. Yes. Therapist. What happened next? Child. We got lunch. A cheese sandwich and a bottle of water. Therapist. And how did the trip end? Child. We got the 15:42 back to Coventry. Therapist. So you travelled from Coventry to Birmingham with your uncle, visited the model railway shop, found a locomotive you wanted but didn't buy it, and returned on the 15:42 train. Child. Correct. Anything I've missed? The train back was a Voyager, not a Meridian. Therapist. Thanks for the correction. We'll stop there. Child. Okay.",
+  "facts": {
+    "child_turns": 18,
+    "mean_words_per_turn": 8,
+    "reasons": [],
+    "sequence_words": [
+      "first",
+      "then"
+    ],
+    "vague_words": [],
+    "feelings": [
+      {
+        "word": "disappointed",
+        "child_words": "I was disappointed. I'd been looking forward to seeing it."
+      }
+    ],
+    "feeling_reasons": [],
+    "child_text": [
+      "The train.",
+      "I went to Birmingham on the train with my uncle.",
+      "Coventry.",
+      "10:17. It was the CrossCountry one.",
+      "It stopped at Birmingham International first, then Birmingham New Street. The display said platform four, but the train was on platform three when we got there.",
+      "No. The display changed.",
+      "Went through the barriers.",
+      "My uncle. I've already said.",
+      "We went to the model railway shop.",
+      "Hornby locomotives. They had a Class 47 in blue and grey.",
+      "I found the one I wanted. It was £89.99, which is cheaper than some of the limited editions.",
+      "No. I haven't got that much money.",
+      "I was disappointed. I'd been looking forward to seeing it.",
+      "Yes.",
+      "We got lunch. A cheese sandwich and a bottle of water.",
+      "We got the 15:42 back to Coventry.",
+      "Correct. Anything I've missed? The train back was a Voyager, not a Meridian.",
+      "Okay."
+    ]
+  },
+  "checked": {
+    "event": "Train trip to Birmingham and back",
+    "who": {
+      "given": true,
+      "child_words": "My uncle. I've already said.",
+      "rejected_claim": ""
+    },
+    "where": {
+      "given": true,
+      "child_words": "Coventry",
+      "rejected_claim": ""
+    },
+    "what_happened": {
+      "given": true,
+      "child_words": "I went to Birmingham on the train with my uncle. It stopped at Birmingham International first, then Birmingham New Street. The display said platform four, but the train was on platform three when we got there. Went through the barriers. We went to the model railway shop. I found the one I wanted. It was £89.99, which is cheaper than some of the limited editions. I haven't got that much money. I was disappointed. I'd been looking forward to seeing it. We got lunch. A cheese sandwich and a bottle of water. We got the 15:42 back to Coventry.",
+      "rejected_claim": ""
+    },
+    "ending": {
+      "given": true,
+      "child_words": "We got the 15:42 back to Coventry. Correct. Anything I've missed? The train back was a Voyager, not a Meridian.",
+      "rejected_claim": ""
+    }
+  },
+  "written": {
+    "summary": "The child told about a train trip to Birmingham and back. They mentioned going to Birmingham on the train with their uncle, stopping at Birmingham International and Birmingham New Street, visiting a model railway shop, seeing a Class 47 locomotive, not buying it because they didn't have enough money, having lunch, and taking the 15:42 back to Coventry on a Voyager train.",
+    "goals": [
+      "Say why they felt that way.",
+      "Give a reason, using 'because' or 'so'."
+    ],
+    "focus": [
+      "The child will explain their feelings by stating why they felt that way.",
+      "The child will give a reason using 'because' or 'so'."
+    ],
+    "prompts": [
+      "Why did you feel happy about it?",
+      "Did you do it because you liked it or so you could play?"
+    ]
+  }
+}

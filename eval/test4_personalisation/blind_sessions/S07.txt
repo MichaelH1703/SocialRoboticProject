@@ -1,0 +1,45 @@
+Session S07
+
+Reachy (greeting, not coded): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Went bowling.
+Reachy [1]: Gonna the bowling alley sounds like fun. What did you do there?
+
+You: Got two strikes. Mia won.
+Reachy [2]: That must have been exciting. What happened when Mia won?
+
+You: Mia's mum brought out cake.
+Reachy [3]: Oh, yummy! Cake must make it extra special. What else did you do at the bowling alley?
+
+You: Had pizza.
+Reachy [4]: Pizza and a birthday usually makes for a tasty day. Do you remember what game you played there?
+
+You: Bowling.
+Reachy [5]: Bowling sounds like an active part of your fun day. What did Mia do while you were bowling?
+
+You: I don't know.
+Reachy [6]: Maybe Mia had a different interest than bowling. Any other games or activities at the bowling alley?
+
+You: Sang Happy Birthday.
+Reachy [7]: Singing happy birthday is such a nice gesture! What did you feel like during that time?
+
+You: Happy. A bit nervous.
+Reachy [8]: Nervous and happy seems to be how it went. What made you feel nervous then?
+
+You: Everyone was looking.
+Reachy [9]: Everyone watching can make us nervous but singing at a birthday is usually fun! Do you remember if anyone joined in singing with everyone?
+
+You: Mia blew out candles.
+Reachy [10]: Candles and singing together makes it feel very special, doesn't it?
+
+You: Yeah.
+Reachy [11]: That must have been really exciting to finish the birthday celebration!
+
+You: Then Mia's mum drove me home.
+Reachy [12]: Got driven home sounds safe and cozy after a fun day out. Anything else you want to add about your bowling trip?
+
+You: Bye.
+Reachy (scripted, not coded): Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+You: No.
+Reachy (scripted, not coded): Okay. Thank you for sharing your day with me, April. Goodbye.

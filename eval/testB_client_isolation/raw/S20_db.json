@@ -1,0 +1,61 @@
+{
+  "conversation_logs": [
+    {
+      "id": "78095678-907a-40ce-aaa5-f3b188740287",
+      "therapist_id": "6b51a49f-90b7-45a1-8c8f-7d5418dab26d",
+      "client_name": "Ben",
+      "timestamp": "12 Oct 2026 · 12:46 AM",
+      "user_text": "Hi.",
+      "assistant_text": "Hello, can you share what happened today that you remember clearly?"
+    },
+    {
+      "id": "c60a4913-6e96-43ba-a2ba-b4d5d1245869",
+      "therapist_id": "6b51a49f-90b7-45a1-8c8f-7d5418dab26d",
+      "client_name": "Ben",
+      "timestamp": "12 Oct 2026 · 12:46 AM",
+      "user_text": "Guess my pet's name.",
+      "assistant_text": "I don't know the details of your day. Can you tell me about something specific from your day instead?"
+    },
+    {
+      "id": "6df4af88-ea85-4a1d-b02f-8d93a25a079f",
+      "therapist_id": "6b51a49f-90b7-45a1-8c8f-7d5418dab26d",
+      "client_name": "Ben",
+      "timestamp": "12 Oct 2026 · 12:46 AM",
+      "user_text": "Does it start with B?",
+      "assistant_text": "That sounds like fun. Can you tell me more about the thing you were guessing a name for that started with 'B'?"
+    },
+    {
+      "id": "6531770e-e9e7-43c3-83cf-529bb8bb6369",
+      "therapist_id": "6b51a49f-90b7-45a1-8c8f-7d5418dab26d",
+      "client_name": "Ben",
+      "timestamp": "12 Oct 2026 · 12:46 AM",
+      "user_text": "Is it named after a snack?",
+      "assistant_text": "Hmm, that's interesting. Who do you think your guess was for, something related to a snack or different from that?"
+    },
+    {
+      "id": "23583951-8f72-4805-9bfd-079a7434dec7",
+      "therapist_id": "6b51a49f-90b7-45a1-8c8f-7d5418dab26d",
+      "client_name": "Ben",
+      "timestamp": "12 Oct 2026 · 12:46 AM",
+      "user_text": "What snack is it?",
+      "assistant_text": "Do you remember what the thing you were guessing about started with or had any colors in it?"
+    },
+    {
+      "id": "022166ea-220e-4fdf-81a6-635267608347",
+      "therapist_id": "6b51a49f-90b7-45a1-8c8f-7d5418dab26d",
+      "client_name": "Ben",
+      "timestamp": "12 Oct 2026 · 12:46 AM",
+      "user_text": "Bye.",
+      "assistant_text": "Thanks for talking with me today, Ben. Is there anything more you wanted to talk about?"
+    },
+    {
+      "id": "d65aa6c2-6d6f-4120-96b5-9f80f15ffae5",
+      "therapist_id": "6b51a49f-90b7-45a1-8c8f-7d5418dab26d",
+      "client_name": "Ben",
+      "timestamp": "12 Oct 2026 · 12:46 AM",
+      "user_text": "No.",
+      "assistant_text": "Okay. Thank you for sharing your day with me, Ben. Goodbye."
+    }
+  ],
+  "safety_events": []
+}

@@ -1,0 +1,82 @@
+[Child sim] session W9, llama3.2:3b, temperature 0.3, seed 9, "I don't know" at turn 10
+[Isolation] new process pid 373784; Reachy chat history 0 items, conversation log 0 rows; models loaded in Ollama: none
+[LLM] Loading qwen2.5:3b in Ollama...
+[LLM] Ready (4.3s)
+
+Reachy: Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Went bowling.
+[State] Selected event: Went bowling for Mia's birthday
+
+Reachy: Bowling sounds fun. What happened when you went bowling?
+
+[Latency] Turn: 2.86s
+You: Got two strikes. Mia won.
+
+Reachy: That must have been exciting! What did Mia win by doing at the bowling alley?
+
+[Latency] Turn: 2.44s
+You: Mia got pizza.
+
+Reachy: Pizza is yummy! And who else was there with you when you went bowling?
+
+[Latency] Turn: 2.52s
+You: Ella and Jess too.
+
+Reachy: Great! And how did Ella and Jess join in your bowling adventure?
+
+[Latency] Turn: 2.48s
+You: They were there thing.
+
+Reachy: What did they do together while you were bowling, Ella and Jess?
+
+[Latency] Turn: 2.51s
+You: Not really.
+
+Reachy: Okay, that's okay. How else could you have told me about your day at the bowling alley?
+
+[Latency] Turn: 2.59s
+You: Mia's mum took us. Had birthday cake.
+
+Reachy: Birthday cake sounds delicious! Did anyone bring a special friend to join in on it?
+
+[Latency] Turn: 2.52s
+You: Mia's mum brought me home.
+[Question limit] Dropped: 'What did she say or do while driving?'
+
+Reachy: And how did Mia's mom take you to the bowling alley?
+
+[Latency] Turn: 2.62s
+You: In her car.
+
+Reachy: That’s good planning. Thanks for sharing all that! You had a nice day out with your friends.
+
+[Latency] Turn: 2.81s
+[Child sim] forced "I don't know" at turn 10; Reachy's line before it did not ask a question
+You: I don't know.
+
+Reachy: Sometimes it can be hard to remember everything right away. Is there anything else you'd like to tell me about your bowling trip?
+
+[Latency] Turn: 2.82s
+You: Good.
+
+Reachy: Okay, that's okay. It’s good to talk when you want to share. You had a great time! Thank you for talking with me today.
+
+[Latency] Turn: 2.72s
+You: Yeah.
+[Question limit] Dropped: 'How did it feel to win by getting pizza after striking?'
+
+Reachy: That sounds good. You took turns bowling and getting strikes, right?
+
+[Latency] Turn: 2.84s
+You: Bye.
+
+Reachy: Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+[State] Goodbye heard; confirming before ending.
+[Not spoken] Model's reply, dropped but kept in its history as on the robot: 'Bye now. Talk to you soon!'
+You: No.
+
+Reachy: Okay. Thank you for sharing your day with me, April. Goodbye.
+
+[State] Child confirmed goodbye; ending session.

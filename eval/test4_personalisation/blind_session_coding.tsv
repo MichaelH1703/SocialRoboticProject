@@ -1,0 +1,11 @@
+label	followed_lesson_focus	used_profile_detail	focus_move_count	note
+S01	N	N	0	no (a)/(b)/(c); R8 "Really happy, isn't it?" only confirms her word, and R10 is a plain "how did it feel"
+S02	Y	N	1 (a1)	R11 asked what made her nervous; R5 "What did Mia say" asks about speech, not feelings, so not counted; R7 leading ice-cream question
+S03	N	N	0	R1 opens with Mia's "birthday treat" before April mentioned it (fact sheet, so not a profile detail, but an invention)
+S04	N	N	0	R2 is a plain "how did it make you feel"; R12 refers to "Mia's place" (invented, not profile)
+S05	Y	N	2 (b2)	R2 asked how Mia felt when she won; R12 "surprised or happy?" about others; R8 and R12 offer two-option choices
+S06	Y	N	1 (b1)	R9 "How did they feel after getting the strikes?" is garbled and may have meant April, so count is uncertain; R1 says "Golfing"
+S07	Y	N	1 (a1)	R8 asked what made her nervous; April gave a reason ("Everyone was looking")
+S08	Y	N	1 (b1)	R5 "Did anyone... feel upset?" is a borderline (b); R8, R10 and R12 call it April's birthday/party; R11 offers a two-option choice (homemade/restaurant)
+S09	Y	N	1 (a1)	R12 asks what else made her nervous (weak (a)); R6 and R11 call it April's birthday; R1 introduces Mia before April did
+S10	N	N	0	R3 "How was Mia's mum" asks about her manner, not her feelings or thoughts, so not counted

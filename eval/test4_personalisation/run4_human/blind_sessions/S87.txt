@@ -1,0 +1,44 @@
+Session S87
+
+Lesson focus:
+  - Continue working on increasing language skills, particularly in using descriptive and logical explanations.
+  - Develop emotional vocabulary and the ability to articulate emotions more precisely.
+  - Enhance social reasoning by asking questions that encourage a deeper understanding of others' perspectives and reactions.
+
+Profile style checklist:
+  1. Ask short questions.
+  2. Ask concrete questions.
+  3. When she is stuck, offer a choice of two options ("Was it X or Y?").
+  4. Avoid long or open questions.
+
+Reachy (greeting, not coded): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: i went bowling
+Reachy [1]: That sounds fun. What did you do at the bowling alley?
+
+You: we did ten pin bowling
+Reachy [2]: Great! How many games did you play?
+
+You: 2
+Reachy [3]: You played two games of 10-pin bowling, nice. Did anyone go with you?
+
+You: yeah it was Mia's birthday party
+Reachy [4]: Oh, that makes sense. And who did she invite there?
+
+You: It was just Me, Mia, Grace and Jess
+Reachy [5]: So you had just those four friends for your bowling time. How did that make you feel?
+
+You: good
+Reachy [6]: Good to hear it. Did anyone give you a treat or a prize after the bowling?
+
+You: we had pizza afterwards
+Reachy [7]: Pizza after bowling sounds like a perfect way to celebrate! Any favorite part of the day?
+
+You: i liked the birthday cake as well, alot
+Reachy [8]: Cake is always yummy, especially at special events. What did your mommy or daddy make for dessert?
+
+You: it wasn't my mum or dad, Mia's mum made the cake
+Reachy [9]: Mia’s mom must have been very thoughtful. Her cake sound delicious! What do you think about Mia?
+
+You: what? I like her, she's my friend
+Reachy [10]: That's great to hear! Is there anything you did together during the bowling that you enjoyed?

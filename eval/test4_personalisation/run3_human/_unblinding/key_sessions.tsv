@@ -1,0 +1,11 @@
+label	session_id	condition
+S31	H03	with
+S32	H07	without
+S33	H04	with
+S34	H02	with
+S35	H01	without
+S36	H10	without
+S37	H08	without
+S38	H05	without
+S39	H09	with
+S40	H06	with

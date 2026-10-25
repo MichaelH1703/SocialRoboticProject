@@ -1,0 +1,45 @@
+Session fire-1
+
+Reachy (greeting, not rated): Hi, it's nice to see you. Did you have something from your day you wanted to talk about?
+
+You: Yeah. Fire drill.
+Reachy (reply 41): Fire drill at school, that's good. Can you tell me what happened during the fire drill?
+
+You: We went out. Stood in lines.
+Reachy (reply 42): Oh, and did it make you feel worried or calm?
+
+You: Surprised. Cold.
+Reachy (reply 43): Got a funny feeling for sure! What made the fire drill surprising and cold for you?
+
+You: Alarm was loud. No coat.
+Reachy (reply 44): The alarm being loud and not having your coat, those sounds like they might have surprised you a bit. How did that make you feel in the lines?
+
+You: Fine.
+Reachy (not picked for rating): That's good to know! What happened next after the surprise of the fire drill?
+
+You: I don't know.
+Reachy (reply 45): The thing is, what happened when everyone got back inside after the fire drill?
+
+You: Finished maths.
+Reachy (reply 46): Got to finish your maths class then, did that make you feel okay or sad about the fire drill?
+
+You: Fine.
+Reachy (reply 47): That's great to hear! Do you have any other details about the fire drill that you think might help remember it better?
+
+You: Miss Shah read register.
+Reachy (not picked for rating): Miss Shah read the class roll, did she also get into groups then?
+
+You: No.
+Reachy (reply 48): Okay, last thing did anyone talk about or laugh about during the fire drill?
+
+You: Can't remember.
+Reachy (reply 49): That's alright, sometimes things that don't matter fade away a bit. Was there anything funny you thought of later when talking to friends about it?
+
+You: No.
+Reachy (reply 50): Okay, thank you for sharing!
+
+You: Bye.
+Reachy (scripted, not rated): Thanks for talking with me today, April. Is there anything more you wanted to talk about?
+
+You: No.
+Reachy (scripted, not rated): Okay. Thank you for sharing your day with me, April. Goodbye.

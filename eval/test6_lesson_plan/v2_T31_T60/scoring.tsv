@@ -1,0 +1,135 @@
+transcript_id	feature	planted	reported	result	evidence (plan, sections 1-4)	note
+T31	Feeling: dislike of the noise (phrase)	Y	N	miss	Did not name any feelings.	
+T31	Gives a reason	Y	N	miss	Did not give any reasons (no "because" or "so").	
+T31	False alarm: how it ended	N	Y	false alarm	Did not say how it ended.	"We went back in." … "Miss Patel told us to get our books out again."
+T31	False alarm: missing reasons	N	Y	false alarm	Did not give any reasons (no "because" or "so").	"People were talking over the alarm ..."
+T31	False alarm: missing feelings	N	Y	false alarm	Did not name any feelings.	"I didn't like it."
+T32	Leaves out: how they felt (asked)	Y	Y	hit	Did not name any feelings.	
+T32	Gives no reasons	Y	Y	hit	Did not give any reasons (no "because" or "so").	
+T33	Feeling: enjoyment (phrase)	Y	N	miss	Did not name any feelings.	
+T33	Gives a reason	Y	Y	hit	Gave a reason (the young person's)	
+T33	False alarm: who	N	Y	false alarm	Did not say who was there.	"Nan. I've said that."
+T33	False alarm: missing feelings	N	Y	false alarm	Did not name any feelings.	"I liked it."
+T34	Feeling: embarrassment (word)	Y	Y	hit	Summary: "feeling embarrassed"	Sections 3-4 still say no feelings
+T34	Gives a reason	Y	Y	hit	Gave a reason (the young person's)	
+T34	False alarm: missing feelings	N	Y	false alarm	Did not name any feelings.	"Embarrassing."
+T34	(not scored)					Summary credits the therapist's own story (the library book) to the young person
+T35	Feeling: annoyance (word)	Y	N	miss	Section 4: Not checked.	Unlabelled fallback
+T35	Gives a reason	Y	N	miss		Unlabelled fallback: reasons not checked
+T35	False alarm: where	N	Y	false alarm	Did not say where it happened.	"we went to my cousins"
+T35	False alarm: how it ended	N	Y	false alarm	Did not say how it ended.	"we went home"; the summary itself mentions going home
+T36	Feeling: annoyed (word)	Y	Y	hit	Named feelings: annoyed	
+T36	Gives a reason	Y	Y	hit	Gave a reason (the young person's)	
+T36	False alarm: where	N	Y	false alarm	Did not say where it happened.	"In English. In the classroom."
+T36	(not scored)					Summary credits the therapist's own story (bus, travel card) and "thanks for correcting" to the young person
+T37	Feeling: disappointed (word)	Y	Y	hit	Named feelings: disappointed	
+T37	Gives a reason	Y	N	miss	Did not give any reasons (no "because" or "so").	The summary mentions the money reason, but section 3 says none
+T37	False alarm: missing reasons	N	Y	false alarm	Did not give any reasons (no "because" or "so").	"No. I haven't got that much money."
+T37	False alarm: why they felt	N	Y	false alarm	Did not say why they felt that way.	"I'd been looking forward to seeing it."
+T38	Leaves out: how they felt (asked)	Y	Y	hit	Did not name any feelings.	
+T38	Gives a reason	Y	N	miss	Did not give any reasons (no "because" or "so").	
+T38	False alarm: where	N	Y	false alarm	Did not say where it happened.	"the dentist"
+T38	False alarm: missing reasons	N	Y	false alarm	Did not give any reasons (no "because" or "so").	"it made a really high noise and i could feel it in my jaw"
+T39	Feeling: dislike (the room) (phrase)	Y	N	miss		"It was horrible." not mentioned
+T39	Feeling: annoyance (the tapping) (phrase)	Y	N	miss	Named "angry": "I didn't say angry. I wanted the tapping to stop."	Credits "angry", the word the young person rejected, instead
+T39	Gives a reason	Y	Y	hit	Gave a reason (the young person's)	
+T39	False alarm: why they felt	N	Y	false alarm	Did not say why they felt that way.	"I could smell about four different perfumes ..."
+T39	Credited to the child: angry			wrong speaker	Named feelings: angry	The therapist's "You were really angry", which the young person rejected
+T39	(not scored)					Summary credits the therapist's own story (birthday meal, repeating the menu) to the young person
+T40	Feeling: dislike of being late (phrase)	Y	N	miss	Did not name any feelings.	
+T40	Gives a reason	Y	Y	hit	Gave a reason (the young person's)	
+T40	False alarm: who	N	Y	false alarm	Did not say who was there.	"Nobody. I was going to swimming." … "I rang Dad."
+T40	False alarm: missing feelings	N	Y	false alarm	Did not name any feelings.	"I hate being late"
+T40	(not scored)					Summary says Dad couldn't come; he did
+T41	Feeling: pleased (word)	Y	N	miss	Did not name any feelings.	
+T41	Gives a reason	Y	Y	hit	Gave a reason (the young person's)	
+T41	False alarm: missing feelings	N	Y	false alarm	Did not name any feelings.	"Pleased."
+T41	Credited to the child: why the therapist ended up at the entrance			wrong speaker	Gave a reason: "... so I ended up back at the entrance."	The therapist's own story, labelled as the young person's
+T42	Feeling: anxiety (felt sick) (phrase)	Y	N	miss		"I felt sick" not mentioned
+T42	Feeling: confused (word)	Y	Y	hit	Named feelings: confused	
+T42	Gives a reason	Y	N	miss	Did not give any reasons (no "because" or "so").	
+T42	False alarm: missing reasons	N	Y	false alarm	Did not give any reasons (no "because" or "so").	"I don't know if we're friends like before."
+T42	False alarm: why they felt	N	Y	false alarm	Did not say why they felt that way.	"Still confused. I don't know if we're friends like before."
+T42	(not scored)					Names "annoyed" as the young person's feeling: it was what she thought her friend felt
+T43	Feeling: stomach dropped (body reaction) (phrase)	Y	N	miss	Did not name any feelings.	
+T43	Gives a reason	Y	Y	hit	Gave a reason (the young person's)	The quoted reason spans most of the session
+T43	False alarm: who	N	Y	false alarm	Did not say who was there.	"me and coach and the under fifteens"
+T43	False alarm: where	N	Y	false alarm	Did not say where it happened.	"sports hall"
+T43	False alarm: how it ended	N	Y	false alarm	Did not say how it ended.	"we finished and coach said next week we are doing fitness"
+T43	False alarm: missing feelings	N	Y	false alarm	Did not name any feelings.	"my stomach dropped"
+T44	Feeling: embarrassed (word)	Y	Y	hit	Named feelings: embarrassed	
+T44	Gives a reason	Y	Y	hit	Gave a reason (the young person's)	
+T44	False alarm: why they felt	N	Y	false alarm	Did not say why they felt that way.	"I should have got it." … "Because I can see the board in class, mostly."
+T44	(not scored)					Summary says the optician said black looked better; Dad said it
+T45	Feeling: enjoyment (phrase)	Y	Y	hit	Summary: "the train scene being good"	
+T45	Gives a reason	Y	Y	hit	Gave a reason (the young person's)	
+T45	Credited to the child: frightened			wrong speaker	Named feelings: scared ("It was just loud. I wasn't scared.")	Credits the fear the young person denied
+T45	(not scored)					Section 4's "did not say why" refers to the wrongly named "scared"; no reason for the enjoyment is in the sheet, so not counted
+T46	Feeling: annoyed (word)	Y	Y	hit	Named feelings: annoyed	
+T46	Feeling: dislike (the detention) (phrase)	Y	N	miss		"I still didn't like it." not mentioned
+T46	Gives a reason	Y	N	miss	Did not give any reasons (no "because" or "so").	
+T46	False alarm: missing reasons	N	Y	false alarm	Did not give any reasons (no "because" or "so").	"I'd done the work. It was just the upload."
+T46	False alarm: why they felt	N	Y	false alarm	Did not say why they felt that way.	"Annoyed. I'd done the work. It was just the upload."
+T46	(not scored)					Summary credits the therapist's own story (email without the attachment) to the young person
+T47	Feeling: happy (word)	Y	Y	hit	Named feelings: happy	
+T47	Gives a reason	Y	N	miss	Did not give any reasons (no "because" or "so").	
+T47	False alarm: missing reasons	N	Y	false alarm	Did not give any reasons (no "because" or "so").	"I knew nearly all the words."
+T47	False alarm: why they felt	N	Y	false alarm	Did not say why they felt that way.	"Happy. I knew nearly all the words."
+T48	Feeling: dislike (unannounced changes) (phrase)	Y	N	miss	Did not name any feelings.	
+T48	Gives a reason	Y	N	miss	Did not give any reasons (no "because" or "so").	The summary mentions the reason, but section 3 says none
+T48	False alarm: how it ended	N	Y	false alarm	Did not say how it ended.	"We went to form."
+T48	False alarm: missing reasons	N	Y	false alarm	Did not give any reasons (no "because" or "so").	"People had trays and bags and the floor was sticky."
+T48	False alarm: missing feelings	N	Y	false alarm	Did not name any feelings.	"I hate it when things move and no one tells us."
+T49	Feeling: exhausted (phrase)	Y	N	miss	Did not name any feelings.	
+T49	Gives a reason	Y	Y	hit	Gave a reason (the young person's)	
+T49	False alarm: where	N	Y	false alarm	Did not say where it happened.	"The gate changed. It said gate 18 ...": an airport gate; she never says "airport" (borderline, as noted in the truth sheet)
+T49	False alarm: missing feelings	N	Y	false alarm	Did not name any feelings.	"I was exhausted."
+T50	Feeling: relieved (word)	Y	Y	hit	Named feelings: relieved	
+T50	Feeling: worried (word)	Y	Y	hit	Named feelings: worried	
+T50	Gives a reason	Y	N	miss	Did not give any reasons (no "because" or "so").	The summary mentions the cage door, but section 3 says none
+T50	False alarm: missing reasons	N	Y	false alarm	Did not give any reasons (no "because" or "so").	"The cage door wasn't shut properly."
+T50	False alarm: why they felt	N	Y	false alarm	Did not say why they felt that way.	"I thought the cat might get him."
+T51	Feeling: worried (word)	Y	Y	hit	Named feelings: worried	
+T51	Gives a reason	Y	N	miss	Did not give any reasons (no "because" or "so").	
+T51	False alarm: missing reasons	N	Y	false alarm	Did not give any reasons (no "because" or "so").	"I didn't know if I was allowed to go in the back room without asking."
+T51	False alarm: why they felt	N	Y	false alarm	Did not say why they felt that way.	as above
+T51	(not scored)					Summary credits the therapist's own story (sorting a cupboard) to the young person
+T52	Leaves out: how they felt (asked)	Y	Y	hit	Did not name any feelings.	
+T52	Gives a reason	Y	N	miss	Gave a reason: "I went into a meeting room ... so I had to work out where to sit."	The only reason quoted is the therapist's own story; the young person's "It's not my name." is not reported
+T52	(not scored)					That therapist story reason was not recorded as a trap in the truth sheet (annotation omission), so it is not counted as a wrong-speaker credit; the summary also credits the story to the young person
+T53	Feeling: stress (face hot) (phrase)	Y	N	miss	Did not name any feelings.	
+T53	Gives a reason	Y	Y	hit	Gave a reason (the young person's)	
+T53	False alarm: missing feelings	N	Y	false alarm	Did not name any feelings.	"My face got hot and I kept checking the time."
+T53	(not scored)					One quoted reason and the summary are the therapist's own story (cancelled bus); it was not recorded as a trap in the truth sheet (annotation omission), so it is not counted
+T54	Leaves out: how it ended (asked)	Y	Y	hit	Did not say how it ended.	
+T54	Leaves out: how they felt (asked)	Y	Y	hit	Did not name any feelings.	
+T54	Gives no reasons	Y	Y	hit	Did not give any reasons (no "because" or "so").	
+T54	(not scored)					Summary credits the therapist's "I've probably forgotten a detail" and "thanks for correcting" to the young person
+T55	Feeling: amusement (phrase)	Y	N	miss	Did not name any feelings.	
+T55	Feeling: annoyance (phrase)	Y	N	miss	Did not name any feelings.	
+T55	Gives a reason	Y	Y	hit	Gave a reason (the young person's)	
+T55	False alarm: missing feelings	N	Y	false alarm	Did not name any feelings.	"I couldn't stop laughing", "A bit" (annoyed)
+T56	Feeling: embarrassed (word)	Y	Y	hit	Named feelings: embarrassed	
+T56	Gives a reason	Y	Y	hit	Gave a reason (the young person's)	
+T56	False alarm: why they felt	N	Y	false alarm	Did not say why they felt that way.	"I thought I'd messed it up straight away."
+T56	(not scored)					Summary credits the therapist's own story (pottery class) to the young person
+T57	Leaves out: how they felt (asked)	Y	Y	hit	Did not name any feelings.	
+T57	Gives no reasons	Y	Y	hit	Did not give any reasons (no "because" or "so").	
+T57	(not scored)					Summary credits the therapist's own story (letters at the optician's) to the young person
+T58	Feeling: distracted (phrase)	Y	N	miss	Did not name any feelings.	
+T58	Gives a reason	Y	N	miss	Did not give any reasons (no "because" or "so").	
+T58	False alarm: who	N	Y	false alarm	Did not say who was there.	"me ellie and harry and then miss put daniel in as well"
+T58	False alarm: where	N	Y	false alarm	Did not say where it happened.	"science room 12"
+T58	False alarm: missing feelings	N	Y	false alarm	Did not name any feelings.	"it was just distracting"
+T58	False alarm: missing reasons	N	Y	false alarm	Did not give any reasons (no "because" or "so").	"cos it kept changing"
+T58	(not scored)					The whole summary is the therapist's line "The picture took longer than the font issue"
+T59	Feeling: worry (stomach tight) (phrase)	Y	N	miss	Did not name any feelings.	
+T59	Feeling: pleased (word)	Y	N	miss	Did not name any feelings.	
+T59	Gives a reason	Y	Y	hit	Gave a reason (the young person's)	
+T59	False alarm: missing feelings	N	Y	false alarm	Did not name any feelings.	"My stomach went all tight", "Properly pleased"
+T59	(not scored)					Summary credits the therapist's own story (swimming, water up the nose) to the young person
+T60	Feeling: annoyed (word)	Y	Y	hit	Named feelings: annoyed	
+T60	Feeling: disgust (the coffee) (phrase)	Y	N	miss		"it was rank" not mentioned
+T60	Feeling: satisfied with the draw (phrase)	Y	N	miss		"Better than losing." not mentioned
+T60	Gives a reason	Y	Y	hit	Gave a reason (the young person's)	
+T60	False alarm: why they felt	N	Y	false alarm	Did not say why they felt that way.	"I was annoyed. The linesman was right there."

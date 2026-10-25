@@ -1,0 +1,366 @@
+{
+  "labelled": true,
+  "speakers": "auto",
+  "auto_labels": {
+    "sentences": [
+      [
+        "therapist",
+        "Hi Noah."
+      ],
+      [
+        "therapist",
+        "Something funny happened at my house last night."
+      ],
+      [
+        "therapist",
+        "I was in the bath and the light bulb went pop, and I had to get out in the dark!"
+      ],
+      [
+        "child",
+        "In the dark?"
+      ],
+      [
+        "therapist",
+        "Yes, all dark."
+      ],
+      [
+        "child",
+        "I had to feel around for my towel."
+      ],
+      [
+        "child",
+        "All the lights went off at my house."
+      ],
+      [
+        "child",
+        "All of them."
+      ],
+      [
+        "therapist",
+        "All of them?"
+      ],
+      [
+        "therapist",
+        "When was that?"
+      ],
+      [
+        "child",
+        "On, um, Tuesday."
+      ],
+      [
+        "child",
+        "No, Wednesday."
+      ],
+      [
+        "child",
+        "At night time."
+      ],
+      [
+        "child",
+        "After tea."
+      ],
+      [
+        "therapist",
+        "Wednesday night after tea."
+      ],
+      [
+        "therapist",
+        "Where were you when it happened?"
+      ],
+      [
+        "child",
+        "In the living room."
+      ],
+      [
+        "child",
+        "I was watching Bluey and then the telly went off and everything went black."
+      ],
+      [
+        "therapist",
+        "The telly went off and everything went black."
+      ],
+      [
+        "child",
+        "Like bloop."
+      ],
+      [
+        "child",
+        "And the fridge stopped making the noise."
+      ],
+      [
+        "therapist",
+        "Even the fridge stopped!"
+      ],
+      [
+        "therapist",
+        "What was it like in the dark?"
+      ],
+      [
+        "child",
+        "My heart went really fast, like boom boom boom."
+      ],
+      [
+        "child",
+        "I couldn't see nothing."
+      ],
+      [
+        "therapist",
+        "Your heart went really fast."
+      ],
+      [
+        "therapist",
+        "Who was at home with you?"
+      ],
+      [
+        "child",
+        "The torch was in the drawer."
+      ],
+      [
+        "child",
+        "The one with the batteries and the sellotape."
+      ],
+      [
+        "child",
+        "The torch was in the drawer with the batteries."
+      ],
+      [
+        "therapist",
+        "And what happened with the torch?"
+      ],
+      [
+        "child",
+        "It didn't work."
+      ],
+      [
+        "child",
+        "It was broke."
+      ],
+      [
+        "therapist",
+        "So we had to find candles."
+      ],
+      [
+        "therapist",
+        "You had to find candles instead."
+      ],
+      [
+        "child",
+        "And we lighted them and putted them on the table and it was all orangey."
+      ],
+      [
+        "therapist",
+        "All orangey."
+      ],
+      [
+        "therapist",
+        "That sounds lovely and cosy."
+      ],
+      [
+        "child",
+        "It was fun with the candles."
+      ],
+      [
+        "therapist",
+        "We played I spy."
+      ],
+      [
+        "therapist",
+        "You played I spy by candlelight!"
+      ],
+      [
+        "therapist",
+        "What did you spy?"
+      ],
+      [
+        "child",
+        "I spied a..."
+      ],
+      [
+        "child",
+        "something beginning with C and it was candle."
+      ],
+      [
+        "therapist",
+        "Ha, that's a good one."
+      ],
+      [
+        "therapist",
+        "The lights went off because of the big storm, didn't they?"
+      ],
+      [
+        "therapist",
+        "That's what happened all over town."
+      ],
+      [
+        "therapist",
+        "Can we play I spy?"
+      ],
+      [
+        "therapist",
+        "Maybe at the end."
+      ],
+      [
+        "therapist",
+        "Tell me some more about the candles."
+      ],
+      [
+        "child",
+        "You're not allowed to touch them cos they're hot."
+      ],
+      [
+        "child",
+        "You can get burned."
+      ],
+      [
+        "therapist",
+        "That's right, very sensible."
+      ],
+      [
+        "therapist",
+        "Which part did you like best?"
+      ],
+      [
+        "child",
+        "The I spy."
+      ],
+      [
+        "child",
+        "The I spy was the best bit."
+      ],
+      [
+        "child",
+        "I spy with my little eye something beginning with..."
+      ],
+      [
+        "child",
+        "W."
+      ],
+      [
+        "therapist",
+        "W..."
+      ],
+      [
+        "child",
+        "window?"
+      ],
+      [
+        "child",
+        "Yeah!"
+      ],
+      [
+        "therapist",
+        "Good one."
+      ],
+      [
+        "therapist",
+        "Okay, before we play properly, can you tell me the whole story from the start?"
+      ],
+      [
+        "child",
+        "The lights went off and the telly and it went black and the torch was broke so we had candles and we did I spy."
+      ],
+      [
+        "therapist",
+        "That's a great story, Noah."
+      ],
+      [
+        "therapist",
+        "Now I spy?"
+      ],
+      [
+        "child",
+        "Now I spy."
+      ],
+      [
+        "child",
+        "You go first."
+      ]
+    ],
+    "echoes_relabelled": [
+      14,
+      36,
+      58
+    ]
+  },
+  "labelled_transcript": "Therapist. Hi Noah. Something funny happened at my house last night. I was in the bath and the light bulb went pop, and I had to get out in the dark! Child. In the dark? Therapist. Yes, all dark. Child. I had to feel around for my towel. All the lights went off at my house. All of them. Therapist. All of them? When was that? Child. On, um, Tuesday. No, Wednesday. At night time. After tea. Therapist. Wednesday night after tea. Where were you when it happened? Child. In the living room. I was watching Bluey and then the telly went off and everything went black. Therapist. The telly went off and everything went black. Child. Like bloop. And the fridge stopped making the noise. Therapist. Even the fridge stopped! What was it like in the dark? Child. My heart went really fast, like boom boom boom. I couldn't see nothing. Therapist. Your heart went really fast. Who was at home with you? Child. The torch was in the drawer. The one with the batteries and the sellotape. The torch was in the drawer with the batteries. Therapist. And what happened with the torch? Child. It didn't work. It was broke. Therapist. So we had to find candles. You had to find candles instead. Child. And we lighted them and putted them on the table and it was all orangey. Therapist. All orangey. That sounds lovely and cosy. Child. It was fun with the candles. Therapist. We played I spy. You played I spy by candlelight! What did you spy? Child. I spied a... something beginning with C and it was candle. Therapist. Ha, that's a good one. The lights went off because of the big storm, didn't they? That's what happened all over town. Can we play I spy? Maybe at the end. Tell me some more about the candles. Child. You're not allowed to touch them cos they're hot. You can get burned. Therapist. That's right, very sensible. Which part did you like best? Child. The I spy. The I spy was the best bit. I spy with my little eye something beginning with... W. Therapist. W... Child. window? Yeah! Therapist. Good one. Okay, before we play properly, can you tell me the whole story from the start? Child. The lights went off and the telly and it went black and the torch was broke so we had candles and we did I spy. Therapist. That's a great story, Noah. Now I spy? Child. Now I spy. You go first.",
+  "facts": {
+    "child_turns": 16,
+    "mean_words_per_turn": 12.4,
+    "reasons": [
+      "You're not allowed to touch them cos they're hot. You can get burned.",
+      "The lights went off and the telly and it went black and the torch was broke so we had candles and we did I spy."
+    ],
+    "sequence_words": [
+      "after",
+      "first",
+      "then"
+    ],
+    "vague_words": [
+      "something"
+    ],
+    "feelings": [],
+    "feeling_reasons": [],
+    "child_text": [
+      "In the dark?",
+      "I had to feel around for my towel. All the lights went off at my house. All of them.",
+      "On, um, Tuesday. No, Wednesday. At night time. After tea.",
+      "In the living room. I was watching Bluey and then the telly went off and everything went black.",
+      "Like bloop. And the fridge stopped making the noise.",
+      "My heart went really fast, like boom boom boom. I couldn't see nothing.",
+      "The torch was in the drawer. The one with the batteries and the sellotape. The torch was in the drawer with the batteries.",
+      "It didn't work. It was broke.",
+      "And we lighted them and putted them on the table and it was all orangey.",
+      "It was fun with the candles.",
+      "I spied a... something beginning with C and it was candle.",
+      "You're not allowed to touch them cos they're hot. You can get burned.",
+      "The I spy. The I spy was the best bit. I spy with my little eye something beginning with... W.",
+      "window? Yeah!",
+      "The lights went off and the telly and it went black and the torch was broke so we had candles and we did I spy.",
+      "Now I spy. You go first."
+    ]
+  },
+  "checked": {
+    "event": "Power outage and I spy",
+    "who": {
+      "given": false,
+      "child_words": "",
+      "rejected_claim": "The torch was in the drawer. The one with the batteries and the sellotape. The torch was in the drawer with the batteries. | The torch was in the drawer. The one with the batteries and the sellotape. The torch was in the drawer with the batteries."
+    },
+    "where": {
+      "given": true,
+      "child_words": "In the living room. I was watching Bluey and then the telly went off and everything went black.",
+      "rejected_claim": ""
+    },
+    "what_happened": {
+      "given": true,
+      "child_words": "The lights went off and the telly and it went black and the torch was broke so we had candles and we did I spy.",
+      "rejected_claim": ""
+    },
+    "ending": {
+      "given": false,
+      "child_words": "",
+      "rejected_claim": "The I spy. The I spy was the best bit. I spy with my little eye something beginning with... W. | The lights went off and the telly and it went black and the torch was broke so we had candles and we did I spy."
+    }
+  },
+  "written": {
+    "summary": "The child told about a power outage at their house on Wednesday after tea in the living room while watching Bluey. They felt around for a towel, the lights and TV went off, the fridge stopped making noise, and they tried to use a broken torch. They lit candles, did I spy, and mentioned spying a candle and a window.",
+    "goals": [
+      "Say who was there.",
+      "Say how it ended.",
+      "Name how they felt.",
+      "Use the exact word instead of vague words like 'stuff' or 'thing'."
+    ],
+    "focus": [
+      "The child will say who was there in the recount.",
+      "The child will say how the event ended in the recount.",
+      "The child will name how they felt during the event.",
+      "The child will use the exact word instead of vague words like 'stuff' or 'thing'."
+    ],
+    "prompts": [
+      "Who was with you in that?",
+      "What happened at the end of it?",
+      "How did you feel when that happened?",
+      "What was the exact name of that thing?"
+    ]
+  }
+}

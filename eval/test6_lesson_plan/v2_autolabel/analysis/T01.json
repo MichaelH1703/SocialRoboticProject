@@ -1,0 +1,289 @@
+{
+  "labelled": true,
+  "speakers": "auto",
+  "auto_labels": {
+    "sentences": [
+      [
+        "therapist",
+        "Hi there."
+      ],
+      [
+        "therapist",
+        "Today we're going to talk about something that really happened to you."
+      ],
+      [
+        "therapist",
+        "I'll go first and then it'll be your turn."
+      ],
+      [
+        "therapist",
+        "So yesterday I went to the shop because I needed milk, but I forgot my purse, so I had to walk all the way home again."
+      ],
+      [
+        "therapist",
+        "I felt a bit silly."
+      ],
+      [
+        "therapist",
+        "Okay, now it's your turn."
+      ],
+      [
+        "therapist",
+        "You can choose something from your day or from the weekend."
+      ],
+      [
+        "child",
+        "Swimming."
+      ],
+      [
+        "therapist",
+        "Swimming."
+      ],
+      [
+        "therapist",
+        "Great choice."
+      ],
+      [
+        "therapist",
+        "Was that a lesson?"
+      ],
+      [
+        "child",
+        "Yeah."
+      ],
+      [
+        "therapist",
+        "A lesson."
+      ],
+      [
+        "therapist",
+        "Who was there with you?"
+      ],
+      [
+        "child",
+        "My dad."
+      ],
+      [
+        "child",
+        "And Jo."
+      ],
+      [
+        "child",
+        "Jo's the teacher."
+      ],
+      [
+        "therapist",
+        "Your dad and your teacher Jo."
+      ],
+      [
+        "therapist",
+        "Whereabouts was the lesson?"
+      ],
+      [
+        "child",
+        "Um."
+      ],
+      [
+        "child",
+        "I don't know."
+      ],
+      [
+        "therapist",
+        "That's okay."
+      ],
+      [
+        "therapist",
+        "What happened in the lesson?"
+      ],
+      [
+        "child",
+        "We did jumping in."
+      ],
+      [
+        "child",
+        "In the deep end."
+      ],
+      [
+        "therapist",
+        "Jumping into the deep end."
+      ],
+      [
+        "therapist",
+        "How did that go?"
+      ],
+      [
+        "child",
+        "I didn't want to because it was really deep."
+      ],
+      [
+        "therapist",
+        "You didn't want to because it was deep."
+      ],
+      [
+        "therapist",
+        "How did that make you feel?"
+      ],
+      [
+        "child",
+        "Scared."
+      ],
+      [
+        "therapist",
+        "That makes sense."
+      ],
+      [
+        "therapist",
+        "It sounds like you felt nervous."
+      ],
+      [
+        "therapist",
+        "What happened next?"
+      ],
+      [
+        "child",
+        "Jo held my hand."
+      ],
+      [
+        "child",
+        "Then I jumped."
+      ],
+      [
+        "therapist",
+        "You jumped in."
+      ],
+      [
+        "therapist",
+        "Well done."
+      ],
+      [
+        "therapist",
+        "How did the lesson end?"
+      ],
+      [
+        "child",
+        "I got a sticker."
+      ],
+      [
+        "therapist",
+        "A sticker."
+      ],
+      [
+        "therapist",
+        "How did that make you feel?"
+      ],
+      [
+        "child",
+        "Happy."
+      ],
+      [
+        "therapist",
+        "Let me say your story back to you."
+      ],
+      [
+        "therapist",
+        "You had a swimming lesson with your dad and Jo."
+      ],
+      [
+        "therapist",
+        "You were scared to jump into the deep end because it was deep, but Jo held your hand and you jumped."
+      ],
+      [
+        "therapist",
+        "At the end you got a sticker and felt happy."
+      ],
+      [
+        "therapist",
+        "Did I get that right?"
+      ],
+      [
+        "child",
+        "Yeah."
+      ],
+      [
+        "therapist",
+        "Thanks for telling me your story."
+      ],
+      [
+        "therapist",
+        "You did a really great job."
+      ]
+    ],
+    "echoes_relabelled": [
+      8
+    ]
+  },
+  "labelled_transcript": "Therapist. Hi there. Today we're going to talk about something that really happened to you. I'll go first and then it'll be your turn. So yesterday I went to the shop because I needed milk, but I forgot my purse, so I had to walk all the way home again. I felt a bit silly. Okay, now it's your turn. You can choose something from your day or from the weekend. Child. Swimming. Therapist. Swimming. Great choice. Was that a lesson? Child. Yeah. Therapist. A lesson. Who was there with you? Child. My dad. And Jo. Jo's the teacher. Therapist. Your dad and your teacher Jo. Whereabouts was the lesson? Child. Um. I don't know. Therapist. That's okay. What happened in the lesson? Child. We did jumping in. In the deep end. Therapist. Jumping into the deep end. How did that go? Child. I didn't want to because it was really deep. Therapist. You didn't want to because it was deep. How did that make you feel? Child. Scared. Therapist. That makes sense. It sounds like you felt nervous. What happened next? Child. Jo held my hand. Then I jumped. Therapist. You jumped in. Well done. How did the lesson end? Child. I got a sticker. Therapist. A sticker. How did that make you feel? Child. Happy. Therapist. Let me say your story back to you. You had a swimming lesson with your dad and Jo. You were scared to jump into the deep end because it was deep, but Jo held your hand and you jumped. At the end you got a sticker and felt happy. Did I get that right? Child. Yeah. Therapist. Thanks for telling me your story. You did a really great job.",
+  "facts": {
+    "child_turns": 11,
+    "mean_words_per_turn": 4,
+    "reasons": [
+      "I didn't want to because it was really deep."
+    ],
+    "sequence_words": [
+      "then"
+    ],
+    "vague_words": [],
+    "feelings": [
+      {
+        "word": "scared",
+        "child_words": "Scared."
+      },
+      {
+        "word": "happy",
+        "child_words": "Happy."
+      }
+    ],
+    "feeling_reasons": [],
+    "child_text": [
+      "Swimming.",
+      "Yeah.",
+      "My dad. And Jo. Jo's the teacher.",
+      "Um. I don't know.",
+      "We did jumping in. In the deep end.",
+      "I didn't want to because it was really deep.",
+      "Scared.",
+      "Jo held my hand. Then I jumped.",
+      "I got a sticker.",
+      "Happy.",
+      "Yeah."
+    ]
+  },
+  "checked": {
+    "event": "Swimming lesson",
+    "who": {
+      "given": true,
+      "child_words": "My dad. And Jo. Jo's the teacher.",
+      "rejected_claim": ""
+    },
+    "where": {
+      "given": false,
+      "child_words": "",
+      "rejected_claim": ""
+    },
+    "what_happened": {
+      "given": true,
+      "child_words": "We did jumping in. In the deep end. I didn't want to because it was really deep. Scared. Jo held my hand. Then I jumped. I got a sticker.",
+      "rejected_claim": ""
+    },
+    "ending": {
+      "given": true,
+      "child_words": "I got a sticker. Happy.",
+      "rejected_claim": ""
+    }
+  },
+  "written": {
+    "summary": "The child told about swimming. The child said yeah. The child mentioned my dad. And Jo. Jo's the teacher. The child said um. I don't know. The child said we did jumping in. In the deep end. The child said I didn't want to because it was really deep. The child said scared. The child said Jo held my hand. Then I jumped. The child said I got a sticker. The child said happy. The child said yeah.",
+    "goals": [
+      "Say where it happened.",
+      "Say why they felt that way."
+    ],
+    "focus": [
+      "The child will say where the event happened.",
+      "The child will say why they felt that way."
+    ],
+    "prompts": [
+      "Where did it happen?",
+      "Why did you feel that way?"
+    ]
+  }
+}

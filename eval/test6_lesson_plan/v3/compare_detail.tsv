@@ -1,0 +1,453 @@
+version	transcript_id	planted	reported	feature
+v2	T01	Y	Y	left out: where
+v2	T01	Y	Y	uses because/so
+v2	T01	Y	Y	emotion: scared
+v2	T01	Y	Y	emotion: happy
+v2	T01	N	Y	false alarm: why they felt
+v2	T02	Y	Y	left out: how it ended
+v2	T02	Y	Y	uses neither
+v2	T02	Y	Y	emotion: excited
+v2	T03	Y	Y	left out: who
+v2	T03	Y	Y	uses because/so
+v2	T03	Y	Y	emotion: sad
+v2	T03	Y	N	emotion: worried
+v2	T03	N	Y	false alarm: why they felt
+v2	T04	Y	Y	left out: how they felt
+v2	T04	Y	Y	uses because/so
+v2	T04	Y	Y	no emotion words
+v2	T05	Y	Y	left out: where
+v2	T05	Y	Y	left out: how it ended
+v2	T05	Y	Y	uses neither
+v2	T05	Y	Y	emotion: angry
+v2	T06	Y	Y	uses because/so
+v2	T06	Y	Y	emotion: excited
+v2	T06	Y	Y	emotion: scared
+v2	T07	Y	N	left out: what happened
+v2	T07	Y	Y	uses neither
+v2	T07	Y	Y	emotion: happy
+v2	T08	Y	Y	left out: who
+v2	T08	Y	Y	left out: how they felt
+v2	T08	Y	Y	uses because/so
+v2	T08	Y	Y	no emotion words
+v2	T09	Y	Y	left out: how it ended
+v2	T09	Y	Y	uses because/so
+v2	T09	Y	Y	emotion: nervous
+v2	T09	Y	Y	emotion: proud
+v2	T09	N	Y	false alarm: why they felt
+v2	T10	Y	Y	left out: who
+v2	T10	Y	Y	left out: where
+v2	T10	Y	Y	uses neither
+v2	T10	Y	Y	emotion: annoyed
+v2	T10	Y	Y	emotion: happy
+v3	T01	Y	Y	left out: where
+v3	T01	Y	Y	uses because/so
+v3	T01	Y	Y	emotion: scared
+v3	T01	Y	Y	emotion: happy
+v3	T01	N	Y	false alarm: why they felt
+v3	T02	Y	Y	left out: how it ended
+v3	T02	Y	Y	uses neither
+v3	T02	Y	Y	emotion: excited
+v3	T03	Y	Y	left out: who
+v3	T03	Y	Y	uses because/so
+v3	T03	Y	Y	emotion: sad
+v3	T03	Y	N	emotion: worried
+v3	T03	N	Y	false alarm: why they felt
+v3	T04	Y	Y	left out: how they felt
+v3	T04	Y	Y	uses because/so
+v3	T04	Y	Y	no emotion words
+v3	T05	Y	Y	left out: where
+v3	T05	Y	Y	left out: how it ended
+v3	T05	Y	Y	uses neither
+v3	T05	Y	Y	emotion: angry
+v3	T06	Y	Y	uses because/so
+v3	T06	Y	Y	emotion: excited
+v3	T06	Y	Y	emotion: scared
+v3	T07	Y	N	left out: what happened
+v3	T07	Y	Y	uses neither
+v3	T07	Y	Y	emotion: happy
+v3	T08	Y	Y	left out: who
+v3	T08	Y	Y	left out: how they felt
+v3	T08	Y	Y	uses because/so
+v3	T08	Y	Y	no emotion words
+v3	T09	Y	Y	left out: how it ended
+v3	T09	Y	Y	uses because/so
+v3	T09	Y	Y	emotion: nervous
+v3	T09	Y	Y	emotion: proud
+v3	T09	N	Y	false alarm: why they felt
+v3	T10	Y	Y	left out: who
+v3	T10	Y	Y	left out: where
+v3	T10	Y	Y	uses neither
+v3	T10	Y	Y	emotion: annoyed
+v3	T10	Y	Y	emotion: happy
+v2	T11	Y	Y	left out: who
+v2	T11	Y	Y	uses because/so
+v2	T11	Y	Y	emotion: happy
+v2	T11	N	Y	false alarm: why they felt
+v2	T12	Y	Y	left out: where
+v2	T12	Y	Y	uses because/so
+v2	T12	Y	Y	emotion: nervous
+v2	T12	Y	Y	emotion: excited
+v2	T13	Y	Y	left out: how it ended
+v2	T13	Y	Y	uses neither
+v2	T13	Y	Y	emotion: sad
+v2	T14	Y	Y	left out: how they felt
+v2	T14	Y	Y	uses because/so
+v2	T14	Y	Y	no emotion words
+v2	T14	N	Y	false alarm: where
+v2	T15	Y	Y	uses because/so
+v2	T15	Y	Y	emotion: scared
+v2	T15	Y	Y	emotion: happy
+v2	T15	N	Y	false alarm: why they felt
+v2	T16	Y	Y	left out: who
+v2	T16	Y	Y	uses because/so
+v2	T16	Y	Y	emotion: cross
+v2	T16	Y	Y	emotion: proud
+v2	T16	N	Y	false alarm: why they felt
+v2	T17	Y	Y	left out: where
+v2	T17	Y	Y	left out: how it ended
+v2	T17	Y	Y	uses neither
+v2	T17	Y	Y	emotion: surprised
+v2	T18	Y	N	left out: what happened
+v2	T18	Y	Y	uses neither
+v2	T18	Y	Y	emotion: bored
+v2	T18	Y	Y	emotion: happy
+v2	T19	Y	Y	left out: who
+v2	T19	Y	Y	left out: how they felt
+v2	T19	Y	Y	uses because/so
+v2	T19	Y	Y	no emotion words
+v2	T20	Y	Y	left out: where
+v2	T20	Y	Y	uses because/so
+v2	T20	Y	Y	emotion: worried
+v2	T20	Y	Y	emotion: glad
+v3	T11	Y	Y	left out: who
+v3	T11	Y	Y	uses because/so
+v3	T11	Y	Y	emotion: happy
+v3	T11	N	Y	false alarm: why they felt
+v3	T12	Y	Y	left out: where
+v3	T12	Y	Y	uses because/so
+v3	T12	Y	Y	emotion: nervous
+v3	T12	Y	Y	emotion: excited
+v3	T12	N	Y	false alarm: why they felt
+v3	T13	Y	Y	left out: how it ended
+v3	T13	Y	Y	uses neither
+v3	T13	Y	Y	emotion: sad
+v3	T14	Y	Y	left out: how they felt
+v3	T14	Y	Y	uses because/so
+v3	T14	Y	Y	no emotion words
+v3	T14	N	Y	false alarm: where
+v3	T15	Y	Y	uses because/so
+v3	T15	Y	Y	emotion: scared
+v3	T15	Y	N	emotion: happy
+v3	T16	Y	Y	left out: who
+v3	T16	Y	Y	uses because/so
+v3	T16	Y	Y	emotion: cross
+v3	T16	Y	Y	emotion: proud
+v3	T16	N	Y	false alarm: why they felt
+v3	T17	Y	Y	left out: where
+v3	T17	Y	Y	left out: how it ended
+v3	T17	Y	Y	uses neither
+v3	T17	Y	Y	emotion: surprised
+v3	T18	Y	N	left out: what happened
+v3	T18	Y	Y	uses neither
+v3	T18	Y	Y	emotion: bored
+v3	T18	Y	Y	emotion: happy
+v3	T19	Y	Y	left out: who
+v3	T19	Y	Y	left out: how they felt
+v3	T19	Y	Y	uses because/so
+v3	T19	Y	Y	no emotion words
+v3	T20	Y	Y	left out: where
+v3	T20	Y	Y	uses because/so
+v3	T20	Y	Y	emotion: worried
+v3	T20	Y	Y	emotion: glad
+v3	T20	N	Y	false alarm: why they felt
+v2	T21	Y	Y	left out: who (silent)
+v2	T21	Y	Y	left out: how it ended (asked)
+v2	T21	Y	N	feeling (phrase): dislike
+v2	T21	Y	N	gives a reason
+v2	T21	N	Y	false alarm: what_happened
+v2	T22	Y	Y	left out: where (yes-only)
+v2	T22	Y	Y	left out: how they felt (silent)
+v2	T22	Y	Y	gives a reason
+v2	T23	Y	N	feeling (phrase): scared
+v2	T23	Y	N	feeling (phrase): upset
+v2	T23	Y	Y	feeling (word): happy
+v2	T23	Y	Y	gives a reason
+v2	T23	N	Y	false alarm: why they felt
+v2	T24	Y	Y	left out: who (yes-only)
+v2	T24	Y	Y	left out: how it ended (silent)
+v2	T24	Y	N	feeling (phrase): scared
+v2	T24	Y	N	feeling (phrase): enjoyment
+v2	T24	Y	Y	gives a reason
+v2	T24	N	Y	false alarm: missing feelings
+v2	T25	Y	Y	left out: who (asked)
+v2	T25	Y	Y	left out: how it ended (silent)
+v2	T25	Y	N	feeling (phrase): scared
+v2	T25	Y	N	feeling (phrase): enjoyment
+v2	T25	Y	Y	gives a reason
+v2	T25	N	Y	false alarm: missing feelings
+v2	T26	Y	Y	left out: how they felt (asked)
+v2	T26	Y	Y	left out: where (silent)
+v2	T26	Y	Y	gives no reasons
+v2	T27	Y	N	left out: what happened (asked)
+v2	T27	Y	N	feeling (phrase): enjoyment
+v2	T27	Y	Y	feeling (word): sad
+v2	T27	Y	Y	gives a reason
+v2	T28	Y	Y	left out: where (silent)
+v2	T28	Y	Y	left out: how it ended (silent)
+v2	T28	Y	N	feeling (phrase): amused
+v2	T28	Y	N	feeling (phrase): enjoyment
+v2	T28	Y	Y	gives no reasons
+v2	T29	Y	Y	feeling (word): scared
+v2	T29	Y	N	feeling (phrase): embarrassed
+v2	T29	Y	Y	gives a reason
+v2	T29	N	Y	false alarm: why they felt
+v2	T30	Y	N	left out: what happened (asked)
+v2	T30	Y	N	feeling (phrase): enjoyment
+v2	T30	Y	Y	gives no reasons
+v2	T30	N	Y	false alarm: missing feelings
+v3	T21	Y	Y	left out: who (silent)
+v3	T21	Y	N	left out: how it ended (asked)
+v3	T21	Y	Y	feeling (phrase): dislike
+v3	T21	Y	N	gives a reason
+v3	T21	N	Y	false alarm: where
+v3	T22	Y	Y	left out: where (yes-only)
+v3	T22	Y	Y	left out: how they felt (silent)
+v3	T22	Y	Y	gives a reason
+v3	T23	Y	Y	feeling (phrase): scared
+v3	T23	Y	N	feeling (phrase): upset
+v3	T23	Y	Y	feeling (word): happy
+v3	T23	Y	Y	gives a reason
+v3	T23	N	Y	false alarm: why they felt
+v3	T24	Y	Y	left out: who (yes-only)
+v3	T24	Y	Y	left out: how it ended (silent)
+v3	T24	Y	N	feeling (phrase): scared
+v3	T24	Y	N	feeling (phrase): enjoyment
+v3	T24	Y	Y	gives a reason
+v3	T25	Y	Y	left out: who (asked)
+v3	T25	Y	Y	left out: how it ended (silent)
+v3	T25	Y	Y	feeling (phrase): scared
+v3	T25	Y	N	feeling (phrase): enjoyment
+v3	T25	Y	Y	gives a reason
+v3	T26	Y	Y	left out: how they felt (asked)
+v3	T26	Y	Y	left out: where (silent)
+v3	T26	Y	N	gives no reasons
+v3	T27	Y	N	left out: what happened (asked)
+v3	T27	Y	N	feeling (phrase): enjoyment
+v3	T27	Y	Y	feeling (word): sad
+v3	T27	Y	Y	gives a reason
+v3	T28	Y	Y	left out: where (silent)
+v3	T28	Y	Y	left out: how it ended (silent)
+v3	T28	Y	Y	feeling (phrase): amused
+v3	T28	Y	N	feeling (phrase): enjoyment
+v3	T28	Y	Y	gives no reasons
+v3	T29	Y	Y	feeling (word): scared
+v3	T29	Y	N	feeling (phrase): embarrassed
+v3	T29	Y	Y	gives a reason
+v3	T30	Y	N	left out: what happened (asked)
+v3	T30	Y	Y	feeling (phrase): enjoyment
+v3	T30	Y	Y	gives no reasons
+v2	T31	Y	N	feeling (phrase): dislike of the noise
+v2	T31	Y	N	gives a reason
+v2	T31	N	Y	false alarm: ending
+v2	T31	N	Y	false alarm: missing feelings
+v2	T31	N	Y	false alarm: missing reasons
+v2	T32	Y	Y	left out: how they felt (asked)
+v2	T32	Y	Y	gives no reasons
+v2	T33	Y	N	feeling (phrase): enjoyment
+v2	T33	Y	Y	gives a reason
+v2	T33	N	Y	false alarm: who
+v2	T33	N	Y	false alarm: missing feelings
+v2	T34	Y	N	feeling (word): embarrassment
+v2	T34	Y	Y	gives a reason
+v2	T34	N	Y	false alarm: missing feelings
+v2	T35	Y	N	feeling (word): annoyance
+v2	T35	Y	N	gives a reason
+v2	T35	N	Y	false alarm: ending
+v2	T35	N	Y	false alarm: where
+v2	T36	Y	Y	feeling (word): annoyed
+v2	T36	Y	Y	gives a reason
+v2	T36	N	Y	false alarm: where
+v2	T37	Y	Y	feeling (word): disappointed
+v2	T37	Y	N	gives a reason
+v2	T37	N	Y	false alarm: missing reasons
+v2	T37	N	Y	false alarm: why they felt
+v2	T38	Y	Y	left out: how they felt (asked)
+v2	T38	Y	N	gives a reason
+v2	T38	N	Y	false alarm: where
+v2	T38	N	Y	false alarm: missing reasons
+v2	T39	Y	N	feeling (phrase): dislike (the room)
+v2	T39	Y	Y	feeling (phrase): annoyance (the tapping)
+v2	T39	Y	Y	gives a reason
+v2	T39	N	Y	false alarm: why they felt
+v2	T40	Y	N	feeling (phrase): dislike of being late
+v2	T40	Y	Y	gives a reason
+v2	T40	N	Y	false alarm: who
+v2	T40	N	Y	false alarm: missing feelings
+v2	T41	Y	N	feeling (word): pleased
+v2	T41	Y	Y	gives a reason
+v2	T41	N	Y	false alarm: missing feelings
+v2	T42	Y	N	feeling (phrase): anxiety (felt sick)
+v2	T42	Y	Y	feeling (word): confused
+v2	T42	Y	N	gives a reason
+v2	T42	N	Y	false alarm: missing reasons
+v2	T42	N	Y	false alarm: why they felt
+v2	T43	Y	N	feeling (phrase): stomach dropped (body reaction)
+v2	T43	Y	N	gives a reason
+v2	T43	N	Y	false alarm: ending
+v2	T43	N	Y	false alarm: where
+v2	T43	N	Y	false alarm: who
+v2	T43	N	Y	false alarm: missing feelings
+v2	T44	Y	Y	feeling (word): embarrassed
+v2	T44	Y	Y	gives a reason
+v2	T44	N	Y	false alarm: why they felt
+v2	T45	Y	N	feeling (phrase): enjoyment
+v2	T45	Y	Y	gives a reason
+v2	T46	Y	Y	feeling (word): annoyed
+v2	T46	Y	N	feeling (phrase): dislike (the detention)
+v2	T46	Y	N	gives a reason
+v2	T46	N	Y	false alarm: missing reasons
+v2	T46	N	Y	false alarm: why they felt
+v2	T47	Y	Y	feeling (word): happy
+v2	T47	Y	N	gives a reason
+v2	T47	N	Y	false alarm: missing reasons
+v2	T47	N	Y	false alarm: why they felt
+v2	T48	Y	N	feeling (phrase): dislike (unannounced changes)
+v2	T48	Y	N	gives a reason
+v2	T48	N	Y	false alarm: ending
+v2	T48	N	Y	false alarm: missing feelings
+v2	T48	N	Y	false alarm: missing reasons
+v2	T49	Y	N	feeling (phrase): exhausted
+v2	T49	Y	Y	gives a reason
+v2	T49	N	Y	false alarm: where
+v2	T49	N	Y	false alarm: missing feelings
+v2	T50	Y	Y	feeling (word): relieved
+v2	T50	Y	Y	feeling (word): worried
+v2	T50	Y	N	gives a reason
+v2	T50	N	Y	false alarm: missing reasons
+v2	T50	N	Y	false alarm: why they felt
+v2	T51	Y	Y	feeling (word): worried
+v2	T51	Y	N	gives a reason
+v2	T51	N	Y	false alarm: missing reasons
+v2	T51	N	Y	false alarm: why they felt
+v2	T52	Y	Y	left out: how they felt (asked)
+v2	T52	Y	N	gives a reason
+v2	T53	Y	N	feeling (phrase): stress (face hot)
+v2	T53	Y	Y	gives a reason
+v2	T53	N	Y	false alarm: missing feelings
+v2	T54	Y	Y	left out: how it ended (asked)
+v2	T54	Y	Y	left out: how they felt (asked)
+v2	T54	Y	Y	gives no reasons
+v2	T55	Y	N	feeling (phrase): amusement
+v2	T55	Y	N	feeling (phrase): annoyance
+v2	T55	Y	Y	gives a reason
+v2	T55	N	Y	false alarm: missing feelings
+v2	T56	Y	Y	feeling (word): embarrassed
+v2	T56	Y	Y	gives a reason
+v2	T56	N	Y	false alarm: why they felt
+v2	T57	Y	Y	left out: how they felt (asked)
+v2	T57	Y	Y	gives no reasons
+v2	T58	Y	N	feeling (phrase): distracted
+v2	T58	Y	N	gives a reason
+v2	T58	N	Y	false alarm: where
+v2	T58	N	Y	false alarm: who
+v2	T58	N	Y	false alarm: missing feelings
+v2	T58	N	Y	false alarm: missing reasons
+v2	T59	Y	N	feeling (phrase): worry (stomach tight)
+v2	T59	Y	N	feeling (word): pleased
+v2	T59	Y	Y	gives a reason
+v2	T59	N	Y	false alarm: missing feelings
+v2	T60	Y	Y	feeling (word): annoyed
+v2	T60	Y	N	feeling (phrase): disgust (the coffee)
+v2	T60	Y	N	feeling (phrase): satisfied with the draw
+v2	T60	Y	Y	gives a reason
+v2	T60	N	Y	false alarm: why they felt
+v3	T31	Y	Y	feeling (phrase): dislike of the noise
+v3	T31	Y	Y	gives a reason
+v3	T31	N	Y	false alarm: why they felt
+v3	T32	Y	Y	left out: how they felt (asked)
+v3	T32	Y	Y	gives no reasons
+v3	T33	Y	Y	feeling (phrase): enjoyment
+v3	T33	Y	Y	gives a reason
+v3	T33	N	Y	false alarm: why they felt
+v3	T34	Y	Y	feeling (word): embarrassment
+v3	T34	Y	Y	gives a reason
+v3	T34	N	Y	false alarm: why they felt
+v3	T35	Y	Y	feeling (word): annoyance
+v3	T35	Y	Y	gives a reason
+v3	T36	Y	Y	feeling (word): annoyed
+v3	T36	Y	Y	gives a reason
+v3	T36	N	Y	false alarm: where
+v3	T37	Y	Y	feeling (word): disappointed
+v3	T37	Y	Y	gives a reason
+v3	T37	N	Y	false alarm: who
+v3	T38	Y	N	left out: how they felt (asked)
+v3	T38	Y	Y	gives a reason
+v3	T38	N	Y	false alarm: ending
+v3	T39	Y	N	feeling (phrase): dislike (the room)
+v3	T39	Y	N	feeling (phrase): annoyance (the tapping)
+v3	T39	Y	Y	gives a reason
+v3	T39	N	Y	false alarm: missing feelings
+v3	T40	Y	N	feeling (phrase): dislike of being late
+v3	T40	Y	Y	gives a reason
+v3	T40	N	Y	false alarm: who
+v3	T41	Y	Y	feeling (word): pleased
+v3	T41	Y	Y	gives a reason
+v3	T41	N	Y	false alarm: where
+v3	T42	Y	N	feeling (phrase): anxiety (felt sick)
+v3	T42	Y	Y	feeling (word): confused
+v3	T42	Y	Y	gives a reason
+v3	T42	N	Y	false alarm: ending
+v3	T43	Y	Y	feeling (phrase): stomach dropped (body reaction)
+v3	T43	Y	Y	gives a reason
+v3	T44	Y	Y	feeling (word): embarrassed
+v3	T44	Y	Y	gives a reason
+v3	T44	N	Y	false alarm: why they felt
+v3	T45	Y	N	feeling (phrase): enjoyment
+v3	T45	Y	Y	gives a reason
+v3	T45	N	Y	false alarm: missing feelings
+v3	T46	Y	Y	feeling (word): annoyed
+v3	T46	Y	N	feeling (phrase): dislike (the detention)
+v3	T46	Y	Y	gives a reason
+v3	T47	Y	Y	feeling (word): happy
+v3	T47	Y	Y	gives a reason
+v3	T48	Y	Y	feeling (phrase): dislike (unannounced changes)
+v3	T48	Y	Y	gives a reason
+v3	T48	N	Y	false alarm: ending
+v3	T49	Y	Y	feeling (phrase): exhausted
+v3	T49	Y	Y	gives a reason
+v3	T49	N	Y	false alarm: where
+v3	T49	N	Y	false alarm: why they felt
+v3	T50	Y	Y	feeling (word): relieved
+v3	T50	Y	Y	feeling (word): worried
+v3	T50	Y	Y	gives a reason
+v3	T51	Y	Y	feeling (word): worried
+v3	T51	Y	Y	gives a reason
+v3	T52	Y	Y	left out: how they felt (asked)
+v3	T52	Y	Y	gives a reason
+v3	T52	N	Y	false alarm: where
+v3	T53	Y	Y	feeling (phrase): stress (face hot)
+v3	T53	Y	Y	gives a reason
+v3	T53	N	Y	false alarm: who
+v3	T53	N	Y	false alarm: reasons not linked
+v3	T53	N	Y	false alarm: why they felt
+v3	T54	Y	Y	left out: how it ended (asked)
+v3	T54	Y	Y	left out: how they felt (asked)
+v3	T54	Y	Y	gives no reasons
+v3	T55	Y	Y	feeling (phrase): amusement
+v3	T55	Y	Y	feeling (phrase): annoyance
+v3	T55	Y	Y	gives a reason
+v3	T55	N	Y	false alarm: why they felt
+v3	T56	Y	Y	feeling (word): embarrassed
+v3	T56	Y	Y	gives a reason
+v3	T57	Y	Y	left out: how they felt (asked)
+v3	T57	Y	Y	gives no reasons
+v3	T58	Y	Y	feeling (phrase): distracted
+v3	T58	Y	Y	gives a reason
+v3	T59	Y	Y	feeling (phrase): worry (stomach tight)
+v3	T59	Y	Y	feeling (word): pleased
+v3	T59	Y	Y	gives a reason
+v3	T60	Y	N	feeling (word): annoyed
+v3	T60	Y	N	feeling (phrase): disgust (the coffee)
+v3	T60	Y	N	feeling (phrase): satisfied with the draw
+v3	T60	Y	Y	gives a reason
+v3	T60	N	Y	false alarm: missing feelings

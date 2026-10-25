@@ -1,0 +1,10 @@
+# Both dashboards hard-code a light palette in their CSS. Without pinning the
+# base theme, a viewer whose browser is in dark mode gets Streamlit's dark
+# widget colours on top of that white page, which makes buttons and other
+# controls unreadable.
+[theme]
+base = "light"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#FAFAF9"
+textColor = "#1C1917"
+primaryColor = "#0D9488"
